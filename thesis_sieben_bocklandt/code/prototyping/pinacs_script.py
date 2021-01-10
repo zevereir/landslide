@@ -13,6 +13,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data",default=None)
     parser.add_argument("--exp-name",default="baseline")
+    parser.add_argument("--archetypes",default="baseline")
     args = parser.parse_args()
 
     source = args.data.replace("/","\\") #bvb landslide_data//1_data
@@ -24,7 +25,7 @@ def main():
     xml_file = source+"\\" + data + ".xml"
     output = source
     powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, xml_file)
-    archetypes, changes = RA2archetype(powerpoint)
+    archetypes, changes = RA2archetype(powerpoint, args.archetypes)
     used_info = archetypes2slides(archetypes, tree_with_indexes, output,
                                   [(page.RA, page.n) for page in powerpoint.pages],False)
     scores = ppt_pdf_similarity(used_info, xml_file.replace(".xml", "_preparsed.xml"), one_background)

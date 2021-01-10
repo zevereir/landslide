@@ -187,18 +187,23 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     return max_dist,False, best_mapping
 
 
-def RA2archetype(powerpoint):
+def RA2archetype(powerpoint, arch_to_use):
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
     met daarin de juiste geanoteerde content_indexes die later samen met de categorized xml terug de slide kunnen opbouwen."""
+    archs_to_use=[]
+    if arch_to_use=="baseline":
+        archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES_RA]
+    elif arch_to_use=="overlap":
+        archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES]
     archetypes=[]
     total_pages=len(powerpoint.pages)
     count=1
     for page in powerpoint.pages:
         print("dia "+str(count)+"/"+str(total_pages))
         count+=1
-        archetype= find_archetype(page.RA,page.n, True)
+        archetype= find_archetype(page.RA,page.n, True,archs_to_use)
         archetypes.append(archetype)
     return archetypes,[]
 
@@ -221,7 +226,8 @@ def remove_overlapping(RA_set):
                     new_lists.append(lijst+[rel+numbers])
         lists=new_lists[:]
     return [(set(l),n) for l in lists]
-def find_archetype(RA,n, recursive):
+
+def find_archetype(RA,n, recursive, archs_to_use):
 
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
@@ -233,21 +239,24 @@ def find_archetype(RA,n, recursive):
     best_mapping=None
     if n>8:
         return ContentOnly(range(0,n))
-    for index in range(0,len(ARCHETYPES_RA)):
+    for index in range(0,len(archs_to_use)):
         #remove_overlapping(ARCHETYPES[index]):
-        archie = ARCHETYPES_RA[index]
+        archie = archs_to_use[index]
         archetype=archie[0]
         archetype_length=archie[1]
-        dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(archetype),n,archetype_length)
+        for arch in archetype:
+            dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length)
+            if solution:
+                break;
+        if solution and dist > best_simil:
+            best_simil = dist
+            best_archetype = index
+            best_mapping = mapping
 
-        if solution and dist>best_simil:
-            best_simil=dist
-            best_archetype=index
-            best_mapping=mapping
     if best_archetype!=None:
         return make_archetype(best_archetype,n,best_mapping, RA)
     elif recursive:
-        return select_closest(RA,n)
+        return select_closest(RA,n, archs_to_use)
     else:
         return None
 
@@ -362,7 +371,7 @@ def change_overlapping(relation):
             else:
                 return "b"
 
-def change_overlapping_full(all_changes,combo,new_RA, amount):
+def change_overlapping_full(all_changes,combo,new_RA, amount, archs):
     positions = ["middelmiddel", "middelboven", "rechtsboven", "rechtsmiddel", "rechtsonder", "middelonder",
                  "linksonder", "linksmiddel", "linksboven"]
     relations = ["b", "m", "o", "d", "s", "f", "eq", "fi", "si", "di", "oi", "mi", "bi"]
@@ -401,13 +410,13 @@ def change_overlapping_full(all_changes,combo,new_RA, amount):
                 z[i[0]]=relations[i[1]]+element[-6:]
             else:
                 z[i[0]] = positions[i[1]] + element[-2:]
-        archetype = find_archetype(set(z), amount, False)
+        archetype = find_archetype(set(z), amount, False, archs)
         if archetype!=None:
             return archetype
     return None
 
 from datetime import datetime
-def select_closest(RA_set,amount):
+def select_closest(RA_set,amount, archs):
     """
    Iterative deepening op de RA-matrix
     """
@@ -444,7 +453,7 @@ def select_closest(RA_set,amount):
             for combo in combinations:
                 # resolve 1 combination of changes
                 new_RA = list(RA_set)
-                archetype=change_overlapping_full(all_changes,combo,new_RA,amount)
+                archetype=change_overlapping_full(all_changes,combo,new_RA,amount, archs)
                 if archetype!=None:
                     return archetype
                 # for i in range(0, len(new_RA)):
