@@ -213,7 +213,6 @@ def RA2archetype(powerpoint, arch_to_use):
     total_pages=len(powerpoint.pages)
     count=1
     for page in powerpoint.pages:
-        print("dia "+str(count)+"/"+str(total_pages))
         count+=1
         archetype= find_archetype(page.RA,page.n, True,archs_to_use)
         archetypes.append(archetype)
@@ -443,7 +442,6 @@ def select_closest(RA_set,amount, archs):
         mapping[i] = extra
 
     for amount_changes in range(1, max_amount_changes+1):
-        print("Amount_changes",amount_changes)
         if amount_changes>2:
             return ContentOnly(range(0,amount))
         #alle combinaties om linker, rechter en beide relaties om te zetten: bvb:
@@ -454,7 +452,6 @@ def select_closest(RA_set,amount, archs):
         if len(possible_changes)>40:
             return ContentOnly(range(0, amount))
         for changes_index in range(0,len(possible_changes)):
-            print("changes",changes_index,len(possible_changes))
             changes=possible_changes[changes_index]
             all_changes = []
             for change in changes:
