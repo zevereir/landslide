@@ -1,5 +1,6 @@
 import sys
 import os
+from pathlib import Path
 import xml.etree.ElementTree as ET
 conf_path = os.getcwd()
 sys.path.append(conf_path)
@@ -16,20 +17,21 @@ def main():
     parser.add_argument("--archetypes",default="baseline")
     args = parser.parse_args()
 
-    source = args.data.replace("/","\\") #bvb landslide_data//1_data
+
     name_output=args.exp_name
-    if source.endswith("\\"):
-        source=source[:-1]
-    data=source[source.rfind("\\")+1:].replace("_data","")
-    feature_tree = ET.parse(source+"\\" + data + "_categorized.xml")
-    xml_file = source+"\\" + data + ".xml"
+
+    source = Path(args.data)
+
+    data=source.stem.replace("_data","")
+    feature_tree = ET.parse(source / (data + "_categorized.xml"))
+    xml_file = source / (data + ".xml")
     output = source
     powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, xml_file)
     archetypes, changes = RA2archetype(powerpoint, args.archetypes)
     used_info = archetypes2slides(archetypes, tree_with_indexes, output,
                                   [(page.RA, page.n) for page in powerpoint.pages],False)
-    scores = ppt_pdf_similarity(used_info, xml_file.replace(".xml", "_preparsed.xml"), one_background)
-    work_with_scores(scores, archetypes, source,"\\results\\"+name_output, False)
+    scores = ppt_pdf_similarity(used_info, source / (data + "_preparsed.xml"), one_background)
+    work_with_scores(scores, archetypes, source/"results",name_output, False)
 
 
 if __name__ == "__main__":
