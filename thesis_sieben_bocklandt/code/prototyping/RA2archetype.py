@@ -3,7 +3,6 @@ from functools import lru_cache
 
 from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
-import thesis_sieben_bocklandt.code.prototyping.Testing.test_popc as it
 TITLE_SLIDE=({"title+0","first_slide"},1)
 TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
 TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
