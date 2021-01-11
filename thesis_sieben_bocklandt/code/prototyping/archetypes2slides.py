@@ -22,12 +22,12 @@ CONTENT_ONLY=10
 IMAGES=["picture","combined_pictures","background"]
 
 
-def archetypes2slides(archetypes, tree, output_directory, RA=None, make_slides=True):
+def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make_slides=True):
     """
     De functie die gebruik makend van de archetypes en de categorized xml_tree een nieuwe layout-loze
     powerpoint opmaakt. De manier waarop een slide wordt opgebouwd hangt af van het archetype.
     """
-    prs=Presentation("D:\\User\\Documents\\School\\Thesis\\thesis_sieben_bocklandt\\code\\prototyping\\MasterTemplate.pptx")
+    prs=Presentation(ppt_path)
     footer_dimensions=[]
     slide_number_dimensions=[]
     placeholder_percentage=[]
