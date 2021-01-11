@@ -359,8 +359,8 @@ def add_content_without_placeholder(content,bbox,slide,output_directory,slide_he
 
     if content.tag == "picture" or content.tag=="background":
 
-        slide.shapes.add_picture(output_directory + "\\images\\" + content.attrib.get("src"), bbox[0] * x_factor,
-                                 slide_height-bbox[3] * y_factor, int(x_factor * (bbox[2] - bbox[0])), int(y_factor * (bbox[3] - bbox[1])))
+        # slide.shapes.add_picture(output_directory + "\\images\\" + content.attrib.get("src"), bbox[0] * x_factor,
+        #                          slide_height-bbox[3] * y_factor, int(x_factor * (bbox[2] - bbox[0])), int(y_factor * (bbox[3] - bbox[1])))
         combined = content.attrib.get("combined_sources")
         if combined == None:
             used_content.append(content.attrib.get("src"))
@@ -369,19 +369,19 @@ def add_content_without_placeholder(content,bbox,slide,output_directory,slide_he
                 used_content.append(i.strip()[1:-1])
         caption = content.attrib.get("caption")
         if caption != None and caption != "":
-            txBox = slide.shapes.add_textbox(x_factor * bbox[0], slide_height - y_factor * bbox[3]+y_factor * (bbox[3] - bbox[1]),
-                                             x_factor * (bbox[2] - bbox[0]), 0.1*y_factor * (bbox[3] - bbox[1]))
-            tf = txBox.text_frame
-            tf.text = caption
-            for para in tf.paragraphs:
-                para.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
+            # txBox = slide.shapes.add_textbox(x_factor * bbox[0], slide_height - y_factor * bbox[3]+y_factor * (bbox[3] - bbox[1]),
+            #                                  x_factor * (bbox[2] - bbox[0]), 0.1*y_factor * (bbox[3] - bbox[1]))
+            # tf = txBox.text_frame
+            # tf.text = caption
+            # for para in tf.paragraphs:
+            #     para.alignment = PP_PARAGRAPH_ALIGNMENT.CENTER
             used_content.append(caption)
 
     elif content.tag == "normal_text" or content.tag=="title":
-        txBox = slide.shapes.add_textbox(x_factor * bbox[0], slide_height - y_factor * bbox[3],
-                                         x_factor * (bbox[2] - bbox[0]), y_factor * (bbox[3] - bbox[1]))
-        tf = txBox.text_frame
-        tf.text = content.text
+        # txBox = slide.shapes.add_textbox(x_factor * bbox[0], slide_height - y_factor * bbox[3],
+        #                                  x_factor * (bbox[2] - bbox[0]), y_factor * (bbox[3] - bbox[1]))
+        # tf = txBox.text_frame
+        # tf.text = content.text
         used_content.append(content.text)
     elif content.tag == "table":
         used_content.append("table_bbox_for_score_calc_" + str(bbox))
@@ -429,7 +429,7 @@ def add_content(slide,placeholder,content,output_directory, slide_height,slide_w
     wordt gezet. Het voordeel hiervan is dat deze dan mee gaat verschuiven als er een andere slide master gebruikt wordt
     """
     if content.tag =="picture" or content.tag=="background":
-        source=output_directory+"\\images\\"+content.attrib.get("src")
+        # source=output_directory+"\\images\\"+content.attrib.get("src")
         combined=content.attrib.get("combined_sources")
         if combined==None:
             used_content.append(content.attrib.get("src"))
@@ -439,12 +439,12 @@ def add_content(slide,placeholder,content,output_directory, slide_height,slide_w
         caption=content.attrib.get("caption")
         if caption != None:
             used_content.append(caption)
-        add_image(slide,placeholder,source, content.tag=="background", content.attrib.get("caption"))
+        # add_image(slide,placeholder,source, content.tag=="background", content.attrib.get("caption"))
     else:
         if content.tag == "normal_text" or content.tag=="title":
             begin_text=content.text
             used_content.append(content.text)
-            add_text(placeholder,begin_text)
+            # add_text(placeholder,begin_text)
         elif content.tag=="table":
             add_table(slide,placeholder,content, used_content)
 

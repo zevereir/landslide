@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+import os
 def work_with_scores(scores, archetypes, output_directory,name_output="responsive_scores.dat", make_images=True):
     """Slaat de scores op in de jusite file en maakt er een plot van"""
     save_data(scores,archetypes,output_directory, name_output)
@@ -70,5 +70,7 @@ def save_data(scores,archetypes,output_directory,name_output):
     y_data = [i.internal_id for i in archetypes]
     data = np.column_stack(([score[1] for score in scores], y_data))
     header = "Responsive score, Archetype-ID"
+    if not os.path.isfile(output_directory/name_output):
+        open(output_directory/name_output,'a').close()
     np.savetxt(output_directory/name_output, data, header=header)
 
