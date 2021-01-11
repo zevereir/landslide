@@ -21,7 +21,7 @@ def main():
 
     name_output=args.exp_name
 
-    source = Path(args.data)
+    source = Path(args.data).resolve()
 
     data=source.stem.replace("_data","")
     feature_tree = ET.parse(source / (data + "_categorized.xml"))

@@ -71,7 +71,8 @@ def save_data(scores,archetypes,output_directory,name_output):
     y_data = [i.internal_id for i in archetypes]
     data = np.column_stack(([score[1] for score in scores], y_data))
     header = "Responsive score, Archetype-ID"
-    if not os.path.isfile(output_directory/name_output):
+    output_directory.mkdir(exist_ok=True)
+    if not (output_directory/name_output).is_file():
         Path.touch(output_directory/name_output)
     np.savetxt(output_directory/name_output, data, header=header)
 
