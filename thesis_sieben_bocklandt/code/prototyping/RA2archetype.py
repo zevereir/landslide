@@ -17,13 +17,13 @@ ARCHETYPES=[TITLE_SLIDE,TITLE_SINGLE_CONTENT,TITLE_DOUBLE_CONTENT,TITLE_TRIPLE_C
 NAMES=["TITLE_SLIDE","TITLE_SINGLE_CONTENT","TITLE_DOUBLE_CONTENT","TITLE_TRIPLE_CONTENT","COMPARISON","SECTION_HEADER","TITLE_ONLY","CAPTIONED_CONTENT","BACKGROUND_QUOTE","BACKGROUND_ONLY"]
 
 TITLE_SLIDE_RA=({"title+0","first_slide"},1)
-TITLE_SINGLE_CONTENT_RA=({"title+0","middelboven+0","bi-y+0_1","eq-x+0_1"},2)
-TITLE_DOUBLE_CONTENT_RA=({"title+0","middelboven+0","bi-y+0_1","si-x+0_1","fi-x+0_2","bi-y+0_2","eq-y+1_2","b-x+1_2"},3)
-TITLE_TRIPLE_CONTENT_RA=({"title+0","middelboven+0","bi-y+0_1","si-x+0_1","fi-x+0_3","di-x+0_2","bi-y+0_2","bi-y+0_3","eq-y+1_2","eq-y+1_3","eq-y+2_3","b-x+1_2","b-x+1_3","b-x+2_3"},4)
-COMPARISON_RA=({"title+0","middelboven+0","bi-y+0_1","bi-y+0_2","bi-y+1_3","bi-y+2_4","eq-y+1_2","b-x+1_2","eq-y+3_4","b-x+3_4","eq-x+1_3","eq-x+2_4","fi-x+0_2","si-x+0_1"},5)
+TITLE_SINGLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","eq-x+0_1"},2)
+TITLE_DOUBLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","s-x+1_0","f-x+2_0","b-y+2_0","eq-y+1_2","b-x+1_2"},3)
+TITLE_TRIPLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","s-x+1_0","f-x+3_0","d-x+2_0","b-y+2_0","b-y+3_0","eq-y+1_2","eq-y+1_3","eq-y+2_3","b-x+1_2","b-x+1_3","b-x+2_3"},4)
+COMPARISON_RA=({"title+0","middelboven+0","b-y+1_0","b-y+2_0","b-y+3_1","b-y+4_2","eq-y+1_2","b-x+1_2","eq-y+3_4","b-x+3_4","eq-x+1_3","eq-x+2_4","f-x+2_0","s-x+1_0"},5)
 SECTION_HEADER_RA=({"title+0","middelmiddel+0"},1)
 TITLE_ONLY_RA=({"title+0","middelboven+0, no_content"},1)
-CAPTIONED_CONTENT_RA=({"bi-y+0_1","eq-x+0_1","b-x+0_2","b-x+1_2","o-y+0_2","oi-y+1_2","no_title"},3)
+CAPTIONED_CONTENT_RA=({"b-y+1_0","eq-x+0_1","b-x+0_2","b-x+1_2","o-y+0_2","o-y+2_1","no_title"},3)
 BACKGROUND_QUOTE_RA=({"title+0","middelmiddel+0","background+1"},2)
 BACKGROUND_ONLY_RA=({"background+0","no_title"},1)
 ARCHETYPES_RA=[TITLE_SLIDE_RA,TITLE_SINGLE_CONTENT_RA,TITLE_DOUBLE_CONTENT_RA,TITLE_TRIPLE_CONTENT_RA,COMPARISON_RA,SECTION_HEADER_RA,TITLE_ONLY_RA,CAPTIONED_CONTENT_RA,BACKGROUND_QUOTE_RA,BACKGROUND_ONLY_RA]
@@ -199,7 +199,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     return max_dist,False, best_mapping
 
 
-def RA2archetype(powerpoint, arch_to_use):
+def RA2archetype(powerpoint, arch_to_use, cutoff):
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
@@ -218,7 +218,7 @@ def RA2archetype(powerpoint, arch_to_use):
         print(count, total_pages)
         count+=1
         print(page.RA)
-        archetype,simil= find_archetype(page.RA,page.n, True,archs_to_use)
+        archetype,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
         print(archetype,simil)
         archetypes.append(archetype)
     return archetypes,[]
@@ -243,7 +243,7 @@ def remove_overlapping(RA_set):
         lists=new_lists[:]
     return [(set(l),n) for l in lists]
 
-def find_archetype(RA,n, recursive, archs_to_use):
+def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
 
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
@@ -273,7 +273,7 @@ def find_archetype(RA,n, recursive, archs_to_use):
         return make_archetype(best_archetype,n,best_mapping, RA),best_simil
     elif recursive:
         print("closest")
-        return select_closest(RA,n, archs_to_use)
+        return select_closest(RA,n, archs_to_use, cutoff)
     else:
         return None,0
 def make_archetype(archetype,n,mapping, RA):
@@ -387,7 +387,7 @@ def change_overlapping(relation):
             else:
                 return "b"
 
-def change_overlapping_full(all_changes,combo,new_RA, amount, archs):
+def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff):
     positions = ["middelmiddel", "middelboven", "rechtsboven", "rechtsmiddel", "rechtsonder", "middelonder",
                  "linksonder", "linksmiddel", "linksboven"]
     relations = ["b", "m", "o", "d", "s", "f", "eq"]#, "fi", "si", "di", "oi", "mi", "bi"]
@@ -434,11 +434,10 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs):
         if simil>=best_simil:
             best_simil=simil
             best_arch=archetype
-
     return best_arch,best_simil
 
 from datetime import datetime
-def select_closest(RA_set,amount, archs):
+def select_closest(RA_set,amount, archs, cutoff):
 
     """
    Iterative deepening op de RA-matrix
@@ -454,15 +453,13 @@ def select_closest(RA_set,amount, archs):
         mapping[i] = extra
 
     for amount_changes in range(1, max_amount_changes+1):
-        if amount_changes>2:
+        if amount_changes>cutoff:
             return ContentOnly(range(0,amount)),0
         #alle combinaties om linker, rechter en beide relaties om te zetten: bvb:
         combinations = [z for v in [set(itertools.permutations(x)) for x in
                                     list(itertools.combinations_with_replacement(range(0, 3), amount_changes))] for z in
                         v]
         possible_changes=list(set(itertools.combinations(range(0, max_amount_changes), amount_changes)))
-        if len(possible_changes)>40:
-            return ContentOnly(range(0, amount)),0
         best_simil=0
         best_arch=None
         for changes_index in range(0,len(possible_changes)):
@@ -476,7 +473,7 @@ def select_closest(RA_set,amount, archs):
             for combo in combinations:
                 # resolve 1 combination of changes
                 new_RA = list(RA_set)
-                archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs)
+                archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs, cutoff)
                 if simil==1:
                     return archetype,simil
                 if simil>=best_simil and archetype!=None:
