@@ -57,8 +57,14 @@ def calc_RA_set(elements,page_size, title_indices, background_indices, page_id):
             element1=elements[index1].bbox
             element2 = elements[index2].bbox
             relation=find_RA_relation(element1,element2)
-            RA_set.add(relation[0] + "-x+" + str(index1) + "_" + str(index2))
-            RA_set.add(relation[1] + "-y+" + str(index1) + "_" + str(index2))
+            if "i" in relation[0]:
+                RA_set.add(relation[0][0] + "-x+" + str(index2) + "_" + str(index1))
+            else:
+                RA_set.add(relation[0] + "-x+" + str(index1) + "_" + str(index2))
+            if "i" in relation[1]:
+                RA_set.add(relation[1][0] + "-y+" + str(index2) + "_" + str(index1))
+            else:
+                RA_set.add(relation[1] + "-y+" + str(index1) + "_" + str(index2))
             #inverse_relation=inverse(relation)
             #RA_set.add(inverse_relation[0] + "-x+" + str(index2) + "_" + str(index1))
             #RA_set.add(inverse_relation[1] + "-y+" + str(index2) + "_" + str(index1))
@@ -75,7 +81,8 @@ def calc_RA_set(elements,page_size, title_indices, background_indices, page_id):
             #     RA_set.add("not_overlapping" + "-y+" + str(index1) + "_" + str(index2))
             #     RA_set.add("not_overlapping" + "-y+" + str(index2) + "_" + str(index1))
 
-        RA_set.add(find_position(elements[index1].bbox,page_size)+"+"+str(index1))
+        # if index1 in title_indices:
+        #     RA_set.add(find_position(elements[index1].bbox,page_size)+"+"+str(index1))
     if title_indices!=[]:
         for title in title_indices:
             RA_set.add("title+"+str(title))

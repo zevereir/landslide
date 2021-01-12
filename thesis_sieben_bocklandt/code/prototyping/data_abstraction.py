@@ -42,16 +42,16 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
                 new_resp_tup=(resp_tup[0]+1,resp_tup[1]+responsive_scores[i])
                 #count[index]=new_tup
                 responsive_count[index]=new_resp_tup
-    means=[0 for i in range(0,len(names))]
+    #means=[0 for i in range(0,len(names))]
     resp_means = [0 for i in range(0, len(names))]
     totals=[0 for i in range(0,len(names))]
-    for i in count:
+    for i in responsive_count:
         # means[i]=count[i][1]/max(count[i][0],1)
-        totals[i]=count[i][0]
-        resp_means[i]=responsive_count[i][1]/max(count[i][0],1)
+        totals[i]=responsive_count[i][0]
+        resp_means[i]=responsive_count[i][1]/max(responsive_count[i][0],1)
 
     f=plt.figure(figsize=(12,5))
-    (ax2,ax3) = f.subplots(1, 3)
+    (ax2,ax3) = f.subplots(1, 2)
 
 
     # ax1.bar(names, means)
@@ -88,7 +88,9 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     #     np.savetxt(set_mean_file, data, fmt="%s")
     mean = 0
     total_amount = 0
-    for i in range(0, len(means)):
+    print(resp_means)
+    print(totals)
+    for i in range(0, len(resp_means)):
         mean += resp_means[i] * totals[i]
         total_amount += totals[i]
     mean = mean / total_amount
@@ -125,4 +127,4 @@ def autolabel(rects,ax):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-data_abstraction(1,841,name="learned.dat")
+data_abstraction(1,841,name="results\\learned.dat")
