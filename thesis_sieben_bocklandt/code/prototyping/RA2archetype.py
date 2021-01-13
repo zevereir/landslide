@@ -1,6 +1,6 @@
 import itertools
 from functools import lru_cache
-
+import json
 from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
 TITLE_SLIDE=({"title+0","first_slide"},1)
@@ -91,28 +91,38 @@ def get_full_mappings(enc1,enc2,n1,n2):
     possibilities2={}
     for i in enc2:
         if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
+            z = ''.join([x for x in i if not x.isdigit()])[:-1]
             if "_" in i:
-                if i[:-3] in possibilities.keys():
-                    possibilities[i[:-3]].append((int(i[-3]),int(i[-1])))
+                numbers=i[-len(i)+len(z):].split("_")
+                x1=int(numbers[0])
+                x2=int(numbers[1])
+                if z in possibilities.keys():
+                    possibilities[z].append((x1,x2))
                 else:
-                    possibilities[i[:-3]]=[((int(i[-3]), int(i[-1])))]
+                    possibilities[z]=[((x1,x2))]
             else:
-                if i[:-1] in possibilities.keys():
-                    possibilities[i[:-1]].append((int(i[-1]),))
+                numbers = int(i[-len(i) + len(z):])
+                if z in possibilities.keys():
+                    possibilities[z].append((numbers,))
                 else:
-                    possibilities[i[:-1]]=[(int(i[-1]),)]
+                    possibilities[z]=[(numbers,)]
     for i in enc1:
         if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
+            z = ''.join([x for x in i if not x.isdigit()])[:-1]
             if "_" in i:
-                if i[:-3] in possibilities2.keys():
-                    possibilities2[i[:-3]].append((int(i[-3]),int(i[-1])))
+                numbers = i[-len(i) + len(z):].split("_")
+                x1 = int(numbers[0])
+                x2 = int(numbers[1])
+                if z in possibilities2.keys():
+                    possibilities2[z].append((x1, x2))
                 else:
-                    possibilities2[i[:-3]]=[((int(i[-3]), int(i[-1])))]
+                    possibilities2[z] = [((x1, x2))]
             else:
-                if i[:-1] in possibilities2.keys():
-                    possibilities2[i[:-1]].append((int(i[-1]),))
+                numbers = int(i[-len(i) + len(z):])
+                if z in possibilities2.keys():
+                    possibilities2[z].append((numbers,))
                 else:
-                    possibilities2[i[:-1]]=[(int(i[-1]),)]
+                    possibilities2[z] = [(numbers,)]
     possible_combinations=set()
     for i in possibilities.keys()&possibilities2.keys():
         val1=possibilities[i]
@@ -211,16 +221,66 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
         archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES]
     elif arch_to_use=="learned":
         archs_to_use=ARCHETYPES_LEARNED
+    elif arch_to_use=="masters":
+        master_archetypes=[]
+        mapping_archetypes={}
+        indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
+        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/multiple_masters.json') as json_file:
+            arch_dict=json.load(json_file)
+        for i in range(0,len(arch_dict)):
+            archs = []
+            for key in range(0,len(arch_dict["0"])):
+                if key!=25:
+                    master=arch_dict[str(i)][str(key)]
+
+                    for z in master:
+                        archs.append(frozenset(z))
+                        if frozenset(z) in mapping_archetypes.keys():
+                            mapping_archetypes[frozenset(z)].add(int(key))
+                        else:
+                            mapping_archetypes[frozenset(z)]={int(key)}
+            archs_to_use[i]=(archs,indices[i]+1)
+
     archetypes=[]
     total_pages=len(powerpoint.pages)
     count=1
+
     for page in powerpoint.pages:
         print(count, total_pages)
         count+=1
         print(page.RA)
-        archetype,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
-        print(archetype,simil)
-        archetypes.append(archetype)
+        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
+        if arch_to_use!="masters":
+            archetypes.append(possible_archetypes[0][0])
+        else:
+            master_archetypes.append(possible_archetypes)
+    print("LEN",len(arch_dict),len(arch_dict["0"]))
+    if arch_to_use=="masters":
+        counts={}
+        for i in range(0,len(arch_dict["0"])):
+            counts[i]=0
+        for ma in master_archetypes:
+            for pos in ma:
+                if pos[1]!=frozenset():
+                    for belongs_to in mapping_archetypes[pos[1]]:
+                        counts[belongs_to]+=1
+        print("COUNTS = ",counts)
+        for ma in master_archetypes:
+            best_arch=None
+            best_score=-1
+            print("POS",pos[1])
+            for pos in ma:
+
+
+                if pos[1] == frozenset():
+                    best_arch = pos[0]
+                else:
+
+                    best_map=max([counts[v] for v in mapping_archetypes[pos[1]]])
+                    if best_map>best_score:
+                        best_arch=pos[0]
+            archetypes.append(best_arch)
+            print(best_arch)
     return archetypes,[]
 
 def remove_overlapping(RA_set):
@@ -254,7 +314,8 @@ def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
     best_archetype=None
     best_mapping=None
     if n>8:
-        return ContentOnly(range(0,n)),0
+        return [(ContentOnly(range(0,n)),set())],0
+    solutions=[]
     for index in range(0,len(archs_to_use)):
         #remove_overlapping(ARCHETYPES[index]):
         archie = archs_to_use[index]
@@ -263,14 +324,9 @@ def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
         for arch in archetype:
             dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length)
             if solution:
-               return make_archetype(index,n,mapping, RA),dist
-        if solution and dist > best_simil:
-            best_simil = dist
-            best_archetype = index
-            best_mapping = mapping
-
-    if best_archetype!=None:
-        return make_archetype(best_archetype,n,best_mapping, RA),best_simil
+                solutions.append((make_archetype(index,n,mapping, RA),arch))
+    if solutions!=[]:
+        return solutions,1
     elif recursive:
         print("closest")
         return select_closest(RA,n, archs_to_use, cutoff)
@@ -420,20 +476,20 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff):
         combinations.append([(i,x) for x in range(0,7) if x!=relations.index(new_RA[i][:-6])])
     best_simil=0
     best_arch=None
+    solutions=[]
     for change in itertools.product(*combinations):
         z=new_RA[:]
         for i in change:
             element=new_RA[i[0]]
             if "_" in element:
-                z[i[0]]=relations[i[1]]+element[-6:]
+                z[i[0]]=relations[i[1]]+element[element.index("-"):]
             else:
-                z[i[0]] = positions[i[1]] + element[-2:]
+                z[i[0]] = positions[i[1]] + +element[element.index("+"):]
         archetype,simil = find_archetype(set(z), amount, False, archs)
         if simil==1:
-            return archetype,1
-        if simil>=best_simil:
-            best_simil=simil
-            best_arch=archetype
+            solutions.append(archetype)
+    if solutions!=[]:
+        return solutions,1
     return best_arch,best_simil
 
 from datetime import datetime
@@ -454,7 +510,7 @@ def select_closest(RA_set,amount, archs, cutoff):
 
     for amount_changes in range(1, max_amount_changes+1):
         if amount_changes>cutoff:
-            return ContentOnly(range(0,amount)),0
+            return [(ContentOnly(range(0,amount)),frozenset())],0
         #alle combinaties om linker, rechter en beide relaties om te zetten: bvb:
         combinations = [z for v in [set(itertools.permutations(x)) for x in
                                     list(itertools.combinations_with_replacement(range(0, 3), amount_changes))] for z in
@@ -513,6 +569,6 @@ def select_closest(RA_set,amount, archs, cutoff):
     #     if len(RA_set) > 0:
     #         f.write(str((RA_set, amount)) + "\n")
 
-    return ContentOnly(range(0,amount)),0
+    return [(ContentOnly(range(0,amount)),frozenset())],0
 
 
