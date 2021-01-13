@@ -21,7 +21,7 @@ def main():
     args = parser.parse_args()
 
 
-    name_output=args.exp_name
+    name_output=args.archetypes+"_"+args.exp_name+"_"+str(args.cutoff)
 
     source = Path(args.data).resolve()
     force_override=args.force

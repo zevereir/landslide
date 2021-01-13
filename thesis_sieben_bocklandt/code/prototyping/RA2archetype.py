@@ -3,44 +3,19 @@ from functools import lru_cache
 import json
 from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
-TITLE_SLIDE=({"title+0","first_slide"},1)
-TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
-TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
-TITLE_TRIPLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","bi-y+0_3","overlapping-y+1_2","overlapping-y+1_3","overlapping-y+2_3","not_overlapping-x+1_2","not_overlapping-x+1_3","not_overlapping-x+2_3"},4)
-COMPARISON=({"title+0","middelboven+0","bi-y+0_1","bi-y+0_2","bi-y+1_3","bi-y+2_4","overlapping-y+1_2","not_overlapping-x+1_2","overlapping-y+3_4","not_overlapping-x+3_4","overlapping-x+1_3","overlapping-x+2_4"},5)
-SECTION_HEADER=({"title+0","middelmiddel+0"},1)
-TITLE_ONLY=({"title+0","middelboven+0, no_content"},1)
-CAPTIONED_CONTENT=({"bi-y+0_1","overlapping-x+0_1","not_overlapping-x+0_2","not_overlapping-x+1_2","overlapping-y+0_2","overlapping-y+1_2","no_title"},3)
-BACKGROUND_QUOTE=({"title+0","middelmiddel+0","background+1"},2)
-BACKGROUND_ONLY=({"background+0","no_title"},1)
-ARCHETYPES=[TITLE_SLIDE,TITLE_SINGLE_CONTENT,TITLE_DOUBLE_CONTENT,TITLE_TRIPLE_CONTENT,COMPARISON,SECTION_HEADER,TITLE_ONLY,CAPTIONED_CONTENT,BACKGROUND_QUOTE,BACKGROUND_ONLY]
-NAMES=["TITLE_SLIDE","TITLE_SINGLE_CONTENT","TITLE_DOUBLE_CONTENT","TITLE_TRIPLE_CONTENT","COMPARISON","SECTION_HEADER","TITLE_ONLY","CAPTIONED_CONTENT","BACKGROUND_QUOTE","BACKGROUND_ONLY"]
+# TITLE_SLIDE=({"title+0","first_slide"},1)
+# TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
+# TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
+# TITLE_TRIPLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","bi-y+0_3","overlapping-y+1_2","overlapping-y+1_3","overlapping-y+2_3","not_overlapping-x+1_2","not_overlapping-x+1_3","not_overlapping-x+2_3"},4)
+# COMPARISON=({"title+0","middelboven+0","bi-y+0_1","bi-y+0_2","bi-y+1_3","bi-y+2_4","overlapping-y+1_2","not_overlapping-x+1_2","overlapping-y+3_4","not_overlapping-x+3_4","overlapping-x+1_3","overlapping-x+2_4"},5)
+# SECTION_HEADER=({"title+0","middelmiddel+0"},1)
+# TITLE_ONLY=({"title+0","middelboven+0, no_content"},1)
+# CAPTIONED_CONTENT=({"bi-y+0_1","overlapping-x+0_1","not_overlapping-x+0_2","not_overlapping-x+1_2","overlapping-y+0_2","overlapping-y+1_2","no_title"},3)
+# BACKGROUND_QUOTE=({"title+0","middelmiddel+0","background+1"},2)
+# BACKGROUND_ONLY=({"background+0","no_title"},1)
+# ARCHETYPES=[TITLE_SLIDE,TITLE_SINGLE_CONTENT,TITLE_DOUBLE_CONTENT,TITLE_TRIPLE_CONTENT,COMPARISON,SECTION_HEADER,TITLE_ONLY,CAPTIONED_CONTENT,BACKGROUND_QUOTE,BACKGROUND_ONLY]
+# NAMES=["TITLE_SLIDE","TITLE_SINGLE_CONTENT","TITLE_DOUBLE_CONTENT","TITLE_TRIPLE_CONTENT","COMPARISON","SECTION_HEADER","TITLE_ONLY","CAPTIONED_CONTENT","BACKGROUND_QUOTE","BACKGROUND_ONLY"]
 
-TITLE_SLIDE_RA=({"title+0","first_slide"},1)
-TITLE_SINGLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","eq-x+0_1"},2)
-TITLE_DOUBLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","s-x+1_0","f-x+2_0","b-y+2_0","eq-y+1_2","b-x+1_2"},3)
-TITLE_TRIPLE_CONTENT_RA=({"title+0","middelboven+0","b-y+1_0","s-x+1_0","f-x+3_0","d-x+2_0","b-y+2_0","b-y+3_0","eq-y+1_2","eq-y+1_3","eq-y+2_3","b-x+1_2","b-x+1_3","b-x+2_3"},4)
-COMPARISON_RA=({"title+0","middelboven+0","b-y+1_0","b-y+2_0","b-y+3_1","b-y+4_2","eq-y+1_2","b-x+1_2","eq-y+3_4","b-x+3_4","eq-x+1_3","eq-x+2_4","f-x+2_0","s-x+1_0"},5)
-SECTION_HEADER_RA=({"title+0","middelmiddel+0"},1)
-TITLE_ONLY_RA=({"title+0","middelboven+0, no_content"},1)
-CAPTIONED_CONTENT_RA=({"b-y+1_0","eq-x+0_1","b-x+0_2","b-x+1_2","o-y+0_2","o-y+2_1","no_title"},3)
-BACKGROUND_QUOTE_RA=({"title+0","middelmiddel+0","background+1"},2)
-BACKGROUND_ONLY_RA=({"background+0","no_title"},1)
-ARCHETYPES_RA=[TITLE_SLIDE_RA,TITLE_SINGLE_CONTENT_RA,TITLE_DOUBLE_CONTENT_RA,TITLE_TRIPLE_CONTENT_RA,COMPARISON_RA,SECTION_HEADER_RA,TITLE_ONLY_RA,CAPTIONED_CONTENT_RA,BACKGROUND_QUOTE_RA,BACKGROUND_ONLY_RA]
-
-TITLE_SLIDE_LEARNED=([{'title+0', 'first_slide', 'b-y+1_0', 'd-x+1_0'}, {'title+0','first_slide', 'b-y+1_0', 'd-x+0_1'}, {'title+0','first_slide', 'b-y+1_0', 'd-x+1_0'}],2)
-TITLE_SINGLE_CONTENT_LEARNED=([{'title+0', 'b-y+1_0', 's-x+1_0'}, {'s-x+0_1', 'title+0', 'b-y+1_0'}],2)
-SECTION_HEADER_LEARNED=([{'title+0', 'b-y+1_0', 's-x+1_0'}, {'s-x+0_1', 'title+0', 'b-y+1_0'}],2)
-TITLE_DOUBLE_CONTENT_LEARNED=([{'b-x+1_2', 'b-x+0_2', 'b-y+2_0', 's-x+1_0', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'s-x+0_1', 'b-x+1_2', 'b-x+0_2', 'b-y+2_0', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'b-x+1_2', 'b-y+2_0', 'b-x+0_2', 'd-y+1_2', 's-x+1_0', 'b-y+1_0', 'title+0'}, {'s-x+0_1', 'b-x+1_2', 'b-x+0_2', 'b-y+2_0', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'s-x+0_1', 'o-y+2_1', 'b-x+1_2', 'b-x+0_2', 'b-y+2_0', 'b-y+1_0', 'title+0'}, {'s-x+0_1', 'b-x+1_2', 'b-y+2_0', 'b-x+0_2', 'd-y+1_2', 'b-y+1_0', 'title+0'}, {'o-x+0_2', 'b-x+1_2', 'b-y+2_0', 's-x+1_0', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'o-x+0_2', 'b-x+1_2', 'b-y+2_0', 'd-y+1_2', 's-x+1_0', 'b-y+1_0', 'title+0'}, {'o-x+0_2', 'b-x+1_2', 'b-y+2_0', 's-x+1_0', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'o-y+2_1', 'o-x+0_2', 'b-x+1_2', 'b-y+2_0', 's-x+1_0', 'b-y+1_0', 'title+0'}]
-,3)
-TITLE_TRIPLE_CONTENT_LEARNED=([{'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0', 'eq-y+2_3'}, {'d-y+3_2', 'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0'}, {'s-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 'b-x+0_2', 'b-x+2_3', 'b-y+1_0', 'title+0', 'eq-y+2_3', 'd-y+2_1'}, {'d-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-x+0_2', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'s-x+0_1', 'd-y+3_2', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-x+0_2', 'b-y+2_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-y+2_3', 's-x+0_1', 'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0', 'eq-y+2_3'}, {'s-x+0_1', 'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0', 'eq-y+2_3'}, {'s-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0', 'eq-y+2_3'}, {'d-y+2_3', 's-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-x+0_2', 'b-y+2_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-y+2_3', 's-x+0_1', 'b-y+3_0', 'o-y+1_2', 'b-x+0_3', 'b-x+1_2', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 'd-y+1_3', 'b-y+1_0', 'b-x+3_2', 'title+0'}, {'s-x+0_1', 'd-y+3_2', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-x+0_2', 'b-y+2_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 's-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-x+0_2', 'b-y+2_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 's-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-x+0_2', 'b-y+2_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 's-x+0_1', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-x+0_2', 'b-y+2_0', 'd-y+1_3', 'b-y+1_0', 'b-x+3_2', 'title+0', 'd-y+2_1'}, {'d-y+3_2', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0'}, {'d-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0'}, {'d-x+2_0', 'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0', 'eq-y+2_3'}, {'d-y+3_2', 'eq-y+1_3', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+1_2', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0'}, {'d-x+2_0', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'eq-y+2_3', 'd-y+2_1'}, {'d-x+2_0', 'd-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_3', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-x+2_0', 'o-x+0_3', 'd-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+1_3', 'b-y+2_0', 'd-y+1_3', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-x+2_0', 'd-y+2_3', 'eq-y+1_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0', 'eq-y+2_3'}, {'eq-y+1_3', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0', 'eq-y+2_3'}, {'d-y+2_3', 'eq-y+1_3', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_3', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'eq-y+1_2', 'title+0'}, {'d-y+2_3', 'o-x+0_3', 'b-y+3_0', 'o-y+1_2', 'b-x+1_2', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 's-x+1_0', 'd-y+1_3', 'b-y+1_0', 'b-x+3_2', 'title+0'}, {'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'eq-y+2_3', 'd-y+2_1'}, {'d-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-x+2_0', 'd-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'd-y+3_1', 'b-y+2_0', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-x+2_0', 'd-y+2_3', 'b-y+3_0', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_3', 's-x+1_0', 'b-x+2_3', 'b-y+1_0', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 'o-x+0_3', 'b-y+3_0', 'b-x+1_2', 'b-x+1_3', 'b-y+2_0', 'b-x+0_2', 's-x+1_0', 'd-y+1_3', 'b-y+1_0', 'b-x+3_2', 'title+0', 'd-y+2_1'}, {'d-y+2_3', 'o-x+0_3', 'b-y+3_0', 'b-x+1_2', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 'b-x+0_2', 's-x+1_0', 'd-y+1_3', 'b-y+1_0', 'b-x+3_2', 'title+0'}, {'d-y+2_3', 'b-y+3_0', 'o-x+0_2', 'b-x+1_2', 'b-x+0_3', 'b-x+1_3', 'b-y+2_0', 'd-y+1_2', 's-x+1_0', 'b-x+2_3', 'd-y+1_3', 'b-y+1_0', 'title+0'}],4)
-COMPARISON_LEARNED=([{'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_3', 'b-x+0_3', 'b-x+2_3', 'b-x+1_4', 'b-y+2_3', 's-x+3_4', 'b-y+2_1', 'b-y+3_0', 's-x+1_2', 'b-y+4_3', 'b-x+0_4', 'eq-y+1_3', 'b-y+2_0', 's-x+1_0', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'title+0', 'd-y+2_4', 's-x+2_0', 'b-x+2_4'}, {'b-x+1_3', 'b-x+0_3', 'b-x+2_3', 'b-x+1_4', 'b-y+2_3', 's-x+3_4', 'b-y+2_1', 'b-y+3_0', 's-x+1_2', 'b-y+4_3', 'b-x+0_4', 'eq-y+1_3', 's-x+0_2', 'b-y+2_0', 's-x+1_0', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'title+0', 'd-y+2_4', 'b-x+2_4'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 's-x+3_0', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'b-x+0_2', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+2_1', 'b-x+2_4', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 'b-y+1_2', 'title+2', 'b-x+3_1', 'b-x+0_4', 's-x+3_0', 'd-y+3_4', 'b-x+0_1', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'eq-y+0_1', 's-x+1_4', 's-x+3_2', 's-x+2_0', 'b-y+4_2', 'b-y+0_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'd-y+3_4', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 's-x+3_0', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'b-x+0_2', 'title+0', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 's-x+0_1', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 'b-x+0_4', 'b-y+2_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'b-x+0_2', 'title+0', 's-x+0_3', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'd-x+2_0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'd-x+2_0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 's-x+3_0', 'd-y+3_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'd-x+2_0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'd-y+3_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'd-y+4_3', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 's-x+1_3', 'o-x+0_4', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'o-x+0_4', 'title+0', 'd-x+2_0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'b-y+3_1', 's-x+3_0', 'd-y+3_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'o-x+0_4', 'title+0', 'd-x+2_0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'o-x+0_4', 'title+0', 's-x+4_2', 'b-x+1_2', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'd-y+3_4', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'o-x+0_4', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}, {'s-x+3_1', 'b-x+1_4', 'eq-y+1_2', 'b-y+3_2', 'eq-y+3_4', 'b-y+3_0', 'o-x+0_2', 'b-y+3_1', 's-x+3_0', 'b-y+2_0', 's-x+1_0', 'b-x+3_4', 'b-y+4_1', 'b-y+4_0', 'b-y+1_0', 'o-x+0_4', 'title+0', 'b-x+1_2', 's-x+2_4', 'b-x+3_2', 'b-y+4_2'}],5)
-TITLE_ONLY_LEARNED=([{'title+0', 'no_content'}],1)
-CAPTIONED_CONTENT_LEARNED=([{'b-x+1_2', 'b-y+2_0', 'd-y+1_2', 'no_title', 's-x+1_0', 'b-y+1_0', 'b-x+0_2'}, {'s-x+0_1', 'b-x+1_2', 'b-y+2_0', 'd-y+1_2', 'no_title', 'b-y+1_0', 'b-x+0_2'}, {'b-x+1_2', 'b-y+2_0', 'b-x+0_2', 'd-y+1_2', 's-x+1_0', 'b-y+1_0', 'title+0'}]
-,3)
-BACKGROUND_QUOTE_LEARNED=([{'background+1', 'd-y+0_1', 'no_title', 'd-x+0_1'}],2)
-BACKGROUND_ONLY_LEARNED=([{'no_title', 'background+0'}],1)
-ARCHETYPES_LEARNED=[TITLE_SLIDE_LEARNED,TITLE_SINGLE_CONTENT_LEARNED,TITLE_DOUBLE_CONTENT_LEARNED,TITLE_TRIPLE_CONTENT_LEARNED,COMPARISON_LEARNED,SECTION_HEADER_LEARNED,TITLE_ONLY_LEARNED,CAPTIONED_CONTENT_LEARNED,BACKGROUND_QUOTE_LEARNED,BACKGROUND_ONLY_LEARNED]
 
 def jaccard(list1, list2):
     intersection = len(list(set(list1).intersection(list2)))
@@ -89,9 +64,12 @@ def get_full_mappings(enc1,enc2,n1,n2):
     permutations = list(itertools.permutations(range_1, n2))
     possibilities={}
     possibilities2={}
+
     for i in enc2:
+
         if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
             z = ''.join([x for x in i if not x.isdigit()])[:-1]
+
             if "_" in i:
                 numbers=i[-len(i)+len(z):].split("_")
                 x1=int(numbers[0])
@@ -108,7 +86,9 @@ def get_full_mappings(enc1,enc2,n1,n2):
                     possibilities[z]=[(numbers,)]
     for i in enc1:
         if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
+
             z = ''.join([x for x in i if not x.isdigit()])[:-1]
+
             if "_" in i:
                 numbers = i[-len(i) + len(z):].split("_")
                 x1 = int(numbers[0])
@@ -210,21 +190,28 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
 
 
 def RA2archetype(powerpoint, arch_to_use, cutoff):
+    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
     met daarin de juiste geanoteerde content_indexes die later samen met de categorized xml terug de slide kunnen opbouwen."""
-    archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES]
+    archs_to_use=[]
     if arch_to_use=="baseline":
-        archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES_RA]
-    elif arch_to_use=="overlap":
-        archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES]
+        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/baseline.json') as json_file:
+            arch_dict = json.load(json_file)
+        for i in range(0, len(arch_dict)):
+            archs_to_use.append(([frozenset(v) for v in arch_dict[str(i)]],indices[i]+1))
+    # elif arch_to_use=="overlap":
+    #     archs_to_use=[([x[0]],x[1]) for x in ARCHETYPES]
     elif arch_to_use=="learned":
-        archs_to_use=ARCHETYPES_LEARNED
+        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/learned.json') as json_file:
+            arch_dict = json.load(json_file)
+        for i in range(0, len(arch_dict)):
+            archs_to_use.append(([frozenset(v) for v in arch_dict[str(i)]],indices[i]+1))
     elif arch_to_use=="masters":
         master_archetypes=[]
         mapping_archetypes={}
-        indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
+
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/multiple_masters.json') as json_file:
             arch_dict=json.load(json_file)
         for i in range(0,len(arch_dict)):
@@ -232,7 +219,6 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
             for key in range(0,len(arch_dict["0"])):
                 if key!=25:
                     master=arch_dict[str(i)][str(key)]
-
                     for z in master:
                         archs.append(frozenset(z))
                         if frozenset(z) in mapping_archetypes.keys():
@@ -246,15 +232,12 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
     count=1
 
     for page in powerpoint.pages:
-        print(count, total_pages)
         count+=1
-        print(page.RA)
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
         if arch_to_use!="masters":
             archetypes.append(possible_archetypes[0][0])
         else:
             master_archetypes.append(possible_archetypes)
-    print("LEN",len(arch_dict),len(arch_dict["0"]))
     if arch_to_use=="masters":
         counts={}
         for i in range(0,len(arch_dict["0"])):
@@ -264,11 +247,9 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
                 if pos[1]!=frozenset():
                     for belongs_to in mapping_archetypes[pos[1]]:
                         counts[belongs_to]+=1
-        print("COUNTS = ",counts)
         for ma in master_archetypes:
             best_arch=None
             best_score=-1
-            print("POS",pos[1])
             for pos in ma:
 
 
@@ -280,7 +261,6 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
                     if best_map>best_score:
                         best_arch=pos[0]
             archetypes.append(best_arch)
-            print(best_arch)
     return archetypes,[]
 
 def remove_overlapping(RA_set):
@@ -328,7 +308,6 @@ def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
     if solutions!=[]:
         return solutions,1
     elif recursive:
-        print("closest")
         return select_closest(RA,n, archs_to_use, cutoff)
     else:
         return None,0
