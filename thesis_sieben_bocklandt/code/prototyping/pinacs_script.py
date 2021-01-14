@@ -16,9 +16,9 @@ def main():
     parser.add_argument("--exp-name",default="baseline")
     parser.add_argument("--archetypes",default="baseline")
     parser.add_argument("--master",default="thesis_sieben_bocklandt/code/prototyping/MasterTemplate.pptx")
-    parser.add_argument("--force",action="store_true", default=True)
+    parser.add_argument("--force",action="store_true")
     parser.add_argument("--cutoff",default=2)
-    parser.add_argument("--equal-size",default=True,action="store_true")
+    parser.add_argument("--equal-size",action="store_true")
     args = parser.parse_args()
 
 
