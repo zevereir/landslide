@@ -129,7 +129,7 @@ def get_full_mappings(enc1,enc2,n1,n2):
 
 
 
-@lru_cache(maxsize=100000, typed=False)
+@lru_cache(maxsize=None, typed=False)
 def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     #enc1 is always the longest
     if in_n1>=in_n2:
