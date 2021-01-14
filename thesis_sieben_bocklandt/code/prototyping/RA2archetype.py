@@ -3,6 +3,7 @@ from functools import lru_cache
 import json
 from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
+import thesis_sieben_bocklandt.code.prototyping.globals as glob
 # TITLE_SLIDE=({"title+0","first_slide"},1)
 # TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
 # TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
@@ -129,8 +130,9 @@ def get_full_mappings(enc1,enc2,n1,n2):
 
 
 
-@lru_cache(maxsize=250000, typed=False)
+@lru_cache(maxsize=None, typed=False)
 def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
+    glob.numb_substitution+=1
     #enc1 is always the longest
     if in_n1>=in_n2:
         enc1=in_enc1
@@ -189,13 +191,12 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     return max_dist,False, best_mapping
 
 
-def RA2archetype(powerpoint, arch_to_use, cutoff):
+def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
+    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
     met daarin de juiste geanoteerde content_indexes die later samen met de categorized xml terug de slide kunnen opbouwen."""
-
-    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
     archs_to_use=[]
     if arch_to_use=="baseline":
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/baseline.json') as json_file:
@@ -209,10 +210,10 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             archs_to_use.append(([frozenset(v) for v in arch_dict[str(i)]],indices[i]+1))
-
     elif arch_to_use=="masters":
         master_archetypes=[]
         mapping_archetypes={}
+
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/multiple_masters.json') as json_file:
             arch_dict=json.load(json_file)
         for i in range(0,len(arch_dict)):
@@ -233,9 +234,13 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
     count=1
 
     for page in powerpoint.pages:
-        print(count,total_pages)
-        count+=1
-        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
+        glob.init()
+
+
+
+        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff)
+        print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
+        count += 1
         if arch_to_use!="masters":
             archetypes.append(possible_archetypes[0][0])
         else:
@@ -253,8 +258,6 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
             best_arch=None
             best_score=-1
             for pos in ma:
-
-
                 if pos[1] == frozenset():
                     best_arch = pos[0]
                 else:
@@ -263,7 +266,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
                     if best_map>best_score:
                         best_arch=pos[0]
             archetypes.append(best_arch)
-    print(archetypes)
+
     return archetypes,[]
 
 def remove_overlapping(RA_set):
@@ -286,7 +289,7 @@ def remove_overlapping(RA_set):
         lists=new_lists[:]
     return [(set(l),n) for l in lists]
 
-def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
+def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False):
 
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
@@ -296,22 +299,38 @@ def find_archetype(RA,n, recursive, archs_to_use, cutoff=0):
     best_simil=0
     best_archetype=None
     best_mapping=None
+    glob.numb_iterations+=1
     if n>8:
-        return [(ContentOnly(range(0,n)),set())],0
+        return [(ContentOnly(range(0,n)),frozenset())],0
     solutions=[]
+    best_dist=-1
+    best_arch=None
     for index in range(0,len(archs_to_use)):
         #remove_overlapping(ARCHETYPES[index]):
         archie = archs_to_use[index]
         archetype=archie[0]
         archetype_length=archie[1]
-        for arch in archetype:
-            dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length)
-            if solution:
-                solutions.append((make_archetype(index,n,mapping, RA),arch))
+        if (not equal_size and n>=archetype_length) or archetype_length==n:
+            for arch in archetype:
+                dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length)
+                if not subset and solution:
+                    solutions.append((make_archetype(index,n,mapping, RA),arch))
+                elif subset and solution and dist>best_dist:
+                    best_dist=dist
+                    best_arch=[(make_archetype(index,n,mapping, RA),arch)]
+    if (not equal_size or subset) and best_arch!=None:
+        return best_arch,best_dist
+    elif subset:
+
+        return [[(ContentOnly(range(0,n)),frozenset())]]
+
     if solutions!=[]:
+
         return solutions,1
     elif recursive:
-        return select_closest(RA,n, archs_to_use, cutoff)
+        solutions=select_closest(RA,n, archs_to_use, cutoff, equal_size)
+
+        return solutions[0],1
     else:
         return None,0
 def make_archetype(archetype,n,mapping, RA):
@@ -425,7 +444,7 @@ def change_overlapping(relation):
             else:
                 return "b"
 
-def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff):
+def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equal_size):
     positions = ["middelmiddel", "middelboven", "rechtsboven", "rechtsmiddel", "rechtsonder", "middelonder",
                  "linksonder", "linksmiddel", "linksboven"]
     relations = ["b", "m", "o", "d", "s", "f", "eq"]#, "fi", "si", "di", "oi", "mi", "bi"]
@@ -467,7 +486,7 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff):
                 z[i[0]]=relations[i[1]]+element[element.index("-"):]
             else:
                 z[i[0]] = positions[i[1]] + +element[element.index("+"):]
-        archetype,simil = find_archetype(set(z), amount, False, archs)
+        archetype,simil = find_archetype(set(z), amount, False, archs,equal_size, cutoff, False)
         if simil==1:
             solutions.append(archetype)
     if solutions!=[]:
@@ -475,12 +494,15 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff):
     return best_arch,best_simil
 
 from datetime import datetime
-def select_closest(RA_set,amount, archs, cutoff):
+def select_closest(RA_set,amount, archs, cutoff, equal_size):
+
 
     """
    Iterative deepening op de RA-matrix
     """
     #aantal elementen in de bovendriehoeksmatrix
+    if amount>5:
+        return find_archetype(RA_set, amount, False, archs, False, cutoff, True)
     max_amount_changes = int(amount + (amount * amount - amount) / 2)
     extra = 0
     mapping = {}
@@ -511,9 +533,9 @@ def select_closest(RA_set,amount, archs, cutoff):
             for combo in combinations:
                 # resolve 1 combination of changes
                 new_RA = list(RA_set)
-                archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs, cutoff)
+                archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs,cutoff,equal_size)
                 if simil==1:
-                    return archetype,simil
+                    return archetype[0],simil
                 if simil>=best_simil and archetype!=None:
                     best_simil=simil
                     best_arch=archetype
@@ -551,6 +573,6 @@ def select_closest(RA_set,amount, archs, cutoff):
     #     if len(RA_set) > 0:
     #         f.write(str((RA_set, amount)) + "\n")
 
-    return [(ContentOnly(range(0,amount)),frozenset())],0
+    return find_archetype(RA_set,amount,False,archs,equal_size,cutoff,True)
 
 
