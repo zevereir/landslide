@@ -227,7 +227,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
                             mapping_archetypes[frozenset(z)].add(int(key))
                         else:
                             mapping_archetypes[frozenset(z)]={int(key)}
-            archs_to_use[i]=(archs,indices[i]+1)
+            archs_to_use.append((archs,indices[i]+1))
 
     archetypes=[]
     total_pages=len(powerpoint.pages)
