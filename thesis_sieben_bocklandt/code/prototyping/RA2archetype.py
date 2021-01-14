@@ -129,7 +129,7 @@ def get_full_mappings(enc1,enc2,n1,n2):
 
 
 
-@lru_cache(maxsize=None, typed=False)
+@lru_cache(maxsize=250000, typed=False)
 def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     #enc1 is always the longest
     if in_n1>=in_n2:
@@ -190,11 +190,12 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
 
 
 def RA2archetype(powerpoint, arch_to_use, cutoff):
-    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
     met daarin de juiste geanoteerde content_indexes die later samen met de categorized xml terug de slide kunnen opbouwen."""
+
+    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
     archs_to_use=[]
     if arch_to_use=="baseline":
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/baseline.json') as json_file:
@@ -208,10 +209,10 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             archs_to_use.append(([frozenset(v) for v in arch_dict[str(i)]],indices[i]+1))
+
     elif arch_to_use=="masters":
         master_archetypes=[]
         mapping_archetypes={}
-
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/multiple_masters.json') as json_file:
             arch_dict=json.load(json_file)
         for i in range(0,len(arch_dict)):
@@ -232,6 +233,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
     count=1
 
     for page in powerpoint.pages:
+        print(count,total_pages)
         count+=1
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use, cutoff)
         if arch_to_use!="masters":
@@ -261,6 +263,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff):
                     if best_map>best_score:
                         best_arch=pos[0]
             archetypes.append(best_arch)
+    print(archetypes)
     return archetypes,[]
 
 def remove_overlapping(RA_set):
