@@ -187,7 +187,6 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     # elif in_n2<=in_n1 and jaccard(enc2,enc1&enc2)==1.0:
     #     return max_dist,True,mapping_standard
     else:
-        max_dist=0
         best_mapping=mapping_standard
         # title1=None
         # title2=None
@@ -197,7 +196,6 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
         #     if "title+"+str(i) in enc2:
         #         title2=i
         all_mappings=get_full_mappings(frozenset(enc1),frozenset(enc2),n1,n2, equal_size and not subset)
-
         #print("ALL_MAPPINGS",all_mappings)
         for mapping in all_mappings:#get_mappings(title1,title2,n1,n2):
             if len(mapping)!=0:
@@ -230,12 +228,14 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
 
     if n1 > n2:
         #print("Reverse")
+
         reversed_mapping = {}
         for i in best_mapping.keys():
-            reversed_mapping[alphabet.index(best_mapping[i])] = i
+            if best_mapping[i] in alphabet:
+                reversed_mapping[alphabet.index(best_mapping[i])] = i
         for i in range(0, n1):
-            if str(i) not in reversed_mapping.keys():
-                reversed_mapping[str(i)] = len(reversed_mapping)
+            if i not in reversed_mapping.keys():
+                reversed_mapping[i] = len(reversed_mapping)
         best_mapping = reversed_mapping
     else:
         #print("normal")
@@ -246,7 +246,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     return max_dist,False, best_mapping
 
 
-def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
+def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
     indices = [1,1,2,3,4,1,0,2,1,0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
@@ -291,12 +291,12 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
     glob.init_count()
     for page in powerpoint.pages:
         glob.init()
-        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff)
-        print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
+        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
+        #print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
         count += 1
         if arch_to_use!="masters":
             archetypes.append(possible_archetypes[0][0])
-            print("Possible archertypes",possible_archetypes[0][0])
+            #print(possible_archetypes[0][0])
         else:
             master_archetypes.append(possible_archetypes)
     if arch_to_use=="masters":
@@ -320,7 +320,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
                     if best_map>best_score:
                         best_arch=pos[0]
             archetypes.append(best_arch)
-    print("Gemiddelde mappings",glob.numb_mappings,glob.count_mappings, glob.numb_mappings/glob.count_mappings)
+    #print("Gemiddelde mappings",glob.numb_mappings,glob.count_mappings, glob.numb_mappings/glob.count_mappings)
     return archetypes,[]
 
 def remove_overlapping(RA_set):
@@ -343,7 +343,7 @@ def remove_overlapping(RA_set):
         lists=new_lists[:]
     return [(set(l),n) for l in lists]
 
-def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False):
+def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False, beam=None):
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
     1. er worden een aantal constraints bepaald
@@ -356,34 +356,31 @@ def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=Fa
     if n>8:
         return [(ContentOnly(range(0,n)),frozenset())],0
     solutions=[]
-    best_dist=-1
+    best_dist=0
     best_arch=None
     for index in range(0,len(archs_to_use)):
         #remove_overlapping(ARCHETYPES[index]):
         archie = archs_to_use[index]
         archetype=archie[0]
         archetype_length=archie[1]
-        if (not equal_size and n>=archetype_length) or archetype_length==n:
+        if ((not equal_size or subset) and n>=archetype_length) or archetype_length==n:
             for arch in archetype:
                 dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length, equal_size,subset)
                 if not subset and solution:
-
                     solutions.append((make_archetype(index,n,mapping, RA),arch))
+                    break;
                 elif subset and dist>best_dist:
                     #print("mapping",mapping)
                     best_dist=dist
-
                     best_arch=[(make_archetype(index,n,mapping, RA),arch)]
     if (not equal_size or subset) and best_arch!=None:
         return best_arch,best_dist
     elif subset:
         return [[(ContentOnly(range(0,n)),frozenset())]],0
-
     if solutions!=[]:
-
         return solutions,1
     elif recursive:
-        solutions=select_closest(RA,n, archs_to_use, cutoff, equal_size)
+        solutions=select_closest(RA,n, archs_to_use, cutoff, equal_size, beam)
 
         return solutions[0],1
     else:
@@ -471,7 +468,6 @@ def make_archetype(archetype,n,mapping, RA):
         return BackgroundQuote(int(title),int(background))
     #Background Only
     elif archetype==9:
-        print(reversed_mapping)
         background=str(reversed_mapping[0])
         return BackgroundOnly(int(background))
 
@@ -501,7 +497,7 @@ def change_overlapping(relation):
             else:
                 return "b"
 
-def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equal_size):
+def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equal_size, beam_change):
 
     positions = ["middelmiddel", "middelboven", "rechtsboven", "rechtsmiddel", "rechtsonder", "middelonder",
                  "linksonder", "linksmiddel", "linksboven"]
@@ -532,27 +528,31 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equ
     best_change=None
     solutions=[]
     for change in itertools.product(*combinations):
-        z=new_RA[:]
-        for i in change:
-            element=new_RA[i[0]]
-            if "_" in element:
-                z[i[0]]=relations[i[1]]+element[element.index("-"):]
-            else:
-                z[i[0]] = positions[i[1]] + +element[element.index("+"):]
+
+        if (beam_change!=[] and set(beam_change).issubset(set(change))) or beam_change==[]:
+            #print("CHANGE",change)
+            z=new_RA[:]
+            for i in change:
+                element=new_RA[i[0]]
+                if "_" in element:
+                    z[i[0]]=relations[i[1]]+element[element.index("-"):]
+                else:
+                    z[i[0]] = positions[i[1]] + +element[element.index("+"):]
 
 
-        archetype,simil = find_archetype(set(z), amount, False, archs,equal_size, cutoff, True)
-        if simil>best_simil:
-            best_simil=simil
-        if simil==1:
-            solutions.append(archetype)
+            archetype,simil = find_archetype(set(z), amount, False, archs,equal_size, cutoff, True)
+            if simil>best_simil:
+                best_simil=simil
+                best_arch=archetype
+                best_change=change
+            if simil==1:
+                solutions.append(archetype)
     if solutions!=[]:
-        return solutions,1
-
-    return best_arch,best_simil
+        return solutions,1,[]
+    return best_arch,best_simil, best_change
 
 from datetime import datetime
-def select_closest(RA_set,amount, archs, cutoff, equal_size):
+def select_closest(RA_set,amount, archs, cutoff, equal_size,beam):
 
 
     """
@@ -569,11 +569,9 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
         if (i + sum(range(0, extra + 1))) % amount == 0 and i > 0:
             extra += 1
         mapping[i] = extra
-    best_change=None
-    best_simil_change=0
+    best_changes=[]
+    beam_search=[]
     for amount_changes in range(1, max_amount_changes+1):
-        # print("AMOUNT OF CHANGES",amount_changes)
-        print("best_change",best_change)
         if amount_changes>cutoff:
             return find_archetype(RA_set,amount,False,archs,equal_size,cutoff,True)
         #alle combinaties om linker, rechter en beide relaties om te zetten: bvb:
@@ -585,7 +583,6 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
         best_arch=None
 
         for changes_index in range(0,len(possible_changes)):
-            #print("changes",changes_index,len(possible_changes),":",possible_changes[changes_index])
             changes=possible_changes[changes_index]
             all_changes = []
             for change in changes:
@@ -593,22 +590,39 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
                 x_index = (change + extra) // amount
                 y_index = (change + extra) % amount
                 all_changes.append((x_index, y_index))
-            remove_same=[x for x in all_changes if x[0]==x[1]]
+            remove_same = [x for x in all_changes if x[0] == x[1]]
             if len(remove_same)==0:
-                for combo in combinations:
-                    # resolve 1 combination of changes
-                    new_RA = list(RA_set)[:]
-                    archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs,cutoff,equal_size)
-                    if simil==1:
-                        return archetype[0],simil
-                    if simil>best_simil_change:
-                        best_simil_change=simil
-                        best_change=all_changes
-                    if simil>=best_simil and archetype!=None:
-                        best_simil=simil
-                        best_arch=archetype
-        if best_arch!=None:
-            return best_arch,best_simil
+                valid_beam = beam_search == []
+                beam_change=[]
+                if beam != None and beam_search != []:
+                    for beam_changes in beam_search:
+                        if (set(beam_changes[0]).issubset(set(all_changes))):
+                            beam_change=beam_changes[1]
+                            valid_beam = True
+                            break;
+                if beam==None or (beam!=None and valid_beam):
+
+                    for combo in combinations:
+                        # resolve 1 combination of changes
+                        new_RA = list(RA_set)[:]
+                        archetype, simil, best_change=change_overlapping_full(all_changes,combo,new_RA,amount, archs,cutoff,equal_size, beam_change)
+                        if simil==1:
+                            return archetype[0],simil
+                        if (simil,all_changes, best_change) not in best_changes:
+                            best_changes.append((simil,all_changes, best_change))
+                        if simil>=best_simil and archetype!=None:
+                            best_simil=simil
+                            best_arch=archetype
+        if beam!=None:
+            beam_search = sorted(best_changes)
+            beam_search.reverse()
+            if len(beam_search)>=beam:
+                beam_search=[(x[1],x[2]) for x in beam_search[0:beam]]
+            else:
+                beam_search=[(x[1],x[2]) for x in beam_search]
+
+        # if best_arch!=None:
+        #     return best_arch,best_simil
                 # for i in range(0, len(new_RA)):
                 #     relation = new_RA[i]
                 #     if "background" not in relation and "title" not in relation and "content" not in relation and "first_slide" not in relation:

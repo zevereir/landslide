@@ -21,10 +21,13 @@ def main():
     parser.add_argument("--force",action="store_true")
     parser.add_argument("--cutoff",default=2)
     parser.add_argument("--equal-size",action="store_true")
+    parser.add_argument("--beam-size",default=None)
     args = parser.parse_args()
 
-
+    beam=args.beam_size
     name_output=args.archetypes+"_"+args.exp_name+"_"+str(args.cutoff)
+    if beam!=None:
+        beam=int(beam)
 
     source = Path(args.data).resolve()
     force_override=args.force
@@ -35,7 +38,7 @@ def main():
     output = source
     if not (output / name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, xml_file)
-        archetypes, best_simil = RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size)
+        archetypes, best_simil = RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam)
         used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
                                       [(page.RA, page.n) for page in powerpoint.pages],False)
         scores = ppt_pdf_similarity(used_info, source / (data + "_preparsed.xml"), one_background)
