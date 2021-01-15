@@ -25,7 +25,7 @@ def main():
     args = parser.parse_args()
 
     beam=args.beam_size
-    name_output=args.archetypes+"_"+args.exp_name+"_"+str(args.cutoff)
+    name_output=args.archetypes+"_"+args.exp_name+"_"+str(args.cutoff)+"_"+str(beam)
     if beam!=None:
         beam=int(beam)
 
