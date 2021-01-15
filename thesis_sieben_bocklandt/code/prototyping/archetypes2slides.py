@@ -54,7 +54,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
         slide_width=prs.slide_width
         to_remove_as_good_element=set()
         if isinstance(archetype,TitleSlide):
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             to_remove_as_good_element.add(archetype.title)
             subscript=[]
             for i in archetype.subscript:
@@ -66,14 +66,14 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
             slide_title_slide(title,subscript,slide,used_content)
         elif isinstance(archetype,TitleSingleContent):
             placeholder_percentage.append(2 / nb_elements)
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             content=good_elements[archetype.content]
             to_remove_as_good_element.add(archetype.title)
             to_remove_as_good_element.add(archetype.content)
             slide=prs.slides.add_slide(prs.slide_layouts[SINGLE_CONTENT])
             slide_single_content(title,content,page_size,slide_height,slide_width,slide, output_directory,used_content)
         elif isinstance(archetype,SectionHeader):
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             to_remove_as_good_element.add(archetype.title)
             subscript = []
             for i in archetype.subscript:
@@ -85,7 +85,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
             slide_section_header(title,subscript,slide,used_content)
         elif isinstance(archetype,TitleDoubleContent):
             placeholder_percentage.append(3 / nb_elements)
-            title = good_elements[archetype.title].text
+            title = ""#good_elements[archetype.title].text
             to_remove_as_good_element.add(archetype.title)
             to_remove_as_good_element.add(archetype.left_content)
             to_remove_as_good_element.add(archetype.right_content)
@@ -97,7 +97,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
                                  output_directory,used_content)
         elif isinstance(archetype,TitleTripleContent):
             placeholder_percentage.append(4 / nb_elements)
-            title = good_elements[archetype.title].text
+            title = ""#good_elements[archetype.title].text
             left_content = good_elements[archetype.left_content]
             middle_content=good_elements[archetype.middle_content]
             right_content = good_elements[archetype.right_content]
@@ -110,7 +110,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
                                  slide,output_directory,used_content)
         elif isinstance(archetype,Comparison):
             placeholder_percentage.append(5 / nb_elements)
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             left_subtitle=good_elements[archetype.left_subtitle]
             right_subtitle = good_elements[archetype.right_subtitle]
             left_content=good_elements[archetype.left_content]
@@ -124,7 +124,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
             slide_comparison(title,left_subtitle,right_subtitle,left_content,right_content,page_size,slide_height,slide_width,slide,output_directory, used_content)
         elif isinstance(archetype,TitleOnly):
             placeholder_percentage.append(1 / nb_elements)
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             to_remove_as_good_element.add(archetype.title)
             slide=prs.slides.add_slide(prs.slide_layouts[TITLE_ONLY])
             slide_title_only(title,slide, used_content)
@@ -140,7 +140,7 @@ def archetypes2slides(archetypes, tree, output_directory,ppt_path, RA=None, make
             slide_captioned_content(top_content,left_content,right_content,slide,output_directory, slide_height,slide_width,page_size, used_content)
         elif isinstance(archetype,BackgroundQuote):
             placeholder_percentage.append(2 / nb_elements)
-            title=good_elements[archetype.title].text
+            title=""#good_elements[archetype.title].text
             to_remove_as_good_element.add(archetype.title)
             background=good_elements[archetype.background]
             to_remove_as_good_element.add(archetype.background)
