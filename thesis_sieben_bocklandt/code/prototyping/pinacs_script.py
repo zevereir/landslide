@@ -10,6 +10,8 @@ from thesis_sieben_bocklandt.code.prototyping.archetypes2slides import archetype
 from thesis_sieben_bocklandt.code.prototyping.work_with_scores import work_with_scores
 from thesis_sieben_bocklandt.code.prototyping.ppt_pdf_similarity import ppt_pdf_similarity
 import argparse
+#python thesis_sieben_bocklandt/code/prototyping/pinacs_script.py --data thesis_sieben_bocklandt/Data/test/RA_data --archetypes learned --force --equal-size --exp-name learned --cutoff 2
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data",default=None)

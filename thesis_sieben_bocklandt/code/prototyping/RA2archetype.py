@@ -17,6 +17,9 @@ import thesis_sieben_bocklandt.code.prototyping.globals as glob
 # ARCHETYPES=[TITLE_SLIDE,TITLE_SINGLE_CONTENT,TITLE_DOUBLE_CONTENT,TITLE_TRIPLE_CONTENT,COMPARISON,SECTION_HEADER,TITLE_ONLY,CAPTIONED_CONTENT,BACKGROUND_QUOTE,BACKGROUND_ONLY]
 # NAMES=["TITLE_SLIDE","TITLE_SINGLE_CONTENT","TITLE_DOUBLE_CONTENT","TITLE_TRIPLE_CONTENT","COMPARISON","SECTION_HEADER","TITLE_ONLY","CAPTIONED_CONTENT","BACKGROUND_QUOTE","BACKGROUND_ONLY"]
 
+alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
+            "V", "W", "X", "Y", "Z"]
+
 
 def jaccard(list1, list2):
     intersection = len(list(set(list1).intersection(list2)))
@@ -34,15 +37,16 @@ def evaluate_mapping(enc,mapping):
                 line_index=numbers.index("_")
                 number1=numbers[:line_index]
                 number2=numbers[line_index+1:]
-                if number1 not in mapping.keys():
-                    mapping[number1]=number1
-                if number2 not in mapping.keys():
-                    mapping[number2]=number2
-                new_enc.add(i[:plus_index]+mapping[number1]+"_"+mapping[number2])
+
+                if int(number1) not in mapping.keys():
+                    mapping[int(number1)]=number1
+                if int(number2) not in mapping.keys():
+                    mapping[int(number2)]=number2
+                new_enc.add(i[:plus_index]+mapping[int(number1)]+"_"+mapping[int(number2)])
             else:
-                if numbers not in mapping.keys():
-                    mapping[numbers]=numbers
-                new_enc.add(i[:plus_index] + mapping[numbers])
+                if int(numbers) not in mapping.keys():
+                    mapping[int(numbers)]=numbers
+                new_enc.add(i[:plus_index] + mapping[int(numbers)])
     return new_enc
 
 def get_mappings(title1,title2,n1,n2):
@@ -59,15 +63,10 @@ def get_mappings(title1,title2,n1,n2):
     return mappings
 
 
-def get_full_mappings(enc1,enc2,n1,n2):
-    mappings = []
-    range_1 = range(0,n1)
-    permutations = list(itertools.permutations(range_1, n2))
+def get_full_mappings(enc1,enc2,n1,n2, equal):
     possibilities={}
     possibilities2={}
-
     for i in enc2:
-
         if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
             z = ''.join([x for x in i if not x.isdigit()])[:-1]
 
@@ -92,46 +91,80 @@ def get_full_mappings(enc1,enc2,n1,n2):
 
             if "_" in i:
                 numbers = i[-len(i) + len(z):].split("_")
-                x1 = int(numbers[0])
-                x2 = int(numbers[1])
+                x1 = alphabet[int(numbers[0])]
+                x2 = alphabet[int(numbers[1])]
                 if z in possibilities2.keys():
                     possibilities2[z].append((x1, x2))
                 else:
                     possibilities2[z] = [((x1, x2))]
             else:
-                numbers = int(i[-len(i) + len(z):])
+                numbers = alphabet[int(i[-len(i) + len(z):])]
                 if z in possibilities2.keys():
                     possibilities2[z].append((numbers,))
                 else:
                     possibilities2[z] = [(numbers,)]
-    possible_combinations=set()
+    possible_combinations={}
     for i in possibilities.keys()&possibilities2.keys():
         val1=possibilities[i]
         val2=possibilities2[i]
         x1=set([x[0] for x in val1])
         x2=set([x[0] for x in val2])
         for comb in list(itertools.product(x1,x2)):
-            possible_combinations.add(comb)
+            if comb[0] in possible_combinations.keys():
+                possible_combinations[comb[0]].add(comb[1])
+            else:
+                possible_combinations[comb[0]]={comb[1]}
+
         if len(val1[0])>1:
             y1 = set([x[1] for x in val1])
             y2 = set([x[1] for x in val2])
             for comb in list(itertools.product(y1,y2)):
-                possible_combinations.add(comb)
-    for perm in permutations:
-        mapping={}
-        possible=True
-        for i in range(0,n2):
-            if (i,perm[i]) not in possible_combinations:
-                possible=False
-            mapping[str(i)]=str(perm[i])
-        if possible:
-            mappings.append(mapping)
-    return mappings
+
+                if comb[0] in possible_combinations.keys():
+                    possible_combinations[comb[0]].add(comb[1])
+                else:
+                    possible_combinations[comb[0]] = {comb[1]}
+    #("POSSIBLE COMBINATIONS",possible_combinations)
+    mapping={}
+    changes=True
+    while changes:
+        changes=False
+        for i in possible_combinations.keys():
+            if len(possible_combinations[i])==1:
+                changes=True
+                mapping[i]=(possible_combinations.pop(i)).pop()
+                for x in possible_combinations.keys():
+                    if mapping[i] in possible_combinations[x]:
+                        possible_combinations[x].remove(mapping[i])
+                break;
+    rest_pos=[]
+    for i in possible_combinations.keys():
+        rest_pos.append(list(itertools.product({i},possible_combinations[i])))
+    all_combinations=list(itertools.product(*rest_pos))
+    new_mappings=[]
+    for w in all_combinations:
+        p = {j[1] for j in w}
+        if len(p) == len(w):
+            current_mapping=mapping.copy()
+            for z in w:
+                current_mapping[z[0]]=z[1]
+            new_mappings.append(current_mapping)
+    result=[]
+    if equal:
+        for p in new_mappings:
+            if len(p.keys())==n2:
+                result.append(p)
+    else:
+        result=new_mappings
+
+    glob.numb_mappings+=len(result)
+    glob.count_mappings+=1
+    return result
 
 
 
 @lru_cache(maxsize=None, typed=False)
-def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
+def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     glob.numb_substitution+=1
     #enc1 is always the longest
     if in_n1>=in_n2:
@@ -147,13 +180,15 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
     max_dist=jaccard(enc1,enc2)
     mapping_standard={}
     for i in range(0,n1):
-        mapping_standard[str(i)]=str(i)
+        mapping_standard[i]=i
+    #print("STANDARD",mapping_standard)
     if max_dist==1.0:
         return 1.0,True,mapping_standard
     # elif in_n2<=in_n1 and jaccard(enc2,enc1&enc2)==1.0:
     #     return max_dist,True,mapping_standard
     else:
-        best_mapping={}
+        max_dist=0
+        best_mapping=mapping_standard
         # title1=None
         # title2=None
         # for i in range(0,n1):
@@ -161,38 +196,58 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2):
         #         title1=i
         #     if "title+"+str(i) in enc2:
         #         title2=i
+        all_mappings=get_full_mappings(frozenset(enc1),frozenset(enc2),n1,n2, equal_size and not subset)
 
-        for mapping in get_full_mappings(frozenset(enc1),frozenset(enc2),n1,n2):#get_mappings(title1,title2,n1,n2):
-            if mapping!=mapping_standard:
-                new_enc=evaluate_mapping(enc2,mapping)
-                new_jacard=jaccard(enc1,new_enc)
-                if max_dist<new_jacard:
-                    max_dist=new_jacard
-                    best_mapping=mapping
+        #print("ALL_MAPPINGS",all_mappings)
+        for mapping in all_mappings:#get_mappings(title1,title2,n1,n2):
+            if len(mapping)!=0:
+                if mapping!=mapping_standard:
+                    #print("MAPPING BEFORE",mapping)
+                    new_enc=evaluate_mapping(enc2,mapping)
+                    #print("MAPPING AFTER", mapping)
+                    new_jacard=jaccard(enc1,new_enc)
+                    if max_dist<new_jacard:
+                        #print("NEW BEST MAPPING",mapping)
+                        max_dist=new_jacard
+                        best_mapping=mapping
 
-                if max_dist==1.0:# or (in_n2<=in_n1 and jaccard(new_enc,enc1&new_enc)==1.0):
-                    if n1>n2:
-                        reversed_mapping = {}
-                        for i in mapping.keys():
-                            reversed_mapping[mapping[i]] = i
-                        for i in range(0,n1):
-                            if str(i) not in reversed_mapping.keys():
-                                reversed_mapping[str(i)]=str(len(reversed_mapping))
-                        mapping=reversed_mapping
-                    return max_dist, True,mapping
+                    if max_dist==1.0:# or (in_n2<=in_n1 and jaccard(new_enc,enc1&new_enc)==1.0):
+                        if n1>n2:
+                            reversed_mapping = {}
+                            for i in mapping.keys():
+                                reversed_mapping[alphabet.index(mapping[i])] = i
+                            for i in range(0,n1):
+                                if i not in reversed_mapping.keys():
+                                    reversed_mapping[i]=str(len(reversed_mapping))
+                            mapping=reversed_mapping
+                        else:
+                            for i in mapping.keys():
+                                if mapping[i] in alphabet:
+                                    mapping[i]=alphabet.index(mapping[i])
+
+                        return max_dist, True,mapping
+    #print("OP_MAPPING",best_mapping)
+
     if n1 > n2:
+        #print("Reverse")
         reversed_mapping = {}
         for i in best_mapping.keys():
-            reversed_mapping[best_mapping[i]] = i
+            reversed_mapping[alphabet.index(best_mapping[i])] = i
         for i in range(0, n1):
             if str(i) not in reversed_mapping.keys():
-                reversed_mapping[str(i)] = str(len(reversed_mapping))
+                reversed_mapping[str(i)] = len(reversed_mapping)
         best_mapping = reversed_mapping
+    else:
+        #print("normal")
+        for i in best_mapping.keys():
+            if best_mapping[i] in alphabet:
+                best_mapping[i] = alphabet.index(best_mapping[i])
+    #print("Best_mapping",best_mapping)
     return max_dist,False, best_mapping
 
 
 def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
-    indices = [1, 1, 1, 2, 3, 4, 0, 2, 1, 0]
+    indices = [1,1,2,3,4,1,0,2,1,0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
@@ -222,7 +277,8 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
                 if key!=25:
                     master=arch_dict[str(i)][str(key)]
                     for z in master:
-                        archs.append(frozenset(z))
+                        if frozenset(z) not in archs:
+                            archs.append(frozenset(z))
                         if frozenset(z) in mapping_archetypes.keys():
                             mapping_archetypes[frozenset(z)].add(int(key))
                         else:
@@ -232,17 +288,15 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
     archetypes=[]
     total_pages=len(powerpoint.pages)
     count=1
-
+    glob.init_count()
     for page in powerpoint.pages:
         glob.init()
-
-
-
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff)
         print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
         count += 1
         if arch_to_use!="masters":
             archetypes.append(possible_archetypes[0][0])
+            print("Possible archertypes",possible_archetypes[0][0])
         else:
             master_archetypes.append(possible_archetypes)
     if arch_to_use=="masters":
@@ -266,7 +320,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size):
                     if best_map>best_score:
                         best_arch=pos[0]
             archetypes.append(best_arch)
-
+    print("Gemiddelde mappings",glob.numb_mappings,glob.count_mappings, glob.numb_mappings/glob.count_mappings)
     return archetypes,[]
 
 def remove_overlapping(RA_set):
@@ -290,7 +344,6 @@ def remove_overlapping(RA_set):
     return [(set(l),n) for l in lists]
 
 def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False):
-
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
     1. er worden een aantal constraints bepaald
@@ -312,17 +365,19 @@ def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=Fa
         archetype_length=archie[1]
         if (not equal_size and n>=archetype_length) or archetype_length==n:
             for arch in archetype:
-                dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length)
+                dist,solution,mapping=optimal_substitution(frozenset(RA),frozenset(arch),n,archetype_length, equal_size,subset)
                 if not subset and solution:
+
                     solutions.append((make_archetype(index,n,mapping, RA),arch))
-                elif subset and solution and dist>best_dist:
+                elif subset and dist>best_dist:
+                    #print("mapping",mapping)
                     best_dist=dist
+
                     best_arch=[(make_archetype(index,n,mapping, RA),arch)]
     if (not equal_size or subset) and best_arch!=None:
         return best_arch,best_dist
     elif subset:
-
-        return [[(ContentOnly(range(0,n)),frozenset())]]
+        return [[(ContentOnly(range(0,n)),frozenset())]],0
 
     if solutions!=[]:
 
@@ -339,7 +394,7 @@ def make_archetype(archetype,n,mapping, RA):
         reversed_mapping[mapping[i]]=i
     #Titleslide
     if archetype==0:
-        title_index = reversed_mapping["0"]
+        title_index = str(reversed_mapping[0])
         subtext=[]
         for index in range(0,n):
             if "bi-y+"+title_index+"_"+str(index) in RA and "overlapping-x+"+title_index+"_"+str(index) in RA:
@@ -348,24 +403,25 @@ def make_archetype(archetype,n,mapping, RA):
 
     #Title single content
     elif archetype==1:
-        title_index = reversed_mapping["0"]
-        single_content=reversed_mapping["1"]
+        title_index = str(reversed_mapping[0])
+        single_content=str(reversed_mapping[1])
         return TitleSingleContent(int(title_index),int(single_content))
     #Title double content
     elif archetype==2:
-        title_index=reversed_mapping["0"]
-        double_content_1=reversed_mapping["1"]
-        double_content_2=reversed_mapping["2"]
+        title_index=str(reversed_mapping[0])
+        double_content_1=str(reversed_mapping[1])
+        double_content_2=str(reversed_mapping[2])
         if "b-x+"+double_content_1+"_"+double_content_2 in RA or "m-x+"+double_content_1+"_"+double_content_2 in RA:
             return TitleDoubleContent(int(title_index),int(double_content_1),int(double_content_2))
         else:
             return TitleDoubleContent(int(title_index),int(double_content_2),int(double_content_1))
     #Title triple content
     elif archetype==3:
-        title_index = reversed_mapping["0"]
-        triple_content_1 = reversed_mapping["1"]
-        triple_content_2 = reversed_mapping["2"]
-        triple_content_3 = reversed_mapping["3"]
+
+        title_index = str(reversed_mapping[0])
+        triple_content_1 = str(reversed_mapping[1])
+        triple_content_2 = str(reversed_mapping[2])
+        triple_content_3 = str(reversed_mapping[3])
         permutations = set(itertools.permutations([triple_content_1,triple_content_2,triple_content_3]))
         for i in permutations:
             if ("b-x+" + i[0] + "_" + i[1] in RA or "m-x+" + i[0] + "_" + i[1] in RA) and ("b-x+" + i[1] + "_" + i[2] in RA or "m-x+" + i[1] + "_" + i[2] in RA):
@@ -373,11 +429,11 @@ def make_archetype(archetype,n,mapping, RA):
         return TitleTripleContent(int(title_index),triple_content_1,triple_content_2,triple_content_3)
     #Comparison
     elif archetype==4:
-        title_index = reversed_mapping["0"]
-        double_content_1 = reversed_mapping["1"]
-        double_content_2 = reversed_mapping["2"]
-        double_subcontent_1=reversed_mapping["3"]
-        double_subcontent_2 = reversed_mapping["4"]
+        title_index = str(reversed_mapping[0])
+        double_content_1 = str(reversed_mapping[1])
+        double_content_2 = str(reversed_mapping[2])
+        double_subcontent_1=str(reversed_mapping[3])
+        double_subcontent_2 = str(reversed_mapping[4])
         if "b-x+" + double_content_1 + "_" + double_content_2 in RA or "m-x+" + double_content_1 + "_" + double_content_2 in RA:
             if "b-x+" + double_subcontent_1 + "_" + double_subcontent_2 in RA or "m-x+" + double_subcontent_1 + "_" + double_subcontent_2 in RA:
                 return Comparison(int(title_index), int(double_content_1), int(double_content_2), int(double_subcontent_1),int(double_subcontent_2))
@@ -390,7 +446,7 @@ def make_archetype(archetype,n,mapping, RA):
                 return Comparison(int(title_index), int(double_content_2), int(double_content_1), int(double_subcontent_2),int(double_subcontent_1))
     #Section header
     elif archetype==5:
-        title_index = reversed_mapping["0"]
+        title_index = str(reversed_mapping[0])
         subtext = []
         for index in range(0, n):
             if "bi-y+" + title_index + "_" + str(index) in RA and "overlapping-x+" + title_index + "_" + str(
@@ -400,22 +456,23 @@ def make_archetype(archetype,n,mapping, RA):
 
     #Title Only
     elif archetype==6:
-        title_index = reversed_mapping["0"]
+        title_index = str(reversed_mapping[0])
         return TitleOnly(int(title_index))
     #Captioned Content
     elif archetype==7:
-        left_up=reversed_mapping["0"]
-        left_down=reversed_mapping["1"]
-        right=reversed_mapping["2"]
+        left_up=str(reversed_mapping[0])
+        left_down=str(reversed_mapping[1])
+        right=str(reversed_mapping[2])
         return CaptionedContent(int(left_up),int(left_down),int(right))
     #Background Quote
     elif archetype==8:
-        title=reversed_mapping["0"]
-        background=reversed_mapping["1"]
+        title=str(reversed_mapping[0])
+        background=str(reversed_mapping[1])
         return BackgroundQuote(int(title),int(background))
     #Background Only
     elif archetype==9:
-        background=reversed_mapping["0"]
+        print(reversed_mapping)
+        background=str(reversed_mapping[0])
         return BackgroundOnly(int(background))
 
 def change_overlapping(relation):
@@ -445,20 +502,15 @@ def change_overlapping(relation):
                 return "b"
 
 def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equal_size):
+
     positions = ["middelmiddel", "middelboven", "rechtsboven", "rechtsmiddel", "rechtsonder", "middelonder",
                  "linksonder", "linksmiddel", "linksboven"]
     relations = ["b", "m", "o", "d", "s", "f", "eq"]#, "fi", "si", "di", "oi", "mi", "bi"]
     binary_indices_to_change=[]
-    single_indices_to_change=[]
     for i in range(0,len(new_RA)):
         relation=new_RA[i]
         if "background" not in relation and "title" not in relation and "content" not in relation and "first_slide" not in relation:
             numbers = relation[relation.find("+") + 1:]
-            # if "_" not in numbers:
-            #     single_change = int(numbers)
-            #     if (single_change, single_change) in all_changes:
-            #         single_indices_to_change.append(i)
-            # else:
             change_1 = int(numbers[:numbers.find("_")])
             change_2 = int(numbers[numbers.find("_") + 1:])
             if (change_1, change_2) in all_changes or (change_2, change_1) in all_changes:
@@ -474,9 +526,10 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equ
     # for i in single_indices_to_change:
     #     combinations.append([(i,x) for x in range(0,9) if x!=positions.index(new_RA[i][:-2])])
     for i in binary_indices_to_change:
-        combinations.append([(i,x) for x in range(0,7) if x!=relations.index(new_RA[i][:-6])])
+        combinations.append([(i,x) for x in range(0,7) if x!=relations.index(new_RA[i][:new_RA[i].index("+")-2])])
     best_simil=0
     best_arch=None
+    best_change=None
     solutions=[]
     for change in itertools.product(*combinations):
         z=new_RA[:]
@@ -486,11 +539,16 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equ
                 z[i[0]]=relations[i[1]]+element[element.index("-"):]
             else:
                 z[i[0]] = positions[i[1]] + +element[element.index("+"):]
-        archetype,simil = find_archetype(set(z), amount, False, archs,equal_size, cutoff, False)
+
+
+        archetype,simil = find_archetype(set(z), amount, False, archs,equal_size, cutoff, True)
+        if simil>best_simil:
+            best_simil=simil
         if simil==1:
             solutions.append(archetype)
     if solutions!=[]:
         return solutions,1
+
     return best_arch,best_simil
 
 from datetime import datetime
@@ -511,10 +569,13 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
         if (i + sum(range(0, extra + 1))) % amount == 0 and i > 0:
             extra += 1
         mapping[i] = extra
-
+    best_change=None
+    best_simil_change=0
     for amount_changes in range(1, max_amount_changes+1):
+        # print("AMOUNT OF CHANGES",amount_changes)
+        print("best_change",best_change)
         if amount_changes>cutoff:
-            return [(ContentOnly(range(0,amount)),frozenset())],0
+            return find_archetype(RA_set,amount,False,archs,equal_size,cutoff,True)
         #alle combinaties om linker, rechter en beide relaties om te zetten: bvb:
         combinations = [z for v in [set(itertools.permutations(x)) for x in
                                     list(itertools.combinations_with_replacement(range(0, 3), amount_changes))] for z in
@@ -522,7 +583,9 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
         possible_changes=list(set(itertools.combinations(range(0, max_amount_changes), amount_changes)))
         best_simil=0
         best_arch=None
+
         for changes_index in range(0,len(possible_changes)):
+            #print("changes",changes_index,len(possible_changes),":",possible_changes[changes_index])
             changes=possible_changes[changes_index]
             all_changes = []
             for change in changes:
@@ -530,15 +593,20 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size):
                 x_index = (change + extra) // amount
                 y_index = (change + extra) % amount
                 all_changes.append((x_index, y_index))
-            for combo in combinations:
-                # resolve 1 combination of changes
-                new_RA = list(RA_set)
-                archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs,cutoff,equal_size)
-                if simil==1:
-                    return archetype[0],simil
-                if simil>=best_simil and archetype!=None:
-                    best_simil=simil
-                    best_arch=archetype
+            remove_same=[x for x in all_changes if x[0]==x[1]]
+            if len(remove_same)==0:
+                for combo in combinations:
+                    # resolve 1 combination of changes
+                    new_RA = list(RA_set)[:]
+                    archetype, simil=change_overlapping_full(all_changes,combo,new_RA,amount, archs,cutoff,equal_size)
+                    if simil==1:
+                        return archetype[0],simil
+                    if simil>best_simil_change:
+                        best_simil_change=simil
+                        best_change=all_changes
+                    if simil>=best_simil and archetype!=None:
+                        best_simil=simil
+                        best_arch=archetype
         if best_arch!=None:
             return best_arch,best_simil
                 # for i in range(0, len(new_RA)):
