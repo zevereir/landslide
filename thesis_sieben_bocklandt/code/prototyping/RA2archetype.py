@@ -299,7 +299,11 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
         #print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
         count += 1
         if arch_to_use!="masters":
-            archetypes.append(possible_archetypes[0][0])
+            try:
+                x=len(possible_archetypes[0][0])
+                archetypes.append(possible_archetypes[0][0][0])
+            except:
+                archetypes.append(possible_archetypes[0][0])
             #print(possible_archetypes[0][0])
         else:
             master_archetypes.append(possible_archetypes)
