@@ -319,11 +319,14 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
                 if pos[1] == frozenset():
                     best_arch = pos[0]
                 else:
-
                     best_map=max([counts[v] for v in mapping_archetypes[pos[1]]])
                     if best_map>best_score:
                         best_arch=pos[0]
-            archetypes.append(best_arch)
+            try:
+                x=len(best_arch)
+                archetypes.append(best_arch[0])
+            except:
+                archetypes.append(best_arch)
     #print("Gemiddelde mappings",glob.numb_mappings,glob.count_mappings, glob.numb_mappings/glob.count_mappings)
     return archetypes,[], times
 
