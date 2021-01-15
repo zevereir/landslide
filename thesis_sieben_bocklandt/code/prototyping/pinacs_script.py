@@ -38,11 +38,11 @@ def main():
     output = source
     if not (output / name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, xml_file)
-        archetypes, best_simil = RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam)
+        archetypes, best_simil, times= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam)
         used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
                                       [(page.RA, page.n) for page in powerpoint.pages],False)
         scores = ppt_pdf_similarity(used_info, source / (data + "_preparsed.xml"), one_background)
-        work_with_scores(scores, archetypes, source/"results",name_output, False,force_override)
+        work_with_scores(scores, archetypes,times, source/"results",name_output, False,force_override)
 
 
 if __name__ == "__main__":

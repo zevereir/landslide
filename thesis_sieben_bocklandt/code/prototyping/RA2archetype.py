@@ -4,6 +4,7 @@ import json
 from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
 import thesis_sieben_bocklandt.code.prototyping.globals as glob
+from datetime import datetime
 # TITLE_SLIDE=({"title+0","first_slide"},1)
 # TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
 # TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
@@ -286,12 +287,15 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
             archs_to_use.append((archs,indices[i]+1))
 
     archetypes=[]
+    times=[]
     total_pages=len(powerpoint.pages)
     count=1
     glob.init_count()
     for page in powerpoint.pages:
+        start=datetime.now()
         glob.init()
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
+        times.append((datetime.now()-start).total_seconds())
         #print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
         count += 1
         if arch_to_use!="masters":
@@ -321,7 +325,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
                         best_arch=pos[0]
             archetypes.append(best_arch)
     #print("Gemiddelde mappings",glob.numb_mappings,glob.count_mappings, glob.numb_mappings/glob.count_mappings)
-    return archetypes,[]
+    return archetypes,[], times
 
 def remove_overlapping(RA_set):
     n=RA_set[1]
@@ -393,9 +397,6 @@ def make_archetype(archetype,n,mapping, RA):
     if archetype==0:
         title_index = str(reversed_mapping[0])
         subtext=[]
-        for index in range(0,n):
-            if "bi-y+"+title_index+"_"+str(index) in RA and "overlapping-x+"+title_index+"_"+str(index) in RA:
-                subtext.append(index)
         return TitleSlide(int(title_index),subtext)
 
     #Title single content
@@ -423,7 +424,7 @@ def make_archetype(archetype,n,mapping, RA):
         for i in permutations:
             if ("b-x+" + i[0] + "_" + i[1] in RA or "m-x+" + i[0] + "_" + i[1] in RA) and ("b-x+" + i[1] + "_" + i[2] in RA or "m-x+" + i[1] + "_" + i[2] in RA):
                 return TitleTripleContent(int(title_index), int(i[0]), int(i[1]),int(i[2]))
-        return TitleTripleContent(int(title_index),triple_content_1,triple_content_2,triple_content_3)
+        return TitleTripleContent(int(title_index),int(triple_content_1),int(triple_content_2),int(triple_content_3))
     #Comparison
     elif archetype==4:
         title_index = str(reversed_mapping[0])
@@ -445,10 +446,6 @@ def make_archetype(archetype,n,mapping, RA):
     elif archetype==5:
         title_index = str(reversed_mapping[0])
         subtext = []
-        for index in range(0, n):
-            if "bi-y+" + title_index + "_" + str(index) in RA and "overlapping-x+" + title_index + "_" + str(
-                    index) in RA:
-                subtext.append(index)
         return SectionHeader(int(title_index), subtext)
 
     #Title Only
