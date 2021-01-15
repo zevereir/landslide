@@ -313,19 +313,32 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
             counts[i]=0
         for ma in master_archetypes:
             for pos in ma:
-                if pos[1]!=frozenset():
-                    for belongs_to in mapping_archetypes[pos[1]]:
-                        counts[belongs_to]+=1
+                try:
+                    if pos[1]!=frozenset():
+                        for belongs_to in mapping_archetypes[pos[1]]:
+                            counts[belongs_to]+=1
+                except:
+                    if pos[0][1] != frozenset():
+                        for belongs_to in mapping_archetypes[pos[1]]:
+                            counts[belongs_to] += 1
         for ma in master_archetypes:
             best_arch=None
             best_score=-1
             for pos in ma:
-                if pos[1] == frozenset():
-                    best_arch = pos[0]
-                else:
-                    best_map=max([counts[v] for v in mapping_archetypes[pos[1]]])
-                    if best_map>best_score:
-                        best_arch=pos[0]
+                try:
+                    if pos[1] == frozenset():
+                        best_arch = pos[0]
+                    else:
+                        best_map=max([counts[v] for v in mapping_archetypes[pos[1]]])
+                        if best_map>best_score:
+                            best_arch=pos[0]
+                except:
+                    if pos[0][1] == frozenset():
+                        best_arch = pos[0][0]
+                    else:
+                        best_map=max([counts[v] for v in mapping_archetypes[pos[0][1]]])
+                        if best_map>best_score:
+                            best_arch=pos[0][0]
             try:
                 x=len(best_arch)
                 archetypes.append(best_arch[0])
