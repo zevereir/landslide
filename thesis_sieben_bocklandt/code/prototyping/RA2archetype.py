@@ -292,6 +292,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
     count=1
     glob.init_count()
     for page in powerpoint.pages:
+        print(count, total_pages, "N=",page.n)
         start=datetime.now()
         glob.init()
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
