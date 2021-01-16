@@ -197,6 +197,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
         #     if "title+"+str(i) in enc2:
         #         title2=i
         all_mappings=get_full_mappings(frozenset(enc1),frozenset(enc2),n1,n2, equal_size and not subset)
+
         #print("ALL_MAPPINGS",all_mappings)
         new_enc_1=set()
         for i in enc1:
@@ -225,17 +226,20 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
 
                     if max_dist==1.0:# or (in_n2<=in_n1 and jaccard(new_enc,enc1&new_enc)==1.0):
                         if n1>n2:
+
                             reversed_mapping = {}
                             for i in mapping.keys():
-                                reversed_mapping[alphabet.index(mapping[i])] = i
-                            for i in range(0,n1):
+                                if mapping[i] in alphabet:
+                                    reversed_mapping[alphabet.index(mapping[i])] = i
+                            for i in range(0, n1):
                                 if i not in reversed_mapping.keys():
-                                    reversed_mapping[i]=str(len(reversed_mapping))
-                            mapping=reversed_mapping
+                                    reversed_mapping[i] = len(reversed_mapping)
+                            mapping = reversed_mapping
                         else:
+                            # print("normal")
                             for i in mapping.keys():
                                 if mapping[i] in alphabet:
-                                    mapping[i]=alphabet.index(mapping[i])
+                                    mapping[i] = alphabet.index(mapping[i])
 
                         return max_dist, True,mapping
     #print("OP_MAPPING",best_mapping)
@@ -311,7 +315,6 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
     count=1
     glob.init_count()
     for page in powerpoint.pages:
-        #print(count, total_pages, "N=",page.n)
         start=datetime.now()
         glob.init()
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
