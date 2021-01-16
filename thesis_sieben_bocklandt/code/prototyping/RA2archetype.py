@@ -198,13 +198,26 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
         #         title2=i
         all_mappings=get_full_mappings(frozenset(enc1),frozenset(enc2),n1,n2, equal_size and not subset)
         #print("ALL_MAPPINGS",all_mappings)
+        new_enc_1=set()
+        for i in enc1:
+            if "first_slide" not in i and "no_content" not in i and "no_title" not in i:
+                z = ''.join([x for x in i if not x.isdigit()])[:-1]
+                if "_" in i:
+                    numbers = i[-len(i) + len(z):].split("_")
+                    x1 = alphabet[int(numbers[0])]
+                    x2 = alphabet[int(numbers[1])]
+                    new_enc_1.add(i[:-len(i) + len(z)]+x1+"_"+x2)
+                else:
+                    numbers = alphabet[int(i[-len(i) + len(z):])]
+                    new_enc_1.add(i[:-len(i) + len(z)+1] + numbers)
+
         for mapping in all_mappings:#get_mappings(title1,title2,n1,n2):
             if len(mapping)!=0:
                 if mapping!=mapping_standard:
                     #print("MAPPING BEFORE",mapping)
                     new_enc=evaluate_mapping(enc2,mapping)
                     #print("MAPPING AFTER", mapping)
-                    new_jacard=jaccard(enc1,new_enc)
+                    new_jacard=jaccard(new_enc_1,new_enc)
                     if max_dist<new_jacard:
                         #print("NEW BEST MAPPING",mapping)
                         max_dist=new_jacard
@@ -265,7 +278,13 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
         with open('thesis_sieben_bocklandt/code/prototyping/archetypes/learned.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
-            archs_to_use.append(([frozenset(v) for v in arch_dict[str(i)]],indices[i]+1))
+            master = arch_dict[str(i)]
+            archs = []
+            for key in range(0, len(master)):
+                for z in master[str(key)]:
+                    if frozenset(z) not in archs:
+                        archs.append(frozenset(z))
+                archs_to_use.append((archs, indices[i] + 1))
     elif arch_to_use=="masters":
         master_archetypes=[]
         mapping_archetypes={}
@@ -292,7 +311,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
     count=1
     glob.init_count()
     for page in powerpoint.pages:
-        print(count, total_pages, "N=",page.n)
+        #print(count, total_pages, "N=",page.n)
         start=datetime.now()
         glob.init()
         possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
