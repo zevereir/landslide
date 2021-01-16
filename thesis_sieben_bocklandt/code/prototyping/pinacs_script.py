@@ -29,7 +29,7 @@ def main():
         beam_name="0"
     else:
         beam_name=str(beam)
-    name_output=args.exp_name+"_"+args.archetypes+"_"++str(args.cutoff)+"_"+beam_name
+    name_output=args.exp_name+"_"+args.archetypes+"_"+str(args.cutoff)+"_"+beam_name
     if beam!=None:
         beam=int(beam)
 
