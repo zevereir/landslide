@@ -26,7 +26,8 @@ def jaccard(list1, list2):
     intersection = len(list(set(list1).intersection(list2)))
     return float(intersection) / max((len(list1) + len(list2)) - intersection,1)
 
-def evaluate_mapping(enc,mapping):
+def evaluate_mapping(enc,xmapping):
+    mapping=xmapping.copy()
     new_enc=set()
     for i in enc:
         if i=="first_slide" or i=="no_title" or i=="no_content":
@@ -104,6 +105,7 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
                     possibilities2[z].append((numbers,))
                 else:
                     possibilities2[z] = [(numbers,)]
+
     possible_combinations={}
     for i in possibilities.keys()&possibilities2.keys():
         val1=possibilities[i]
@@ -120,7 +122,6 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
             y1 = set([x[1] for x in val1])
             y2 = set([x[1] for x in val2])
             for comb in list(itertools.product(y1,y2)):
-
                 if comb[0] in possible_combinations.keys():
                     possible_combinations[comb[0]].add(comb[1])
                 else:
@@ -160,6 +161,7 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
 
     glob.numb_mappings+=len(result)
     glob.count_mappings+=1
+    #print("Result",result)
     return result
 
 
@@ -189,6 +191,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     #     return max_dist,True,mapping_standard
     else:
         best_mapping=mapping_standard
+        #print("BEST_MAPPING_BEGIN",best_mapping)
         # title1=None
         # title2=None
         # for i in range(0,n1):
@@ -213,6 +216,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
                     new_enc_1.add(i[:-len(i) + len(z)+1] + numbers)
 
         for mapping in all_mappings:#get_mappings(title1,title2,n1,n2):
+
             if len(mapping)!=0:
                 if mapping!=mapping_standard:
                     #print("MAPPING BEFORE",mapping)
@@ -220,10 +224,9 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
                     #print("MAPPING AFTER", mapping)
                     new_jacard=jaccard(new_enc_1,new_enc)
                     if max_dist<new_jacard:
-                        #print("NEW BEST MAPPING",mapping)
+                        #print("NEW BEST MAPPING",mapping, new_jacard)
                         max_dist=new_jacard
                         best_mapping=mapping
-
                     if max_dist==1.0:# or (in_n2<=in_n1 and jaccard(new_enc,enc1&new_enc)==1.0):
                         if n1>n2:
 
@@ -240,7 +243,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
                             for i in mapping.keys():
                                 if mapping[i] in alphabet:
                                     mapping[i] = alphabet.index(mapping[i])
-
+                        #print("PERFECT MAPPING", mapping)
                         return max_dist, True,mapping
     #print("OP_MAPPING",best_mapping)
 
@@ -250,7 +253,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
         reversed_mapping = {}
         for i in best_mapping.keys():
             if best_mapping[i] in alphabet:
-                reversed_mapping[alphabet.index(best_mapping[i])] = i
+                reversed_mapping[alphabet.index(best_mapping[i])] = int(i)
         for i in range(0, n1):
             if i not in reversed_mapping.keys():
                 reversed_mapping[i] = len(reversed_mapping)
@@ -261,6 +264,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
             if best_mapping[i] in alphabet:
                 best_mapping[i] = alphabet.index(best_mapping[i])
     #print("Best_mapping",best_mapping)
+
     return max_dist,False, best_mapping
 
 
@@ -433,9 +437,16 @@ def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=Fa
     else:
         return None,0
 def make_archetype(archetype,n,mapping, RA):
+
     reversed_mapping={}
     for i in mapping.keys():
         reversed_mapping[int(mapping[i])]=int(i)
+    z=set(range(0,n))
+    missing_keys=z-set(reversed_mapping.keys())
+    missing_values=z-set(reversed_mapping.values())
+    for i in range(0,len(missing_keys)):
+        reversed_mapping[missing_keys.pop()]=missing_values.pop()
+    #print(mapping)
     #Titleslide
     if archetype==0:
         title_index = str(reversed_mapping[0])
