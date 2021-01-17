@@ -435,7 +435,7 @@ def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=Fa
 def make_archetype(archetype,n,mapping, RA):
     reversed_mapping={}
     for i in mapping.keys():
-        reversed_mapping[mapping[i]]=i
+        reversed_mapping[int(mapping[i])]=int(i)
     #Titleslide
     if archetype==0:
         title_index = str(reversed_mapping[0])
