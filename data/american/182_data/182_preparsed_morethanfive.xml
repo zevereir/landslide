@@ -1,0 +1,76 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="242.520,375.103,622.528,415.087" id="0" size="39.984">Obtaining MISR Data <textline bbox="242.520,375.103,622.528,415.087" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="39.984">Obtaining MISR Data </textline>
+</title>
+<normal_text archetypal_index="1" bbox="339.290,266.988,703.050,294.948" id="1" size="27.96">Nancy Ritchey                       <textline bbox="339.290,266.988,703.050,294.948" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">Nancy Ritchey                       </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="202.700,233.383,668.382,261.367" id="2" size="27.984">Atmospheric Sciences Data Center <textline bbox="202.700,233.383,668.382,261.367" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.984">Atmospheric Sciences Data Center </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="304.850,166.158,566.416,194.118" id="3" size="27.96">September 19, 2005 <textline bbox="304.850,166.158,566.416,194.118" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">September 19, 2005 </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="43.200,119.760,194.040,335.760" height="216" name="Image6" src="Image6.107x153.bmp" width="150">
+</picture>
+<picture archetypal_index="5" bbox="606.000,21.000,696.000,102.000" height="81" name="Image10" src="Image10.156x136.bmp" width="90">
+</picture>
+<picture archetypal_index="6" bbox="24.000,397.440,219.720,510.000" height="112" name="Image12" src="Image12.jpg" width="195">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[224.00666666666666, 395.874, 581.599, 492.174]" rotate="0">
+<normal_text archetypal_index="0" bbox="10.560,371.135,149.352,423.940" id="0" size="24.012">Processing  
+Information <textline bbox="13.440,399.940,149.352,423.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Processing  </textline>
+<textline bbox="10.560,371.135,142.692,395.159" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">Information </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="7.200,239.105,145.848,315.910" id="1" size="24.008">Documents, 
+Tools, 
+Imagery <textline bbox="8.640,291.910,145.848,315.910" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Documents, </textline>
+<textline bbox="7.200,265.510,76.056,289.510" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Tools, </textline>
+<textline bbox="7.200,239.105,99.332,263.129" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">Imagery </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="25.200,101.060,129.144,153.909" id="2" size="24.012">Data  
+Products <textline bbox="25.200,129.885,83.843,153.909" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">Data  </textline>
+<textline bbox="25.200,101.060,129.144,125.060" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Products </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="643.610,371.135,711.698,423.940" id="3" size="24.012">MISR  
+News <textline bbox="645.050,399.940,711.698,423.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">MISR  </textline>
+<textline bbox="643.610,371.135,706.505,395.159" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">News </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="631.320,224.682,718.173,268.761" id="4" size="20.052">Special  
+Products <textline bbox="631.320,248.697,707.042,268.761" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.064">Special  </textline>
+<textline bbox="631.320,224.682,718.173,244.722" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Products </textline>
+</normal_text>
+<curve bbox="132.060,197.940,155.940,347.940" linewidth="3" pts="155.940,197.940,149.350,197.940,144.000,203.540,144.000,210.440,144.000,260.440,144.000,267.340,138.650,272.940,132.060,272.940,138.650,272.940,144.000,278.540,144.000,285.440,144.000,335.440,144.000,342.340,149.350,347.940,155.940,347.940" />
+<curve bbox="618.060,335.940,655.120,373.000" linewidth="3" pts="653.000,373.000,622.300,342.300,624.420,340.180,655.120,370.880,621.240,345.490,618.060,335.940,627.610,339.120" />
+<curve bbox="137.020,269.940,270.060,397.030" linewidth="3" pts="139.100,397.030,265.670,276.200,263.600,274.030,137.020,394.860,266.660,279.410,270.060,269.940,260.440,272.900" />
+<curve bbox="528.060,185.940,606.060,239.940" linewidth="3" pts="528.060,212.940,528.060,227.850,545.520,239.940,567.060,239.940,588.600,239.940,606.060,227.850,606.060,212.940,606.060,198.030,588.600,185.940,567.060,185.940,545.520,185.940,528.060,198.030,528.060,212.940" />
+<curve bbox="360.060,287.940,444.060,347.940" linewidth="3" pts="360.060,317.940,360.060,334.510,378.860,347.940,402.060,347.940,425.260,347.940,444.060,334.510,444.060,317.940,444.060,301.370,425.260,287.940,402.060,287.940,378.860,287.940,360.060,301.370,360.060,317.940" />
+<curve bbox="137.420,335.750,264.060,397.290" linewidth="3" pts="138.700,397.290,257.930,340.520,256.640,337.810,137.420,394.590,257.870,343.870,264.060,335.940,254.000,335.750" />
+<curve bbox="132.060,95.940,156.060,167.940" linewidth="3" pts="156.060,95.940,149.430,95.940,144.060,98.626,144.060,101.940,144.060,125.940,144.060,129.250,138.690,131.940,132.060,131.940,138.690,131.940,144.060,134.630,144.060,137.940,144.060,161.940,144.060,165.250,149.430,167.940,156.060,167.940" />
+<picture archetypal_index="5" bbox="156.0,11.04,628.92,522.0" caption="" combined_sources="['Image33.900x615.bmp', 'Image34.896x646.bmp']" name="combined_0" src="combined_5_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[190.15138888888887, 475.49919444444447, 547.8324444444445, 510.71919444444455]" rotate="0">
+<normal_text archetypal_index="0" bbox="55.584,407.140,174.192,459.940" id="0" size="24.0">Note Path  
+Numbers <textline bbox="55.584,435.940,174.192,459.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Note Path  </textline>
+<textline bbox="55.584,407.140,159.528,431.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Numbers </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="85.224,227.090,264.972,279.929" id="1" size="24.012">Do Not Choose  
+search area <textline bbox="85.224,255.905,264.972,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">Do Not Choose  </textline>
+<textline bbox="85.224,227.090,218.688,251.090" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">search area </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="97.848,141.740,255.120,165.740" id="2" size="24.0">Specify Dates <textline bbox="97.848,141.740,255.120,165.740" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Specify Dates </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="85.224,69.816,169.056,122.620" id="3" size="24.0">Limit #  
+of files <textline bbox="85.224,98.620,169.056,122.620" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Limit #  </textline>
+<textline bbox="85.224,69.816,162.648,93.816" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">of files </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="139.220,27.864,280.508,51.864" id="4" size="24.0">Start Search <textline bbox="139.220,27.864,280.508,51.864" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Start Search </textline>
+</normal_text>
+<curve bbox="402.420,420.780,498.060,456.780" linewidth="3" pts="402.420,438.780,402.420,448.720,423.830,456.780,450.240,456.780,476.650,456.780,498.060,448.720,498.060,438.780,498.060,428.840,476.650,420.780,450.240,420.780,423.830,420.780,402.420,428.840,402.420,438.780" />
+<curve bbox="384.660,95.940,546.060,137.820" linewidth="3" pts="384.660,116.880,384.660,128.440,420.790,137.820,465.360,137.820,509.930,137.820,546.060,128.440,546.060,116.880,546.060,105.320,509.930,95.940,465.360,95.940,420.790,95.940,384.660,105.320,384.660,116.880" />
+<curve bbox="264.280,117.760,378.660,151.270" linewidth="3" pts="265.040,151.270,371.790,123.180,371.030,120.280,264.280,148.370,371.100,126.460,378.660,119.820,368.810,117.760" />
+<curve bbox="192.420,433.440,378.420,442.440" linewidth="3" pts="192.420,439.440,370.920,439.440,370.920,436.440,192.420,436.440,369.420,442.440,378.420,437.940,369.420,433.440" />
+<curve bbox="192.060,84.240,432.060,93.240" linewidth="3" pts="192.060,90.240,424.560,90.240,424.560,87.240,192.060,87.240,423.060,93.240,432.060,88.740,423.060,84.240" />
+<curve bbox="444.060,77.940,504.060,95.940" linewidth="3" pts="444.060,86.940,444.060,91.911,457.490,95.940,474.060,95.940,490.630,95.940,504.060,91.911,504.060,86.940,504.060,81.969,490.630,77.940,474.060,77.940,457.490,77.940,444.060,81.969,444.060,86.940" />
+<curve bbox="486.060,17.940,588.060,59.940" linewidth="3" pts="486.060,38.940,486.060,50.538,508.890,59.940,537.060,59.940,565.230,59.940,588.060,50.538,588.060,38.940,588.060,27.342,565.230,17.940,537.060,17.940,508.890,17.940,486.060,27.342,486.060,38.940" />
+<curve bbox="318.060,31.440,486.060,40.440" linewidth="3" pts="318.060,37.440,478.560,37.440,478.560,34.440,318.060,34.440,477.060,40.440,486.060,35.940,477.060,31.440" />
+<curve bbox="246.060,241.440,372.060,250.440" linewidth="3" pts="246.060,247.440,364.560,247.440,364.560,244.440,246.060,244.440,363.060,250.440,372.060,245.940,363.060,241.440" />
+<picture archetypal_index="5" bbox="282.0,17.88,710.28,534.0" caption="" combined_sources="['Image72.879x710.bmp', 'Image73.879x635.bmp', 'Image74.879x259.bmp']" name="combined_0" src="combined_15_0.png" /></page>
+</pages>

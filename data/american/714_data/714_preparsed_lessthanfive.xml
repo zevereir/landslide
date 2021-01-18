@@ -1,0 +1,229 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<normal_text archetypal_index="0" bbox="61.224,475.492,636.468,515.112" id="0" size="18.0">Due to the sign confusion of the skew quad. In MAD, we have two versions  
+of transport matrix (TM).   <textline bbox="61.224,497.112,636.468,515.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">Due to the sign confusion of the skew quad. In MAD, we have two versions  </textline>
+<textline bbox="61.224,475.492,269.196,493.492" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">of transport matrix (TM).   </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="61.224,281.062,653.004,450.292" id="1" size="18.003">Why ? We all agreed that the skew quads should have &#8220;north pole&#8221; at the  
+top.  Though Steve thought he had &#8220;north pole&#8221; at the top in his MAD  
+model, Phil has shown/convinced Steve that he didn&#8217;t have the &#8220;north pole&#8221;  
+at the top for the skew in his TM of June-10-2011.  That&#8217;s why Steve made  
+the change and produced TM of July-28-2011, which has larger cross-terms.   
+This is understood for the blue as the optimal (minimum cross-term) setting  
+was not achieved /used (as it&#8217;s small at 6 o&#8217;clock and much larger at other  
+places of the RHIC ring). <textline bbox="61.224,432.292,627.864,450.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">Why ? We all agreed that the skew quads should have &#8220;north pole&#8221; at the  </textline>
+<textline bbox="61.224,410.692,602.736,428.692" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">top.  Though Steve thought he had &#8220;north pole&#8221; at the top in his MAD  </textline>
+<textline bbox="61.224,389.092,644.568,407.092" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">model, Phil has shown/convinced Steve that he didn&#8217;t have the &#8220;north pole&#8221;  </textline>
+<textline bbox="61.224,367.487,633.023,385.511" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">at the top for the skew in his TM of June-10-2011.  That&#8217;s why Steve made  </textline>
+<textline bbox="61.224,345.862,653.004,363.862" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">the change and produced TM of July-28-2011, which has larger cross-terms.   </textline>
+<textline bbox="61.224,324.262,646.576,342.262" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">This is understood for the blue as the optimal (minimum cross-term) setting  </textline>
+<textline bbox="61.224,302.662,629.178,320.662" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">was not achieved /used (as it&#8217;s small at 6 o&#8217;clock and much larger at other  </textline>
+<textline bbox="61.224,281.062,254.706,299.062" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">places of the RHIC ring). </textline>
+</normal_text>
+<title archetypal_index="2" bbox="61.224,27.927,636.418,50.967" id="6" size="23.04">Kin Yip                                                                  Aug. 3, 2011 <textline bbox="61.224,27.927,636.418,50.967" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.69, 0.314)" size="23.040">Kin Yip                                                                  Aug. 3, 2011 </textline>
+</title>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="7" size="15.024">1 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">1 </textline>
+</slide_number>
+<enlisting archetypal_index="3" bbox="81.744,98.612,643.602,255.107">TM June-10-2011 : Smallest cross-terms (a14 etc.) TM July-28-2011 : larger cross-terms (a14 etc.) <normal_text bbox="81.744,230.858,488.698,255.107" id="2" size="21.96">TM June-10-2011 : Smallest cross-terms (a14 etc.) <textline bbox="81.744,230.858,488.698,255.107">TM June-10-2011 : Smallest cross-terms (a14 etc.) <text bbox="81.744,233.147,96.391,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">T</text>
+<text bbox="96.391,233.147,117.122,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">M</text>
+<text bbox="117.122,233.147,122.612,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960"> </text>
+<text bbox="122.546,233.147,133.526,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">J</text>
+<text bbox="133.526,233.147,145.735,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">u</text>
+<text bbox="145.801,233.147,158.011,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">n</text>
+<text bbox="158.011,233.147,167.761,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">e</text>
+<text bbox="167.780,233.147,175.093,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">-</text>
+<text bbox="175.100,233.147,186.080,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">1</text>
+<text bbox="186.140,233.147,197.120,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">0</text>
+<text bbox="197.210,233.147,204.523,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">-</text>
+<text bbox="204.530,233.147,215.510,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">2</text>
+<text bbox="215.510,233.147,226.490,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">0</text>
+<text bbox="226.578,233.147,237.558,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">1</text>
+<text bbox="236.416,233.147,247.396,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">1</text>
+<text bbox="247.396,233.147,252.886,255.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960"> </text>
+<text bbox="252.890,234.002,258.884,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">:</text>
+<text bbox="258.884,234.002,263.384,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="263.384,234.002,273.392,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">S</text>
+<text bbox="273.284,234.002,288.278,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">m</text>
+<text bbox="288.278,234.002,297.278,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">a</text>
+<text bbox="297.278,234.002,302.282,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">l</text>
+<text bbox="302.282,234.002,307.286,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">l</text>
+<text bbox="307.340,234.002,315.332,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="315.332,234.002,322.334,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="322.334,234.002,328.328,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="328.328,234.002,332.828,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="332.882,234.002,340.874,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">c</text>
+<text bbox="340.874,234.002,348.866,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="348.596,234.002,357.596,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">o</text>
+<text bbox="357.596,234.002,364.598,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="364.598,234.002,371.600,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="371.590,234.002,377.584,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">-</text>
+<text bbox="377.590,234.002,383.584,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="383.584,234.002,391.576,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="391.576,234.002,399.568,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="399.658,234.002,414.652,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">m</text>
+<text bbox="414.652,234.002,421.654,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="421.654,234.002,426.154,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="426.064,234.002,432.058,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">(</text>
+<text bbox="432.058,234.002,441.058,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">a</text>
+<text bbox="441.070,230.858,447.070,242.858" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="12.000">1</text>
+<text bbox="447.070,230.858,453.070,242.858" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="12.000">4</text>
+<text bbox="453.070,230.858,456.070,242.858" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="12.000"> </text>
+<text bbox="456.100,234.002,464.092,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="464.092,234.002,470.086,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="470.086,234.002,478.078,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">c</text>
+<text bbox="478.168,234.002,482.668,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">.</text>
+<text bbox="482.704,234.002,488.698,252.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">)</text>
+</textline>
+</normal_text>
+<normal_text bbox="81.744,182.858,466.948,207.107" id="3" size="21.96">TM July-28-2011 : larger cross-terms (a14 etc.) <textline bbox="81.744,182.858,466.948,207.107">TM July-28-2011 : larger cross-terms (a14 etc.) <text bbox="81.744,185.147,96.391,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">T</text>
+<text bbox="96.391,185.147,117.122,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">M</text>
+<text bbox="117.122,185.147,122.612,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960"> </text>
+<text bbox="122.546,185.147,133.526,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">J</text>
+<text bbox="133.526,185.147,145.735,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">u</text>
+<text bbox="145.801,185.147,151.906,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">l</text>
+<text bbox="151.906,185.147,162.886,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">y</text>
+<text bbox="162.980,185.147,170.293,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">-</text>
+<text bbox="170.300,185.147,181.280,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">2</text>
+<text bbox="181.340,185.147,192.320,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">8</text>
+<text bbox="192.410,185.147,199.723,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">-</text>
+<text bbox="199.730,185.147,210.710,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">2</text>
+<text bbox="210.710,185.147,221.690,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">0</text>
+<text bbox="221.778,185.147,232.758,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">1</text>
+<text bbox="231.616,185.147,242.596,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960">1</text>
+<text bbox="242.596,185.147,248.086,207.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="21.960"> </text>
+<text bbox="247.970,186.002,253.964,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">:</text>
+<text bbox="253.964,186.002,258.464,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="258.518,186.002,263.522,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">l</text>
+<text bbox="263.522,186.002,272.522,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">a</text>
+<text bbox="272.522,186.002,280.514,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="280.586,186.002,289.586,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">g</text>
+<text bbox="289.586,186.002,297.578,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="297.578,186.002,305.570,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="305.300,186.002,309.800,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="309.620,186.002,317.612,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">c</text>
+<text bbox="317.612,186.002,325.604,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="325.334,186.002,334.334,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">o</text>
+<text bbox="334.334,186.002,341.336,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="341.336,186.002,348.338,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="348.310,186.002,354.304,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">-</text>
+<text bbox="354.310,186.002,360.304,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="360.304,186.002,368.296,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="368.296,186.002,376.288,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">r</text>
+<text bbox="376.378,186.002,391.372,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">m</text>
+<text bbox="391.372,186.002,398.374,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">s</text>
+<text bbox="398.374,186.002,402.874,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="402.874,186.002,408.868,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">(</text>
+<text bbox="408.868,186.002,417.868,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">a</text>
+<text bbox="417.910,182.858,423.910,194.858" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="12.000">1</text>
+<text bbox="423.910,182.858,429.910,194.858" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="12.000">4</text>
+<text bbox="434.350,186.002,442.342,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">e</text>
+<text bbox="442.342,186.002,448.336,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="448.336,186.002,456.328,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">c</text>
+<text bbox="456.418,186.002,460.918,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">.</text>
+<text bbox="460.954,186.002,466.948,204.002" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">)</text>
+</textline>
+</normal_text>
+<normal_text bbox="114.260,163.442,643.602,181.442" id="4" size="18.0">But Phil believes that the yellow should have the minimal cross-term  <textline bbox="114.260,163.442,643.602,181.442" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">But Phil believes that the yellow should have the minimal cross-term  </textline>
+</normal_text>
+<normal_text bbox="97.224,98.612,641.134,159.842" id="5" size="18.008">as the setting seems to be the same as the optimal design.  Phil checks  
+and now thinks the signs of the small tilt for the Q1/Q2/Q3 are wrong.   
+Waiting for Vadim &#8230; <textline bbox="97.224,141.842,631.104,159.842" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">as the setting seems to be the same as the optimal design.  Phil checks  </textline>
+<textline bbox="97.224,120.237,641.134,138.261" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">and now thinks the signs of the small tilt for the Q1/Q2/Q3 are wrong.   </textline>
+<textline bbox="97.224,98.612,262.392,116.612" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">Waiting for Vadim &#8230; </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[565.3, 459.892, 689.828, 521.112]" rotate="0">
+<title archetypal_index="0" bbox="565.300,459.892,689.828,521.112" id="0" size="18.008">With  
+fiducial/hotspot  
+cuts : <textline bbox="565.300,503.112,608.464,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">With  </textline>
+<textline bbox="565.300,481.507,689.828,499.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">fiducial/hotspot  </textline>
+<textline bbox="565.300,459.892,606.790,477.892" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">cuts : </textline>
+</title>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="1" size="15.024">2 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">2 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="30.000,0.000,570.000,540.000" height="540" name="Image20" src="Image20.1000x1000.bmp" width="540">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[545.3, 474.30199999999996, 698.6013333333334, 521.112]" rotate="0">
+<normal_text archetypal_index="0" bbox="25.200,503.112,243.828,521.112" id="0" size="18.0">Transport of June 10 (Steve) <textline bbox="25.200,503.112,243.828,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.000">Transport of June 10 (Steve) </textline>
+</normal_text>
+<title archetypal_index="1" bbox="535.300,481.507,702.988,521.112" id="1" size="18.012">With fiducial/hotspot  
+cuts : <textline bbox="535.300,503.112,702.988,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">With fiducial/hotspot  </textline>
+<textline bbox="535.300,481.507,576.773,499.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">cuts : </textline>
+</title>
+<enlisting archetypal_index="2" bbox="535.300,438.292,622.006,456.292" id="2" size="18.0">&#61508;t/t ~ 10%. <textline bbox="535.300,438.292,622.006,456.292">&#61508;t/t ~ 10%. <text bbox="535.300,438.292,546.316,456.292" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0, 0.8)" size="18.000">&#61508;</text>
+<text bbox="546.460,438.292,552.454,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="552.454,438.292,557.458,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">/</text>
+<text bbox="557.458,438.292,563.452,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="563.452,438.292,567.952,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="567.826,438.292,577.186,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">~</text>
+<text bbox="577.186,438.292,581.686,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="581.632,438.292,590.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">1</text>
+<text bbox="590.632,438.292,599.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">0</text>
+<text bbox="599.632,438.292,617.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">%</text>
+<text bbox="617.506,438.292,622.006,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">.</text>
+</textline>
+</enlisting>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="3" size="15.024">3 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">3 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="9.000,24.000,606.000,453.000" height="429" name="Image23" src="Image23.796x572.bmp" width="597">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[537.3, 477.9044999999999, 697.7946666666667, 521.112]" rotate="0">
+<normal_text archetypal_index="0" bbox="43.200,503.112,261.828,521.112" id="0" size="18.0">Transport of June 10 (Steve) <textline bbox="43.200,503.112,261.828,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.000">Transport of June 10 (Steve) </textline>
+</normal_text>
+<title archetypal_index="1" bbox="529.300,481.507,696.988,521.112" id="1" size="18.012">With fiducial/hotspot  
+cuts : <textline bbox="529.300,503.112,696.988,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">With fiducial/hotspot  </textline>
+<textline bbox="529.300,481.507,570.773,499.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">cuts : </textline>
+</title>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="2" size="15.024">4 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">4 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="4.560,30.000,564.000,459.000" height="429" name="Image31" src="Image31.746x572.bmp" width="559">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[536.5, 479.3455, 699.8720000000001, 521.1119999999999]" rotate="0">
+<normal_text archetypal_index="0" bbox="43.200,503.112,257.796,521.112" id="0" size="18.0">Transport of July 28 (Steve) <textline bbox="43.200,503.112,257.796,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.000">Transport of July 28 (Steve) </textline>
+</normal_text>
+<title archetypal_index="1" bbox="535.300,481.507,702.988,521.112" id="1" size="18.012">With fiducial/hotspot  
+cuts : <textline bbox="535.300,503.112,702.988,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">With fiducial/hotspot  </textline>
+<textline bbox="535.300,481.507,576.773,499.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">cuts : </textline>
+</title>
+<enlisting archetypal_index="2" bbox="535.300,438.292,622.006,456.292" id="2" size="18.0">&#61508;t/t ~ 10%. <textline bbox="535.300,438.292,622.006,456.292">&#61508;t/t ~ 10%. <text bbox="535.300,438.292,546.316,456.292" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0, 0.8)" size="18.000">&#61508;</text>
+<text bbox="546.460,438.292,552.454,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="552.454,438.292,557.458,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">/</text>
+<text bbox="557.458,438.292,563.452,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">t</text>
+<text bbox="563.452,438.292,567.952,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="567.826,438.292,577.186,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">~</text>
+<text bbox="577.186,438.292,581.686,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000"> </text>
+<text bbox="581.632,438.292,590.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">1</text>
+<text bbox="590.632,438.292,599.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">0</text>
+<text bbox="599.632,438.292,617.632,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">%</text>
+<text bbox="617.506,438.292,622.006,456.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">.</text>
+</textline>
+</enlisting>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="3" size="15.024">5 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">5 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="18.000,24.000,615.000,453.000" height="429" name="Image34" src="Image34.796x572.bmp" width="597">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[546.1, 472.861, 696.524, 521.1119999999999]" rotate="0">
+<normal_text archetypal_index="0" bbox="43.200,503.112,257.796,521.112" id="0" size="18.0">Transport of July 28 (Steve) <textline bbox="43.200,503.112,257.796,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.000">Transport of July 28 (Steve) </textline>
+</normal_text>
+<title archetypal_index="1" bbox="565.300,459.892,689.828,521.112" id="1" size="18.008">With  
+fiducial/hotspot  
+cuts : <textline bbox="565.300,503.112,608.464,521.112" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">With  </textline>
+<textline bbox="565.300,481.507,689.828,499.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.024">fiducial/hotspot  </textline>
+<textline bbox="565.300,459.892,606.790,477.892" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="18.000">cuts : </textline>
+</title>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="2" size="15.024">6 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">6 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="18.000,30.000,577.560,459.000" height="429" name="Image37" src="Image37.746x572.bmp" width="559">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[425.04857142857145, 472.70271428571425, 537.6168571428572, 511.1791428571428]" rotate="0">
+<title archetypal_index="0" bbox="151.220,401.443,285.463,439.483" id="0" size="38.04">Backup  <textline bbox="151.220,401.443,285.463,439.483" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 0.8)" size="38.040">Backup  </textline>
+</title>
+<slide_number bbox="669.240,16.267,676.752,31.291" id="1" size="15.024">9 <textline bbox="669.240,16.267,676.752,31.291" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="15.024">9 </textline>
+</slide_number>
+</page>
+</pages>

@@ -1,0 +1,51 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[117.86413333333333, 459.0920666666667, 602.3994666666666, 532.6826666666667]" rotate="0">
+<title archetypal_index="0" bbox="157.150,449.731,563.112,534.778" id="0" size="25.368">NICMOS Image of HD 141569 
+F110W (~J band) 
+Science results in Weinberger et al. (1999) <textline bbox="157.150,502.714,563.112,534.778" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064">NICMOS Image of HD 141569 </textline>
+<textline bbox="276.100,473.836,443.740,497.836" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="24.000">F110W (~J band) </textline>
+<textline bbox="190.540,449.731,529.456,469.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="20.040">Science results in Weinberger et al. (1999) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="101.980,406.036,214.756,430.036" id="1" size="24.0">HD 141569 <textline bbox="101.980,406.036,214.756,430.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000">HD 141569 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="289.250,406.036,437.110,430.036" id="2" size="24.0">Image1 &#8211; PSF1 <textline bbox="289.250,406.036,437.110,430.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000">Image1 &#8211; PSF1 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="475.300,406.036,623.212,430.036" id="3" size="24.0">Image1 &#8211; PSF2 <textline bbox="475.300,406.036,623.212,430.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000">Image1 &#8211; PSF2 </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="279.600,81.720,647.160,406.800" caption="Image2 &#8211; PSF1 &#10;Image2 &#8211; PSF2 " height="325" name="Image37" src="Image37.jpg" width="367">
+</picture>
+<picture archetypal_index="5" bbox="66.0,78.48,249.36,406.8" caption="&#10;Reference Star " combined_sources="['Image38.jpg', 'Image39.jpg']" name="combined_0" src="combined_6_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[167.8847111111111, 476.90202222222223, 552.3043777777777, 531.5735555555555]" rotate="0">
+<title archetypal_index="0" bbox="164.950,504.019,555.234,540.043" id="0" size="36.024">STIS Image of HD 141569 <textline bbox="164.950,504.019,555.234,540.043" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024">STIS Image of HD 141569 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="143.980,472.036,256.756,496.036" id="1" size="24.0">HD 141569 <textline bbox="143.980,472.036,256.756,496.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000">HD 141569 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="400.030,430.856,628.977,450.920" id="2" size="20.064">HD 141569 - Reference Star <textline bbox="400.030,430.856,628.977,450.920" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.064">HD 141569 - Reference Star </textline>
+</normal_text>
+<curvetext bbox="469.300,352.006,491.956,376.006" id="3" size="24.0">7&#8221; <textline bbox="469.300,352.006,491.956,376.006" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="24.000">7&#8221; </textline>
+</curvetext>
+<normal_text archetypal_index="3" bbox="361.270,45.903,676.920,65.943" id="5" size="20.04">Science results in Mouillet et al. (2001) <textline bbox="361.270,45.903,676.920,65.943" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="20.040">Science results in Mouillet et al. (2001) </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="390.000,174.000,642.000,426.000" height="252" name="Image53" src="Image53.jpg" width="252">
+</picture>
+<curve bbox="432.060,299.940,516.060,383.940" linewidth="0" pts="436.830,303.120,512.880,379.170,511.290,380.760,435.240,304.710,434.450,307.100,432.060,299.940,439.220,302.330,513.670,376.780,516.060,383.940,508.900,381.550" />
+<picture archetypal_index="5" bbox="77.28,0.0,324.0,498.0" caption="&#10;Reference Star " combined_sources="['Image52.jpg', 'Image45.0.jpg']" name="combined_0" src="combined_10_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[173.44655238095237, 480.31026666666673, 543.8228380952381, 529.0543904761904]" rotate="0">
+<title archetypal_index="0" bbox="255.460,500.314,464.517,532.378" id="0" size="32.064">PSF Subtraction <textline bbox="255.460,500.314,464.517,532.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064">PSF Subtraction </textline>
+</title>
+<ref bbox="94.344,458.731,311.074,478.771" id="1" size="20.04">Reference PSF Subtraction <textline bbox="94.344,458.731,311.074,478.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="20.040">Reference PSF Subtraction </textline>
+</ref>
+<normal_text archetypal_index="1" bbox="469.300,458.731,601.063,478.771" id="2" size="20.04">Roll Subtraction <textline bbox="469.300,458.731,601.063,478.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="20.040">Roll Subtraction </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="7.200,423.842,99.684,441.842" id="3" size="18.0">Beta Pictoris <textline bbox="7.200,423.842,99.684,441.842" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000">Beta Pictoris </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="385.270,419.092,429.784,437.092" id="4" size="18.0">Roll 1 <textline bbox="385.270,419.092,429.784,437.092" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000">Roll 1 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="94.224,338.692,165.666,356.692" id="5" size="18.0">Alpha Pic <textline bbox="94.224,338.692,165.666,356.692" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000">Alpha Pic </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="452.280,339.932,496.794,357.932" id="6" size="18.0">Roll 2 <textline bbox="452.280,339.932,496.794,357.932" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000">Roll 2 </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="169.220,254.692,287.732,272.692" id="7" size="18.0">Beta - Alpha Pic <textline bbox="169.220,254.692,287.732,272.692" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000">Beta - Alpha Pic </textline>
+</normal_text>
+<picture archetypal_index="7" bbox="6.0,92.52,720.0,444.0" caption="&#10;ACS coronagraph &#10;ACS Science Team &#10;(Golimowski et al. 2006) &#10;1 - 2 " combined_sources="['Image68.jpg', 'Image69.jpg', 'Image70.jpg', 'Image71.jpg', 'Image72.jpg', 'Image73.jpg', 'Image74.jpg']" name="combined_0" src="combined_15_0.png" /></page>
+</pages>

@@ -1,0 +1,371 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[79.584, 478.858, 200.82799999999997, 506.818]" rotate="0">
+<title archetypal_index="0" bbox="79.584,478.858,242.731,506.818" id="0" size="27.96">Background <textline bbox="79.584,478.858,242.731,506.818" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960">Background </textline>
+</title>
+<normal_text archetypal_index="1" bbox="233.090,234.680,453.914,252.680" id="5" size="18.0">Medication Terminologies <textline bbox="233.090,234.680,453.914,252.680" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Medication Terminologies </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="128.980,215.418,217.273,225.378" id="6" size="9.96">UNII, NDF-RT, NCIt <textline bbox="128.980,215.418,217.273,225.378" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">UNII, NDF-RT, NCIt </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="280.420,218.778,298.076,228.738" id="7" size="9.96">NDC <textline bbox="280.420,218.778,298.076,228.738" colourspace="DeviceGray" font="BCDGEE+ArialNarrow-Italic" ncolour="0" size="9.960">NDC </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="444.980,218.898,578.543,228.858" id="8" size="9.96">RxNORM, NDC, UNII, NDF-RT, NCIt <textline bbox="444.980,218.898,578.543,228.858" colourspace="DeviceGray" font="BCDGEE+ArialNarrow-Italic" ncolour="0" size="9.960">RxNORM, NDC, UNII, NDF-RT, NCIt </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="30.096,151.888,66.858,173.848" id="9" size="9.96">Drug  
+Research <textline bbox="38.976,163.888,60.310,173.848" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="30.096,151.888,66.858,161.848" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Research </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="87.888,152.128,139.062,174.088" id="10" size="9.96">Drug  
+Development <textline bbox="103.850,164.128,125.184,174.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="87.888,152.128,139.062,162.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Development </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="160.560,152.898,183.334,174.858" id="11" size="9.96">Drug  
+Trials <textline bbox="162.000,164.898,183.334,174.858" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="160.560,152.898,182.362,162.858" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Trials </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="210.290,155.898,245.758,177.858" id="12" size="9.96">Drug  
+Approval <textline bbox="218.570,167.898,239.904,177.858" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="210.290,155.898,245.758,165.858" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Approval </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="267.380,152.128,290.129,174.088" id="13" size="9.96">NDC  
+Code  <textline bbox="267.380,164.128,287.291,174.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">NDC  </textline>
+<textline bbox="267.380,152.128,290.129,162.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Code  </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="318.500,152.128,361.706,174.088" id="14" size="9.96">Drug  
+Distributed <textline bbox="330.620,164.128,351.954,174.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="318.500,152.128,361.706,162.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Distributed </textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="372.840,154.388,414.991,176.348" id="15" size="9.96">Drug   
+Prescribed <textline bbox="384.480,166.388,408.085,176.348" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug   </textline>
+<textline bbox="372.840,154.388,414.991,164.348" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Prescribed </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="429.910,152.128,471.354,174.088" id="16" size="9.96">Drug   
+Dispensed <textline bbox="441.070,164.128,464.675,174.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug   </textline>
+<textline bbox="429.910,152.128,471.354,162.088" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Dispensed </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="489.550,154.008,515.028,175.988" id="17" size="9.96">Drug  
+Admin <textline bbox="489.550,166.028,510.884,175.988" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Drug  </textline>
+<textline bbox="489.550,154.008,515.028,163.968" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Admin </textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="543.050,159.648,584.225,169.608" id="18" size="9.96">PHR / EHR <textline bbox="543.050,159.648,584.225,169.608" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">PHR / EHR </textline>
+</normal_text>
+<normal_text archetypal_index="15" bbox="604.250,150.768,648.343,172.728" id="19" size="9.96">Secondary  
+Use <textline bbox="604.250,162.768,648.343,172.728" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Secondary  </textline>
+<textline bbox="617.690,150.768,632.670,160.728" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960">Use </textline>
+</normal_text>
+<normal_text archetypal_index="16" bbox="71.976,97.888,306.066,107.848" id="20" size="9.96">FDA / Pharma / HL7 SPL /Drug Knowledge Suppliers <textline bbox="71.976,97.888,306.066,107.848" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">FDA / Pharma / HL7 SPL /Drug Knowledge Suppliers </textline>
+</normal_text>
+<normal_text archetypal_index="17" bbox="397.900,84.400,650.605,106.360" id="21" size="9.96">ePrescribing / CMS / NCPDP / Medication Reconciliation/ 
+ONC Use Case / HITSP IS <textline bbox="397.900,96.400,650.605,106.360" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">ePrescribing / CMS / NCPDP / Medication Reconciliation/ </textline>
+<textline bbox="465.100,84.400,583.863,94.360" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">ONC Use Case / HITSP IS </textline>
+</normal_text>
+<normal_text archetypal_index="18" bbox="248.280,58.404,449.214,76.404" id="22" size="18.0">Initiatives / Participants <textline bbox="248.280,58.404,449.214,76.404" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Initiatives / Participants </textline>
+</normal_text>
+<slide_number bbox="682.510,28.036,690.316,42.076" id="23" size="14.04">5 <textline bbox="682.510,28.036,690.316,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5 </textline>
+</slide_number>
+<picture archetypal_index="19" bbox="0.000,416.400,69.960,540.000" height="123" name="Image6" src="Image6.3.194x343.bmp" width="69">
+</picture>
+<curve bbox="347.180,350.760,654.610,351.600" linewidth="0" pts="347.180,351.600,500.900,351.600,654.610,351.600,654.610,350.760,500.900,350.760,347.180,350.760" />
+<rect bbox="6.720,48.720,711.720,272.280" linewidth="0" />
+<rect bbox="6.720,48.720,711.720,272.280" linewidth="0" />
+<rect bbox="26.160,140.280,86.280,185.040" linewidth="0" />
+<rect bbox="141.840,140.400,202.800,185.160" linewidth="0" />
+<rect bbox="249.600,140.880,312.720,186.240" linewidth="0" />
+<rect bbox="365.880,140.880,424.560,186.240" linewidth="0" />
+<rect bbox="474.960,141.480,534.960,185.160" linewidth="0" />
+<rect bbox="597.480,140.640,654.000,185.040" linewidth="0" />
+<rect bbox="25.320,140.040,654.600,185.760" linewidth="0" />
+<curve bbox="37.080,189.840,308.520,206.160" linewidth="0" pts="37.080,189.840,37.080,194.350,47.176,198.000,59.629,198.000,150.250,198.000,162.700,198.000,172.800,201.650,172.800,206.160,172.800,201.650,182.900,198.000,195.350,198.000,285.970,198.000,298.420,198.000,308.520,194.350,308.520,189.840" />
+<curve bbox="202.800,191.280,368.520,210.720" linewidth="0" pts="202.800,191.280,202.800,196.650,209.000,201.000,216.660,201.000,271.800,201.000,279.460,201.000,285.660,205.350,285.660,210.720,285.660,205.350,291.860,201.000,299.520,201.000,354.660,201.000,362.320,201.000,368.520,196.650,368.520,191.280" />
+<curve bbox="367.080,122.640,650.520,135.120" linewidth="0" pts="367.080,135.120,367.080,131.670,377.750,128.880,390.910,128.880,484.970,128.880,498.130,128.880,508.800,126.090,508.800,122.640,508.800,126.090,519.470,128.880,532.630,128.880,626.690,128.880,639.850,128.880,650.520,131.670,650.520,135.120" />
+<curve bbox="372.360,189.120,652.920,208.320" linewidth="0" pts="372.360,189.120,372.360,194.420,382.800,198.720,395.670,198.720,489.330,198.720,502.200,198.720,512.640,203.020,512.640,208.320,512.640,203.020,523.080,198.720,535.950,198.720,629.610,198.720,642.480,198.720,652.920,194.420,652.920,189.120" />
+<curve bbox="28.080,117.360,356.640,135.840" linewidth="0" pts="356.640,135.840,356.640,130.740,344.400,126.600,329.290,126.600,219.710,126.600,204.600,126.600,192.360,122.460,192.360,117.360,192.360,122.460,180.120,126.600,165.010,126.600,55.425,126.600,40.323,126.600,28.080,130.740,28.080,135.840" />
+<rect bbox="202.560,234.000,484.560,256.440" linewidth="0" />
+<rect bbox="202.560,234.000,484.560,256.440" linewidth="0" />
+<rect bbox="207.720,57.720,489.720,80.280" linewidth="0" />
+<rect bbox="207.720,57.720,489.720,80.280" linewidth="0" />
+<enlisting archetypal_index="20" bbox="16.584,277.39,677.614,420.94">&#8226; Consolidated Health Informatics (CHI) 2003-2006 &#8211; Drug code, semantic clinical drug, classifications, ingredients, units &#8226; Need for standardization of medication terminology <normal_text bbox="16.584,396.940,569.424,420.940" id="1" size="24.0">&#8226; Consolidated Health Informatics (CHI) 2003-2006 <textline bbox="16.584,396.940,569.424,420.940" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000">&#8226; Consolidated Health Informatics (CHI) 2003-2006 </textline>
+</normal_text>
+<normal_text bbox="52.584,323.410,606.972,341.410" id="3" size="18.0">&#8211; Drug code, semantic clinical drug, classifications, ingredients, units <textline bbox="52.584,323.410,606.972,341.410" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">&#8211; Drug code, semantic clinical drug, classifications, ingredients, units </textline>
+</normal_text>
+<normal_text bbox="16.584,277.390,585.312,301.390" id="4" size="24.0">&#8226; Need for standardization of medication terminology <textline bbox="16.584,277.390,585.312,301.390" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000">&#8226; Need for standardization of medication terminology </textline>
+</normal_text>
+<normal_text bbox="52.584,349.330,677.614,388.979" id="2" size="18.012">&#8211; National Committee on Vital and Health Statistics (NCVHS) / CHI endorsed  
+selection of medication standards http://www.hhs.gov/healthit/chiinitiative.html <textline bbox="52.584,370.955,677.614,388.979" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024">&#8211; National Committee on Vital and Health Statistics (NCVHS) / CHI endorsed  </textline>
+<textline bbox="75.144,349.330,654.454,367.330">selection of medication standards http://www.hhs.gov/healthit/chiinitiative.html <text bbox="75.144,349.330,84.144,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text bbox="84.144,349.330,94.152,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text bbox="94.152,349.330,98.148,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">l</text>
+<text bbox="98.058,349.330,108.066,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text bbox="108.066,349.330,117.066,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">c</text>
+<text bbox="117.066,349.330,122.070,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text bbox="122.070,349.330,126.066,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text bbox="126.066,349.330,136.074,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text bbox="135.984,349.330,145.992,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text bbox="145.992,349.330,150.996,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text bbox="151.086,349.330,161.094,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text bbox="161.094,349.330,166.098,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">f</text>
+<text bbox="166.098,349.330,171.102,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text bbox="171.102,349.330,186.096,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">m</text>
+<text bbox="186.096,349.330,196.104,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text bbox="196.104,349.330,206.112,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text bbox="206.040,349.330,210.036,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text bbox="210.036,349.330,219.036,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">c</text>
+<text bbox="219.036,349.330,229.044,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text bbox="228.954,349.330,233.958,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text bbox="233.958,349.330,237.954,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text bbox="237.954,349.330,247.962,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text bbox="247.962,349.330,257.970,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text bbox="257.880,349.330,262.884,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text bbox="263.136,349.330,272.136,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text bbox="272.136,349.330,277.140,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text bbox="277.140,349.330,287.148,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text bbox="287.148,349.330,297.156,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text bbox="297.102,349.330,307.110,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text bbox="307.110,349.330,317.118,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text bbox="317.028,349.330,323.022,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">r</text>
+<text bbox="323.022,349.330,333.030,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text bbox="333.030,349.330,342.030,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text bbox="342.030,349.330,347.034,367.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text bbox="347.230,349.758,356.104,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="356.110,349.758,360.547,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="360.553,349.758,364.990,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="364.996,349.758,373.870,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">p</text>
+<text bbox="373.876,349.758,378.313,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">:</text>
+<text bbox="378.319,349.758,382.756,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text bbox="382.762,349.758,387.199,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text bbox="387.206,349.758,398.729,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text bbox="398.591,349.758,410.114,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text bbox="409.993,349.758,421.516,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text bbox="420.549,349.758,424.986,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text bbox="424.992,349.758,433.866,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="433.872,349.758,442.746,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="442.752,349.758,450.732,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">s</text>
+<text bbox="450.770,349.758,455.207,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text bbox="455.213,349.758,464.087,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">g</text>
+<text bbox="464.093,349.758,472.967,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">o</text>
+<text bbox="472.973,349.758,480.953,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">v</text>
+<text bbox="480.991,349.758,485.428,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text bbox="485.434,349.758,494.308,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="494.314,349.758,503.188,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">e</text>
+<text bbox="503.194,349.758,512.068,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">a</text>
+<text bbox="512.074,349.758,515.618,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">l</text>
+<text bbox="515.624,349.758,520.061,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="520.067,349.758,528.941,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="528.947,349.758,532.490,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="532.576,349.758,537.013,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="537.019,349.758,541.456,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text bbox="541.462,349.758,549.442,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">c</text>
+<text bbox="549.449,349.758,558.322,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="558.329,349.758,561.872,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="561.958,349.758,565.501,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="565.539,349.758,574.413,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">n</text>
+<text bbox="574.419,349.758,577.962,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="578.000,349.758,582.437,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="582.443,349.758,585.987,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="585.993,349.758,594.867,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">a</text>
+<text bbox="594.873,349.758,599.310,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="599.316,349.758,602.859,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text bbox="602.945,349.758,610.925,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">v</text>
+<text bbox="610.963,349.758,619.837,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">e</text>
+<text bbox="619.843,349.758,624.280,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text bbox="624.286,349.758,633.160,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text bbox="633.166,349.758,637.603,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text bbox="637.609,349.758,650.904,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">m</text>
+<text bbox="650.910,349.758,654.454,365.718" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">l</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[79.584, 478.858, 296.5033333333333, 506.81800000000004]" rotate="0">
+<title archetypal_index="0" bbox="79.584,478.858,514.502,506.818" id="0" size="27.96">Component Vocabulary Systems <textline bbox="79.584,478.858,514.502,506.818" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960">Component Vocabulary Systems </textline>
+</title>
+<picture archetypal_index="1" bbox="0.000,416.400,69.960,540.000" height="123" name="Image6" src="Image6.5.194x343.bmp" width="69">
+</picture>
+<picture archetypal_index="2" bbox="451.920,390.120,693.720,423.600" height="33" name="Image33" src="Image33.0.729x68.bmp" width="241">
+</picture>
+<picture archetypal_index="3" bbox="435.600,291.360,654.960,324.600" height="33" name="Image29" src="Image29.0.jpg" width="219">
+</picture>
+<picture archetypal_index="4" bbox="494.400,187.800,570.240,266.880" height="79" name="Image31" src="Image31.0.245x244.bmp" width="75">
+</picture>
+<picture archetypal_index="5" bbox="402.000,94.680,478.080,146.880" height="52" name="Image38" src="Image38.0.118x81.bmp" width="76">
+</picture>
+<picture archetypal_index="6" bbox="631.680,60.720,711.840,101.520" caption="Excellence  &#10;7 &#10;in Health  &#10;Care " height="40" name="Image51" src="Image51.0.222x113.bmp" width="80">
+</picture>
+<enlisting archetypal_index="7" bbox="45.096,43.662,696.056,418.367">&#8226; Food and Drug Administration &#8226; National Library of Medicine &#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) &#8226; Agency for Healthcare Quality and Research Advancing  &#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) &#8211; RxNorm &#8211; National Drug File Reference Terminology (NDF-RT) <normal_text bbox="45.096,43.662,696.056,418.367">&#8226; Food and Drug Administration &#8226; National Library of Medicine &#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) &#8226; Agency for Healthcare Quality and Research Advancing  <normal_text bbox="45.096,390.383,442.912,418.367" id="1" size="27.984">&#8226; Food and Drug Administration <textline bbox="45.096,390.383,442.912,418.367" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984">&#8226; Food and Drug Administration </textline>
+</normal_text>
+<normal_text bbox="45.096,292.448,419.443,320.408" id="3" size="27.96">&#8226; National Library of Medicine <textline bbox="45.096,292.448,419.443,320.408" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">&#8226; National Library of Medicine </textline>
+</normal_text>
+<normal_text bbox="45.096,84.904,379.013,141.798" id="7" size="24.0">&#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) <textline bbox="45.096,113.838,379.013,141.798" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">&#8226; National Cancer Institute </textline>
+<textline bbox="117.100,84.904,328.205,104.944" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211; NCI Thesaurus (NCIt) </textline>
+</normal_text>
+<normal_text bbox="45.096,43.662,696.056,72.680" id="8" size="27.96">&#8226; Agency for Healthcare Quality and Research Advancing  <textline bbox="45.096,43.662,696.056,72.680">&#8226; Agency for Healthcare Quality and Research Advancing  <text bbox="45.096,44.720,54.882,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">&#8226;</text>
+<text bbox="72.096,44.720,90.745,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">A</text>
+<text bbox="90.745,44.720,106.291,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">g</text>
+<text bbox="106.291,44.720,121.837,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text bbox="121.837,44.720,137.383,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">n</text>
+<text bbox="137.466,44.720,151.446,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text bbox="151.446,44.720,165.426,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">y</text>
+<text bbox="165.510,44.720,173.283,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text bbox="173.283,44.720,181.056,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">f</text>
+<text bbox="181.056,44.720,196.602,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">o</text>
+<text bbox="196.686,44.720,205.996,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text bbox="205.996,44.720,213.769,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text bbox="213.769,44.720,233.956,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">H</text>
+<text bbox="233.956,44.720,249.502,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text bbox="249.502,44.720,265.048,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text bbox="265.048,44.720,271.255,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">l</text>
+<text bbox="271.255,44.720,279.028,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">t</text>
+<text bbox="279.084,44.720,294.630,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">h</text>
+<text bbox="294.630,44.720,308.610,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text bbox="308.694,44.720,324.239,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text bbox="324.239,44.720,333.550,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text bbox="333.634,44.720,349.180,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text bbox="349.180,44.720,356.952,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text bbox="357.120,44.720,378.873,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">Q</text>
+<text bbox="378.873,44.720,394.419,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">u</text>
+<text bbox="394.419,44.720,409.965,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text bbox="409.965,44.720,416.172,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">l</text>
+<text bbox="416.256,44.720,422.463,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">i</text>
+<text bbox="422.463,44.720,430.236,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">t</text>
+<text bbox="430.236,44.720,444.216,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">y</text>
+<text bbox="444.300,44.720,452.072,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text bbox="452.072,44.720,467.618,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text bbox="467.618,44.720,483.164,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">n</text>
+<text bbox="483.276,44.720,498.822,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">d</text>
+<text bbox="498.822,44.720,506.594,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text bbox="506.594,44.720,526.782,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">R</text>
+<text bbox="526.782,44.720,542.327,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text bbox="542.411,44.720,556.391,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">s</text>
+<text bbox="556.391,44.720,571.937,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text bbox="572.021,44.720,587.567,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text bbox="587.567,44.720,596.877,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text bbox="596.961,44.720,610.941,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text bbox="610.941,44.720,626.487,72.680" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">h</text>
+<text bbox="647.420,43.662,653.918,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">A</text>
+<text bbox="653.918,43.662,659.417,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">d</text>
+<text bbox="659.417,43.662,664.421,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">v</text>
+<text bbox="664.448,43.662,669.452,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">a</text>
+<text bbox="669.479,43.662,674.978,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">n</text>
+<text bbox="674.978,43.662,679.982,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">c</text>
+<text bbox="680.027,43.662,682.529,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">i</text>
+<text bbox="682.529,43.662,688.028,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">n</text>
+<text bbox="688.055,43.662,693.554,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000">g</text>
+<text bbox="693.554,43.662,696.056,52.662" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.4, 0.8, 1)" size="9.000"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="45.096,182.988,462.949,251.268" id="5" size="27.96">&#8226; Department of Veterans Affairs/ 
+Veterans Health Administration  <textline bbox="45.096,223.308,460.964,251.268" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">&#8226; Department of Veterans Affairs/ </textline>
+<textline bbox="72.096,182.988,462.949,210.948" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960">Veterans Health Administration  </textline>
+</normal_text>
+</normal_text><normal_text bbox="117.1,154.047,599.576,381.472">&#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) &#8211; RxNorm &#8211; National Drug File Reference Terminology (NDF-RT) <normal_text bbox="117.100,332.632,473.976,381.472" id="2" size="20.04">&#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) <textline bbox="117.100,361.432,473.976,381.472" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211; Substance Registration System (SRS) </textline>
+<textline bbox="117.100,332.632,465.159,352.672" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211; Drug Registration and Listing (eLIST) </textline>
+</normal_text>
+<normal_text bbox="117.100,263.507,208.655,283.571" id="4" size="20.064">&#8211; RxNorm <textline bbox="117.100,263.507,208.655,283.571" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064">&#8211; RxNorm </textline>
+</normal_text>
+<normal_text bbox="117.100,154.047,599.576,174.111" id="6" size="20.064">&#8211; National Drug File Reference Terminology (NDF-RT) <textline bbox="117.100,154.047,599.576,174.111" colourspace="DeviceGray" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064">&#8211; National Drug File Reference Terminology (NDF-RT) </textline>
+</normal_text>
+</normal_text></enlisting><picture archetypal_index="8" bbox="641.28,10.98,702.78,57.6" caption="" combined_sources="['Image75.170x58.bmp', 'Image77.171x58.bmp', 'Image79.148x58.bmp', 'Image81.91x58.bmp']" name="combined_0" src="combined_7_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[79.63885714285713, 475.30872527472525, 495.07386813186815, 505.74916483516483]" rotate="0">
+<title archetypal_index="0" bbox="79.968,462.178,535.492,490.138" id="0" size="27.96">FMT Support to Health IT Systems <textline bbox="79.968,462.178,535.492,490.138" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960">FMT Support to Health IT Systems </textline>
+</title>
+<normal_text archetypal_index="1" bbox="37.200,379.776,211.128,403.776" id="1" size="24.0">Health IT systems <textline bbox="37.200,379.776,211.128,403.776" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Health IT systems </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="475.300,361.776,560.402,385.776" id="2" size="24.0">NDF-RT <textline bbox="475.300,361.776,560.402,385.776" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">NDF-RT </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="427.270,317.068,672.706,357.888" id="3" size="12.008000000000001">Links RxNorm SCD, BN, NDC, UNII, route, dose  
+form, unit, MoA, PE, Structural class to marketed  
+drug products <textline bbox="427.270,345.888,672.706,357.888" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">Links RxNorm SCD, BN, NDC, UNII, route, dose  </textline>
+<textline bbox="427.270,331.483,669.397,343.507" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.024">form, unit, MoA, PE, Structural class to marketed  </textline>
+<textline bbox="427.270,317.068,493.462,329.068" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">drug products </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="307.250,283.756,391.250,307.756" id="4" size="24.0">RxNorm <textline bbox="307.250,283.756,391.250,307.756" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">RxNorm </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="373.270,247.468,559.450,273.868" id="5" size="12.0">Links RxNorm SCD, BN, NDC, UNII  
+to marketed drug products <textline bbox="373.270,261.868,559.450,273.868" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">Links RxNorm SCD, BN, NDC, UNII  </textline>
+<textline bbox="373.270,247.468,499.678,259.468" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">to marketed drug products </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="181.220,181.726,222.572,205.726" id="6" size="24.0">SPL <textline bbox="181.220,181.726,222.572,205.726" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">SPL </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="199.250,145.438,433.298,171.838" id="7" size="12.0">Links NDC, UNII, route, dose form, unit, MoA,  
+PE, Structural class to marketed drug products <textline bbox="199.250,159.838,433.298,171.838" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">Links NDC, UNII, route, dose form, unit, MoA,  </textline>
+<textline bbox="199.250,145.438,422.570,157.438" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">PE, Structural class to marketed drug products </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="61.224,57.816,407.216,85.704" id="8" size="24.0">NCIt, VA Provides terminologies for dose form, route, unit  <textline bbox="61.224,57.816,407.216,85.704">NCIt, VA Provides terminologies for dose form, route, unit  <text bbox="61.224,61.704,78.552,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">N</text>
+<text bbox="78.552,61.704,94.560,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">C</text>
+<text bbox="94.464,61.704,102.456,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">I</text>
+<text bbox="102.456,61.704,109.128,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="109.200,61.704,115.200,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">,</text>
+<text bbox="115.200,61.704,121.200,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="120.720,61.704,138.048,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">V</text>
+<text bbox="134.880,61.704,152.208,85.704" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">A</text>
+<text bbox="169.220,57.816,175.892,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">P</text>
+<text bbox="175.928,57.816,179.924,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">r</text>
+<text bbox="179.924,57.816,185.924,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="185.924,57.816,191.924,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">v</text>
+<text bbox="191.924,57.816,195.260,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">i</text>
+<text bbox="195.260,57.816,201.260,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">d</text>
+<text bbox="201.260,57.816,206.588,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">e</text>
+<text bbox="206.528,57.816,211.196,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">s</text>
+<text bbox="211.196,57.816,214.196,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="214.196,57.816,217.532,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">t</text>
+<text bbox="217.532,57.816,222.860,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">e</text>
+<text bbox="222.860,57.816,226.856,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">r</text>
+<text bbox="226.808,57.816,236.144,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">m</text>
+<text bbox="236.144,57.816,239.480,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">i</text>
+<text bbox="239.516,57.816,245.516,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">n</text>
+<text bbox="245.516,57.816,251.516,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="251.516,57.816,254.852,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">l</text>
+<text bbox="254.852,57.816,260.852,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="260.852,57.816,266.852,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">g</text>
+<text bbox="266.756,57.816,270.092,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">i</text>
+<text bbox="270.092,57.816,275.420,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">e</text>
+<text bbox="275.420,57.816,280.088,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">s</text>
+<text bbox="280.088,57.816,283.088,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="283.424,57.816,287.420,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">f</text>
+<text bbox="287.420,57.816,293.420,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="293.420,57.816,297.416,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">r</text>
+<text bbox="297.344,57.816,300.344,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="300.452,57.816,306.452,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">d</text>
+<text bbox="306.452,57.816,312.452,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="312.452,57.816,317.120,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">s</text>
+<text bbox="317.120,57.816,322.448,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">e</text>
+<text bbox="322.412,57.816,325.412,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="325.412,57.816,329.408,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">f</text>
+<text bbox="329.408,57.816,335.408,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="335.408,57.816,339.404,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">r</text>
+<text bbox="339.332,57.816,348.668,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">m</text>
+<text bbox="348.668,57.816,351.668,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">,</text>
+<text bbox="351.668,57.816,354.668,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="354.800,57.816,358.796,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">r</text>
+<text bbox="358.796,57.816,364.796,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o</text>
+<text bbox="364.796,57.816,370.796,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">u</text>
+<text bbox="370.796,57.816,374.132,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">t</text>
+<text bbox="374.132,57.816,379.460,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">e</text>
+<text bbox="379.400,57.816,382.400,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">,</text>
+<text bbox="382.400,57.816,385.400,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+<text bbox="385.508,57.816,391.508,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">u</text>
+<text bbox="391.508,57.816,397.508,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">n</text>
+<text bbox="397.508,57.816,400.844,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">i</text>
+<text bbox="400.844,57.816,404.180,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">t</text>
+<text bbox="404.216,57.816,407.216,69.816" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000"> </text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="169.220,43.416,383.828,55.416" id="9" size="12.0">and package type, MoA, PE, Structural class <textline bbox="169.220,43.416,383.828,55.416" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">and package type, MoA, PE, Structural class </textline>
+</normal_text>
+<slide_number bbox="674.710,28.036,690.316,42.076" id="10" size="14.04">15 <textline bbox="674.710,28.036,690.316,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">15 </textline>
+</slide_number>
+<picture archetypal_index="10" bbox="0.000,416.400,69.960,540.000" height="123" name="Image6" src="Image6.13.194x343.bmp" width="69">
+</picture>
+<curve bbox="108.220,93.835,174.070,198.260" linewidth="0" pts="108.220,93.845,108.240,96.237,108.320,98.633,108.430,101.030,108.600,103.420,109.050,108.190,109.690,112.930,110.500,117.640,111.460,122.290,112.580,126.890,113.860,131.430,115.270,135.890,116.830,140.260,118.510,144.540,120.330,148.720,122.260,152.790,124.310,156.740,126.460,160.550,128.720,164.230,131.080,167.750,133.520,171.120,136.060,174.320,137.360,175.860,138.670,177.350,140.000,178.790,141.350,180.180,142.720,181.530,144.100,182.820,145.510,184.060,146.920,185.260,148.350,186.390,149.780,187.470,151.240,188.500,152.700,189.470,154.180,190.380,155.670,191.230,157.160,192.020,158.670,192.750,160.190,193.420,161.700,194.020,163.240,194.550,164.770,195.010,166.310,195.420,167.860,195.740,169.050,195.870,169.150,194.870,168.070,194.770,166.570,194.450,165.060,194.060,163.570,193.600,162.070,193.090,160.590,192.500,159.100,191.850,157.630,191.140,156.170,190.370,154.700,189.530,153.250,188.640,151.820,187.680,150.380,186.670,148.970,185.610,147.560,184.490,146.170,183.320,144.780,182.090,143.420,180.810,142.070,179.490,140.740,178.110,139.420,176.680,138.120,175.220,136.840,173.700,134.330,170.530,131.910,167.200,129.580,163.700,127.340,160.060,125.200,156.280,123.170,152.370,121.250,148.320,119.450,144.180,117.770,139.920,116.220,135.580,114.820,131.160,113.560,126.650,112.440,122.090,111.490,117.470,110.690,112.800,110.050,108.090,109.590,103.350,109.430,100.990,109.320,98.602,109.240,96.228,109.220,93.835,167.820,198.260,174.070,195.840,168.380,192.290" />
+<curve bbox="201.460,213.710,299.930,300.510" linewidth="0" pts="201.460,213.730,201.500,215.690,201.600,217.680,201.780,219.670,202.030,221.650,202.340,223.620,202.720,225.590,203.170,227.560,203.680,229.510,204.250,231.460,204.890,233.410,205.580,235.330,206.340,237.250,207.160,239.160,208.030,241.050,208.960,242.930,209.940,244.790,210.980,246.650,212.070,248.480,213.210,250.290,214.410,252.090,215.640,253.870,216.940,255.630,218.270,257.360,219.660,259.070,222.560,262.420,225.630,265.670,228.870,268.810,232.250,271.840,235.780,274.740,239.440,277.520,243.240,280.150,247.150,282.640,251.160,284.970,255.280,287.140,259.490,289.140,261.620,290.080,263.780,290.960,265.950,291.800,268.130,292.600,270.340,293.350,272.560,294.040,274.790,294.690,277.030,295.290,279.300,295.830,281.560,296.320,283.830,296.760,286.120,297.140,288.410,297.470,290.710,297.740,293.010,297.950,294.910,298.040,294.960,297.040,293.100,296.950,290.830,296.740,288.550,296.470,286.280,296.150,284.020,295.770,281.770,295.340,279.530,294.860,277.290,294.320,275.070,293.730,272.860,293.090,270.660,292.400,268.480,291.660,266.310,290.870,264.160,290.030,262.030,289.160,259.920,288.240,255.740,286.250,251.670,284.100,247.690,281.800,243.810,279.330,240.050,276.720,236.420,273.970,232.920,271.100,229.560,268.100,226.350,264.980,223.320,261.770,220.440,258.440,219.070,256.750,217.740,255.030,216.460,253.300,215.240,251.540,214.060,249.760,212.930,247.960,211.850,246.160,210.820,244.330,209.860,242.490,208.940,240.630,208.070,238.770,207.270,236.880,206.530,234.990,205.840,233.090,205.210,231.180,204.650,229.260,204.140,227.330,203.700,225.400,203.330,223.470,203.020,221.520,202.770,219.580,202.600,217.630,202.500,215.680,202.460,213.710,293.830,300.510,299.930,297.720,294.040,294.510" />
+<curve bbox="77.500,99.707,86.841,327.720" linewidth="0" pts="78.500,99.707,84.368,322.710,83.369,322.730,77.500,99.733,86.841,321.640,84.000,327.720,80.843,321.800" />
+<curve bbox="168.000,309.270,288.220,369.720" linewidth="0" pts="287.780,309.270,172.250,367.040,172.700,367.930,288.220,310.170,172.020,364.350,168.000,369.720,174.710,369.720" />
+<curve bbox="240.000,381.220,432.020,390.530" linewidth="0" pts="431.980,381.220,244.980,387.060,245.010,388.060,432.020,382.220,245.900,384.530,240.000,387.720,246.090,390.530" />
+<curve bbox="114.000,219.470,186.430,345.720" linewidth="0" pts="185.570,219.470,116.050,341.130,116.910,341.630,186.430,219.970,114.370,339.020,114.000,345.720,119.580,342.000" />
+<curve bbox="348.700,315.700,467.930,378.610" linewidth="0" pts="348.700,315.740,348.750,317.140,348.870,318.580,349.090,320.010,349.390,321.440,349.770,322.870,350.240,324.290,350.790,325.700,351.410,327.110,352.110,328.510,352.890,329.910,353.730,331.300,354.660,332.680,355.650,334.040,356.710,335.400,357.840,336.750,359.040,338.080,360.290,339.410,361.620,340.720,363.000,342.020,364.450,343.300,365.950,344.570,367.520,345.830,369.150,347.070,370.820,348.290,372.550,349.500,374.340,350.690,376.180,351.860,378.060,353.010,380.000,354.140,381.980,355.250,384.000,356.350,386.080,357.410,390.350,359.480,394.780,361.460,399.370,363.340,404.100,365.110,408.960,366.770,413.940,368.320,419.030,369.750,424.220,371.050,429.490,372.220,434.840,373.240,440.250,374.130,445.730,374.870,451.240,375.450,456.780,375.870,462.910,376.130,462.950,375.130,456.860,374.880,451.340,374.460,445.860,373.870,440.410,373.140,435.030,372.260,429.710,371.240,424.460,370.070,419.300,368.790,414.240,367.370,409.290,365.830,404.450,364.170,399.750,362.420,395.190,360.550,390.790,358.580,386.540,356.530,384.480,355.460,382.470,354.380,380.500,353.280,378.580,352.160,376.720,351.010,374.890,349.860,373.130,348.680,371.410,347.480,369.750,346.270,368.150,345.050,366.600,343.810,365.120,342.560,363.690,341.290,362.320,340.010,361.020,338.720,359.780,337.410,358.610,336.110,357.500,334.780,356.460,333.460,355.490,332.120,354.580,330.770,353.760,329.430,353.010,328.070,352.330,326.710,351.720,325.340,351.190,323.980,350.740,322.610,350.370,321.230,350.080,319.860,349.870,318.490,349.740,317.110,349.700,315.700,461.880,378.610,467.930,375.720,461.990,372.610" />
+</page>
+</pages>

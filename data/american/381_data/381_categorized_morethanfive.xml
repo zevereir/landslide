@@ -1,0 +1,139 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[89.86828571428572, 426.4455238095238, 633.5297619047619, 493.1285238095238]" rotate="0">
+<title archetypal_index="0" bbox="84.120,443.387,635.731,487.427" id="0" size="44.04">Predictive Ratios (Predicted/Actual) <textline bbox="84.120,443.387,635.731,487.427">Predictive Ratios (Predicted/Actual) <text bbox="84.120,443.387,111.028,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">P</text>
+<text bbox="111.028,443.387,130.582,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">r</text>
+<text bbox="129.701,443.387,149.255,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">e</text>
+<text bbox="149.255,443.387,173.741,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">d</text>
+<text bbox="173.741,443.387,185.985,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">i</text>
+<text bbox="185.985,443.387,205.538,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">c</text>
+<text bbox="205.538,443.387,220.204,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">t</text>
+<text bbox="220.204,443.387,232.447,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">i</text>
+<text bbox="232.447,443.387,254.467,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">v</text>
+<text bbox="254.467,443.387,274.020,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">e</text>
+<text bbox="274.020,443.387,285.030,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040"> </text>
+<text bbox="284.854,443.387,316.651,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">R</text>
+<text bbox="316.651,443.387,338.671,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">a</text>
+<text bbox="338.671,443.387,353.337,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">t</text>
+<text bbox="353.337,443.387,365.580,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">i</text>
+<text bbox="365.580,443.387,387.600,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">o</text>
+<text bbox="387.600,443.387,404.731,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040">s</text>
+<text bbox="404.731,443.387,415.741,487.427" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040"> </text>
+<text bbox="415.630,446.861,424.941,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">(</text>
+<text bbox="424.941,446.861,442.024,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">P</text>
+<text bbox="442.024,446.861,454.438,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">r</text>
+<text bbox="453.907,446.861,466.321,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">e</text>
+<text bbox="466.321,446.861,481.867,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">d</text>
+<text bbox="481.867,446.861,489.640,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">i</text>
+<text bbox="489.640,446.861,502.054,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">c</text>
+<text bbox="502.054,446.861,511.365,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">t</text>
+<text bbox="511.365,446.861,523.779,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">e</text>
+<text bbox="523.779,446.861,539.325,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">d</text>
+<text bbox="539.325,446.861,547.098,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">/</text>
+<text bbox="547.098,446.861,567.285,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">A</text>
+<text bbox="567.285,446.861,579.699,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">c</text>
+<text bbox="579.699,446.861,589.010,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">t</text>
+<text bbox="589.010,446.861,604.556,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">u</text>
+<text bbox="604.556,446.861,618.536,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">a</text>
+<text bbox="618.648,446.861,626.420,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">l</text>
+<text bbox="626.420,446.861,635.731,474.821" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">)</text>
+</textline>
+</title>
+<normal_text archetypal_index="1" bbox="51.840,405.956,128.784,429.956" id="1" size="24.0">Groups <textline bbox="51.840,405.956,128.784,429.956" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="24.000">Groups </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="325.490,405.956,454.798,429.956" id="2" size="24.0">AAPCC-like <textline bbox="325.490,405.956,454.798,429.956" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="24.000">AAPCC-like </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="484.870,405.956,668.308,429.956" id="3" size="24.0">PIP-DCG HCC <textline bbox="484.870,405.956,668.308,429.956" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="24.000">PIP-DCG HCC </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="61.224,15.672,196.284,42.072" id="8" size="12.0">Office of Strategic Planning 
+HCFA, 3/15/00 <textline bbox="61.224,30.072,196.284,42.072" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Office of Strategic Planning </textline>
+<textline bbox="61.224,15.672,134.892,27.672" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">HCFA, 3/15/00 </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="9" size="14.04">7 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="14.040">7 </textline>
+</slide_number>
+<enlisting archetypal_index="5" bbox="49.128,74.577,829.557,376.465">&#8226; Beneficiaries ranked by cost &#8211; lowest 20%                                2.49                  1.92           1.21 
+&#8211; middle 20%                               1.31                  1.01           1.11 
+&#8211; highest 20%                                .48                    .85             .88 &#8226; Disease Groups &#8211; Diabetes w/o complications       .63                    .75            1.02 
+&#8211; Diabetes with complications      .45                    .69              .96 
+&#8211; Breast cancer                              .68                    .78            1.07 
+&#8211; Hip Fracture                               .59                    .85              .99                                <normal_text bbox="49.128,354.481,326.284,376.465" id="4" size="21.984">&#8226; Beneficiaries ranked by cost <textline bbox="49.128,354.481,326.284,376.465" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.984">&#8226; Beneficiaries ranked by cost </textline>
+</normal_text>
+<normal_text bbox="85.152,259.427,661.651,344.747" id="5" size="21.959999999999997">&#8211; lowest 20%                                2.49                  1.92           1.21 
+&#8211; middle 20%                               1.31                  1.01           1.11 
+&#8211; highest 20%                                .48                    .85             .88 <textline bbox="85.152,322.787,661.651,344.747" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; lowest 20%                                2.49                  1.92           1.21 </textline>
+<textline bbox="85.152,291.107,658.950,313.067" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; middle 20%                               1.31                  1.01           1.11 </textline>
+<textline bbox="85.152,259.427,656.688,281.387" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; highest 20%                                .48                    .85             .88 </textline>
+</normal_text>
+<normal_text bbox="49.128,201.317,214.981,223.277" id="6" size="21.96">&#8226; Disease Groups <textline bbox="49.128,201.317,214.981,223.277" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8226; Disease Groups </textline>
+</normal_text>
+<normal_text bbox="85.152,74.577,829.557,191.597" id="7" size="21.966">&#8211; Diabetes w/o complications       .63                    .75            1.02 
+&#8211; Diabetes with complications      .45                    .69              .96 
+&#8211; Breast cancer                              .68                    .78            1.07 
+&#8211; Hip Fracture                               .59                    .85              .99                                <textline bbox="85.152,169.637,659.719,191.597" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; Diabetes w/o complications       .63                    .75            1.02 </textline>
+<textline bbox="85.152,137.957,660.289,159.917" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; Diabetes with complications      .45                    .69              .96 </textline>
+<textline bbox="85.152,106.271,660.915,128.255" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.984">&#8211; Breast cancer                              .68                    .78            1.07 </textline>
+<textline bbox="85.152,74.577,829.557,96.537" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">&#8211; Hip Fracture                               .59                    .85              .99                                </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[81.4916, 433.2534444444444, 543.9933111111111, 491.07737777777777]" rotate="0">
+<title archetypal_index="0" bbox="62.832,456.292,657.010,510.178" id="0" size="25.032">Hierarchical Coexisting Conditions (HCCs) 
+(based on 1996 mean of $5186) <textline bbox="62.832,478.114,657.010,510.178" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="32.064">Hierarchical Coexisting Conditions (HCCs) </textline>
+<textline bbox="242.260,456.292,477.772,474.292" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="18.000">(based on 1996 mean of $5186) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="37.200,425.341,99.327,453.301" id="1" size="27.96">HCC <textline bbox="37.200,425.341,99.327,453.301" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">HCC </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="561.580,425.341,667.241,453.301" id="2" size="27.96">Payment <textline bbox="561.580,425.341,667.241,453.301" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Payment </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="37.200,275.551,659.618,384.151" id="3" size="27.959999999999997">Diabetes with Chronic Complications              $ 4788 
+Diabetes with Acute Complications                     3181 
+Diabetes with No or Unspec. Complications       1481 <textline bbox="37.200,356.191,658.891,384.151" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Diabetes with Chronic Complications              $ 4788 </textline>
+<textline bbox="37.200,315.871,657.800,343.831" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Diabetes with Acute Complications                     3181 </textline>
+<textline bbox="37.200,275.551,659.618,303.511" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Diabetes with No or Unspec. Complications       1481 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="37.200,73.905,669.404,222.851" id="4" size="27.96">Congestive Heart Failure                                       2733 
+Acute Myocardial Infarction                                 2457 
+1178 
+Chronic Ischemic Heart Disease                     
+Renal Failure                                                           4195 <textline bbox="37.200,194.891,666.999,222.851" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Congestive Heart Failure                                       2733 </textline>
+<textline bbox="37.200,154.571,666.999,182.531" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Acute Myocardial Infarction                                 2457 </textline>
+<textline bbox="613.320,114.221,667.814,142.181" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">1178 </textline>
+<textline bbox="37.200,114.221,559.577,142.181" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Chronic Ischemic Heart Disease                     </textline>
+<textline bbox="37.200,73.905,669.404,101.865" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Renal Failure                                                           4195 </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="61.224,15.672,196.284,42.072" id="5" size="12.0">Office of Strategic Planning 
+HCFA, 3/15/00 <textline bbox="61.224,30.072,196.284,42.072" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Office of Strategic Planning </textline>
+<textline bbox="61.224,15.672,134.892,27.672" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">HCFA, 3/15/00 </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="6" size="14.04">10 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="14.040">10 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[106.39548484848484, 437.02180303030303, 550.4215909090909, 493.1199393939394]" rotate="0">
+<title archetypal_index="0" bbox="232.060,456.004,488.136,492.004" id="0" size="36.0">ADG-HOSDOM <textline bbox="232.060,456.004,488.136,492.004" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="36.000">ADG-HOSDOM </textline>
+</title>
+<normal_text archetypal_index="1" bbox="256.250,439.453,465.725,455.413" id="1" size="15.96">(based on 1996 mean of $5186) <textline bbox="256.250,439.453,465.725,455.413" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960">(based on 1996 mean of $5186) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="55.200,399.421,117.321,427.381" id="2" size="27.96">ADG <textline bbox="55.200,399.421,117.321,427.381" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">ADG </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="537.580,399.421,643.185,427.381" id="3" size="27.96">Payment <textline bbox="537.580,399.421,643.185,427.381" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Payment </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="55.200,82.545,743.743,352.471" id="4" size="27.966857142857148">Time limited, major                                      $1989                 
+Time limited, major, primary infections     $1949        
+Asthma                                                           $1050 
+Likely to recur, discrete                                  $652 
+Likely to recur, progressive                          $2483 
+Chronic medical, unstable                            $1575 
+Chronic specialty, unstable, orthopedic      $1263 <textline bbox="55.200,324.511,743.743,352.471" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Time limited, major                                      $1989                 </textline>
+<textline bbox="55.200,284.191,682.706,312.151" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Time limited, major, primary infections     $1949        </textline>
+<textline bbox="55.200,243.865,632.846,271.849" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.984">Asthma                                                           $1050 </textline>
+<textline bbox="55.200,203.531,632.574,231.491" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Likely to recur, discrete                                  $652 </textline>
+<textline bbox="55.200,163.211,633.441,191.171" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Likely to recur, progressive                          $2483 </textline>
+<textline bbox="55.200,122.885,635.280,150.869" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.984">Chronic medical, unstable                            $1575 </textline>
+<textline bbox="55.200,82.545,633.441,110.505" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960">Chronic specialty, unstable, orthopedic      $1263 </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="61.224,15.672,196.284,42.072" id="5" size="12.0">Office of Strategic Planning 
+HCFA, 3/15/00 <textline bbox="61.224,30.072,196.284,42.072" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Office of Strategic Planning </textline>
+<textline bbox="61.224,15.672,134.892,27.672" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="12.000">HCFA, 3/15/00 </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="6" size="14.04">12 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="14.040">12 </textline>
+</slide_number>
+</page>
+</pages>

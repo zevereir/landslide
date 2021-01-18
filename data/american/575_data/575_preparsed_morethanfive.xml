@@ -1,0 +1,77 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[200.24, 444.21000000000004, 520.052, 494.21000000000004]" rotate="0">
+<title archetypal_index="0" bbox="158.590,445.390,561.790,493.390" id="0" size="48.0">Image Registration <textline bbox="158.590,445.390,561.790,493.390" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="48.000">Image Registration </textline>
+</title>
+<enlisting archetypal_index="1" bbox="31.2,247.3,653.273,405.968" id="1" size="27.96">&#8226; Define a transform T that maps one image onto  <textline bbox="31.200,378.008,653.273,405.968" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; Define a transform T that maps one image onto  </textline>
+<normal_text bbox="58.200,247.300,644.616,372.387" id="2" size="25.986">another image such that some measure of  
+overlap is maximized (Colin&#8217;s lecture). 
+&#8211; Discuss information theory as means for generating  
+measures to be maximized over sets of transforms <textline bbox="58.200,344.403,591.967,372.387" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">another image such that some measure of  </textline>
+<textline bbox="58.200,310.788,530.584,338.748" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">overlap is maximized (Colin&#8217;s lecture). </textline>
+<textline bbox="67.224,276.100,644.616,300.100" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Discuss information theory as means for generating  </textline>
+<textline bbox="89.784,247.300,627.384,271.300" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">measures to be maximized over sets of transforms </textline>
+</normal_text>
+</enlisting>
+<normal_text archetypal_index="2" bbox="436.932,142.658,452.892,147.095" id="3" size="4.437">I <textline bbox="436.932,142.658,452.892,147.095" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="4.437">I </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="436.932,117.840,452.892,142.658" id="4" size="12.408999999999999">R 
+M <textline bbox="436.932,131.135,452.892,142.658" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="11.523">R </textline>
+<textline bbox="436.932,117.840,452.892,131.135" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="13.295">M </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="106.200,63.240,394.200,205.800" caption="CT &#10;MRI " height="142" name="Image19" src="Image19.285x141.bmp" width="288">
+</picture>
+<picture archetypal_index="5" bbox="461.520,74.040,587.520,200.160" caption="CT " height="126" name="Image20" src="Image20.128x128.bmp" width="126">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="19" mean_title="[111.75508333333332, 444.205, 617.232625, 501.501875]" rotate="0">
+<title archetypal_index="0" bbox="117.910,434.380,624.047,513.619" id="0" size="36.012">M.I. Processing Flow for Image  
+Registration <textline bbox="117.910,477.595,624.047,513.619" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="36.024">M.I. Processing Flow for Image  </textline>
+<textline bbox="269.860,434.380,462.028,470.380" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="36.000">Registration </textline>
+</title>
+<normal_text archetypal_index="1" bbox="57.000,317.206,126.312,370.006" id="1" size="24.0">Input  
+Images <textline bbox="63.264,346.006,120.000,370.006" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Input  </textline>
+<textline bbox="57.000,317.206,126.312,341.206" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Images </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="193.250,346.006,336.122,370.006" id="2" size="24.0">Pre-processing <textline bbox="193.250,346.006,336.122,370.006" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Pre-processing </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="205.540,186.386,312.327,268.025" id="3" size="24.008">Probability 
+Density 
+Estimation <textline bbox="205.540,244.001,312.327,268.025" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">Probability </textline>
+<textline bbox="221.620,215.186,296.356,239.186" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Density </textline>
+<textline bbox="206.980,186.386,310.972,210.386" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Estimation </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="411.000,197.186,515.040,249.986" id="4" size="24.0">M.I.  
+Estimation <textline bbox="442.340,225.986,489.716,249.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">M.I.  </textline>
+<textline bbox="411.000,197.186,515.040,221.186" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Estimation </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="183.820,71.160,332.212,123.956" id="5" size="24.0">Image  
+Transformation <textline bbox="228.100,99.956,293.932,123.956" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Image  </textline>
+<textline bbox="183.820,71.160,332.212,95.160" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Transformation </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="399.600,71.160,526.272,123.956" id="6" size="24.0">Optimization 
+Scheme <textline bbox="399.600,99.956,526.272,123.956" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Optimization </textline>
+<textline bbox="425.040,71.160,500.904,95.160" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Scheme </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="607.370,71.160,680.042,123.956" id="7" size="24.0">Output  
+Image <textline bbox="607.370,99.956,680.042,123.956" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Output  </textline>
+<textline bbox="613.730,71.160,673.562,95.160" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Image </textline>
+</normal_text>
+<rect bbox="186.000,312.480,343.920,378.000" linewidth="0" />
+<rect bbox="186.000,312.480,343.920,378.000" linewidth="0" />
+<rect bbox="384.000,192.480,541.920,258.000" linewidth="0" />
+<rect bbox="384.000,192.480,541.920,258.000" linewidth="0" />
+<rect bbox="174.000,66.480,342.000,132.000" linewidth="0" />
+<rect bbox="174.000,66.480,342.000,132.000" linewidth="0" />
+<rect bbox="180.000,181.800,337.920,276.000" linewidth="0" />
+<rect bbox="180.000,181.800,337.920,276.000" linewidth="0" />
+<rect bbox="384.000,66.480,541.920,132.000" linewidth="0" />
+<rect bbox="384.000,66.480,541.920,132.000" linewidth="0" />
+<curve bbox="255.000,276.000,261.000,312.000" linewidth="0" pts="258.500,312.000,258.500,281.000,257.500,281.000,257.500,312.000,261.000,282.000,258.000,276.000,255.000,282.000" />
+<curve bbox="336.000,225.000,384.000,231.000" linewidth="0" pts="336.000,228.500,379.000,228.500,379.000,227.500,336.000,227.500,378.000,231.000,384.000,228.000,378.000,225.000" />
+<curve bbox="342.000,99.000,384.000,105.000" linewidth="0" pts="384.000,102.500,347.000,102.500,347.000,101.500,384.000,101.500,348.000,105.000,342.000,102.000,348.000,99.000" />
+<curve bbox="453.000,132.000,459.000,192.000" linewidth="0" pts="456.500,192.000,456.500,137.000,455.500,137.000,455.500,192.000,459.000,138.000,456.000,132.000,453.000,138.000" />
+<curve bbox="255.000,132.000,261.000,180.000" linewidth="0" pts="258.500,132.000,258.500,175.000,257.500,175.000,257.500,132.000,261.000,174.000,258.000,180.000,255.000,174.000" />
+<curve bbox="144.000,345.000,186.000,351.000" linewidth="0" pts="144.000,348.500,181.000,348.500,181.000,347.500,144.000,347.500,180.000,351.000,186.000,348.000,180.000,345.000" />
+<curve bbox="540.000,99.000,588.000,105.000" linewidth="0" pts="540.000,102.500,583.000,102.500,583.000,101.500,540.000,101.500,582.000,105.000,588.000,102.000,582.000,99.000" />
+</page>
+</pages>

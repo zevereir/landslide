@@ -1,0 +1,101 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[93.63906666666666, 431.90040000000005, 624.6707333333333, 491.1742666666667]" rotate="0">
+<title archetypal_index="0" bbox="62.832,424.150,657.197,502.068" id="0" size="33.480000000000004">Percent of Households by Type 
+(102 Million Households in 1998) <textline bbox="62.832,462.108,657.197,502.068" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0.502)" size="39.960">Percent of Households by Type </textline>
+<textline bbox="156.020,424.150,549.059,451.150" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="27.000">(102 Million Households in 1998) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="94.008,341.952,255.866,378.641" id="1" size="17.052">Married-with Children 
+32.0% <textline bbox="94.008,361.577,255.866,378.641" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.064">Married-with Children </textline>
+<textline bbox="151.150,341.952,199.458,358.992" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">32.0% </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="473.210,324.932,626.527,361.602" id="2" size="17.04">Married-No Children 
+21.0% <textline bbox="473.210,344.562,626.527,361.602" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">Married-No Children </textline>
+<textline bbox="526.100,324.932,574.408,341.972" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">21.0% </textline>
+</normal_text>
+<curvetext bbox="272.300,244.522,364.391,294.562" id="3" size="23.04">Families 
+69% <textline bbox="272.300,271.522,364.391,294.562" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="23.040">Families </textline>
+<textline bbox="272.300,244.522,318.463,267.562" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="23.040">69% </textline>
+</curvetext>
+<normal_text archetypal_index="3" bbox="501.480,188.162,659.765,224.832" id="4" size="17.04">Unrelated individuals 
+6.0% <textline bbox="501.480,207.792,659.765,224.832" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">Unrelated individuals </textline>
+<textline bbox="561.860,188.162,600.643,205.202" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">6.0% </textline>
+</normal_text>
+<curvetext bbox="361.820,142.637,453.911,219.682" id="5" size="23.048000000000002">Non- 
+Families 
+31% <textline bbox="361.820,196.642,414.252,219.682" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="23.040">Non- </textline>
+<textline bbox="361.820,169.642,453.911,192.682" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="23.040">Families </textline>
+<textline bbox="361.820,142.637,408.004,165.701" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="23.064">31% </textline>
+</curvetext>
+<normal_text archetypal_index="4" bbox="415.580,61.510,570.099,98.062" id="6" size="17.04">1 Person Household 
+25.0% <textline bbox="415.580,81.022,570.099,98.062" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">1 Person Household </textline>
+<textline bbox="469.340,61.510,517.648,78.550" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">25.0% </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="91.512,102.522,243.057,139.221" id="7" size="17.052">Single-with Children 
+16.0% <textline bbox="91.512,122.157,243.057,139.221" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.064">Single-with Children </textline>
+<textline bbox="143.660,102.522,191.968,119.562" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.040">16.0% </textline>
+</normal_text>
+<ref bbox="60.264,32.106,357.114,47.106" id="8" size="15.0">SOURCE:  U.S. Census Bureau (1998 Data) <textline bbox="60.264,32.106,357.114,47.106" colourspace="DeviceGray" font="ArialMT" ncolour="0.875" size="15.000">SOURCE:  U.S. Census Bureau (1998 Data) </textline>
+</ref>
+<curve bbox="357.360,236.160,490.680,364.920" linewidth="0" pts="490.680,236.160,490.180,247.660,488.760,258.830,486.430,269.700,483.210,280.250,479.170,290.370,474.290,300.080,468.740,309.330,462.480,318.080,455.510,326.290,447.920,333.920,439.750,340.880,431.030,347.210,421.770,352.790,412.090,357.670,401.950,361.710,391.440,364.920,357.360,236.160,490.680,236.160" />
+<curve bbox="357.360,236.160,490.680,364.920" linewidth="1" pts="490.680,236.160,490.180,247.660,488.760,258.830,486.430,269.700,483.210,280.250,479.170,290.370,474.290,300.080,468.740,309.330,462.480,318.080,455.510,326.290,447.920,333.920,439.750,340.880,431.030,347.210,421.770,352.790,412.090,357.670,401.950,361.710,391.440,364.920,357.360,236.160,490.680,236.160,490.680,236.160" />
+<curve bbox="224.280,210.240,391.560,369.240" linewidth="0" pts="391.560,364.820,383.310,366.780,374.890,368.160,366.260,368.950,357.500,369.240,350.630,369.110,343.830,368.570,337.200,367.740,330.620,366.530,324.160,365.070,317.820,363.280,305.610,358.780,293.930,353.200,283.010,346.530,272.720,338.860,263.300,330.240,254.670,320.780,247.000,310.530,240.330,299.570,234.700,287.950,230.240,275.700,228.450,269.370,226.950,262.910,225.780,256.370,224.950,249.700,224.410,242.950,224.280,236.070,224.910,222.990,226.780,210.240,357.500,236.070,391.560,364.820" />
+<curve bbox="224.280,210.240,391.560,369.240" linewidth="1" pts="391.560,364.820,383.310,366.780,374.890,368.160,366.260,368.950,357.500,369.240,350.630,369.110,343.830,368.570,337.200,367.740,330.620,366.530,324.160,365.070,317.820,363.280,305.610,358.780,293.930,353.200,283.010,346.530,272.720,338.860,263.300,330.240,254.670,320.780,247.000,310.530,240.330,299.570,234.700,287.950,230.240,275.700,228.450,269.370,226.950,262.910,225.780,256.370,224.950,249.700,224.410,242.950,224.280,236.070,224.910,222.990,226.780,210.240,357.500,236.070,391.560,364.820,391.560,364.820" />
+<curve bbox="226.800,112.440,357.360,236.160" linewidth="0" pts="226.800,210.290,228.670,202.110,231.050,194.020,233.960,186.170,237.290,178.580,241.080,171.230,245.280,164.180,249.990,157.380,255.030,150.910,260.400,144.820,266.180,139.020,272.300,133.550,278.760,128.500,285.500,123.870,292.540,119.660,299.870,115.860,307.480,112.440,357.360,236.160,226.800,210.290" />
+<curve bbox="226.800,112.440,357.360,236.160" linewidth="1" pts="226.800,210.290,228.670,202.110,231.050,194.020,233.960,186.170,237.290,178.580,241.080,171.230,245.280,164.180,249.990,157.380,255.030,150.910,260.400,144.820,266.180,139.020,272.300,133.550,278.760,128.500,285.500,123.870,292.540,119.660,299.870,115.860,307.480,112.440,357.360,236.160,226.800,210.290,226.800,210.290" />
+<curve bbox="307.560,102.840,480.840,236.160" linewidth="0" pts="307.560,112.510,319.340,108.390,331.670,105.380,344.320,103.510,357.440,102.840,367.760,103.260,377.960,104.470,387.830,106.380,397.490,109.050,406.820,112.350,415.810,116.390,424.430,121.020,432.670,126.230,440.460,132.030,447.820,138.410,454.690,145.250,461.060,152.590,466.890,160.390,472.140,168.650,476.800,177.240,480.840,186.200,357.440,236.160,307.560,112.510" />
+<curve bbox="307.560,102.840,480.840,236.160" linewidth="1" pts="307.560,112.510,319.340,108.390,331.670,105.380,344.320,103.510,357.440,102.840,367.760,103.260,377.960,104.470,387.830,106.380,397.490,109.050,406.820,112.350,415.810,116.390,424.430,121.020,432.670,126.230,440.460,132.030,447.820,138.410,454.690,145.250,461.060,152.590,466.890,160.390,472.140,168.650,476.800,177.240,480.840,186.200,357.440,236.160,307.560,112.510,307.560,112.510" />
+<curve bbox="357.360,186.120,490.680,236.160" linewidth="0" pts="481.000,186.120,485.130,197.980,488.180,210.350,490.050,223.040,490.680,236.160,357.360,236.160,481.000,186.120" />
+<curve bbox="357.360,186.120,490.680,236.160" linewidth="1" pts="481.000,186.120,485.130,197.980,488.180,210.350,490.050,223.040,490.680,236.160,357.360,236.160,481.000,186.120,481.000,186.120" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[130.59968888888892, 435.01675555555556, 593.1555111111111, 502.6984444444445]" rotate="0">
+<title archetypal_index="0" bbox="110.470,428.988,609.526,521.260" id="0" size="37.980000000000004">Person Trips by Mode 
+By Gender <textline bbox="110.470,473.260,609.526,521.260" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0.502)" size="48.000">Person Trips by Mode </textline>
+<textline bbox="288.050,428.988,421.755,456.948" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="27.960">By Gender </textline>
+</title>
+<normal_text archetypal_index="1" bbox="36.384,422.050,102.264,440.050" id="1" size="18.0">Percent <textline bbox="36.384,422.050,102.264,440.050" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="18.000">Percent </textline>
+</normal_text>
+<slide_number bbox="36.888,388.280,66.816,406.280" id="2" size="18.0">100 <textline bbox="36.888,388.280,66.816,406.280" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">100 </textline>
+</slide_number>
+<slide_number bbox="47.016,323.650,66.984,341.650" id="5" size="18.0">80 <textline bbox="47.016,323.650,66.984,341.650" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">80 </textline>
+</slide_number>
+<slide_number bbox="47.016,259.140,66.984,277.140" id="6" size="18.0">60 <textline bbox="47.016,259.140,66.984,277.140" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">60 </textline>
+</slide_number>
+<slide_number bbox="47.016,194.630,66.984,212.630" id="7" size="18.0">40 <textline bbox="47.016,194.630,66.984,212.630" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">40 </textline>
+</slide_number>
+<slide_number bbox="47.016,130.120,66.984,148.120" id="8" size="18.0">20 <textline bbox="47.016,130.120,66.984,148.120" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">20 </textline>
+</slide_number>
+<slide_number bbox="57.000,65.604,67.008,83.604" id="9" size="18.0">0 <textline bbox="57.000,65.604,67.008,83.604" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">0 </textline>
+</slide_number>
+<normal_text archetypal_index="2" bbox="347.180,47.964,426.380,65.964" id="19" size="18.0">Bike/Walk <textline bbox="347.180,47.964,426.380,65.964" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Bike/Walk </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="489.220,47.964,534.202,65.964" id="20" size="18.0">Other <textline bbox="489.220,47.964,534.202,65.964" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Other </textline>
+</normal_text>
+<ref bbox="44.136,16.184,473.029,32.144" id="21" size="15.96">SOURCE:  1995 Nationwide Personal Transportation Survey <textline bbox="44.136,16.184,473.029,32.144" colourspace="DeviceGray" font="ArialMT" ncolour="0.875" size="15.960">SOURCE:  1995 Nationwide Personal Transportation Survey </textline>
+</ref>
+<rect bbox="78.120,77.040,573.480,399.720" linewidth="0" />
+<table archetypal_index="4" bbox="583.92,212.76,672.12,264.0" dimensions="1/5"><cell bbox="583.92,212.76,672.12,264.0"><tabletext bbox="606.980,214.135,666.964,257.630" id="10" size="18.012">Male 
+Female <textline bbox="606.980,239.630,645.914,257.630" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Male </textline>
+<textline bbox="606.980,214.135,666.964,232.159" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Female </textline>
+</tabletext>
+</cell><cell bbox="588.96,246.0,604.2,256.2" /><cell bbox="589.56,246.48,603.72,255.72" /><cell bbox="588.96,220.32,604.2,230.76" /><cell bbox="589.56,221.04,603.72,230.28" /></table><enlisting archetypal_index="5" bbox="353.69,95.644,422.138,112.442">6.6 6.0 <normal_text bbox="353.690,98.402,373.248,112.442" id="13" size="14.04">6.6 <textline bbox="353.690,98.402,373.248,112.442" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">6.6 </textline>
+</normal_text>
+<normal_text bbox="402.580,95.644,422.138,109.684" id="14" size="14.04">6.0 <textline bbox="402.580,95.644,422.138,109.684" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">6.0 </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="6" bbox="472.34,91.396,546.528,106.847">5.7 5.5 <normal_text bbox="472.340,92.783,491.889,106.847" id="15" size="14.064">5.7 <textline bbox="472.340,92.783,491.889,106.847" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">5.7 </textline>
+</normal_text>
+<normal_text bbox="526.970,91.396,546.528,105.436" id="16" size="14.04">5.5 <textline bbox="526.970,91.396,546.528,105.436" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5.5 </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="7" bbox="103.51,47.964,300.478,375.242">86.1 86.6 1.6 1.9 <normal_text bbox="103.51,358.322,174.13,375.242">86.1 86.6 <normal_text bbox="103.510,358.322,130.860,372.362" id="3" size="14.04">86.1 <textline bbox="103.510,358.322,130.860,372.362" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">86.1 </textline>
+</normal_text>
+<normal_text bbox="146.780,361.202,174.130,375.242" id="4" size="14.04">86.6 <textline bbox="146.780,361.202,174.130,375.242" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">86.6 </textline>
+</normal_text>
+</normal_text><normal_text bbox="121.15,47.964,300.478,97.06">1.6 1.9 <normal_text bbox="227.780,80.284,247.338,94.324" id="11" size="14.04">1.6 <textline bbox="227.780,80.284,247.338,94.324" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1.6 </textline>
+</normal_text>
+<normal_text bbox="280.920,83.020,300.478,97.060" id="12" size="14.04">1.9 <textline bbox="280.920,83.020,300.478,97.060" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1.9 </textline>
+</normal_text>
+<normal_text bbox="121.150,47.964,159.166,65.964" id="17" size="18.0">POV <textline bbox="121.150,47.964,159.166,65.964" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">POV </textline>
+</normal_text>
+<normal_text bbox="236.540,47.964,290.900,65.964" id="18" size="18.0">Transit <textline bbox="236.540,47.964,290.900,65.964" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Transit </textline>
+</normal_text>
+</normal_text></enlisting></page>
+</pages>

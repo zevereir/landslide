@@ -1,0 +1,376 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[179.85792857142857, 487.2771785714285, 516.3549642857143, 516.9694642857143]" rotate="0">
+<title archetypal_index="0" bbox="184.540,479.308,535.075,507.268" id="0" size="27.96">Coupling Transfer Functions <textline bbox="184.540,479.308,535.075,507.268" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="27.960">Coupling Transfer Functions </textline>
+</title>
+<normal_text archetypal_index="1" bbox="62.472,395.755,172.526,419.779" id="1" size="24.024">S11    S12 <textline bbox="62.472,395.755,172.526,419.779" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="24.024">S11    S12 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="62.472,346.540,174.456,370.540" id="2" size="24.0">S21    S22 <textline bbox="62.472,346.540,174.456,370.540" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="24.000">S21    S22 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="265.490,339.467,647.320,431.512" id="3" size="20.046">S11 &#8211; excite horizontal, measure horizontal 
+S12 &#8211; excite vertical, measure horizontal 
+S21 &#8211; excite horizontal, measure vertical 
+S22 &#8211; excite vertical, measure vertical <textline bbox="265.490,411.472,647.320,431.512" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S11 &#8211; excite horizontal, measure horizontal </textline>
+<textline bbox="265.490,387.472,625.553,407.512" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S12 &#8211; excite vertical, measure horizontal </textline>
+<textline bbox="265.490,363.472,625.373,383.512" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S21 &#8211; excite horizontal, measure vertical </textline>
+<textline bbox="265.490,339.467,602.059,359.531" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">S22 &#8211; excite vertical, measure vertical </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="43.344,88.043,277.451,108.107" id="8" size="20.064">This matrix is symmetric <textline bbox="43.344,88.043,277.451,108.107" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.064">This matrix is symmetric </textline>
+</normal_text>
+<curve bbox="41.700,351.780,53.940,423.900" linewidth="1" pts="53.940,351.780,50.560,351.780,47.820,352.240,47.820,352.800,47.820,386.820,47.820,387.380,45.080,387.840,41.700,387.840,45.080,387.840,47.820,388.300,47.820,388.860,47.820,422.880,47.820,423.440,50.560,423.900,53.940,423.900" />
+<curve bbox="184.980,351.060,197.220,423.180" linewidth="1" pts="184.980,423.180,188.360,423.180,191.100,422.720,191.100,422.160,191.100,388.140,191.100,387.580,193.840,387.120,197.220,387.120,193.840,387.120,191.100,386.660,191.100,386.100,191.100,352.080,191.100,351.520,188.360,351.060,184.980,351.060" />
+<enlisting archetypal_index="5" bbox="37.824,136.052,635.018,300.112">&#8226; S12 and S21 are the Coupling Transfer Functions.  
+&#8226; The success of the LARP Tune Feedback Task required that &#8226; the CTFs be measured, 
+&#8226; and that the data be used to close feedback loops on coupling 
+&#8226; only then was tune control possible &#8226; The lesson here &#8226; Don&#8217;t ignore the off-diagonal elements <normal_text bbox="37.824,256.072,583.449,300.112" id="4" size="20.04">&#8226; S12 and S21 are the Coupling Transfer Functions.  
+&#8226; The success of the LARP Tune Feedback Task required that <textline bbox="37.824,280.072,501.344,300.112" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226; S12 and S21 are the Coupling Transfer Functions.  </textline>
+<textline bbox="37.824,256.072,583.449,276.112" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226; The success of the LARP Tune Feedback Task required that </textline>
+</normal_text>
+<normal_text bbox="73.848,184.052,635.018,252.112" id="5" size="20.048">&#8226; the CTFs be measured, 
+&#8226; and that the data be used to close feedback loops on coupling 
+&#8226; only then was tune control possible <textline bbox="73.848,232.072,296.508,252.112" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226; the CTFs be measured, </textline>
+<textline bbox="73.848,208.067,635.018,228.131" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">&#8226; and that the data be used to close feedback loops on coupling </textline>
+<textline bbox="73.848,184.052,397.529,204.092" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226; only then was tune control possible </textline>
+</normal_text>
+<normal_text bbox="37.824,160.052,193.671,180.092" id="6" size="20.04">&#8226; The lesson here <textline bbox="37.824,160.052,193.671,180.092" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226; The lesson here </textline>
+</normal_text>
+<normal_text bbox="73.848,136.052,451.778,156.092" id="7" size="20.04">&#8226; Don&#8217;t ignore the off-diagonal elements <textline bbox="73.848,136.052,451.778,156.092">&#8226; Don&#8217;t ignore the off-diagonal elements <text bbox="73.848,136.052,80.862,156.092" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8226;</text>
+<text bbox="86.328,136.052,100.797,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">D</text>
+<text bbox="100.797,136.052,113.041,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">o</text>
+<text bbox="113.041,136.052,125.286,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">n</text>
+<text bbox="125.286,136.052,130.857,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">&#8217;</text>
+<text bbox="130.857,136.052,137.530,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">t</text>
+<text bbox="137.530,136.052,143.101,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="142.961,136.052,148.532,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">i</text>
+<text bbox="148.532,136.052,160.777,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">g</text>
+<text bbox="160.777,136.052,173.021,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">n</text>
+<text bbox="173.021,136.052,185.265,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">o</text>
+<text bbox="185.205,136.052,193.001,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">r</text>
+<text bbox="193.001,136.052,204.143,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">e</text>
+<text bbox="204.143,136.052,209.714,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="209.574,136.052,216.247,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">t</text>
+<text bbox="216.247,136.052,228.492,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">h</text>
+<text bbox="228.492,136.052,239.634,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">e</text>
+<text bbox="239.634,136.052,245.205,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="245.085,136.052,257.329,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">o</text>
+<text bbox="257.329,136.052,264.003,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">f</text>
+<text bbox="264.003,136.052,270.676,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">f</text>
+<text bbox="270.790,136.052,277.463,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="277.510,136.052,289.754,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">d</text>
+<text bbox="289.754,136.052,295.326,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">i</text>
+<text bbox="295.326,136.052,306.468,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">a</text>
+<text bbox="306.468,136.052,318.712,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">g</text>
+<text bbox="318.712,136.052,330.957,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">o</text>
+<text bbox="330.957,136.052,343.201,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">n</text>
+<text bbox="343.201,136.052,354.343,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">a</text>
+<text bbox="354.343,136.052,359.914,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">l</text>
+<text bbox="359.834,136.052,365.405,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="364.985,136.052,376.127,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">e</text>
+<text bbox="376.127,136.052,381.698,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">l</text>
+<text bbox="381.698,136.052,392.840,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">e</text>
+<text bbox="392.840,136.052,410.656,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">m</text>
+<text bbox="410.576,136.052,421.718,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">e</text>
+<text bbox="421.718,136.052,433.962,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">n</text>
+<text bbox="433.962,136.052,440.636,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">t</text>
+<text bbox="440.636,136.052,451.778,156.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="20.040">s</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="16" mean_title="[169.47838888888887, 490.9251388888889, 531.9531944444445, 520.2378055555556]" rotate="0">
+<title archetypal_index="0" bbox="133.150,503.693,586.547,531.677" id="0" size="27.984">consider both beams simultaneously <textline bbox="133.150,503.693,586.547,531.677" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="27.984">consider both beams simultaneously </textline>
+</title>
+<normal_text archetypal_index="1" bbox="98.976,450.612,227.353,470.652" id="1" size="20.04">S11   S12 --- <textline bbox="98.976,450.612,227.353,470.652">S11   S12 --- <text bbox="98.976,450.612,112.343,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="112.343,450.612,123.485,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="122.022,450.612,133.164,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="133.164,450.612,138.735,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="138.575,450.612,144.146,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="144.146,450.612,149.717,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="149.620,450.612,162.987,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="162.987,450.612,174.129,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">1</text>
+<text bbox="174.129,450.612,185.271,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">2</text>
+<text bbox="207.240,450.612,213.913,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="213.960,450.612,220.633,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="220.680,450.612,227.353,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="98.976,408.607,228.921,428.671" id="2" size="20.064">S21 S22    --- <textline bbox="98.976,408.607,228.921,428.671">S21 S22    --- <text bbox="98.976,408.607,112.359,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.064">S</text>
+<text bbox="112.298,408.607,123.454,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.064">2</text>
+<text bbox="123.454,408.607,134.610,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.064">1</text>
+<text bbox="151.060,408.607,164.443,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">S</text>
+<text bbox="164.382,408.607,175.538,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">2</text>
+<text bbox="175.538,408.607,186.694,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">2</text>
+<text bbox="186.694,408.607,192.271,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064"> </text>
+<text bbox="192.271,408.607,197.849,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064"> </text>
+<text bbox="197.749,408.607,203.327,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064"> </text>
+<text bbox="203.327,408.607,208.905,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064"> </text>
+<text bbox="208.800,408.607,215.481,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">-</text>
+<text bbox="215.520,408.607,222.201,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">-</text>
+<text bbox="222.240,408.607,228.921,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">-</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="358.150,441.058,413.212,457.018" id="9" size="15.96">beam 1 <textline bbox="358.150,441.058,413.212,457.018" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 1 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="358.150,353.168,413.212,369.128" id="10" size="15.96">beam 2 <textline bbox="358.150,353.168,413.212,369.128" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 2 </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="436.540,320.360,651.472,489.590" id="11" size="18.003">S11 &#8211; excite H, measure H 
+S12 &#8211; excite H, measure V 
+S21 &#8211; excite V, measure H 
+S22 &#8211; excite V, measure V 
+S33 &#8211; excite H, measure H 
+S34 &#8211; excite H, measure V 
+S43 &#8211; excite V, measure H 
+S44 &#8211; excite V, measure V <textline bbox="436.540,471.590,650.152,489.590" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S11 &#8211; excite H, measure H </textline>
+<textline bbox="436.540,449.990,650.482,467.990" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S12 &#8211; excite H, measure V </textline>
+<textline bbox="436.540,428.385,648.860,446.409" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.024">S21 &#8211; excite V, measure H </textline>
+<textline bbox="436.540,406.760,647.836,424.760" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S22 &#8211; excite V, measure V </textline>
+<textline bbox="436.540,385.160,651.472,403.160" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S33 &#8211; excite H, measure H </textline>
+<textline bbox="436.540,363.560,650.482,381.560" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S34 &#8211; excite H, measure V </textline>
+<textline bbox="436.540,341.960,648.826,359.960" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S43 &#8211; excite V, measure H </textline>
+<textline bbox="436.540,320.360,647.836,338.360" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S44 &#8211; excite V, measure V </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="27.336,264.332,594.472,308.372" id="12" size="20.04">green indicates coupling to the orthogonal measurement plane 
+nulling beam-beam induced coupling should be straightforward? <textline bbox="27.336,288.332,580.480,308.372" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">green indicates coupling to the orthogonal measurement plane </textline>
+<textline bbox="27.336,264.332,594.472,284.372" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="20.040">nulling beam-beam induced coupling should be straightforward? </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="87.720,200.322,278.311,220.362" id="13" size="20.04">S11   S12 S13   S14 <textline bbox="87.720,200.322,278.311,220.362">S11   S12 S13   S14 <text bbox="87.720,200.322,101.087,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="101.087,200.322,112.229,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="110.766,200.322,121.908,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="121.908,200.322,127.479,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="127.319,200.322,132.890,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="132.890,200.322,138.461,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="138.360,200.322,151.727,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="151.727,200.322,162.869,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">1</text>
+<text bbox="162.869,200.322,174.011,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">2</text>
+<text bbox="190.460,200.322,203.827,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="203.827,200.322,214.969,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="214.969,200.322,226.111,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="226.111,200.322,231.682,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="231.622,200.322,237.193,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="237.193,200.322,242.764,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="242.660,200.322,256.027,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="256.027,200.322,267.169,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">1</text>
+<text bbox="267.169,200.322,278.311,220.362" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="87.720,158.292,279.751,178.332" id="14" size="20.04">S21 S22   S23 S24 <textline bbox="87.720,158.292,279.751,178.332">S21 S22   S23 S24 <text bbox="87.720,158.292,101.087,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="101.087,158.292,112.229,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">2</text>
+<text bbox="112.229,158.292,123.371,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">1</text>
+<text bbox="139.800,158.292,153.167,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="153.167,158.292,164.309,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">2</text>
+<text bbox="164.309,158.292,175.451,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">2</text>
+<text bbox="175.451,158.292,181.022,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="180.962,158.292,186.533,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="186.533,158.292,192.104,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="192.020,158.292,205.387,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="205.387,158.292,216.529,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">2</text>
+<text bbox="216.529,158.292,227.671,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="244.100,158.292,257.467,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="257.467,158.292,268.609,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">2</text>
+<text bbox="268.609,158.292,279.751,178.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="87.720,116.292,279.751,136.332" id="15" size="20.04">S31   S32 S33   S34 <textline bbox="87.720,116.292,279.751,136.332">S31   S32 S33   S34 <text bbox="87.720,116.292,101.087,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="101.087,116.292,112.229,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="112.229,116.292,123.371,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">1</text>
+<text bbox="123.371,116.292,128.942,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="128.882,116.292,134.453,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="134.453,116.292,140.024,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="139.800,116.292,153.167,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="153.167,116.292,164.309,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="164.309,116.292,175.451,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">2</text>
+<text bbox="192.020,116.292,205.387,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="205.387,116.292,216.529,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="216.529,116.292,227.671,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="227.671,116.292,233.242,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="233.062,116.292,238.633,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="238.633,116.292,244.204,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="244.100,116.292,257.467,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="257.467,116.292,268.609,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="268.609,116.292,279.751,136.332" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="87.720,74.296,279.751,94.336" id="16" size="20.04">S41 S42   S43 S44 <textline bbox="87.720,74.296,279.751,94.336">S41 S42   S43 S44 <text bbox="87.720,74.296,101.087,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="101.087,74.296,112.229,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+<text bbox="112.229,74.296,123.371,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">1</text>
+<text bbox="139.800,74.296,153.167,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="153.167,74.296,164.309,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+<text bbox="164.309,74.296,175.451,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">2</text>
+<text bbox="175.451,74.296,181.022,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="180.962,74.296,186.533,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="186.533,74.296,192.104,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="192.020,74.296,205.387,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="205.387,74.296,216.529,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+<text bbox="216.529,74.296,227.671,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="244.100,74.296,257.467,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="257.467,74.296,268.609,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+<text bbox="268.609,74.296,279.751,94.336" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="336.500,160.398,406.580,233.958" id="17" size="15.96">excite 
+beam 1 
+measure  
+beam 2 <textline bbox="336.500,217.998,381.747,233.958" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">excite </textline>
+<textline bbox="336.500,198.798,391.562,214.758" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 1 </textline>
+<textline bbox="336.500,179.598,406.580,195.558" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">measure  </textline>
+<textline bbox="336.500,160.398,391.562,176.358" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 2 </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="338.260,72.512,403.903,146.068" id="18" size="15.96">excite 
+beam 2 
+measure 
+beam 1 <textline bbox="338.260,130.108,383.507,146.068" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">excite </textline>
+<textline bbox="338.260,110.908,393.322,126.868" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 2 </textline>
+<textline bbox="338.260,91.712,403.903,107.672" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">measure </textline>
+<textline bbox="338.260,72.512,393.322,88.472" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">beam 1 </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="425.280,70.063,660.282,239.290" id="19" size="18.006">S13 &#8211; excite 1H, measure 2H 
+S14 &#8211; excite 1H, measure 2V 
+S23 &#8211; excite 1V, measure 2H 
+S24 &#8211; excite 1V, measure 2V 
+S31 &#8211; excite 2H, measure 1H 
+S32 &#8211; excite 2H, measure 1V 
+S41 &#8211; excite 2V, measure 1H 
+S42 &#8211; excite 2V, measure 1V <textline bbox="425.280,221.290,660.282,239.290" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S13 &#8211; excite 1H, measure 2H </textline>
+<textline bbox="425.280,199.685,659.282,217.709" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.024">S14 &#8211; excite 1H, measure 2V </textline>
+<textline bbox="425.280,178.070,657.654,196.070" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S23 &#8211; excite 1V, measure 2H </textline>
+<textline bbox="425.280,156.470,656.664,174.470" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S24 &#8211; excite 1V, measure 2V </textline>
+<textline bbox="425.280,134.870,660.282,152.870" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.000">S31 &#8211; excite 2H, measure 1H </textline>
+<textline bbox="425.280,113.270,659.292,131.270" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S32 &#8211; excite 2H, measure 1V </textline>
+<textline bbox="425.280,91.668,657.654,109.668" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="18.000">S41 &#8211; excite 2V, measure 1H </textline>
+<textline bbox="425.280,70.063,656.633,88.087" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="18.024">S42 &#8211; excite 2V, measure 1V </textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="21.072,17.264,600.739,52.424" id="20" size="15.96">this matrix is symmetric as well, helps for setting excitations, gains, normalizing,&#8230; 
+We want to diagonalize this matrix (with the beams in collision) <textline bbox="21.072,36.464,600.739,52.424" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="15.960">this matrix is symmetric as well, helps for setting excitations, gains, normalizing,&#8230; </textline>
+<textline bbox="21.072,17.264,501.436,33.224" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.161, 0.161, 1)" size="15.960">We want to diagonalize this matrix (with the beams in collision) </textline>
+</normal_text>
+<curve bbox="84.180,409.860,96.420,475.860" linewidth="1" pts="96.420,409.860,93.040,409.860,90.300,410.320,90.300,410.880,90.300,441.840,90.300,442.400,87.560,442.860,84.180,442.860,87.560,442.860,90.300,443.320,90.300,443.880,90.300,474.840,90.300,475.400,93.040,475.860,96.420,475.860" />
+<curve bbox="188.940,410.340,201.420,476.340" linewidth="1" pts="188.940,476.340,192.390,476.340,195.180,475.870,195.180,475.300,195.180,444.380,195.180,443.810,197.970,443.340,201.420,443.340,197.970,443.340,195.180,442.870,195.180,442.300,195.180,411.380,195.180,410.810,192.390,410.340,188.940,410.340" />
+<curve bbox="420.060,407.340,432.300,492.780" linewidth="1" pts="432.300,407.340,428.920,407.340,426.180,407.800,426.180,408.360,426.180,449.040,426.180,449.600,423.440,450.060,420.060,450.060,423.440,450.060,426.180,450.520,426.180,451.080,426.180,491.760,426.180,492.320,428.920,492.780,432.300,492.780" />
+<curve bbox="420.180,318.540,432.420,404.220" linewidth="1" pts="432.420,318.540,429.040,318.540,426.300,319.000,426.300,319.560,426.300,360.360,426.300,360.920,423.560,361.380,420.180,361.380,423.560,361.380,426.300,361.840,426.300,362.400,426.300,403.200,426.300,403.760,429.040,404.220,432.420,404.220" />
+<curve bbox="72.420,73.140,84.540,230.700" linewidth="1" pts="84.540,73.140,81.193,73.140,78.480,73.597,78.480,74.160,78.480,150.900,78.480,151.460,75.767,151.920,72.420,151.920,75.767,151.920,78.480,152.380,78.480,152.940,78.480,229.680,78.480,230.240,81.193,230.700,84.540,230.700" />
+<curve bbox="282.780,73.740,295.380,231.180" linewidth="1" pts="282.780,231.180,286.260,231.180,289.080,230.710,289.080,230.140,289.080,153.500,289.080,152.930,291.900,152.460,295.380,152.460,291.900,152.460,289.080,151.990,289.080,151.420,289.080,74.781,289.080,74.206,286.260,73.740,282.780,73.740" />
+<curve bbox="408.780,156.900,421.020,242.580" linewidth="1" pts="421.020,156.900,417.640,156.900,414.900,157.360,414.900,157.920,414.900,198.720,414.900,199.280,412.160,199.740,408.780,199.740,412.160,199.740,414.900,200.200,414.900,200.760,414.900,241.560,414.900,242.120,417.640,242.580,421.020,242.580" />
+<curve bbox="408.900,68.340,421.140,153.900" linewidth="1" pts="421.140,68.340,417.760,68.340,415.020,68.796,415.020,69.358,415.020,110.100,415.020,110.660,412.280,111.120,408.900,111.120,412.280,111.120,415.020,111.580,415.020,112.140,415.020,152.880,415.020,153.440,417.760,153.900,421.140,153.900" />
+<curve bbox="184.980,326.940,195.660,392.940" linewidth="1" pts="195.660,326.940,192.710,326.940,190.320,327.340,190.320,327.830,190.320,359.050,190.320,359.540,187.930,359.940,184.980,359.940,187.930,359.940,190.320,360.340,190.320,360.830,190.320,392.050,190.320,392.540,192.710,392.940,195.660,392.940" />
+<curve bbox="287.460,325.140,300.060,391.020" linewidth="1" pts="287.460,391.020,290.940,391.020,293.760,390.550,293.760,389.980,293.760,359.120,293.760,358.550,296.580,358.080,300.060,358.080,296.580,358.080,293.760,357.610,293.760,357.040,293.760,326.180,293.760,325.610,290.940,325.140,287.460,325.140" />
+<curve bbox="187.840,158.200,284.910,232.170" linewidth="1" pts="193.140,166.070,187.840,173.950,202.900,193.370,226.780,209.440,250.650,225.520,274.310,232.170,279.610,224.300,284.910,216.430,269.850,197.010,245.970,180.930,222.100,164.850,198.440,158.200,193.140,166.070" />
+<curve bbox="84.817,73.109,181.930,147.140" linewidth="1" pts="90.138,81.012,84.817,88.914,99.861,108.350,123.740,124.430,147.620,140.510,171.290,147.140,176.610,139.240,181.930,131.340,166.890,111.900,143.010,95.816,119.130,79.738,95.459,73.109,90.138,81.012" />
+<curve bbox="213.110,219.660,234.120,261.910" linewidth="1" pts="213.110,261.170,231.750,220.870,233.340,221.600,214.690,261.910,226.350,224.500,233.280,219.660,234.080,228.070,234.080,228.070,234.120,228.550,233.770,228.980,233.290,229.020,232.810,229.070,232.380,228.720,232.330,228.240,231.680,221.320,233.050,221.950,227.350,225.930,227.350,225.930,226.960,226.210,226.410,226.110,226.130,225.710,225.860,225.320,225.950,224.770,226.350,224.500" />
+<curve bbox="123.060,130.540,140.650,261.630" linewidth="1" pts="140.650,261.450,127.820,132.180,126.080,132.350,138.910,261.630,131.740,137.380,126.780,130.540,123.270,138.220,123.060,138.660,123.260,139.180,123.700,139.380,124.140,139.580,124.660,139.380,124.860,138.940,127.750,132.630,126.240,132.780,130.320,138.400,130.600,138.790,131.150,138.880,131.540,138.600,131.930,138.310,132.020,137.770,131.740,137.380" />
+<enlisting archetypal_index="15" bbox="260.16,408.607,281.721,470.652">--- --- <normal_text bbox="260.160,450.612,280.273,470.652" id="3" size="20.04">--- <textline bbox="260.160,450.612,280.273,470.652" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">--- </textline>
+</normal_text>
+<normal_text bbox="261.600,408.607,281.721,428.671" id="4" size="20.064">--- <textline bbox="261.600,408.607,281.721,428.671" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.064">--- </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="16" bbox="104.5,324.592,287.051,386.632">--- --- --- S33   S34 --- S43 S44 <normal_text bbox="104.500,366.592,124.613,386.632" id="5" size="20.04">--- <textline bbox="104.500,366.592,124.613,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">--- </textline>
+</normal_text>
+<normal_text bbox="104.500,324.592,124.613,344.632" id="6" size="20.04">--- <textline bbox="104.500,324.592,124.613,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">--- </textline>
+</normal_text>
+<normal_text bbox="157.300,366.592,287.051,386.632" id="7" size="20.04">--- S33   S34 <textline bbox="157.300,366.592,287.051,386.632">--- S33   S34 <text bbox="157.300,366.592,163.973,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="164.020,366.592,170.693,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="170.740,366.592,177.413,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="199.180,366.592,212.547,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="212.547,366.592,223.689,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="223.689,366.592,234.831,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">3</text>
+<text bbox="234.871,366.592,240.442,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="240.442,366.592,246.013,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="246.013,366.592,251.585,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040"> </text>
+<text bbox="251.400,366.592,264.767,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="264.767,366.592,275.909,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="275.909,366.592,287.051,386.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+</textline>
+</normal_text>
+<normal_text bbox="157.300,324.592,287.051,344.632" id="8" size="20.04">--- S43 S44 <textline bbox="157.300,324.592,287.051,344.632">--- S43 S44 <text bbox="157.300,324.592,163.973,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="164.020,324.592,170.693,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="170.740,324.592,177.413,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">-</text>
+<text bbox="199.180,324.592,212.547,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">S</text>
+<text bbox="212.547,324.592,223.689,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">4</text>
+<text bbox="223.689,324.592,234.831,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.502, 0)" size="20.040">3</text>
+<text bbox="251.400,324.592,264.767,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">S</text>
+<text bbox="264.767,324.592,275.909,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+<text bbox="275.909,324.592,287.051,344.632" colourspace="Pattern" font="ArialMT" ncolour="(0.161, 0.161, 1)" size="20.040">4</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[152.6275111111111, 493.8297111111111, 531.5237555555557, 520.4718444444444]" rotate="0">
+<title archetypal_index="0" bbox="85.224,505.448,529.806,521.408" id="0" size="15.96">pickup/excitation plane                            digitizer/measurement <textline bbox="85.224,505.448,529.806,521.408" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">pickup/excitation plane                            digitizer/measurement </textline>
+</title>
+<normal_text archetypal_index="1" bbox="165.430,452.788,188.473,468.748" id="1" size="15.96">BH <textline bbox="165.430,452.788,188.473,468.748" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="15.960">BH </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="165.910,326.768,188.099,342.728" id="2" size="15.96">BV <textline bbox="165.910,326.768,188.099,342.728" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="15.960">BV </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="165.910,202.188,188.137,218.148" id="3" size="15.96">YH <textline bbox="165.910,202.188,188.137,218.148" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">YH </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="166.270,77.600,187.595,93.560" id="4" size="15.96">YV <textline bbox="166.270,77.600,187.595,93.560" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.4, 1)" size="15.960">YV </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="481.300,404.628,559.440,489.708" id="9" size="15.96">BH BTF 
+BV CTF 
+YH BBTF 
+YV BBCTF <textline bbox="481.300,473.748,538.102,489.708" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BH BTF </textline>
+<textline bbox="481.300,450.708,538.102,466.668" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BV CTF </textline>
+<textline bbox="481.300,427.668,548.763,443.628" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YH BBTF </textline>
+<textline bbox="481.300,404.628,559.440,420.588" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YV BBCTF </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="481.300,276.848,560.286,361.928" id="10" size="15.96">BV BTF 
+BH CTF 
+YV BBTF 
+YH BBCTF <textline bbox="481.300,345.968,537.224,361.928" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BV BTF </textline>
+<textline bbox="481.300,322.928,538.932,338.888" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BH CTF </textline>
+<textline bbox="481.300,299.888,547.917,315.848" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YV BBTF </textline>
+<textline bbox="481.300,276.848,560.286,292.808" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YH BBCTF </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="481.300,150.828,559.456,235.908" id="11" size="15.96">YH BTF 
+YV CTF 
+BH BBTF 
+BV BBCTF <textline bbox="481.300,219.948,538.070,235.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YH BTF </textline>
+<textline bbox="481.300,196.908,538.102,212.868" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YV CTF </textline>
+<textline bbox="481.300,173.868,548.747,189.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BH BBTF </textline>
+<textline bbox="481.300,150.828,559.456,166.788" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BV BBCTF </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="481.300,24.800,560.270,109.880" id="12" size="15.96">YV BTF 
+YH CTF 
+BV BBTF 
+BH BBCTF <textline bbox="481.300,93.920,537.224,109.880" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YV BTF </textline>
+<textline bbox="481.300,70.880,538.948,86.840" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">YH CTF </textline>
+<textline bbox="481.300,47.840,547.933,63.800" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BV BBTF </textline>
+<textline bbox="481.300,24.800,560.270,40.760" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">BH BBCTF </textline>
+</normal_text>
+<rect bbox="150.060,64.380,204.060,106.140" linewidth="2" />
+<rect bbox="150.060,64.380,204.060,106.140" linewidth="2" />
+<rect bbox="150.060,188.340,204.060,232.140" linewidth="2" />
+<rect bbox="150.060,188.340,204.060,232.140" linewidth="2" />
+<rect bbox="150.060,312.180,204.060,358.140" linewidth="2" />
+<rect bbox="150.060,312.180,204.060,358.140" linewidth="2" />
+<rect bbox="150.060,438.180,204.060,484.140" linewidth="2" />
+<rect bbox="150.060,438.180,204.060,484.140" linewidth="2" />
+<table archetypal_index="9" bbox="444.06,9.78,468.06,490.14" dimensions="1/4"><cell bbox="444.06,9.78,468.06,112.14"><tabletext bbox="451.300,26.000,460.174,111.080" id="8" size="15.96">0 
+1 
+2 
+3 <textline bbox="451.300,95.120,460.174,111.080" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.4, 1)" size="15.960">0 </textline>
+<textline bbox="451.300,72.080,460.174,88.040" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.4, 1)" size="15.960">1 </textline>
+<textline bbox="451.300,49.040,460.174,65.000" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.4, 1)" size="15.960">2 </textline>
+<textline bbox="451.300,26.000,460.174,41.960" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.4, 1)" size="15.960">3 </textline>
+</tabletext>
+</cell><cell bbox="444.06,135.78,468.06,238.14"><tabletext bbox="451.300,152.028,460.174,237.108" id="7" size="15.96">0 
+1 
+2 
+3 <textline bbox="451.300,221.148,460.174,237.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">0 </textline>
+<textline bbox="451.300,198.108,460.174,214.068" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">1 </textline>
+<textline bbox="451.300,175.068,460.174,191.028" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">2 </textline>
+<textline bbox="451.300,152.028,460.174,167.988" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">3 </textline>
+</tabletext>
+</cell><cell bbox="444.06,261.78,468.06,364.14"><tabletext bbox="451.300,278.048,460.174,363.128" id="6" size="15.96">0 
+1 
+2 
+3 <textline bbox="451.300,347.168,460.174,363.128" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="15.960">0 </textline>
+<textline bbox="451.300,324.128,460.174,340.088" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="15.960">1 </textline>
+<textline bbox="451.300,301.088,460.174,317.048" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="15.960">2 </textline>
+<textline bbox="451.300,278.048,460.174,294.008" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="15.960">3 </textline>
+</tabletext>
+</cell><cell bbox="444.06,387.78,468.06,490.14"><tabletext bbox="451.300,404.068,460.187,489.197" id="5" size="15.966000000000001">0 
+1 
+2 
+3 <textline bbox="451.300,473.213,460.187,489.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="15.984">0 </textline>
+<textline bbox="451.300,450.148,460.174,466.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="15.960">1 </textline>
+<textline bbox="451.300,427.108,460.174,443.068" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="15.960">2 </textline>
+<textline bbox="451.300,404.068,460.174,420.028" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="15.960">3 </textline>
+</tabletext>
+</cell></table></page>
+</pages>

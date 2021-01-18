@@ -1,0 +1,148 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[173.155, 425.52, 467.42699999999996, 493.68]" rotate="0">
+<title archetypal_index="0" bbox="145.150,418.920,436.030,507.240" id="0" size="48.0">Electrical Load  
+Determination <textline bbox="145.150,459.240,436.030,507.240" colourspace="Pattern" font="BCDEEE+ArialNarrow-Bold" ncolour="(0.2, 0.4, 0.6)" size="48.000">Electrical Load  </textline>
+<textline bbox="145.150,418.920,409.630,466.920" colourspace="Pattern" font="BCDEEE+ArialNarrow-Bold" ncolour="(0.2, 0.4, 0.6)" size="48.000">Determination </textline>
+</title>
+<normal_text archetypal_index="1" bbox="256.180,347.353,429.149,375.337" id="1" size="27.984">Load Analysis <textline bbox="256.180,347.353,429.149,375.337" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.984">Load Analysis </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="287.740,153.792,671.309,335.862" id="2" size="26.039999999999996">It should be determined that the  
+total electrical load can be safely  
+controlled or managed within the  
+rated limits of the affected  
+components of the aircraft&#8217;s  
+electrical system. <textline bbox="287.740,309.822,661.232,335.862" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">It should be determined that the  </textline>
+<textline bbox="287.740,278.622,671.309,304.662" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">total electrical load can be safely  </textline>
+<textline bbox="287.740,247.422,671.127,273.462" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">controlled or managed within the  </textline>
+<textline bbox="287.740,216.192,592.747,242.232" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">rated limits of the affected  </textline>
+<textline bbox="287.740,184.992,614.360,211.032" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">components of the aircraft&#8217;s  </textline>
+<textline bbox="287.740,153.792,487.493,179.832" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">electrical system. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="256.180,46.328,701.825,141.527" id="3" size="27.968">New or additional electrical devices  
+should not be installed without an  
+electrical load analysis <textline bbox="256.180,113.543,701.825,141.527" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.984">New or additional electrical devices  </textline>
+<textline bbox="256.180,79.928,678.432,107.888" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.960">should not be installed without an  </textline>
+<textline bbox="256.180,46.328,536.619,74.288" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.960">electrical load analysis </textline>
+</normal_text>
+<slide_number bbox="651.720,87.711,658.740,101.751" id="4" size="14.04">4 <textline bbox="651.720,87.711,658.740,101.751" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0.6)" size="14.040">4 </textline>
+</slide_number>
+<curve bbox="0.000,-0.360,228.000,473.520" linewidth="0" pts="0.116,473.520,125.990,473.390,228.000,261.260,228.000,-0.360,0.000,-0.360" />
+<picture archetypal_index="4" bbox="229.180,349.510,247.180,368.254" height="18" name="Image29" src="Image29.3.2x2.bmp" width="18">
+</picture>
+<picture archetypal_index="5" bbox="229.180,115.700,247.180,134.420" height="18" name="Image29" src="Image29.4.2x2.bmp" width="18">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[210.854, 397.24986666666666, 511.51546666666667, 466.3387555555556]" rotate="0">
+<title archetypal_index="0" bbox="229.180,427.080,499.948,475.080" id="0" size="48.0">Wire Selection <textline bbox="229.180,427.080,499.948,475.080" colourspace="Pattern" font="BCDEEE+ArialNarrow-Bold" ncolour="(0.2, 0.4, 0.6)" size="48.000">Wire Selection </textline>
+</title>
+<normal_text archetypal_index="1" bbox="208.180,371.358,465.188,399.318" id="1" size="27.96">Conductor Stranding <textline bbox="208.180,371.358,465.188,399.318" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.960">Conductor Stranding </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="239.740,333.822,556.595,359.862" id="2" size="26.04">Minimizes fatigue breakage <textline bbox="239.740,333.822,556.595,359.862" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">Minimizes fatigue breakage </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="208.180,293.578,307.774,321.538" id="3" size="27.96">Platings <textline bbox="208.180,293.578,307.774,321.538" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="27.960">Platings </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="239.740,162.432,645.027,282.102" id="4" size="26.046">all aircraft wiring is plated because  
+bare copper develops a surface  
+oxide film which is a poor  
+conductor <textline bbox="239.740,256.062,645.027,282.102" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">all aircraft wiring is plated because  </textline>
+<textline bbox="239.740,224.857,611.908,250.921" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.064">bare copper develops a surface  </textline>
+<textline bbox="239.740,193.632,537.716,219.672" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">oxide film which is a poor  </textline>
+<textline bbox="239.740,162.432,354.290,188.472" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="26.040">conductor </textline>
+</normal_text>
+<enlisting archetypal_index="5" bbox="271.180,58.680,552.120,151.820" id="5" size="24.0">Tin &lt; 150 degrees C 
+Silver &lt; 200 degrees C 
+Nickel  ---&gt; 260 degrees C <textline bbox="271.180,127.820,488.500,151.820" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="24.000">Tin &lt; 150 degrees C </textline>
+<textline bbox="271.180,93.240,516.076,117.240" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="24.000">Silver &lt; 200 degrees C </textline>
+<textline bbox="271.180,58.680,552.120,82.680" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="24.000">Nickel  ---&gt; 260 degrees C </textline>
+</enlisting>
+<slide_number bbox="645.120,87.711,658.740,101.751" id="6" size="14.04">11 <textline bbox="645.120,87.711,658.740,101.751" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0.6)" size="14.040">11 </textline>
+</slide_number>
+<curve bbox="0.000,-0.360,228.000,473.520" linewidth="0" pts="0.116,473.520,125.990,473.390,228.000,261.260,228.000,-0.360,0.000,-0.360" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="20" mean_title="[190.1963, 404.65819999999997, 538.4872, 484.8584083333334]" rotate="0">
+<title archetypal_index="0" bbox="145.150,440.252,606.500,521.291" id="0" size="44.052">Comparative Properties of  
+Wire Insulation systems <textline bbox="145.150,477.227,606.500,521.291" colourspace="Pattern" font="BCDEEE+ArialNarrow-Bold" ncolour="(0.2, 0.4, 0.6)" size="44.064">Comparative Properties of  </textline>
+<textline bbox="145.150,440.252,557.629,484.292" colourspace="Pattern" font="BCDEEE+ArialNarrow-Bold" ncolour="(0.2, 0.4, 0.6)" size="44.040">Wire Insulation systems </textline>
+</title>
+<curvetext bbox="67.128,366.850,228.330,412.862" id="1" size="19.02">Relative Ranking 
+Weight <textline bbox="67.128,392.822,228.330,412.862" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="20.040">Relative Ranking </textline>
+<textline bbox="67.128,366.850,122.676,384.850" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Weight </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="355.200,366.850,372.204,412.862" id="2" size="19.02">1 
+PI <textline bbox="355.200,392.822,366.342,412.862" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="20.040">1 </textline>
+<textline bbox="355.200,366.850,372.204,384.850" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PI </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="499.220,392.822,510.362,412.862" id="3" size="20.04">3 <textline bbox="499.220,392.822,510.362,412.862" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="20.040">3 </textline>
+</normal_text>
+<slide_number bbox="427.200,366.850,617.372,412.862" id="4" size="19.02">2 
+ETFE COMP PTFE <textline bbox="427.200,392.822,438.342,412.862" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="20.040">2 </textline>
+<textline bbox="427.200,366.850,617.372,384.850" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE COMP PTFE </textline>
+</slide_number>
+<slide_number bbox="571.220,392.822,582.362,412.862" id="5" size="20.04">4 <textline bbox="571.220,392.822,582.362,412.862" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="20.040">4 </textline>
+</slide_number>
+<curvetext bbox="67.128,319.310,168.126,337.310" id="6" size="18.0">Temperature <textline bbox="67.128,319.310,168.126,337.310" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Temperature </textline>
+</curvetext>
+<normal_text archetypal_index="3" bbox="355.200,319.310,516.224,337.310" id="7" size="18.0">PTFE COMP PI <textline bbox="355.200,319.310,516.224,337.310" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PTFE COMP PI </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="571.220,319.310,617.372,337.310" id="8" size="18.0">ETFE <textline bbox="571.220,319.310,617.372,337.310" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE </textline>
+</normal_text>
+<curvetext bbox="67.128,271.790,231.972,289.790" id="9" size="18.0">Abrasion Resistance <textline bbox="67.128,271.790,231.972,289.790" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Abrasion Resistance </textline>
+</curvetext>
+<normal_text archetypal_index="5" bbox="355.200,271.790,372.204,289.790" id="10" size="18.0">PI <textline bbox="355.200,271.790,372.204,289.790" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PI </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="427.200,271.790,617.372,289.790" id="11" size="18.0">ETFE COMP PTFE <textline bbox="427.200,271.790,617.372,289.790" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE COMP PTFE </textline>
+</normal_text>
+<curvetext bbox="67.128,172.400,255.017,242.289" id="12" size="18.008">Cut-Through resistance 
+Chemical resistance 
+Flammability <textline bbox="67.128,224.265,255.017,242.289" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">Cut-Through resistance </textline>
+<textline bbox="67.128,198.320,229.092,216.320" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Chemical resistance </textline>
+<textline bbox="67.128,172.400,167.982,190.400" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Flammability </textline>
+</curvetext>
+<normal_text archetypal_index="7" bbox="427.200,198.320,588.224,242.289" id="13" size="18.012">COMP ETFE 
+ETFE COMP PI <textline bbox="427.200,224.265,545.397,242.289" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">COMP ETFE </textline>
+<textline bbox="427.200,198.320,588.224,216.320" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE COMP PI </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="355.200,172.400,516.224,242.289" id="14" size="18.008">PI 
+PTFE 
+PTFE COMP PI <textline bbox="355.200,224.265,372.211,242.289" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">PI </textline>
+<textline bbox="355.200,198.320,401.352,216.320" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PTFE </textline>
+<textline bbox="355.200,172.400,516.224,190.400" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PTFE COMP PI </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="571.220,172.400,617.372,190.400" id="15" size="18.0">ETFE <textline bbox="571.220,172.400,617.372,190.400" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="571.220,224.265,617.397,242.289" id="16" size="18.024">PTFE <textline bbox="571.220,224.265,617.397,242.289" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">PTFE </textline>
+</normal_text>
+<curvetext bbox="67.128,98.955,212.892,142.880" id="17" size="18.012">Smoke generation 
+Flexibility <textline bbox="67.128,124.880,212.892,142.880" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Smoke generation </textline>
+<textline bbox="67.128,98.955,140.828,116.979" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">Flexibility </textline>
+</curvetext>
+<normal_text archetypal_index="11" bbox="355.200,98.955,401.377,142.880" id="18" size="18.012">PI 
+PTFE <textline bbox="355.200,124.880,372.204,142.880" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PI </textline>
+<textline bbox="355.200,98.955,401.377,116.979" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">PTFE </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="427.200,98.955,588.231,142.880" id="19" size="18.012">COMP PTFE 
+ETFE COMP PI <textline bbox="427.200,124.880,545.372,142.880" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">COMP PTFE </textline>
+<textline bbox="427.200,98.955,588.231,116.979" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.024">ETFE COMP PI </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="571.220,124.880,617.372,142.880" id="20" size="18.0">ETFE <textline bbox="571.220,124.880,617.372,142.880" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE </textline>
+</normal_text>
+<slide_number bbox="644.640,87.711,658.740,101.751" id="21" size="14.04">20 <textline bbox="644.640,87.711,658.740,101.751" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0.6)" size="14.040">20 </textline>
+</slide_number>
+<normal_text archetypal_index="14" bbox="67.128,25.500,290.058,69.420" id="22" size="18.0">Creep (at temperature) 
+Arc Propagation Resistance <textline bbox="67.128,51.420,250.026,69.420" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Creep (at temperature) </textline>
+<textline bbox="67.128,25.500,290.058,43.500" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">Arc Propagation Resistance </textline>
+</normal_text>
+<normal_text archetypal_index="15" bbox="355.200,25.500,401.352,69.420" id="23" size="18.0">PI 
+PTFE <textline bbox="355.200,51.420,372.204,69.420" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PI </textline>
+<textline bbox="355.200,25.500,401.352,43.500" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">PTFE </textline>
+</normal_text>
+<normal_text archetypal_index="16" bbox="427.200,25.500,588.224,69.420" id="24" size="18.0">COMP PTFE 
+ETFE COMP PI <textline bbox="427.200,51.420,545.372,69.420" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">COMP PTFE </textline>
+<textline bbox="427.200,25.500,588.224,43.500" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE COMP PI </textline>
+</normal_text>
+<normal_text archetypal_index="17" bbox="571.220,51.420,617.372,69.420" id="25" size="18.0">ETFE <textline bbox="571.220,51.420,617.372,69.420" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="18.000">ETFE </textline>
+</normal_text>
+<curve bbox="0.000,-0.360,228.000,473.520" linewidth="0" pts="0.116,473.520,125.990,473.390,228.000,261.260,228.000,-0.360,0.000,-0.360" />
+<curve bbox="67.125,392.740,228.290,394.900" linewidth="0" pts="67.125,394.900,147.710,394.900,228.290,394.900,228.290,392.740,147.710,392.740,67.125,392.740" />
+</page>
+</pages>

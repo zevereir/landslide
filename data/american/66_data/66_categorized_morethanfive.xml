@@ -1,0 +1,93 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[92.6914, 451.0009, 639.9781999999999, 506.0347]" rotate="0">
+<title archetypal_index="0" bbox="37.200,445.668,692.573,507.267" id="0" size="27.972">VORS is developing a grid-scanner for Storage     
+Elements (coming soon) for OSG 0.6.0 <textline bbox="37.200,479.283,692.573,507.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.984">VORS is developing a grid-scanner for Storage     </textline>
+<textline bbox="37.200,445.668,547.666,473.628" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">Elements (coming soon) for OSG 0.6.0 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="43.200,309.280,714.438,413.700" id="1" size="18.0">Testing for SE SRM control protocol : YES control type = srm_v1 end  
+point = srm://fndca1.fnal.gov:8443/ full path =  
+/pnfs/fnal.gov/usr/fermigrid/volatile/mis executing srmls -retry_num=0  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 2&gt;&amp;1            
+&#8230;. <textline bbox="43.200,395.700,636.894,413.700" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Testing for SE SRM control protocol : YES control type = srm_v1 end  </textline>
+<textline bbox="43.200,374.100,435.114,392.100" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">point = srm://fndca1.fnal.gov:8443/ full path =  </textline>
+<textline bbox="43.200,352.480,645.556,370.480" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">/pnfs/fnal.gov/usr/fermigrid/volatile/mis executing srmls -retry_num=0  </textline>
+<textline bbox="43.200,330.880,714.438,348.880" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 2&gt;&amp;1            </textline>
+<textline bbox="43.200,309.280,66.204,327.280" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">&#8230;. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="43.200,168.850,660.852,294.880" id="2" size="18.0">Testing srmls : PASS - read 12 lines 512  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 1715  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file1  
+1715  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file2  
+41767                                                                     <textline bbox="43.200,276.880,387.506,294.880" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Testing srmls : PASS - read 12 lines 512  </textline>
+<textline bbox="43.200,255.280,660.852,273.280" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 1715  </textline>
+<textline bbox="43.200,233.650,656.514,251.650" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file1  </textline>
+<textline bbox="43.200,212.050,88.044,230.050" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">1715  </textline>
+<textline bbox="43.200,190.450,656.514,208.450" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file2  </textline>
+<textline bbox="43.200,168.850,432.630,186.850" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">41767                                                                     </textline>
+</normal_text>
+<enlisting archetypal_index="3" bbox="43.2,104.03,517.51,154.45" id="3" size="18.0">&#8230;. <textline bbox="48.240,136.450,71.268,154.450" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">&#8230;. </textline>
+<normal_text bbox="43.200,104.030,517.510,122.030" id="4" size="18.0">Testing srmcp (from SE) : FAIL - returns error code 256  <textline bbox="43.200,104.030,517.510,122.030" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Testing srmcp (from SE) : FAIL - returns error code 256  </textline>
+</normal_text>
+</enlisting>
+<normal_text archetypal_index="4" bbox="246.460,15.744,437.452,42.144" id="5" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Quick Start Guide to the OSG </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="87.000,10.800,153.000,48.240" height="37" name="Image11" src="Image11.3.183x103.bmp" width="66">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[95.24054545454544, 476.12131818181814, 624.8376212121212, 523.2986818181819]" rotate="0">
+<title archetypal_index="0" bbox="154.990,502.870,564.994,538.870" id="0" size="36.0">Running jobs on the OSG <textline bbox="154.990,502.870,564.994,538.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="36.000">Running jobs on the OSG </textline>
+</title>
+<normal_text archetypal_index="1" bbox="37.200,203.508,525.353,219.468" id="3" size="15.96">We need to specify the gatekeeper (second column above) for a site: <textline bbox="37.200,203.508,525.353,219.468" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">We need to specify the gatekeeper (second column above) for a site: </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="37.200,145.903,341.160,181.068" id="4" size="15.972000000000001">globus-job-run grid3.aset.psu.edu /bin/date 
+Sun Mar  4 00:30:02 EST 2007 <textline bbox="37.200,165.108,341.160,181.068" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">globus-job-run grid3.aset.psu.edu /bin/date </textline>
+<textline bbox="37.200,145.903,257.491,161.887" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Sun Mar  4 00:30:02 EST 2007 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="37.200,69.080,356.065,123.438" id="5" size="15.96">Can we authenticate on OU_OCHEP_SW2 ? 
+globusrun  -a  -r   tier2-01.ochep.ou.edu 
+GRAM Authentication test successful <textline bbox="37.200,107.478,356.065,123.438" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Can we authenticate on OU_OCHEP_SW2 ? </textline>
+<textline bbox="37.200,88.280,319.208,104.240" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">globusrun  -a  -r   tier2-01.ochep.ou.edu </textline>
+<textline bbox="37.200,69.080,299.614,85.040" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">GRAM Authentication test successful </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="246.460,15.744,437.452,42.144" id="6" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Quick Start Guide to the OSG </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="93.360,227.280,626.640,426.000" height="198" name="Image52" src="Image52.jpg" width="533">
+</picture>
+<picture archetypal_index="6" bbox="87.000,10.800,153.000,48.240" height="37" name="Image11" src="Image11.12.183x103.bmp" width="66">
+</picture>
+<enlisting archetypal_index="7" bbox="43.2,431.38,477.17,489.94">&#8226; Command line tools &#8211;common idioms  &#8211; Check the VORS page  <normal_text bbox="43.200,465.940,477.170,489.940" id="1" size="24.0">&#8226; Command line tools &#8211;common idioms  <textline bbox="43.200,465.940,477.170,489.940" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Command line tools &#8211;common idioms  </textline>
+</normal_text>
+<normal_text bbox="79.224,431.380,351.068,455.380" id="2" size="24.0">&#8211; Check the VORS page  <textline bbox="79.224,431.380,351.068,455.380" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Check the VORS page  </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[120.58255, 482.48717500000004, 599.4464, 526.057125]" rotate="0">
+<title archetypal_index="0" bbox="209.380,484.307,510.543,528.371" id="0" size="44.064">globus-url-copy <textline bbox="209.380,484.307,510.543,528.371" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">globus-url-copy </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.200,270.318,626.607,286.278" id="3" size="15.96">globus-url-copy gsiftp://osg-itb.ligo.caltech.edu/archive/frames/H-H1_RDS-1024.gwf  <textline bbox="25.200,270.318,626.607,286.278" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">globus-url-copy gsiftp://osg-itb.ligo.caltech.edu/archive/frames/H-H1_RDS-1024.gwf  </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="25.200,243.553,525.579,259.537" id="4" size="15.984">gsiftp://testwulf.hpcc.ttu.edu/mnt/hep/osg/workdir/H-H1_RDS-1024.gwf <textline bbox="25.200,243.553,525.579,259.537" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">gsiftp://testwulf.hpcc.ttu.edu/mnt/hep/osg/workdir/H-H1_RDS-1024.gwf </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="25.200,151.378,667.437,213.418" id="5" size="15.96">Many options exist. Please see the globus-url-copy of the GridIFTP User&#8217;s Guide: 
+http://www.globus.org/toolkit/docs/3.2/gridftp/user/globusurlcopy.html#commandlineoptions 
+for details. <textline bbox="25.200,197.458,601.374,213.418" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Many options exist. Please see the globus-url-copy of the GridIFTP User&#8217;s Guide: </textline>
+<textline bbox="25.200,174.418,667.437,190.378" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">http://www.globus.org/toolkit/docs/3.2/gridftp/user/globusurlcopy.html#commandlineoptions </textline>
+<textline bbox="25.200,151.378,99.191,167.338" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">for details. </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="246.460,15.744,437.452,42.144" id="6" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Quick Start Guide to the OSG </textline>
+</normal_text>
+<curve bbox="25.200,174.960,667.800,176.160" linewidth="0" pts="25.200,176.160,185.850,176.160,346.500,176.160,507.150,176.160,667.800,176.160,667.800,174.960,507.150,174.960,346.500,174.960,185.850,174.960,25.200,174.960" />
+<picture archetypal_index="5" bbox="87.000,10.800,153.000,48.240" height="37" name="Image11" src="Image11.16.183x103.bmp" width="66">
+</picture>
+<enlisting archetypal_index="6" bbox="25.2,312.79,574.084,405.94">&#8226; Syntax: globus-url-copy source-url destination-url &#8226; Example: <normal_text bbox="25.200,381.940,574.084,405.940" id="1" size="24.0">&#8226; Syntax: globus-url-copy source-url destination-url <textline bbox="25.200,381.940,574.084,405.940" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Syntax: globus-url-copy source-url destination-url </textline>
+</normal_text>
+<normal_text bbox="25.200,312.790,152.136,336.790" id="2" size="24.0">&#8226; Example: <textline bbox="25.200,312.790,152.136,336.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Example: </textline>
+</normal_text>
+</enlisting></page>
+</pages>

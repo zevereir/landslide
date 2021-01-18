@@ -1,0 +1,469 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="87.240,335.942,644.737,444.812" id="0" size="32.048">Replica Exchange Simulations 
+of Protein-Protein Binding and Multi- 
+protein Complex Formation <textline bbox="129.720,412.772,593.371,444.812" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.040">Replica Exchange Simulations </textline>
+<textline bbox="87.240,374.367,644.737,406.431" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.064">of Protein-Protein Binding and Multi- </textline>
+<textline bbox="152.760,335.942,570.305,367.982" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.040">protein Complex Formation </textline>
+</title>
+<normal_text archetypal_index="1" bbox="79.752,241.532,658.314,273.572" id="1" size="32.04">Youngchan Kim and Gerhard Hummer <textline bbox="79.752,241.532,658.314,273.572" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="32.040">Youngchan Kim and Gerhard Hummer </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="80.952,108.782,656.781,186.471" id="2" size="20.048">Laboratory of Chemical Physics 
+National Institute of Diabetes and Digestive and Kidney Diseases 
+National Institutes of Health <textline bbox="228.340,166.407,509.517,186.471" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">Laboratory of Chemical Physics </textline>
+<textline bbox="80.952,137.582,656.781,157.622" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">National Institute of Diabetes and Digestive and Kidney Diseases </textline>
+<textline bbox="246.820,108.782,491.248,128.822" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">National Institutes of Health </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="188.640,129.000,511.080,350.280" caption="February 3, 2009 &#10;NIH Biowulf Symposium " height="221" name="Image6" src="Image6.jpg" width="322">
+</picture>
+<curve bbox="79.730,241.600,320.570,244.960" linewidth="0" pts="79.730,244.960,200.150,244.960,320.570,244.960,320.570,241.600,200.150,241.600,79.730,241.600" />
+<picture archetypal_index="4" bbox="618.960,509.760,714.960,534.000" height="24" name="Image13" src="Image13.360x91.bmp" width="96">
+</picture>
+<picture archetypal_index="5" bbox="4.560,478.200,62.520,534.360" height="56" name="Image15" src="Image15.150x145.bmp" width="57">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[202.10399999999998, 468.50699999999995, 526.9109000000001, 515.9234]" rotate="0">
+<title archetypal_index="0" bbox="69.000,459.687,671.415,530.132" id="0" size="32.052">Coarse-grained model for multi-protein  
+assemblies <textline bbox="69.000,498.092,671.415,530.132" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.040">Coarse-grained model for multi-protein  </textline>
+<textline bbox="279.530,459.687,451.938,491.751" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.064">assemblies </textline>
+</title>
+<normal_text archetypal_index="1" bbox="595.180,163.023,615.747,184.280" id="10" size="18.0">Ca <textline bbox="595.180,163.023,615.747,184.280">Ca <text bbox="595.180,166.280,608.176,184.280" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 0.8)" size="18.000">C</text>
+<text bbox="608.160,163.023,615.747,175.047" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0, 0.8)" size="12.024">a</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="589.150,16.860,674.992,34.860" id="12" size="18.0">membrane <textline bbox="589.150,16.860,674.992,34.860" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.8, 0)" size="18.000">membrane </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="448.560,27.120,716.760,140.760" height="113" name="Image38" src="Image38.jpg" width="268">
+</picture>
+<picture archetypal_index="4" bbox="499.080,369.000,553.560,438.480" height="69" name="Image39" src="Image39.jpg" width="54">
+</picture>
+<curve bbox="581.520,169.320,588.720,176.640" linewidth="3" pts="581.520,172.980,581.520,175.000,583.130,176.640,585.120,176.640,587.110,176.640,588.720,175.000,588.720,172.980,588.720,170.960,587.110,169.320,585.120,169.320,583.130,169.320,581.520,170.960,581.520,172.980" />
+<curve bbox="589.080,182.280,596.400,189.480" linewidth="3" pts="589.080,185.880,589.080,187.870,590.720,189.480,592.740,189.480,594.760,189.480,596.400,187.870,596.400,185.880,596.400,183.890,594.760,182.280,592.740,182.280,590.720,182.280,589.080,183.890,589.080,185.880" />
+<curve bbox="598.080,194.040,605.400,201.240" linewidth="3" pts="598.080,197.640,598.080,199.630,599.720,201.240,601.740,201.240,603.760,201.240,605.400,199.630,605.400,197.640,605.400,195.650,603.760,194.040,601.740,194.040,599.720,194.040,598.080,195.650,598.080,197.640" />
+<curve bbox="610.200,196.200,617.520,203.520" linewidth="3" pts="610.200,199.860,610.200,201.880,611.840,203.520,613.860,203.520,615.880,203.520,617.520,201.880,617.520,199.860,617.520,197.840,615.880,196.200,613.860,196.200,611.840,196.200,610.200,197.840,610.200,199.860" />
+<curve bbox="622.320,190.080,629.640,197.400" linewidth="3" pts="622.320,193.740,622.320,195.760,623.960,197.400,625.980,197.400,628.000,197.400,629.640,195.760,629.640,193.740,629.640,191.720,628.000,190.080,625.980,190.080,623.960,190.080,622.320,191.720,622.320,193.740" />
+<curve bbox="625.320,200.760,632.640,207.960" linewidth="3" pts="625.320,204.360,625.320,206.350,626.960,207.960,628.980,207.960,631.000,207.960,632.640,206.350,632.640,204.360,632.640,202.370,631.000,200.760,628.980,200.760,626.960,200.760,625.320,202.370,625.320,204.360" />
+<curve bbox="637.920,197.040,645.120,204.240" linewidth="3" pts="637.920,200.640,637.920,202.630,639.530,204.240,641.520,204.240,643.510,204.240,645.120,202.630,645.120,200.640,645.120,198.650,643.510,197.040,641.520,197.040,639.530,197.040,637.920,198.650,637.920,200.640" />
+<curve bbox="650.040,199.200,657.240,206.520" linewidth="3" pts="650.040,202.860,650.040,204.880,651.650,206.520,653.640,206.520,655.630,206.520,657.240,204.880,657.240,202.860,657.240,200.840,655.630,199.200,653.640,199.200,651.650,199.200,650.040,200.840,650.040,202.860" />
+<curve bbox="663.480,205.200,670.800,212.520" linewidth="3" pts="663.480,208.860,663.480,210.880,665.120,212.520,667.140,212.520,669.160,212.520,670.800,210.880,670.800,208.860,670.800,206.840,669.160,205.200,667.140,205.200,665.120,205.200,663.480,206.840,663.480,208.860" />
+<curve bbox="672.600,212.520,679.920,219.720" linewidth="3" pts="672.600,216.120,672.600,218.110,674.240,219.720,676.260,219.720,678.280,219.720,679.920,218.110,679.920,216.120,679.920,214.130,678.280,212.520,676.260,212.520,674.240,212.520,672.600,214.130,672.600,216.120" />
+<curve bbox="352.680,162.240,365.640,213.240" linewidth="0" pts="352.680,213.240,356.260,213.240,359.160,211.340,359.160,209.000,359.160,191.980,359.160,189.640,362.060,187.740,365.640,187.740,362.060,187.740,359.160,185.840,359.160,183.500,359.160,166.480,359.160,164.140,356.260,162.240,352.680,162.240" />
+<enlisting archetypal_index="5" bbox="29.208,7.208,585.941,443.229">&#8226; Residue-level (Ca only) coarse-graining  &#8211; Rigid body for structured domains &#8226; Transferable energy function &#8211; Long-range Debye-H&#252;ckel electrostatic interactions 
+&#8211; Residue-dependent short-range interactions (Miyazawa- &#8226; Flexible linkers: polymer model 
+&#8211; Harmonic stretching potential 
+&#8211; Bending potential 
+&#8211; Torsion angle potential 
+&#8226; Membrane interactions 
+&#8211; Planar membrane 
+&#8211; Short-range interactions between <normal_text bbox="29.208,414.893,481.388,443.229" id="1" size="24.024">&#8226; Residue-level (Ca only) coarse-graining  <textline bbox="29.208,414.893,481.388,443.229">&#8226; Residue-level (Ca only) coarse-graining  <text bbox="29.208,419.205,37.616,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">&#8226;</text>
+<text bbox="56.208,419.205,73.553,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">R</text>
+<text bbox="73.553,419.205,86.911,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text bbox="86.815,419.205,98.827,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">s</text>
+<text bbox="98.827,419.205,104.160,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">i</text>
+<text bbox="104.160,419.205,117.517,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">d</text>
+<text bbox="117.421,419.205,130.778,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">u</text>
+<text bbox="130.778,419.205,144.136,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text bbox="144.070,419.205,152.070,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">-</text>
+<text bbox="152.110,419.205,157.443,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">l</text>
+<text bbox="157.443,419.205,170.801,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text bbox="170.705,419.205,182.717,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">v</text>
+<text bbox="182.717,419.205,196.074,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text bbox="196.074,419.205,201.407,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">l</text>
+<text bbox="201.407,419.205,208.086,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text bbox="208.590,419.205,216.590,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">(</text>
+<text bbox="216.590,419.205,233.936,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">C</text>
+<text bbox="233.950,414.893,244.021,430.853" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 0, 0)" size="15.960">a</text>
+<text bbox="250.780,419.205,264.137,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text bbox="264.137,419.205,277.495,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text bbox="277.423,419.205,282.756,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">l</text>
+<text bbox="282.756,419.205,294.768,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">y</text>
+<text bbox="294.768,419.205,302.768,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">)</text>
+<text bbox="302.768,419.205,309.447,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text bbox="309.447,419.205,321.459,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">c</text>
+<text bbox="321.459,419.205,334.816,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text bbox="334.816,419.205,348.173,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text bbox="348.173,419.205,356.173,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">r</text>
+<text bbox="356.173,419.205,368.185,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">s</text>
+<text bbox="368.185,419.205,381.543,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text bbox="381.480,419.205,389.480,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">-</text>
+<text bbox="389.520,419.205,402.877,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">g</text>
+<text bbox="402.877,419.205,410.877,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">r</text>
+<text bbox="410.877,419.205,424.235,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text bbox="424.235,419.205,429.568,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">i</text>
+<text bbox="429.472,419.205,442.829,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text bbox="442.829,419.205,448.163,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">i</text>
+<text bbox="448.066,419.205,461.424,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text bbox="461.424,419.205,474.781,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">g</text>
+<text bbox="474.709,419.205,481.388,443.229" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.024"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="65.208,395.172,386.544,415.212" id="2" size="20.04">&#8211; Rigid body for structured domains <textline bbox="65.208,395.172,386.544,415.212" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Rigid body for structured domains </textline>
+</normal_text>
+<normal_text bbox="29.208,366.380,360.864,390.380" id="3" size="24.0">&#8226; Transferable energy function <textline bbox="29.208,366.380,360.864,390.380" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">&#8226; Transferable energy function </textline>
+</normal_text>
+<normal_text bbox="65.208,318.367,585.941,362.412" id="4" size="20.052">&#8211; Long-range Debye-H&#252;ckel electrostatic interactions 
+&#8211; Residue-dependent short-range interactions (Miyazawa- <textline bbox="65.208,342.372,541.401,362.412" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Long-range Debye-H&#252;ckel electrostatic interactions </textline>
+<textline bbox="65.208,318.367,585.941,338.431" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; Residue-dependent short-range interactions (Miyazawa- </textline>
+</normal_text>
+<normal_text bbox="29.208,78.323,385.824,251.160" id="7" size="21.178285714285714">&#8226; Flexible linkers: polymer model 
+&#8211; Harmonic stretching potential 
+&#8211; Bending potential 
+&#8211; Torsion angle potential 
+&#8226; Membrane interactions 
+&#8211; Planar membrane 
+&#8211; Short-range interactions between <textline bbox="29.208,227.160,385.824,251.160" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">&#8226; Flexible linkers: polymer model </textline>
+<textline bbox="65.208,203.152,346.685,223.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Harmonic stretching potential </textline>
+<textline bbox="65.208,179.147,242.482,199.211" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; Bending potential </textline>
+<textline bbox="65.208,155.132,287.988,175.172" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Torsion angle potential </textline>
+<textline bbox="29.208,126.340,300.312,150.340" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">&#8226; Membrane interactions </textline>
+<textline bbox="65.208,102.332,246.966,122.372" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Planar membrane </textline>
+<textline bbox="65.208,78.323,382.376,98.387" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; Short-range interactions between </textline>
+</normal_text>
+<normal_text bbox="87.768,299.167,420.201,319.231" id="5" size="20.064">Jernigan statistical contact potentials) <textline bbox="87.768,299.167,420.201,319.231" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">Jernigan statistical contact potentials) </textline>
+</normal_text>
+<normal_text bbox="65.208,255.952,581.733,295.232" id="6" size="20.04">&#8211; Experimental inputs: Lysozyme osmotic protein second- 
+virial coefficient and Ub-CUE protein binding affinity <textline bbox="65.208,275.152,581.733,295.232">&#8211; Experimental inputs: Lysozyme osmotic protein second- <text bbox="65.208,275.152,76.350,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211;</text>
+<text bbox="87.768,275.152,101.135,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">E</text>
+<text bbox="101.135,275.152,111.155,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">x</text>
+<text bbox="111.054,275.152,122.197,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">p</text>
+<text bbox="122.197,275.152,133.339,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">e</text>
+<text bbox="133.339,275.152,140.012,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">r</text>
+<text bbox="140.072,275.152,144.521,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">i</text>
+<text bbox="144.521,275.152,161.215,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">m</text>
+<text bbox="161.215,275.152,172.357,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">e</text>
+<text bbox="172.357,275.152,183.499,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="183.499,275.152,189.070,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">t</text>
+<text bbox="189.070,275.152,200.212,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">a</text>
+<text bbox="200.212,275.152,204.661,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">l</text>
+<text bbox="204.661,275.152,210.232,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="210.032,275.152,214.481,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">i</text>
+<text bbox="214.481,275.152,225.623,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="225.623,275.152,236.765,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">p</text>
+<text bbox="236.765,275.152,247.908,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">u</text>
+<text bbox="247.908,275.152,253.479,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">t</text>
+<text bbox="253.479,275.152,263.499,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">s</text>
+<text bbox="263.499,275.152,269.070,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">:</text>
+<text bbox="269.070,275.152,274.641,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="274.360,275.152,285.503,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">L</text>
+<text bbox="284.801,275.152,294.821,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">y</text>
+<text bbox="294.821,275.152,304.841,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">s</text>
+<text bbox="304.841,275.152,315.984,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">o</text>
+<text bbox="315.984,275.152,326.004,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">z</text>
+<text bbox="326.064,275.152,336.084,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">y</text>
+<text bbox="336.084,275.152,352.777,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">m</text>
+<text bbox="352.697,275.152,363.839,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">e</text>
+<text bbox="363.839,275.152,369.410,295.192" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="369.240,275.192,380.382,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="380.382,275.192,390.402,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">s</text>
+<text bbox="390.462,275.192,407.156,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">m</text>
+<text bbox="407.015,275.192,418.158,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="418.158,275.192,423.729,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">t</text>
+<text bbox="423.729,275.192,428.178,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="428.178,275.192,438.198,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">c</text>
+<text bbox="438.198,275.192,443.769,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040"> </text>
+<text bbox="443.608,275.192,454.751,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">p</text>
+<text bbox="454.751,275.192,461.424,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">r</text>
+<text bbox="461.464,275.192,472.606,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="472.606,275.192,478.177,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">t</text>
+<text bbox="478.177,275.192,489.320,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">e</text>
+<text bbox="489.320,275.192,493.769,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="493.769,275.192,504.911,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="504.911,275.192,510.482,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040"> </text>
+<text bbox="510.181,275.192,520.201,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">s</text>
+<text bbox="520.201,275.192,531.344,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">e</text>
+<text bbox="531.404,275.192,541.424,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">c</text>
+<text bbox="541.424,275.192,552.566,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="552.626,275.192,563.768,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="563.768,275.192,574.911,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">d</text>
+<text bbox="575.060,275.192,581.733,295.232" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">-</text>
+</textline>
+<textline bbox="87.768,255.952,543.655,276.032">virial coefficient and Ub-CUE protein binding affinity <text bbox="87.768,255.992,97.788,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">v</text>
+<text bbox="97.788,255.992,102.237,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="102.237,255.992,108.910,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">r</text>
+<text bbox="108.990,255.992,113.439,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="113.439,255.992,124.581,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">a</text>
+<text bbox="124.581,255.992,129.030,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">l</text>
+<text bbox="129.030,255.992,134.601,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040"> </text>
+<text bbox="134.601,255.992,144.621,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">c</text>
+<text bbox="144.621,255.992,155.764,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="155.764,255.992,166.906,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">e</text>
+<text bbox="166.906,255.992,172.477,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">f</text>
+<text bbox="172.477,255.992,178.048,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">f</text>
+<text bbox="178.048,255.992,182.497,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="182.437,255.992,192.457,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">c</text>
+<text bbox="192.457,255.992,196.906,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="196.906,255.992,208.048,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">e</text>
+<text bbox="208.088,255.992,219.230,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="219.230,255.992,224.802,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">t</text>
+<text bbox="229.990,255.952,241.132,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">a</text>
+<text bbox="241.132,255.952,252.274,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="252.335,255.952,263.477,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">d</text>
+<text bbox="263.477,255.952,269.048,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="268.948,255.952,283.417,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">U</text>
+<text bbox="283.477,255.952,294.619,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">b</text>
+<text bbox="294.580,255.952,301.253,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">-</text>
+<text bbox="301.300,255.952,315.769,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">C</text>
+<text bbox="315.769,255.952,330.238,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">U</text>
+<text bbox="330.318,255.952,343.685,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">E</text>
+<text bbox="343.685,255.952,349.256,275.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="349.060,255.992,360.202,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">p</text>
+<text bbox="360.202,255.992,366.876,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">r</text>
+<text bbox="366.916,255.992,378.058,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">o</text>
+<text bbox="378.058,255.992,383.629,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">t</text>
+<text bbox="383.629,255.992,394.771,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">e</text>
+<text bbox="394.771,255.992,399.220,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="399.220,255.992,410.362,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="415.680,255.992,426.822,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">b</text>
+<text bbox="426.822,255.992,431.271,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="431.271,255.992,442.413,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="442.413,255.992,453.556,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">d</text>
+<text bbox="453.556,255.992,458.004,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="458.004,255.992,469.147,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="469.147,255.992,480.289,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">g</text>
+<text bbox="480.349,255.992,485.920,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040"> </text>
+<text bbox="485.920,255.992,497.062,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">a</text>
+<text bbox="497.062,255.992,502.634,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">f</text>
+<text bbox="502.553,255.992,508.125,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">f</text>
+<text bbox="508.125,255.992,512.573,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="512.573,255.992,523.716,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">n</text>
+<text bbox="523.716,255.992,528.165,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">i</text>
+<text bbox="528.165,255.992,533.736,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">t</text>
+<text bbox="533.635,255.992,543.655,276.032" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="20.040">y</text>
+</textline>
+</normal_text>
+<normal_text bbox="65.208,30.304,304.661,74.344" id="8" size="20.04">residues and membrane 
+&#8211; Electrostatic interactions <textline bbox="87.168,54.304,302.919,74.344" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">residues and membrane </textline>
+<textline bbox="65.208,30.304,304.661,50.344" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Electrostatic interactions </textline>
+</normal_text>
+<normal_text bbox="372.890,176.150,569.756,194.150" id="9" size="18.0">Tested for protein folding <textline bbox="372.890,176.150,569.756,194.150" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Tested for protein folding </textline>
+</normal_text>
+<normal_text bbox="175.900,7.208,500.752,23.200" id="11" size="15.96">(YCK, Hummer, J. Mol. Biol. 375, 1416, 2008) <textline bbox="175.900,7.208,500.752,23.200">(YCK, Hummer, J. Mol. Biol. 375, 1416, 2008) <text bbox="175.900,7.208,181.215,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">(</text>
+<text bbox="181.215,7.208,191.860,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Y</text>
+<text bbox="191.621,7.208,203.144,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">C</text>
+<text bbox="203.144,7.208,213.789,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">K</text>
+<text bbox="213.789,7.208,218.226,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="218.226,7.208,222.663,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="223.046,7.208,234.569,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">H</text>
+<text bbox="234.569,7.208,243.443,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">u</text>
+<text bbox="243.443,7.208,256.737,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">m</text>
+<text bbox="256.737,7.208,270.032,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">m</text>
+<text bbox="270.064,7.208,278.938,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+<text bbox="278.938,7.208,284.252,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">r</text>
+<text bbox="283.391,7.208,287.827,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="287.827,7.208,292.264,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="292.560,7.240,300.540,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">J</text>
+<text bbox="300.588,7.240,305.025,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">.</text>
+<text bbox="305.025,7.240,309.462,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="309.462,7.240,322.756,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">M</text>
+<text bbox="322.661,7.240,331.534,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">o</text>
+<text bbox="331.534,7.240,335.077,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">l</text>
+<text bbox="335.125,7.240,339.562,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">.</text>
+<text bbox="339.562,7.240,343.999,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="344.223,7.240,354.868,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">B</text>
+<text bbox="354.868,7.240,358.411,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">i</text>
+<text bbox="358.491,7.240,367.365,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">o</text>
+<text bbox="367.365,7.240,370.908,23.200" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">l</text>
+<text bbox="371.040,7.208,375.477,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">.</text>
+<text bbox="375.480,7.208,379.917,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="379.800,7.208,388.674,23.168" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">3</text>
+<text bbox="388.680,7.208,397.554,23.168" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">7</text>
+<text bbox="397.560,7.208,406.434,23.168" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">5</text>
+<text bbox="406.460,7.208,410.897,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="410.897,7.208,415.334,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="415.445,7.208,424.319,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">1</text>
+<text bbox="424.319,7.208,433.193,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">4</text>
+<text bbox="433.193,7.208,442.067,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">1</text>
+<text bbox="442.067,7.208,450.941,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="450.941,7.208,455.377,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="455.377,7.208,459.814,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="459.942,7.208,468.816,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">2</text>
+<text bbox="468.816,7.208,477.689,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="477.689,7.208,486.563,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="486.563,7.208,495.437,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">8</text>
+<text bbox="495.437,7.208,500.752,23.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">)</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[185.92809523809524, 473.6912857142857, 537.0333333333334, 513.0590952380952]" rotate="0">
+<title archetypal_index="0" bbox="133.750,478.002,581.381,510.042" id="0" size="32.04">Validation: complex structure <textline bbox="133.750,478.002,581.381,510.042" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="32.040">Validation: complex structure </textline>
+</title>
+<normal_text archetypal_index="1" bbox="37.584,281.812,100.680,430.272" id="1" size="14.042666666666662">Ub/CUE 
+Ub/UIM1 
+Ub/UBA 
+Ub/GAT 
+Ub/DUIM 
+Ub/UIM2 
+UbL/UBA 
+UbL/UIM 
+UbL/UIM2 <textline bbox="37.584,416.232,88.942,430.272" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Ub/CUE </textline>
+<textline bbox="37.584,399.432,92.888,413.472" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Ub/UIM1 </textline>
+<textline bbox="37.584,382.632,88.226,396.672" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Ub/UBA </textline>
+<textline bbox="37.584,365.832,87.201,379.872" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Ub/GAT </textline>
+<textline bbox="37.584,349.032,95.218,363.072" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Ub/DUIM </textline>
+<textline bbox="37.584,332.227,92.926,346.291" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Ub/UIM2 </textline>
+<textline bbox="37.584,315.412,96.018,329.452" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">UbL/UBA </textline>
+<textline bbox="37.584,298.612,92.930,312.652" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">UbL/UIM </textline>
+<textline bbox="37.584,281.812,100.680,295.852" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">UbL/UIM2 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="130.040,406.870,148.040,432.880" id="2" size="8.67">e 
+r 
+u <textline bbox="130.040,422.872,148.040,432.880" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">e </textline>
+<textline bbox="130.040,416.878,148.040,422.872" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.994">r </textline>
+<textline bbox="130.040,406.870,148.040,416.878" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">u </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="130.040,357.856,148.040,406.870" id="3" size="7.002">t 
+c 
+u 
+r 
+t 
+s 
+  <textline bbox="130.040,401.866,148.040,406.870" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">t </textline>
+<textline bbox="130.040,392.866,148.040,401.866" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">c </textline>
+<textline bbox="130.040,382.858,148.040,392.866" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">u </textline>
+<textline bbox="130.040,376.864,148.040,382.858" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.994">r </textline>
+<textline bbox="130.040,371.860,148.040,376.864" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">t </textline>
+<textline bbox="130.040,362.860,148.040,371.860" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">s </textline>
+<textline bbox="130.040,357.856,148.040,362.860" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">  </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="130.040,329.848,148.040,357.856" id="4" size="7.001999999999999">e 
+v 
+i 
+t <textline bbox="130.040,347.848,148.040,357.856" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">e </textline>
+<textline bbox="130.040,338.848,148.040,347.848" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">v </textline>
+<textline bbox="130.040,334.852,148.040,338.848" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="3.996">i </textline>
+<textline bbox="130.040,329.848,148.040,334.852" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">t </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="130.040,309.904,148.040,329.920" id="5" size="10.008">a 
+n <textline bbox="130.040,319.912,148.040,329.920" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">a </textline>
+<textline bbox="130.040,309.904,148.040,319.912" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">n </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="130.040,304.900,148.040,309.904" id="6" size="5.004">  <textline bbox="130.040,304.900,148.040,309.904" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">  </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="130.040,294.892,148.040,304.900" id="7" size="10.008">o <textline bbox="130.040,294.892,148.040,304.900" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">o </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="130.040,284.794,148.040,294.892" id="8" size="5.004">t 
+  <textline bbox="130.040,289.888,148.040,294.892" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">t </textline>
+<textline bbox="130.040,284.794,148.040,289.798" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">  </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="130.040,245.824,148.040,284.794" id="9" size="9.756">e 
+c 
+n 
+a <textline bbox="130.040,274.786,148.040,284.794" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">e </textline>
+<textline bbox="130.040,265.786,148.040,274.786" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">c </textline>
+<textline bbox="130.040,255.832,148.040,265.840" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">n </textline>
+<textline bbox="130.040,245.824,148.040,255.832" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="10.008">a </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="130.040,214.900,148.040,245.824" id="10" size="9.0">t 
+s 
+D <textline bbox="130.040,240.820,148.040,245.824" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="5.004">t </textline>
+<textline bbox="130.040,231.820,148.040,240.820" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">s </textline>
+<textline bbox="130.040,214.900,148.040,227.896" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="12.996">D </textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="130.040,227.896,148.040,231.892" id="11" size="3.996">i <textline bbox="130.040,227.896,148.040,231.892" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="3.996">i </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="157.780,162.160,214.660,180.160" id="12" size="18.0">Energy <textline bbox="157.780,162.160,214.660,180.160" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="18.000">Energy </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="24.264,89.673,73.566,160.959" id="13" size="19.026">DRMS 
+1 
+&#61669; 
+N , <textline bbox="24.264,143.919,72.589,160.959" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="17.040">DRMS </textline>
+<textline bbox="39.648,125.799,48.168,142.839" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="17.040">1 </textline>
+<textline bbox="55.752,110.473,73.566,135.457" colourspace="DeviceGray" font="SymbolMT" ncolour="0" size="24.984">&#61669; </textline>
+<textline bbox="37.776,89.673,65.370,110.847">N , <text bbox="37.776,93.807,49.142,110.847" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="17.040">N</text>
+<text bbox="62.880,89.673,65.370,99.633" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.960">,</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="21.264,113.794,30.632,130.858" id="16" size="17.064">= <textline bbox="21.264,113.794,30.632,130.858" colourspace="DeviceGray" font="SymbolMT" ncolour="0" size="17.064">= </textline>
+</normal_text>
+<enlisting archetypal_index="15" bbox="59.112,89.673,121.518,131.459" id="20" size="17.064">- <textline bbox="112.150,113.794,121.518,130.858" colourspace="DeviceGray" font="SymbolMT" ncolour="0" size="17.064">- </textline>
+<normal_text bbox="59.112,89.673,61.881,99.633" id="14" size="9.96">i <textline bbox="59.112,89.673,61.881,99.633" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="9.960">i </textline>
+</normal_text>
+<normal_text bbox="67.992,89.673,70.761,99.633" id="15" size="9.96">j <textline bbox="67.992,89.673,70.761,99.633" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="9.960">j </textline>
+</normal_text>
+<normal_text bbox="91.872,121.499,106.244,131.459" id="17" size="9.96">exp <textline bbox="91.872,121.499,106.244,131.459" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.960">exp </textline>
+</normal_text>
+<normal_text bbox="80.208,111.399,88.728,128.439" id="18" size="17.04">d <textline bbox="80.208,111.399,88.728,128.439" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="17.040">d </textline>
+</normal_text>
+<normal_text bbox="90.000,105.749,95.529,115.709" id="19" size="9.96">ij <textline bbox="90.000,105.749,95.529,115.709" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="9.960">ij </textline>
+</normal_text>
+</enlisting>
+<normal_text archetypal_index="16" bbox="125.330,111.399,133.850,128.439" id="21" size="17.04">d <textline bbox="125.330,111.399,133.850,128.439" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="17.040">d </textline>
+</normal_text>
+<normal_text archetypal_index="17" bbox="135.120,105.749,140.649,115.709" id="22" size="9.96">ij <textline bbox="135.120,105.749,140.649,115.709" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="9.960">ij </textline>
+</normal_text>
+<normal_text archetypal_index="18" bbox="137.140,121.499,161.950,131.459" id="23" size="9.96">model <textline bbox="137.140,121.499,161.950,131.459" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.960">model </textline>
+</normal_text>
+<normal_text archetypal_index="19" bbox="42.768,3.848,360.655,19.840" id="24" size="15.0">(YCK, Hummer; J. Mol. Biol. 375, 1416, 2008) <textline bbox="42.768,3.848,360.655,19.840">(YCK, Hummer; J. Mol. Biol. 375, 1416, 2008) <text bbox="42.768,4.050,47.763,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">(</text>
+<text bbox="47.763,4.050,57.768,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">Y</text>
+<text bbox="57.648,4.050,68.478,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">C</text>
+<text bbox="68.478,4.050,78.483,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">K</text>
+<text bbox="78.408,4.050,82.578,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">,</text>
+<text bbox="82.578,4.050,86.748,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000"> </text>
+<text bbox="86.913,4.050,97.743,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">H</text>
+<text bbox="97.743,4.050,106.083,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">u</text>
+<text bbox="106.083,4.050,118.578,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">m</text>
+<text bbox="118.578,4.050,131.073,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">m</text>
+<text bbox="131.073,4.050,139.413,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">e</text>
+<text bbox="139.458,4.050,144.453,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">r</text>
+<text bbox="144.453,4.050,148.623,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">;</text>
+<text bbox="148.683,4.050,152.853,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000"> </text>
+<text bbox="152.810,3.880,160.790,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">J</text>
+<text bbox="160.854,3.880,165.291,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">.</text>
+<text bbox="165.291,3.880,169.728,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="169.760,3.880,183.054,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">M</text>
+<text bbox="182.990,3.880,191.864,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">o</text>
+<text bbox="191.864,3.880,195.407,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">l</text>
+<text bbox="195.471,3.880,199.908,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">.</text>
+<text bbox="199.908,3.880,204.345,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="204.616,3.880,215.261,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">B</text>
+<text bbox="215.309,3.880,218.852,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">i</text>
+<text bbox="218.900,3.880,227.774,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">o</text>
+<text bbox="227.774,3.880,231.317,19.840" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="15.960">l</text>
+<text bbox="231.310,3.848,235.747,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">.</text>
+<text bbox="235.750,3.848,240.187,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="240.070,3.848,248.944,19.808" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">3</text>
+<text bbox="248.950,3.848,257.824,19.808" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">7</text>
+<text bbox="257.830,3.848,266.704,19.808" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">5</text>
+<text bbox="266.710,3.848,271.147,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="271.147,3.848,275.584,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="275.695,3.848,284.569,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">1</text>
+<text bbox="284.569,3.848,293.443,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">4</text>
+<text bbox="293.443,3.848,302.317,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">1</text>
+<text bbox="302.317,3.848,311.191,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="311.191,3.848,315.627,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="315.627,3.848,320.064,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="320.064,3.848,328.938,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">2</text>
+<text bbox="328.938,3.848,337.812,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="337.812,3.848,346.686,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="346.717,3.848,355.591,19.808" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">8</text>
+<text bbox="355.660,4.050,360.655,19.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.000">)</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="20" bbox="664.250,337.662,708.525,368.502" id="25" size="14.04">Native- 
+like <textline bbox="664.250,354.462,708.525,368.502" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Native- </textline>
+<textline bbox="664.250,337.662,685.366,351.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">like </textline>
+</normal_text>
+<normal_text archetypal_index="21" bbox="664.250,189.992,708.533,220.871" id="26" size="14.052">Native- 
+like <textline bbox="664.250,206.807,708.533,220.871" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Native- </textline>
+<textline bbox="664.250,189.992,685.366,204.032" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">like </textline>
+</normal_text>
+<normal_text archetypal_index="22" bbox="664.250,41.212,708.525,72.052" id="27" size="14.04">Native- 
+like <textline bbox="664.250,58.012,708.525,72.052" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Native- </textline>
+<textline bbox="664.250,41.212,685.366,55.252" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">like </textline>
+</normal_text>
+<picture archetypal_index="23" bbox="186.840,17.880,650.280,461.040" height="443" name="Image44" src="Image44.548x524.bmp" width="463">
+</picture>
+<curve bbox="217.020,352.860,231.420,367.380" linewidth="2" pts="217.020,360.120,217.020,364.130,220.240,367.380,224.220,367.380,228.200,367.380,231.420,364.130,231.420,360.120,231.420,356.110,228.200,352.860,224.220,352.860,220.240,352.860,217.020,356.110,217.020,360.120" />
+<curve bbox="391.860,353.340,406.140,367.980" linewidth="2" pts="391.860,360.660,391.860,364.700,395.060,367.980,399.000,367.980,402.940,367.980,406.140,364.700,406.140,360.660,406.140,356.620,402.940,353.340,399.000,353.340,395.060,353.340,391.860,356.620,391.860,360.660" />
+<curve bbox="543.900,342.180,558.300,356.820" linewidth="2" pts="543.900,349.500,543.900,353.540,547.120,356.820,551.100,356.820,555.080,356.820,558.300,353.540,558.300,349.500,558.300,345.460,555.080,342.180,551.100,342.180,547.120,342.180,543.900,345.460,543.900,349.500" />
+<curve bbox="534.900,194.340,549.300,208.980" linewidth="2" pts="534.900,201.660,534.900,205.700,538.120,208.980,542.100,208.980,546.080,208.980,549.300,205.700,549.300,201.660,549.300,197.620,546.080,194.340,542.100,194.340,538.120,194.340,534.900,197.620,534.900,201.660" />
+<curve bbox="384.420,194.340,398.820,208.980" linewidth="2" pts="384.420,201.660,384.420,205.700,387.640,208.980,391.620,208.980,395.600,208.980,398.820,205.700,398.820,201.660,398.820,197.620,395.600,194.340,391.620,194.340,387.640,194.340,384.420,197.620,384.420,201.660" />
+<curve bbox="227.460,206.460,241.860,221.100" linewidth="2" pts="227.460,213.780,227.460,217.820,230.680,221.100,234.660,221.100,238.640,221.100,241.860,217.820,241.860,213.780,241.860,209.740,238.640,206.460,234.660,206.460,230.680,206.460,227.460,209.740,227.460,213.780" />
+<curve bbox="218.220,51.660,232.620,66.300" linewidth="2" pts="218.220,58.980,218.220,63.023,221.440,66.300,225.420,66.300,229.400,66.300,232.620,63.023,232.620,58.980,232.620,54.937,229.400,51.660,225.420,51.660,221.440,51.660,218.220,54.937,218.220,58.980" />
+<curve bbox="384.900,51.180,399.300,65.820" linewidth="2" pts="384.900,58.500,384.900,62.543,388.120,65.820,392.100,65.820,396.080,65.820,399.300,62.543,399.300,58.500,399.300,54.457,396.080,51.180,392.100,51.180,388.120,51.180,384.900,54.457,384.900,58.500" />
+<curve bbox="538.380,43.620,552.780,58.140" linewidth="2" pts="538.380,50.880,538.380,54.890,541.600,58.140,545.580,58.140,549.560,58.140,552.780,54.890,552.780,50.880,552.780,46.870,549.560,43.620,545.580,43.620,541.600,43.620,538.380,46.870,538.380,50.880" />
+<curve bbox="648.460,342.540,658.460,363.660" linewidth="0" pts="654.460,363.660,654.460,351.540,652.460,351.540,652.460,363.660,658.460,352.540,653.460,342.540,648.460,352.540" />
+<curve bbox="648.460,194.940,658.460,216.060" linewidth="0" pts="654.460,216.060,654.460,203.940,652.460,203.940,652.460,216.060,658.460,204.940,653.460,194.940,648.460,204.940" />
+<curve bbox="648.460,46.140,658.460,67.260" linewidth="0" pts="654.460,67.260,654.460,55.140,652.460,55.140,652.460,67.260,658.460,56.140,653.460,46.140,648.460,56.140" />
+</page>
+</pages>

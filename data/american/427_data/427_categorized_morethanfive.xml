@@ -1,0 +1,192 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[181.30000000000004, 476.96233333333333, 649.7296666666666, 507.66633333333334]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,622.308,508.261" id="0" size="32.064">CCA Control System Flowchart <textline bbox="181.300,476.197,622.308,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">CCA Control System Flowchart </textline>
+</title>
+<curvetext bbox="628.060,231.948,677.802,286.328" id="3" size="15.968000000000002">L1G 
+Quality 
+Band <textline bbox="637.780,270.368,667.957,286.328" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">L1G </textline>
+<textline bbox="628.060,251.163,677.802,267.147" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Quality </textline>
+<textline bbox="634.180,231.948,671.447,247.908" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Band </textline>
+</curvetext>
+<curvetext bbox="202.420,319.168,215.158,329.128" id="6" size="9.96">No <textline bbox="202.420,319.168,215.158,329.128" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">No </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="30.792,243.287,70.638,290.932" id="9" size="14.048">L1G 
+Scene 
+Data <textline bbox="37.392,276.892,63.915,290.932" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">L1G </textline>
+<textline bbox="30.792,260.092,70.638,274.132" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Scene </textline>
+<textline bbox="35.832,243.287,65.465,257.351" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Data </textline>
+</normal_text>
+<curvetext bbox="383.980,357.842,422.871,388.682" id="10" size="14.04">ACCA 
+Mask <textline bbox="383.980,374.642,422.871,388.682" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">ACCA </textline>
+<textline bbox="386.620,357.842,420.148,371.882" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="373.660,291.702,433.311,322.542" id="11" size="14.04">AT-ACCA 
+Mask <textline bbox="373.660,308.502,433.311,322.542" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">AT-ACCA </textline>
+<textline bbox="386.620,291.702,420.148,305.742" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="368.110,225.942,438.928,256.782" id="12" size="14.04">Cirrus CCA 
+Mask <textline bbox="368.110,242.742,438.928,256.782" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Cirrus CCA </textline>
+<textline bbox="386.620,225.942,420.148,239.982" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="370.510,160.057,436.512,190.902" id="13" size="14.052">See5 CCA 
+Mask <textline bbox="370.510,176.862,436.512,190.902" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">See5 CCA </textline>
+<textline bbox="386.620,160.057,420.149,174.121" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Mask </textline>
+</curvetext>
+<curvetext bbox="369.310,91.156,437.587,121.992" id="14" size="14.04">Other CCA 
+Masks <textline bbox="369.310,107.952,437.587,121.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Other CCA </textline>
+<textline bbox="383.140,91.156,423.730,105.196" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Masks </textline>
+</curvetext>
+<normal_text archetypal_index="2" bbox="36.216,1.220,163.106,11.180" id="18" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.1.934x54.bmp" width="720">
+</picture>
+<curve bbox="101.620,270.590,141.620,339.840" linewidth="0" pts="101.620,270.590,101.620,337.340,132.620,337.340,132.620,336.340,102.120,336.340,102.620,336.840,102.620,270.590,131.620,339.840,141.620,336.840,131.620,333.840" />
+<curve bbox="101.620,235.200,223.620,265.700" linewidth="0" pts="101.620,265.700,101.620,237.700,214.620,237.700,214.620,238.700,102.120,238.700,102.620,238.200,102.620,265.700,213.620,235.200,223.620,238.200,213.620,241.200" />
+<curve bbox="101.620,169.330,223.620,265.700" linewidth="0" pts="101.620,265.700,101.620,171.820,214.620,171.830,214.620,172.830,102.120,172.820,102.620,172.320,102.620,265.700,213.620,169.330,223.620,172.330,213.620,175.330" />
+<curve bbox="324.820,367.050,365.070,373.050" linewidth="1" pts="324.820,369.450,356.070,369.550,356.070,370.550,324.820,370.450,355.080,367.050,365.070,370.080,355.060,373.050" />
+<curve bbox="365.160,343.970,441.600,391.680" linewidth="1" pts="365.160,391.680,441.600,391.680,441.600,357.130,403.380,357.130,403.380,343.970,365.160,351.450" />
+<curve bbox="365.160,343.970,441.600,391.680" linewidth="1" pts="365.160,391.680,441.600,391.680,441.600,357.130,403.380,357.130,403.380,343.970,365.160,351.450" />
+<curve bbox="365.160,277.860,441.600,325.440" linewidth="1" pts="365.160,325.440,441.600,325.440,441.600,290.990,403.380,290.990,403.380,277.860,365.160,285.320" />
+<curve bbox="365.160,277.860,441.600,325.440" linewidth="1" pts="365.160,325.440,441.600,325.440,441.600,290.990,403.380,290.990,403.380,277.860,365.160,285.320" />
+<curve bbox="365.160,212.090,441.600,259.800" linewidth="1" pts="365.160,259.800,441.600,259.800,441.600,225.250,403.380,225.250,403.380,212.090,365.160,219.570" />
+<curve bbox="365.160,212.090,441.600,259.800" linewidth="1" pts="365.160,259.800,441.600,259.800,441.600,225.250,403.380,225.250,403.380,212.090,365.160,219.570" />
+<curve bbox="365.160,146.210,441.600,193.920" linewidth="1" pts="365.160,193.920,441.600,193.920,441.600,159.370,403.380,159.370,403.380,146.210,365.160,153.690" />
+<curve bbox="365.160,146.210,441.600,193.920" linewidth="1" pts="365.160,193.920,441.600,193.920,441.600,159.370,403.380,159.370,403.380,146.210,365.160,153.690" />
+<curve bbox="324.820,300.990,365.070,306.990" linewidth="1" pts="324.820,304.580,356.070,304.480,356.070,303.480,324.820,303.580,355.080,306.990,365.070,303.960,355.060,300.990" />
+<curve bbox="324.820,235.200,365.070,241.200" linewidth="1" pts="324.820,238.700,356.070,238.700,356.070,237.700,324.820,237.700,355.070,241.200,365.070,238.200,355.070,235.200" />
+<curve bbox="324.820,169.320,365.070,175.320" linewidth="1" pts="324.820,172.820,356.070,172.820,356.070,171.820,324.820,171.820,355.070,175.320,365.070,172.320,355.070,169.320" />
+<curve bbox="365.160,77.329,441.600,125.040" linewidth="1" pts="365.160,125.040,441.600,125.040,441.600,90.492,403.380,90.492,403.380,77.329,365.160,84.808" />
+<curve bbox="365.160,77.329,441.600,125.040" linewidth="1" pts="365.160,125.040,441.600,125.040,441.600,90.492,403.380,90.492,403.380,77.329,365.160,84.808" />
+<curve bbox="325.320,100.410,365.070,106.410" linewidth="1" pts="325.320,102.810,329.320,102.830,329.320,103.830,325.320,103.810,332.320,102.840,336.320,102.850,336.320,103.850,332.320,103.840,339.320,102.860,343.320,102.870,343.320,103.870,339.320,103.860,346.320,102.880,350.320,102.890,350.320,103.890,346.320,103.880,353.320,102.900,356.070,102.910,356.070,103.910,353.320,103.900,355.080,100.410,365.070,103.440,355.060,106.410" />
+<curve bbox="101.620,100.330,223.620,265.200" linewidth="1" pts="101.620,265.200,101.620,261.200,102.620,261.200,102.620,265.200,101.620,258.200,101.620,254.200,102.620,254.200,102.620,258.200,101.620,251.200,101.620,247.200,102.620,247.200,102.620,251.200,101.620,244.200,101.620,240.200,102.620,240.200,102.620,244.200,101.620,237.200,101.620,233.200,102.620,233.200,102.620,237.200,101.620,230.200,101.620,226.200,102.620,226.200,102.620,230.200,101.620,223.200,101.620,219.200,102.620,219.200,102.620,223.200,101.620,216.200,101.620,212.200,102.620,212.200,102.620,216.200,101.620,209.200,101.620,205.200,102.620,205.200,102.620,209.200,101.620,202.200,101.620,198.200,102.620,198.200,102.620,202.200,101.620,195.200,101.620,191.200,102.620,191.200,102.620,195.200,101.620,188.200,101.620,184.200,102.620,184.200,102.620,188.200,101.620,181.200,101.620,177.200,102.620,177.200,102.620,181.200,101.620,174.200,101.620,170.200,102.620,170.200,102.620,174.200,101.620,167.200,101.620,163.200,102.620,163.200,102.620,167.200,101.620,160.200,101.620,156.200,102.620,156.200,102.620,160.200,101.620,153.200,101.620,149.200,102.620,149.200,102.620,153.200,101.620,146.200,101.620,142.200,102.620,142.200,102.620,146.200,101.620,139.200,101.620,135.200,102.620,135.200,102.620,139.200,101.620,132.200,101.620,128.200,102.620,128.200,102.620,132.200,101.620,125.200,101.620,121.200,102.620,121.200,102.620,125.200,101.620,118.200,101.620,114.200,102.620,114.200,102.620,118.200,101.620,111.200,101.620,107.200,102.620,107.200,102.620,111.200,101.620,104.200,101.620,102.830,105.250,102.830,105.250,103.830,102.120,103.830,102.620,103.330,102.620,104.200,108.250,102.830,112.250,102.830,112.250,103.830,108.250,103.830,115.250,102.830,119.250,102.830,119.250,103.830,115.250,103.830,122.250,102.830,126.250,102.830,126.250,103.830,122.250,103.830,129.250,102.830,133.250,102.830,133.250,103.830,129.250,103.830,136.250,102.830,140.250,102.830,140.250,103.830,136.250,103.830,143.250,102.830,147.250,102.830,147.250,103.830,143.250,103.830,150.250,102.830,154.250,102.830,154.250,103.830,150.250,103.830,157.250,102.830,161.250,102.830,161.250,103.830,157.250,103.830,164.250,102.830,168.250,102.830,168.250,103.830,164.250,103.830,171.250,102.830,175.250,102.830,175.250,103.830,171.250,103.830,178.250,102.830,182.250,102.830,182.250,103.830,178.250,103.830,185.250,102.830,189.250,102.830,189.250,103.830,185.250,103.830,192.250,102.830,196.250,102.830,196.250,103.830,192.250,103.830,199.250,102.830,203.250,102.830,203.250,103.830,199.250,103.830,206.250,102.830,210.250,102.830,210.250,103.830,206.250,103.830,213.250,102.830,214.620,102.830,214.620,103.830,213.250,103.830,213.620,100.330,223.620,103.330,213.620,106.330" />
+<curve bbox="612.960,199.510,692.520,295.200" linewidth="1" pts="612.960,295.200,692.520,295.200,692.520,225.910,652.740,225.910,652.740,199.510,612.960,214.510" />
+<curve bbox="612.960,199.510,692.520,295.200" linewidth="1" pts="612.960,295.200,692.520,295.200,692.520,225.910,652.740,225.910,652.740,199.510,612.960,214.510" />
+<curve bbox="441.100,248.960,500.220,370.580" linewidth="1" pts="441.100,370.580,471.350,370.580,471.350,251.960,470.850,252.460,491.220,252.460,491.220,251.460,470.350,251.460,470.350,370.080,470.850,369.580,441.100,369.580,490.220,254.960,500.220,251.960,490.220,248.960" />
+<curve bbox="441.100,248.960,500.220,304.460" linewidth="1" pts="441.100,304.460,471.350,304.460,471.350,251.960,470.850,252.460,491.220,252.460,491.220,251.460,470.350,251.460,470.350,303.960,470.850,303.460,441.100,303.460,490.220,254.960,500.220,251.960,490.220,248.960" />
+<curve bbox="441.100,237.750,500.220,255.000" linewidth="1" pts="441.100,237.750,471.350,237.750,471.350,252.000,470.850,251.500,491.220,251.500,491.220,252.500,470.350,252.500,470.350,238.250,470.850,238.750,441.100,238.750,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="441.100,171.870,500.220,255.000" linewidth="1" pts="441.100,171.870,471.350,171.870,471.350,252.000,470.850,251.500,491.220,251.500,491.220,252.500,470.350,252.500,470.350,172.370,470.850,172.870,441.100,172.870,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="441.600,103.000,500.220,255.000" linewidth="1" pts="441.600,103.000,445.600,103.000,445.600,104.000,441.600,104.000,448.600,103.000,452.600,103.000,452.600,104.000,448.600,104.000,455.600,103.000,459.600,103.000,459.600,104.000,455.600,104.000,462.600,103.000,466.600,103.000,466.600,104.000,462.600,104.000,469.600,103.000,471.350,103.000,471.350,106.250,470.350,106.250,470.350,103.500,470.850,104.000,469.600,104.000,471.350,109.250,471.350,113.250,470.350,113.250,470.350,109.250,471.350,116.250,471.350,120.250,470.350,120.250,470.350,116.250,471.350,123.250,471.350,127.250,470.350,127.250,470.350,123.250,471.350,130.250,471.350,134.250,470.350,134.250,470.350,130.250,471.350,137.250,471.350,141.250,470.350,141.250,470.350,137.250,471.350,144.250,471.350,148.250,470.350,148.250,470.350,144.250,471.350,151.250,471.350,155.250,470.350,155.250,470.350,151.250,471.350,158.250,471.350,162.250,470.350,162.250,470.350,158.250,471.350,165.250,471.350,169.250,470.350,169.250,470.350,165.250,471.350,172.250,471.350,176.250,470.350,176.250,470.350,172.250,471.350,179.250,471.350,183.250,470.350,183.250,470.350,179.250,471.350,186.250,471.350,190.250,470.350,190.250,470.350,186.250,471.350,193.250,471.350,197.250,470.350,197.250,470.350,193.250,471.350,200.250,471.350,204.250,470.350,204.250,470.350,200.250,471.350,207.250,471.350,211.250,470.350,211.250,470.350,207.250,471.350,214.250,471.350,218.250,470.350,218.250,470.350,214.250,471.350,221.250,471.350,225.250,470.350,225.250,470.350,221.250,471.350,228.250,471.350,232.250,470.350,232.250,470.350,228.250,471.350,235.250,471.350,239.250,470.350,239.250,470.350,235.250,471.350,242.250,471.350,246.250,470.350,246.250,470.350,242.250,471.350,249.250,471.350,252.000,470.850,251.500,472.100,251.500,472.100,252.500,470.350,252.500,470.350,249.250,475.100,251.500,479.100,251.500,479.100,252.500,475.100,252.500,482.100,251.500,486.100,251.500,486.100,252.500,482.100,252.500,489.100,251.500,491.220,251.500,491.220,252.500,489.100,252.500,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="586.060,249.000,613.060,255.000" linewidth="1" pts="586.060,252.500,604.060,252.500,604.060,251.500,586.060,251.500,603.060,255.000,613.060,252.000,603.060,249.000" />
+<curve bbox="141.600,318.720,177.960,355.080" linewidth="0" pts="141.600,336.900,141.600,346.940,149.740,355.080,159.780,355.080,169.820,355.080,177.960,346.940,177.960,336.900,177.960,326.860,169.820,318.720,159.780,318.720,149.740,318.720,141.600,326.860,141.600,336.900" />
+<curve bbox="141.600,318.720,177.960,355.080" linewidth="1" pts="141.600,336.900,141.600,346.940,149.740,355.080,159.780,355.080,169.820,355.080,177.960,346.940,177.960,336.900,177.960,326.860,169.820,318.720,159.780,318.720,149.740,318.720,141.600,326.860,141.600,336.900" />
+<curve bbox="177.260,304.090,223.580,337.540" linewidth="1" pts="177.850,337.540,216.570,309.740,215.980,308.930,177.260,336.730,217.210,312.360,223.580,304.090,213.710,307.480" />
+<curve bbox="177.260,336.140,223.580,369.960" linewidth="1" pts="177.850,336.140,216.600,364.270,216.010,365.080,177.260,336.950,217.260,361.660,223.580,369.960,213.730,366.510" />
+<curve bbox="540.360,311.280,546.360,374.780" linewidth="1" pts="543.860,374.780,543.860,320.280,542.860,320.280,542.860,374.780,546.360,321.280,543.360,311.280,540.360,321.280" />
+<table archetypal_index="4" bbox="98.88,265.2,325.32,328.92" dimensions="2/1"><cell bbox="98.88,265.2,105.36,271.08" /><cell bbox="223.68,279.48,325.32,328.92"><tabletext bbox="238.610,285.178,310.538,320.377" id="8" size="15.972000000000001">Expanded 
+AT-ACCA <textline bbox="238.610,304.393,310.538,320.377" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Expanded </textline>
+<textline bbox="240.530,285.178,308.507,301.138" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">AT-ACCA </textline>
+</tabletext>
+</cell></table><table archetypal_index="5" bbox="223.68,78.72,586.56,328.92" dimensions="4/2"><cell bbox="223.68,213.6,325.32,263.04"><tabletext bbox="234.050,228.898,314.855,244.858" id="15" size="15.96">Cirrus CCA <textline bbox="234.050,228.898,314.855,244.858" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Cirrus CCA </textline>
+</tabletext>
+</cell><cell bbox="223.68,147.72,325.32,197.16"><tabletext bbox="236.810,163.018,312.237,178.978" id="16" size="15.96">See5 CCA <textline bbox="236.810,163.018,312.237,178.978" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">See5 CCA </textline>
+</tabletext>
+</cell><cell bbox="223.68,78.72,325.32,128.16"><tabletext bbox="231.290,93.992,317.586,109.952" id="17" size="15.96">Other CCAs <textline bbox="231.290,93.992,317.586,109.952" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Other CCAs </textline>
+</tabletext>
+</cell><cell bbox="500.28,192.72,586.56,311.28"><tabletext bbox="517.440,219.830,569.442,281.050" id="2" size="18.008">Merge 
+CCA 
+Masks <textline bbox="518.040,263.050,568.962,281.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Merge </textline>
+<textline bbox="524.520,241.445,562.462,259.469" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">CCA </textline>
+<textline bbox="517.440,219.830,569.442,237.830" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Masks </textline>
+</tabletext>
+</cell><cell bbox="223.68,279.48,325.32,328.92" /></table><picture archetypal_index="6" bbox="0.0,451.68,720.12,533.28" caption="&#10;CCA &#10;Weights &#10;(CPF) &#10;Is &#10;TIRS data &#10;available? &#10;Yes &#10;ACCA " combined_sources="['Image6.1.jpg', 'Image26.1332x187.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[183.17, 476.6671666666666, 604.9468333333333, 508.03916666666663]" rotate="0">
+<title archetypal_index="0" bbox="185.040,476.372,560.164,508.412" id="0" size="32.04">CCA Algorithms compared <textline bbox="185.040,476.372,560.164,508.412" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">CCA Algorithms compared </textline>
+</title>
+<normal_text archetypal_index="1" bbox="181.130,361.995,240.141,401.600" id="1" size="18.012">Pixels  
+Correct <textline bbox="186.790,383.600,239.548,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="181.130,361.995,240.141,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Correct </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="280.920,361.995,333.678,401.600" id="2" size="18.012">Pixels  
+False <textline bbox="280.920,383.600,333.678,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="282.840,361.995,326.837,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">False </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="362.830,361.995,452.626,401.600" id="3" size="18.012">Pixels  
+Ambiguous <textline bbox="383.830,383.600,436.588,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="362.830,361.995,452.626,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Ambiguous </textline>
+</normal_text>
+<ref bbox="42.216,71.311,672.860,132.520" id="26" size="18.008">Source for these numbers for ACCA, AT-ACCA, and See5-rE is Landsat 7 data  
+from the Irish dataset. 
+Source for Cirrus test is the Hyperion dataset. <textline bbox="42.216,114.520,672.860,132.520" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Source for these numbers for ACCA, AT-ACCA, and See5-rE is Landsat 7 data  </textline>
+<textline bbox="42.216,92.916,216.132,110.916" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">from the Irish dataset. </textline>
+<textline bbox="42.216,71.311,406.103,89.335" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Source for Cirrus test is the Hyperion dataset. </textline>
+</ref>
+<normal_text archetypal_index="4" bbox="36.216,1.220,163.106,11.180" id="31" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.2.934x54.bmp" width="720">
+</picture>
+<table archetypal_index="6" bbox="462.0,177.8,699.0,446.75" dimensions="2/5"><cell bbox="462.0,358.25,576.0,446.75"><tabletext bbox="468.240,361.995,574.998,401.600" id="4" size="18.012">Misclassified  
+Clouds <textline bbox="468.240,383.600,574.998,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Misclassified  </textline>
+<textline bbox="491.160,361.995,546.998,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Clouds </textline>
+</tabletext>
+</cell><cell bbox="576.0,358.25,699.0,446.75"><tabletext bbox="586.700,361.995,693.458,401.600" id="5" size="18.012">Misclassified  
+Clear <textline bbox="586.700,383.600,693.458,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Misclassified  </textline>
+<textline bbox="616.220,361.995,659.081,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Clear </textline>
+</tabletext>
+</cell><cell bbox="462.0,323.75,576.0,358.25" /><cell bbox="576.0,323.75,699.0,358.25" /><cell bbox="462.0,290.37,576.0,323.745"><tabletext bbox="521.620,294.110,572.560,312.110" id="16" size="18.0">12.3% <textline bbox="521.620,294.110,572.560,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">12.3% </textline>
+</tabletext>
+</cell><cell bbox="576.0,290.37,699.0,323.745"><tabletext bbox="654.600,294.110,695.568,312.110" id="19" size="18.0">6.3% <textline bbox="654.600,294.110,695.568,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">6.3% </textline>
+</tabletext>
+</cell><cell bbox="462.0,257.0,576.0,290.375"><tabletext bbox="521.620,260.720,572.560,278.720" id="17" size="18.0">12.1% <textline bbox="521.620,260.720,572.560,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">12.1% </textline>
+</tabletext>
+</cell><cell bbox="576.0,257.0,699.0,290.375"><tabletext bbox="654.600,260.720,695.568,278.720" id="20" size="18.0">4.5% <textline bbox="654.600,260.720,695.568,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.5% </textline>
+</tabletext>
+</cell><cell bbox="462.0,177.8,576.0,257.0"><tabletext bbox="531.580,181.500,572.548,199.500" id="24" size="18.0">4.8% <textline bbox="531.580,181.500,572.548,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.8% </textline>
+</tabletext>
+</cell><cell bbox="576.0,177.8,699.0,257.0"><tabletext bbox="654.600,181.500,695.568,199.500" id="25" size="18.0">8.7% <textline bbox="654.600,181.500,695.568,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.7% </textline>
+</tabletext>
+</cell></table><enlisting archetypal_index="7" bbox="308.74,181.5,349.762,312.11">8.5% 7.3% 8.1% <normal_text bbox="308.740,294.110,349.762,312.110" id="10" size="18.0">8.5% <textline bbox="308.740,294.110,349.762,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.5% </textline>
+</normal_text>
+<normal_text bbox="308.740,260.720,349.762,278.720" id="11" size="18.0">7.3% <textline bbox="308.740,260.720,349.762,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">7.3% </textline>
+</normal_text>
+<normal_text bbox="308.740,181.500,349.762,199.500" id="22" size="18.0">8.1% <textline bbox="308.740,181.500,349.762,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.1% </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="8" bbox="41.112,181.32,458.498,312.11">89.8% 88.5% 91.9% 1.7% 4.2% <normal_text bbox="201.77,181.5,252.71,312.11">89.8% 88.5% 91.9% <normal_text bbox="201.770,294.110,252.710,312.110" id="7" size="18.0">89.8% <textline bbox="201.770,294.110,252.710,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">89.8% </textline>
+</normal_text>
+<normal_text bbox="201.770,260.720,252.710,278.720" id="8" size="18.0">88.5% <textline bbox="201.770,260.720,252.710,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">88.5% </textline>
+</normal_text>
+<normal_text bbox="201.770,181.500,252.710,199.500" id="21" size="18.0">91.9% <textline bbox="201.770,181.500,252.710,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">91.9% </textline>
+</normal_text>
+</normal_text><normal_text bbox="41.112,181.32,458.498,312.11">1.7% 4.2% <normal_text bbox="417.530,294.110,458.498,312.110" id="13" size="18.0">1.7% <textline bbox="417.530,294.110,458.498,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">1.7% </textline>
+</normal_text>
+<normal_text bbox="417.530,260.720,458.498,278.720" id="14" size="18.0">4.2% <textline bbox="417.530,260.720,458.498,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.2% </textline>
+</normal_text>
+<normal_text bbox="41.112,181.320,153.972,249.920" id="30" size="15.006">Cirrus Simple  
+Test  
+(excluding high  
+altitude playas) <textline bbox="41.112,231.920,153.972,249.920" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Cirrus Simple  </textline>
+<textline bbox="41.112,210.315,79.233,228.339" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Test  </textline>
+<textline bbox="41.112,195.720,124.812,207.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">(excluding high  </textline>
+<textline bbox="41.112,181.320,121.596,193.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">altitude playas) </textline>
+</normal_text>
+<normal_text bbox="395.230,181.536,420.250,199.536" id="23" size="18.0">n/a <textline bbox="395.230,181.536,420.250,199.536" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="18.000">n/a </textline>
+</normal_text>
+<normal_text bbox="41.112,294.110,117.924,312.110" id="28" size="18.0">AT-ACCA <textline bbox="41.112,294.110,117.924,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">AT-ACCA </textline>
+</normal_text>
+<normal_text bbox="41.112,260.720,106.998,278.720" id="29" size="18.0">See5-rE <textline bbox="41.112,260.720,106.998,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">See5-rE </textline>
+</normal_text>
+</normal_text></enlisting><picture archetypal_index="9" bbox="0.0,451.68,720.12,533.28" caption="&#10;79.9% &#10;4.3% &#10;15.8% &#10;7.8% &#10;2.3% &#10;ACCA " combined_sources="['Image6.2.jpg', 'Image30.1149x187.bmp']" name="combined_0" src="combined_4_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[182.422, 476.4790999999999, 510.18449999999996, 508.12789999999995]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,368.041,508.261" id="0" size="32.064">LDCM ACCA <textline bbox="181.300,476.197,368.041,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">LDCM ACCA </textline>
+</title>
+<normal_text archetypal_index="1" bbox="23.712,185.270,333.600,246.490" id="2" size="18.0">The LDCM ACCA algorithm is only the  
+classification phase of ACCA, using  
+TIRS thermal band 1. <textline bbox="23.712,228.490,333.600,246.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">The LDCM ACCA algorithm is only the  </textline>
+<textline bbox="23.712,206.890,311.514,224.890" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">classification phase of ACCA, using  </textline>
+<textline bbox="23.712,185.270,194.694,203.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">TIRS thermal band 1. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="23.712,77.263,341.592,160.070" id="3" size="18.006">The snow/ice and water classifications  
+reported by the ACCA algorithm will be   
+provided in the Quality Band of the L1  
+product. <textline bbox="23.712,142.070,334.410,160.070" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">The snow/ice and water classifications  </textline>
+<textline bbox="23.712,120.470,341.592,138.470" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">reported by the ACCA algorithm will be   </textline>
+<textline bbox="23.712,98.870,329.586,116.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">provided in the Quality Band of the L1  </textline>
+<textline bbox="23.712,77.263,88.598,95.287" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">product. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="36.216,1.220,163.106,11.180" id="4" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.3.934x54.bmp" width="720">
+</picture>
+<picture archetypal_index="5" bbox="342.000,111.360,717.000,387.720" height="276" name="Image36" src="Image36.882x650.bmp" width="375">
+</picture>
+<picture archetypal_index="6" bbox="0.0,451.68,720.12,533.28" caption="&#10;ACCA is a simple decision tree that  &#10;does crude classification of land cover  &#10;and clouds, then refines the cloud  &#10;estimates using statistical data from  &#10;the thermal band.  It was developed by  &#10;NASA Goddard for the Landsat  &#10;program. " combined_sources="['Image6.3.jpg', 'Image37.626x187.bmp']" name="combined_0" src="combined_5_0.png" /></page>
+</pages>

@@ -1,0 +1,174 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="32.448,370.018,687.946,458.017" id="0" size="39.972">MEDICAL IMAGING INFORMATICS: 
+Lecture # 6 <textline bbox="32.448,418.033,687.946,458.017" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.984">MEDICAL IMAGING INFORMATICS: </textline>
+<textline bbox="259.900,370.018,460.020,409.978" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">Lecture # 6 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="248.860,283.460,470.980,319.460" id="1" size="36.0">Segmentation <textline bbox="248.860,283.460,470.980,319.460" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="36.000">Segmentation </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="190.180,115.220,505.876,225.650" id="2" size="24.0">Norbert Schuff 
+Professor of Radiology 
+VA Medical Center and UCSF 
+Norbert.schuff@ucsf.edu <textline bbox="270.820,201.650,425.068,225.650" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Norbert Schuff </textline>
+<textline bbox="226.780,172.850,469.228,196.850" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Professor of Radiology </textline>
+<textline bbox="190.180,144.050,505.876,168.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">VA Medical Center and UCSF </textline>
+<textline bbox="215.260,115.220,480.676,139.220" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="24.000">Norbert.schuff@ucsf.edu </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="19.200,4.590,204.645,36.150" id="3" size="9.0">Medical Imaging Informatics 2009, N.Schuff 
+Course # 170.03 
+Slide 1/67 <textline bbox="19.200,27.150,204.645,36.150" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Medical Imaging Informatics 2009, N.Schuff </textline>
+<textline bbox="19.200,16.350,87.861,25.350" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Course # 170.03 </textline>
+<textline bbox="19.200,4.590,59.235,13.590">Slide 1/67 <text bbox="19.200,4.590,25.203,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">S</text>
+<text bbox="25.203,4.590,27.201,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">l</text>
+<text bbox="27.228,4.590,29.226,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">i</text>
+<text bbox="29.262,4.590,34.266,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">d</text>
+<text bbox="34.293,4.590,39.297,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">e</text>
+<text bbox="39.324,4.590,41.826,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000"> </text>
+<text bbox="41.640,4.590,46.644,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">1</text>
+<text bbox="46.680,4.590,49.182,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">/</text>
+<text bbox="49.182,4.590,54.186,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">6</text>
+<text bbox="54.231,4.590,59.235,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">7</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="560.060,20.988,647.746,44.004" id="4" size="18.0">UCSF VA <textline bbox="560.060,20.988,647.746,44.004">UCSF VA <text bbox="560.060,26.004,573.056,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">U</text>
+<text bbox="573.020,26.004,586.016,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">C</text>
+<text bbox="585.550,20.988,597.556,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text bbox="597.550,20.988,608.548,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">F</text>
+<text bbox="624.070,23.124,636.076,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.6)" size="18.000">V</text>
+<text bbox="634.750,23.124,647.746,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(1, 0, 0)" size="18.000">A</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="559.060,5.166,688.579,24.966" id="5" size="9.0">Department of  
+Radiology &amp; Biomedical Imaging <textline bbox="559.060,15.966,618.487,24.966" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Department of  </textline>
+<textline bbox="559.060,5.166,688.579,14.166" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Radiology &amp; Biomedical Imaging </textline>
+</normal_text>
+<picture archetypal_index="6" bbox="650.520,14.760,686.400,48.600" height="33" name="Image6" src="Image6.jpg" width="35">
+</picture>
+<curve bbox="215.210,116.040,480.650,117.840" linewidth="0" pts="215.210,117.840,347.930,117.840,480.650,117.840,480.650,116.040,347.930,116.040,215.210,116.040" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<normal_text archetypal_index="0" bbox="288.820,454.742,431.302,486.782" id="0" size="32.04">Overview <textline bbox="288.820,454.742,431.302,486.782" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="32.040">Overview </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="19.200,4.590,204.645,36.150" id="4" size="9.0">Medical Imaging Informatics 2009, N.Schuff 
+Course # 170.03 
+Slide 2/67 <textline bbox="19.200,27.150,204.645,36.150" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Medical Imaging Informatics 2009, N.Schuff </textline>
+<textline bbox="19.200,16.350,87.861,25.350" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Course # 170.03 </textline>
+<textline bbox="19.200,4.590,59.235,13.590">Slide 2/67 <text bbox="19.200,4.590,25.203,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">S</text>
+<text bbox="25.203,4.590,27.201,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">l</text>
+<text bbox="27.228,4.590,29.226,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">i</text>
+<text bbox="29.262,4.590,34.266,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">d</text>
+<text bbox="34.293,4.590,39.297,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">e</text>
+<text bbox="39.324,4.590,41.826,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000"> </text>
+<text bbox="41.640,4.590,46.644,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">2</text>
+<text bbox="46.680,4.590,49.182,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">/</text>
+<text bbox="49.182,4.590,54.186,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">6</text>
+<text bbox="54.231,4.590,59.235,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">7</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="560.060,20.988,647.746,44.004" id="5" size="18.0">UCSF VA <textline bbox="560.060,20.988,647.746,44.004">UCSF VA <text bbox="560.060,26.004,573.056,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">U</text>
+<text bbox="573.020,26.004,586.016,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">C</text>
+<text bbox="585.550,20.988,597.556,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text bbox="597.550,20.988,608.548,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">F</text>
+<text bbox="624.070,23.124,636.076,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.6)" size="18.000">V</text>
+<text bbox="634.750,23.124,647.746,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(1, 0, 0)" size="18.000">A</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="559.060,5.166,688.579,24.966" id="6" size="9.0">Department of  
+Radiology &amp; Biomedical Imaging <textline bbox="559.060,15.966,618.487,24.966" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Department of  </textline>
+<textline bbox="559.060,5.166,688.579,14.166" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Radiology &amp; Biomedical Imaging </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="650.520,14.760,686.400,48.600" height="33" name="Image6" src="Image6.0.jpg" width="35">
+</picture>
+<enlisting archetypal_index="5" bbox="62.952,78.592,424.307,416.001">&#8226; Definitions 
+&#8226; Role of Segmentation 
+&#8226; Segmentation methods &#8211; Intensity based 
+&#8211; Shape based 
+&#8211; Texture based &#8226; Summary &amp; Conclusion 
+&#8226; Literature <normal_text bbox="62.952,291.762,418.610,416.001" id="1" size="32.048">&#8226; Definitions 
+&#8226; Role of Segmentation 
+&#8226; Segmentation methods <textline bbox="62.952,383.937,239.298,416.001" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">&#8226; Definitions </textline>
+<textline bbox="62.952,337.842,397.336,369.882" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226; Role of Segmentation </textline>
+<textline bbox="62.952,291.762,418.610,323.802" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226; Segmentation methods </textline>
+</normal_text>
+<normal_text bbox="98.976,170.668,309.844,279.317" id="2" size="27.968">&#8211; Intensity based 
+&#8211; Shape based 
+&#8211; Texture based <textline bbox="98.976,251.333,309.844,279.317" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8211; Intensity based </textline>
+<textline bbox="98.976,210.988,286.728,238.948" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8211; Shape based </textline>
+<textline bbox="98.976,170.668,297.492,198.628" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8211; Texture based </textline>
+</normal_text>
+<normal_text bbox="62.952,78.592,424.307,156.751" id="3" size="32.052">&#8226; Summary &amp; Conclusion 
+&#8226; Literature <textline bbox="62.952,124.687,424.307,156.751" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">&#8226; Summary &amp; Conclusion </textline>
+<textline bbox="62.952,78.592,225.089,110.632" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226; Literature </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[130.87, 457.377, 598.01, 489.441]" rotate="0">
+<title archetypal_index="0" bbox="130.870,457.377,598.010,489.441" id="0" size="32.064">The Concept Of Segmentation  <textline bbox="130.870,457.377,598.010,489.441" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="32.064">The Concept Of Segmentation  </textline>
+</title>
+<normal_text archetypal_index="1" bbox="115.560,415.982,598.263,436.022" id="1" size="20.04">Identify classes (features) that characterize this image! <textline bbox="115.560,415.982,598.263,436.022" colourspace="Pattern" font="ArialMT" ncolour="(1, 0.4, 0)" size="20.040">Identify classes (features) that characterize this image! </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="19.200,4.590,204.645,36.150" id="7" size="9.0">Medical Imaging Informatics 2009, N.Schuff 
+Course # 170.03 
+Slide 3/67 <textline bbox="19.200,27.150,204.645,36.150" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Medical Imaging Informatics 2009, N.Schuff </textline>
+<textline bbox="19.200,16.350,87.861,25.350" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="9.000">Course # 170.03 </textline>
+<textline bbox="19.200,4.590,59.235,13.590">Slide 3/67 <text bbox="19.200,4.590,25.203,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">S</text>
+<text bbox="25.203,4.590,27.201,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">l</text>
+<text bbox="27.228,4.590,29.226,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">i</text>
+<text bbox="29.262,4.590,34.266,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">d</text>
+<text bbox="34.293,4.590,39.297,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">e</text>
+<text bbox="39.324,4.590,41.826,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000"> </text>
+<text bbox="41.640,4.590,46.644,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="9.000">3</text>
+<text bbox="46.680,4.590,49.182,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">/</text>
+<text bbox="49.182,4.590,54.186,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">6</text>
+<text bbox="54.231,4.590,59.235,13.590" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">7</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="560.060,20.988,647.746,44.004" id="8" size="18.0">UCSF VA <textline bbox="560.060,20.988,647.746,44.004">UCSF VA <text bbox="560.060,26.004,573.056,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">U</text>
+<text bbox="573.020,26.004,586.016,44.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">C</text>
+<text bbox="585.550,20.988,597.556,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text bbox="597.550,20.988,608.548,38.988" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000">F</text>
+<text bbox="624.070,23.124,636.076,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.6)" size="18.000">V</text>
+<text bbox="634.750,23.124,647.746,41.124" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(1, 0, 0)" size="18.000">A</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="559.060,5.166,688.579,24.966" id="9" size="9.0">Department of  
+Radiology &amp; Biomedical Imaging <textline bbox="559.060,15.966,618.487,24.966" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Department of  </textline>
+<textline bbox="559.060,5.166,688.579,14.166" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="9.000">Radiology &amp; Biomedical Imaging </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="650.520,14.760,686.400,48.600" height="33" name="Image6" src="Image6.1.jpg" width="35">
+</picture>
+<rect bbox="25.380,66.660,324.180,395.460" linewidth="0" />
+<rect bbox="25.380,66.660,324.180,395.460" linewidth="3" />
+<curve bbox="43.200,82.080,93.600,132.480" linewidth="3" pts="43.200,107.280,43.200,121.200,54.482,132.480,68.400,132.480,82.318,132.480,93.600,121.200,93.600,107.280,93.600,93.362,82.318,82.080,68.400,82.080,54.482,82.080,43.200,93.362,43.200,107.280" />
+<curve bbox="43.200,82.080,93.600,132.480" linewidth="0" pts="43.200,107.280,43.200,121.200,54.482,132.480,68.400,132.480,82.318,132.480,93.600,121.200,93.600,107.280,93.600,93.362,82.318,82.080,68.400,82.080,54.482,82.080,43.200,93.362,43.200,107.280" />
+<curve bbox="234.480,252.000,282.360,299.880" linewidth="0" pts="234.480,252.000,258.420,299.880,282.360,252.000" />
+<curve bbox="234.480,252.000,282.360,299.880" linewidth="0" pts="234.480,252.000,258.420,299.880,282.360,252.000" />
+<rect bbox="43.200,335.640,84.960,377.520" linewidth="0" />
+<rect bbox="43.200,335.640,84.960,377.520" linewidth="0" />
+<rect bbox="258.360,329.640,300.120,371.520" linewidth="6" />
+<curve bbox="138.840,82.080,189.240,132.480" linewidth="6" pts="138.840,107.280,138.840,121.200,150.120,132.480,164.040,132.480,177.960,132.480,189.240,121.200,189.240,107.280,189.240,93.362,177.960,82.080,164.040,82.080,150.120,82.080,138.840,93.362,138.840,107.280" />
+<curve bbox="228.480,76.080,278.880,126.480" linewidth="6" pts="228.480,101.280,228.480,115.200,239.760,126.480,253.680,126.480,267.600,126.480,278.880,115.200,278.880,101.280,278.880,87.362,267.600,76.080,253.680,76.080,239.760,76.080,228.480,87.362,228.480,101.280" />
+<curve bbox="228.480,76.080,278.880,126.480" linewidth="0" pts="228.480,101.280,228.480,115.200,239.760,126.480,253.680,126.480,267.600,126.480,278.880,115.200,278.880,101.280,278.880,87.362,267.600,76.080,253.680,76.080,239.760,76.080,228.480,87.362,228.480,101.280" />
+<curve bbox="180.720,317.760,228.600,365.640" linewidth="0" pts="180.720,317.760,204.660,365.640,228.600,317.760" />
+<curve bbox="180.720,317.760,228.600,365.640" linewidth="0" pts="180.720,317.760,204.660,365.640,228.600,317.760" />
+<curve bbox="156.720,234.000,204.600,281.880" linewidth="0" pts="204.600,281.880,180.660,234.000,156.720,281.880" />
+<curve bbox="156.720,234.000,204.600,281.880" linewidth="0" pts="204.600,281.880,180.660,234.000,156.720,281.880" />
+<curve bbox="269.280,150.360,319.680,200.760" linewidth="0" pts="269.280,175.560,269.280,189.480,280.560,200.760,294.480,200.760,308.400,200.760,319.680,189.480,319.680,175.560,319.680,161.640,308.400,150.360,294.480,150.360,280.560,150.360,269.280,161.640,269.280,175.560" />
+<curve bbox="269.280,150.360,319.680,200.760" linewidth="0" pts="269.280,175.560,269.280,189.480,280.560,200.760,294.480,200.760,308.400,200.760,319.680,189.480,319.680,175.560,319.680,161.640,308.400,150.360,294.480,150.360,280.560,150.360,269.280,161.640,269.280,175.560" />
+<curve bbox="126.960,339.120,177.360,389.520" linewidth="0" pts="126.960,364.320,126.960,378.240,138.240,389.520,152.160,389.520,166.080,389.520,177.360,378.240,177.360,364.320,177.360,350.400,166.080,339.120,152.160,339.120,138.240,339.120,126.960,350.400,126.960,364.320" />
+<curve bbox="126.960,339.120,177.360,389.520" linewidth="0" pts="126.960,364.320,126.960,378.240,138.240,389.520,152.160,389.520,166.080,389.520,177.360,378.240,177.360,364.320,177.360,350.400,166.080,339.120,152.160,339.120,138.240,339.120,126.960,350.400,126.960,364.320" />
+<curve bbox="43.200,210.240,86.400,253.320" linewidth="0" pts="43.200,210.240,64.800,253.320,86.400,210.240" />
+<curve bbox="43.200,210.240,86.400,253.320" linewidth="0" pts="43.200,210.240,64.800,253.320,86.400,210.240" />
+<curve bbox="41.280,252.840,91.680,303.240" linewidth="0" pts="41.280,278.040,41.280,291.960,52.562,303.240,66.480,303.240,80.398,303.240,91.680,291.960,91.680,278.040,91.680,264.120,80.398,252.840,66.480,252.840,52.562,252.840,41.280,264.120,41.280,278.040" />
+<curve bbox="41.280,252.840,91.680,303.240" linewidth="0" pts="41.280,278.040,41.280,291.960,52.562,303.240,66.480,303.240,80.398,303.240,91.680,291.960,91.680,278.040,91.680,264.120,80.398,252.840,66.480,252.840,52.562,252.840,41.280,264.120,41.280,278.040" />
+<table archetypal_index="6" bbox="162.72,192.24,663.24,258.0" dimensions="2/1"><cell bbox="162.72,192.24,204.48,234.12" /><cell bbox="366.96,228.36,663.24,258.0"><tabletext bbox="374.280,233.030,653.192,251.030" id="4" size="18.0">Texture: homogeneous &#8211; speckled  <textline bbox="374.280,233.030,653.192,251.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Texture: homogeneous &#8211; speckled  </textline>
+</tabletext>
+</cell></table><table archetypal_index="7" bbox="228.48,135.48,653.28,213.0" dimensions="2/2"><cell bbox="228.48,152.88,270.24,194.76" /><cell bbox="368.04,183.36,653.28,213.0"><tabletext bbox="375.260,188.030,645.142,206.030" id="5" size="18.0">Connectivity: Isolated - connected <textline bbox="375.260,188.030,645.142,206.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Connectivity: Isolated - connected </textline>
+</tabletext>
+</cell><cell bbox="368.04,135.48,579.24,165.12"><tabletext bbox="375.260,140.150,569.138,158.150" id="6" size="18.0">Topology: Closed - open <textline bbox="375.260,140.150,569.138,158.150" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Topology: Closed - open </textline>
+</tabletext>
+</cell></table><table archetypal_index="8" bbox="366.0,276.24,672.24,353.64" dimensions="2/1"><cell bbox="366.0,324.0,581.16,353.64"><tabletext bbox="373.270,328.685,553.209,346.709" id="2" size="18.024">Intensity:  Bright - dark <textline bbox="373.270,328.685,553.209,346.709" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">Intensity:  Bright - dark </textline>
+</tabletext>
+</cell><cell bbox="366.0,276.24,672.24,305.88"><tabletext bbox="373.270,280.930,664.006,298.930" id="3" size="18.0">Shape:  Squares , spheres, triangles <textline bbox="373.270,280.930,664.006,298.930" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Shape:  Squares , spheres, triangles </textline>
+</tabletext>
+</cell></table></page>
+</pages>

@@ -1,0 +1,185 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[156.00257142857143, 482.1972380952381, 563.9532857142857, 524.318380952381]" rotate="0">
+<title archetypal_index="0" bbox="135.550,483.413,584.290,523.397" id="0" size="39.984">Overall Model Performance <textline bbox="135.550,483.413,584.290,523.397" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.984">Overall Model Performance </textline>
+</title>
+<normal_text archetypal_index="1" bbox="219.410,430.636,434.354,454.636" id="1" size="24.0">Daily GPP Taylor Plot <textline bbox="219.410,430.636,434.354,454.636" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Daily GPP Taylor Plot </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="266.420,216.262,393.932,234.262" id="6" size="18.0">Optimized Model <textline bbox="266.420,216.262,393.932,234.262" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Optimized Model </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="553.100,152.042,582.738,181.832" id="9" size="14.04">C5 
+C5.1 <textline bbox="553.100,167.792,570.986,181.832" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">C5 </textline>
+<textline bbox="553.100,152.042,582.738,166.082" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">C5.1 </textline>
+</normal_text>
+<rect bbox="102.720,34.200,602.400,465.360" linewidth="0" />
+<rect bbox="102.720,34.200,602.400,465.360" linewidth="0" />
+<picture archetypal_index="4" bbox="117.240,48.600,587.280,453.720" height="405" name="Image120" src="Image120.789x680.bmp" width="470">
+</picture>
+<curve bbox="283.380,129.780,325.020,160.980" linewidth="3" pts="283.380,145.380,283.380,154.000,292.700,160.980,304.200,160.980,315.700,160.980,325.020,154.000,325.020,145.380,325.020,136.760,315.700,129.780,304.200,129.780,292.700,129.780,283.380,136.760,283.380,145.380" />
+<curve bbox="207.420,135.180,258.900,186.060" linewidth="3" pts="207.420,160.620,207.420,174.670,218.940,186.060,233.160,186.060,247.380,186.060,258.900,174.670,258.900,160.620,258.900,146.570,247.380,135.180,233.160,135.180,218.940,135.180,207.420,146.570,207.420,160.620" />
+<curve bbox="325.430,182.220,334.430,214.780" linewidth="3" pts="329.040,214.780,328.390,189.760,331.390,189.680,332.040,214.700,325.430,191.330,329.700,182.220,334.430,191.100" />
+<rect bbox="266.400,216.000,393.840,237.600" linewidth="3" />
+<rect bbox="219.360,430.200,437.280,459.000" linewidth="3" />
+<table archetypal_index="5" bbox="108.12,105.84,582.48,339.24" dimensions="3/2"><cell bbox="258.0,105.84,350.52,127.44"><tabletext bbox="258.050,106.132,350.552,124.132" id="8" size="18.0">Model Mean <textline bbox="258.050,106.132,350.552,124.132" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Model Mean </textline>
+</tabletext>
+</cell><cell bbox="204.12,111.36,262.08,132.96"><tabletext bbox="204.170,111.622,262.094,129.622" id="7" size="18.0">MODIS <textline bbox="204.170,111.622,262.094,129.622" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.000">MODIS </textline>
+</tabletext>
+</cell><cell bbox="552.96,151.92,582.48,168.6" /><cell bbox="108.12,148.08,129.72,331.08"><tabletext bbox="111.428,287.668,129.428,292.168" id="2" size="4.5">  <textline bbox="111.428,287.668,129.428,292.168" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="4.500">  </textline>
+</tabletext>
+<tabletext bbox="111.428,158.068,129.428,331.084" id="3" size="8.0166">o 
+i 
+t 
+a 
+R 
+n 
+o 
+o 
+i 
+i 
+t 
+t 
+a 
+a 
+i 
+R 
+v 
+e 
+  
+P 
+D 
+P 
+G 
+d 
+r 
+a 
+d 
+n 
+a 
+t <textline bbox="111.428,322.084,129.428,331.084" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">o </textline>
+<textline bbox="111.428,317.080,129.428,322.084" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">i </textline>
+<textline bbox="111.428,312.022,129.428,317.026" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">t </textline>
+<textline bbox="111.428,304.030,129.428,312.022" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">a </textline>
+<textline bbox="111.428,292.024,129.428,304.030" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.006">R </textline>
+<textline bbox="111.428,278.668,129.428,287.668" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">n </textline>
+<textline bbox="111.428,269.668,129.428,278.668" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">o </textline>
+<textline bbox="111.428,266.530,129.428,275.530" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">o </textline>
+<textline bbox="111.428,264.664,129.428,269.668" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">i </textline>
+<textline bbox="111.428,261.526,129.428,266.530" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">i </textline>
+<textline bbox="111.428,259.588,129.428,264.592" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">t </textline>
+<textline bbox="111.428,256.468,129.428,261.472" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">t </textline>
+<textline bbox="111.428,251.596,129.428,259.588" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">a </textline>
+<textline bbox="111.428,248.476,129.428,256.468" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">a </textline>
+<textline bbox="111.428,246.520,129.428,251.524" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">i </textline>
+<textline bbox="111.428,236.470,129.428,248.476" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.006">R </textline>
+<textline bbox="111.428,237.520,129.428,246.520" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">v </textline>
+<textline bbox="111.428,229.528,129.428,237.520" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">e </textline>
+<textline bbox="111.428,231.808,129.428,236.308" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="4.500">  </textline>
+<textline bbox="111.428,222.574,129.428,232.582" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="10.008">P </textline>
+<textline bbox="111.428,216.622,129.428,229.618" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.996">D </textline>
+<textline bbox="111.428,212.656,129.428,222.664" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="10.008">P </textline>
+<textline bbox="111.428,199.660,129.428,212.656" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.996">G </textline>
+<textline bbox="111.428,203.122,129.428,212.122" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">d </textline>
+<textline bbox="111.428,197.128,129.428,203.122" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.994">r </textline>
+<textline bbox="111.428,189.064,129.428,197.056" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">a </textline>
+<textline bbox="111.428,180.064,129.428,189.064" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">d </textline>
+<textline bbox="111.428,171.064,129.428,180.064" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">n </textline>
+<textline bbox="111.428,163.072,129.428,171.064" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">a </textline>
+<textline bbox="111.428,158.068,129.428,163.072" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.004">t </textline>
+</tabletext>
+<tabletext bbox="111.428,212.122,129.428,216.622" id="4" size="4.5">  <textline bbox="111.428,212.122,129.428,216.622" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="4.500">  </textline>
+</tabletext>
+<tabletext bbox="111.428,148.060,129.428,158.068" id="5" size="10.008">S <textline bbox="111.428,148.060,129.428,158.068" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="10.008">S </textline>
+</tabletext>
+</cell><cell bbox="108.12,136.08,129.72,339.24" /></table></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[179.12692857142858, 481.9209285714286, 540.8749642857143, 524.5277857142856]" rotate="0">
+<title archetypal_index="0" bbox="248.500,481.092,471.640,525.156" id="0" size="44.064">Typical GPP <textline bbox="248.500,481.092,471.640,525.156" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.064">Typical GPP </textline>
+</title>
+<normal_text archetypal_index="1" bbox="190.030,428.376,525.984,452.376" id="1" size="24.0">Monthly Average GPP for CA-Ca1 <textline bbox="190.030,428.376,525.984,452.376" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">Monthly Average GPP for CA-Ca1 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="189.170,314.856,286.802,363.356" id="2" size="24.0">Observed 
+Simulated <textline bbox="189.170,339.356,281.186,363.356" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Observed </textline>
+<textline bbox="189.530,314.856,286.802,338.856" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Simulated </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="60.207,317.980,85.104,348.652" id="4" size="7.655750000000001">) 
+1 
+- 
+s <textline bbox="61.104,340.660,85.104,348.652" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">) </textline>
+<textline bbox="60.207,332.620,76.167,340.600" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.980">1 </textline>
+<textline bbox="60.207,327.340,76.167,332.655" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.315">- </textline>
+<textline bbox="61.104,317.980,85.104,327.316" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.336">s </textline>
+</normal_text>
+<slide_number bbox="60.207,298.420,76.167,311.680" id="5" size="6.647500000000001">2 
+- <textline bbox="60.207,303.700,76.167,311.680" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.980">2 </textline>
+<textline bbox="60.207,298.420,76.167,303.735" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.315">- </textline>
+</slide_number>
+<normal_text archetypal_index="4" bbox="61.104,279.958,85.104,298.630" id="6" size="18.672">m <textline bbox="61.104,279.958,85.104,298.630" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.672">m </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="61.104,165.550,85.104,279.838" id="7" size="11.517599999999998">  
+l 
+o 
+m 
+m 
+( 
+  
+P 
+P 
+G <textline bbox="61.104,273.838,85.104,279.838" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.000">  </textline>
+<textline bbox="61.104,267.094,85.104,273.766" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.672">l </textline>
+<textline bbox="61.104,255.094,85.104,267.094" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o </textline>
+<textline bbox="61.104,236.590,85.104,255.262" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.672">m </textline>
+<textline bbox="61.104,222.790,85.104,236.614" colourspace="Pattern" font="SymbolMT" ncolour="0" size="13.824">m </textline>
+<textline bbox="61.104,214.726,85.104,222.718" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">( </textline>
+<textline bbox="61.104,208.630,85.104,214.630" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.000">  </textline>
+<textline bbox="61.104,196.150,85.104,209.494" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="13.344">P </textline>
+<textline bbox="61.104,182.878,85.104,196.222" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="13.344">P </textline>
+<textline bbox="61.104,165.550,85.104,182.878" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="17.328">G </textline>
+</normal_text>
+<rect bbox="44.880,57.120,675.240,420.600" linewidth="0" />
+<rect bbox="44.880,57.120,675.240,420.600" linewidth="0" />
+<picture archetypal_index="6" bbox="92.28,95.64,661.68,394.92" caption="&#10;Date (Year) " combined_sources="['Image134.506x266.bmp', 'Image135.506x266.bmp']" name="combined_0" src="combined_8_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[163.30983333333336, 481.7367222222222, 556.65075, 524.6673888888888]" rotate="0">
+<title archetypal_index="0" bbox="107.950,481.092,611.866,525.156" id="0" size="44.064">Light Use Efficiency Curves <textline bbox="107.950,481.092,611.866,525.156" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.064">Light Use Efficiency Curves </textline>
+</title>
+<normal_text archetypal_index="1" bbox="204.790,428.376,511.464,452.376" id="1" size="24.0">Daily Average GPP for CA-Ca1 <textline bbox="204.790,428.376,511.464,452.376" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">Daily Average GPP for CA-Ca1 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="189.170,314.856,286.802,363.356" id="2" size="24.0">Observed 
+Simulated <textline bbox="189.170,339.356,281.186,363.356" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Observed </textline>
+<textline bbox="189.530,314.856,286.802,338.856" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Simulated </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="60.207,317.980,85.104,348.652" id="3" size="7.655750000000001">) 
+1 
+- 
+s <textline bbox="61.104,340.660,85.104,348.652" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">) </textline>
+<textline bbox="60.207,332.620,76.167,340.600" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.980">1 </textline>
+<textline bbox="60.207,327.340,76.167,332.655" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.315">- </textline>
+<textline bbox="61.104,317.980,85.104,327.316" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.336">s </textline>
+</normal_text>
+<slide_number bbox="60.207,298.420,76.167,311.680" id="4" size="6.647500000000001">2 
+- <textline bbox="60.207,303.700,76.167,311.680" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.980">2 </textline>
+<textline bbox="60.207,298.420,76.167,303.735" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="5.315">- </textline>
+</slide_number>
+<normal_text archetypal_index="4" bbox="61.104,279.958,85.104,298.630" id="5" size="18.672">m <textline bbox="61.104,279.958,85.104,298.630" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.672">m </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="61.104,165.550,85.104,279.838" id="6" size="11.517599999999998">  
+l 
+o 
+m 
+m 
+( 
+  
+P 
+P 
+G <textline bbox="61.104,273.838,85.104,279.838" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.000">  </textline>
+<textline bbox="61.104,267.094,85.104,273.766" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.672">l </textline>
+<textline bbox="61.104,255.094,85.104,267.094" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="12.000">o </textline>
+<textline bbox="61.104,236.590,85.104,255.262" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.672">m </textline>
+<textline bbox="61.104,222.790,85.104,236.614" colourspace="Pattern" font="SymbolMT" ncolour="0" size="13.824">m </textline>
+<textline bbox="61.104,214.726,85.104,222.718" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="7.992">( </textline>
+<textline bbox="61.104,208.630,85.104,214.630" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="6.000">  </textline>
+<textline bbox="61.104,196.150,85.104,209.494" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="13.344">P </textline>
+<textline bbox="61.104,182.878,85.104,196.222" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="13.344">P </textline>
+<textline bbox="61.104,165.550,85.104,182.878" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="17.328">G </textline>
+</normal_text>
+<rect bbox="44.880,57.120,675.240,420.600" linewidth="0" />
+<rect bbox="44.880,57.120,675.240,420.600" linewidth="0" />
+<picture archetypal_index="6" bbox="94.32,96.84,658.68,396.48" caption="&#10;Daily Average Shortwave Radiation (W m-2) " combined_sources="['Image142.501x266.bmp', 'Image143.501x266.bmp']" name="combined_0" src="combined_9_0.png" /></page>
+</pages>

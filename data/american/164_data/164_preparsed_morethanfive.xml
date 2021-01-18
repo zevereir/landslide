@@ -1,0 +1,191 @@
+<pages>
+<page bbox="0.000,0.000,756.000,576.000" id="3" mean_title="[20.16, 529.015, 663.125, 562.975]" rotate="0">
+<title archetypal_index="0" bbox="20.160,529.015,663.125,562.975" id="0" size="33.96">Comparison of Commercial, Space, Avionics <textline bbox="20.160,529.015,663.125,562.975" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="33.960">Comparison of Commercial, Space, Avionics </textline>
+</title>
+<normal_text archetypal_index="1" bbox="283.250,400.006,409.466,424.006" id="1" size="24.0">Commercial <textline bbox="283.250,400.006,409.466,424.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Commercial </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="457.270,400.006,517.270,424.006" id="2" size="24.0">Space <textline bbox="457.270,400.006,517.270,424.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Space </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="619.300,400.006,705.508,424.006" id="3" size="24.0">Avionics <textline bbox="619.300,400.006,705.508,424.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Avionics </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="283.250,342.262,323.462,360.262" id="4" size="18.0">Years <textline bbox="283.250,342.262,323.462,360.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Years </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="283.250,313.457,338.241,331.481" id="5" size="18.024">Manual <textline bbox="283.250,313.457,338.241,331.481" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Manual </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="457.270,342.262,501.982,360.262" id="6" size="18.0">Years  <textline bbox="457.270,342.262,501.982,360.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Years  </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="457.270,313.457,513.253,331.481" id="7" size="18.024">Remote <textline bbox="457.270,313.457,513.253,331.481" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Remote </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="619.300,342.262,663.292,360.262" id="8" size="18.0">Hours <textline bbox="619.300,342.262,663.292,360.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Hours </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="619.300,313.457,722.181,331.481" id="9" size="18.024">After mission  <textline bbox="619.300,313.457,722.181,331.481" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">After mission  </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="43.200,263.042,199.188,281.042" id="10" size="18.0">Outage response time <textline bbox="43.200,263.042,199.188,281.042" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Outage response time </textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="283.250,263.042,327.242,281.042" id="11" size="18.0">Hours <textline bbox="283.250,263.042,327.242,281.042" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Hours </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="457.270,263.042,712.432,281.042" id="12" size="18.0">Days (Cruise phase) Milliseconds <textline bbox="457.270,263.042,712.432,281.042" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Days (Cruise phase) Milliseconds </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="283.250,208.682,356.312,248.282" id="13" size="18.0">Unlimited 
+Unlimited <textline bbox="283.250,230.282,356.312,248.282" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Unlimited </textline>
+<textline bbox="283.250,208.682,356.312,226.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Unlimited </textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="457.270,208.682,519.226,248.282" id="14" size="18.0">Minimal 
+None <textline bbox="457.270,230.282,519.226,248.282" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Minimal </textline>
+<textline bbox="457.270,208.682,496.258,226.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">None </textline>
+</normal_text>
+<normal_text archetypal_index="15" bbox="619.300,208.682,717.688,248.282" id="15" size="18.0">Medium 
+After mission <textline bbox="619.300,230.282,680.302,248.282" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Medium </textline>
+<textline bbox="619.300,208.682,717.688,226.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">After mission </textline>
+</normal_text>
+<normal_text archetypal_index="16" bbox="43.200,400.006,173.352,424.006" id="16" size="24.0">Operational  <textline bbox="43.200,400.006,173.352,424.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Operational  </textline>
+</normal_text>
+<normal_text archetypal_index="17" bbox="71.760,371.206,207.456,395.206" id="17" size="24.0">Environment <textline bbox="71.760,371.206,207.456,395.206" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Environment </textline>
+</normal_text>
+<normal_text archetypal_index="18" bbox="43.200,342.262,165.780,360.262" id="18" size="18.0">Mission duration <textline bbox="43.200,342.262,165.780,360.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Mission duration </textline>
+</normal_text>
+<normal_text archetypal_index="19" bbox="43.200,291.842,136.312,331.481" id="19" size="18.012">Maintenance 
+Intervention <textline bbox="43.200,313.457,136.312,331.481" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Maintenance </textline>
+<textline bbox="43.200,291.842,131.346,309.842" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Intervention </textline>
+</normal_text>
+<normal_text archetypal_index="20" bbox="43.200,187.082,152.454,248.282" id="20" size="18.0">Resources 
+Power 
+- 
+Spare parts 
+- <textline bbox="43.200,230.282,117.216,248.282" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Resources </textline>
+<textline bbox="71.760,208.682,117.786,226.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Power </textline>
+<textline bbox="43.200,208.682,49.194,226.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">- </textline>
+<textline bbox="71.760,187.082,152.454,205.082" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Spare parts </textline>
+<textline bbox="43.200,187.082,49.194,205.082" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">- </textline>
+</normal_text>
+<slide_number bbox="727.700,-1.258,734.906,11.702" id="21" size="12.96">3 <textline bbox="727.700,-1.258,734.906,11.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.960">3 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,756.000,576.000" id="4" mean_title="[20.16, 529.015, 663.125, 562.975]" rotate="0">
+<title archetypal_index="0" bbox="20.160,529.015,663.125,562.975" id="0" size="33.96">Comparison of Commercial, Space, Avionics <textline bbox="20.160,529.015,663.125,562.975" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="33.960">Comparison of Commercial, Space, Avionics </textline>
+</title>
+<normal_text archetypal_index="1" bbox="67.200,425.231,223.172,478.036" id="1" size="24.012">Fault-Tolerant  
+Approach <textline bbox="67.200,454.036,223.172,478.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Fault-Tolerant  </textline>
+<textline bbox="95.784,425.231,197.958,449.255" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.024">Approach </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="67.200,350.662,216.690,390.262" id="2" size="18.0">Fault avoidance and  
+fault intolerance <textline bbox="67.200,372.262,216.690,390.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Fault avoidance and  </textline>
+<textline bbox="95.784,350.662,213.324,368.662" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">fault intolerance </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="235.100,372.262,291.140,390.262" id="3" size="18.0">Burn-in <textline bbox="235.100,372.262,291.140,390.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Burn-in </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="67.200,264.242,174.822,282.242" id="4" size="18.0">Fault tolerance <textline bbox="67.200,264.242,174.822,282.242" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Fault tolerance </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="235.100,454.036,361.316,478.036" id="5" size="24.0">Commercial <textline bbox="235.100,454.036,361.316,478.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Commercial </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="389.880,454.036,449.880,478.036" id="6" size="24.0">Space <textline bbox="389.880,454.036,449.880,478.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Space </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="554.400,454.036,640.608,478.036" id="7" size="24.0">Avionics <textline bbox="554.400,454.036,640.608,478.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">Avionics </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="389.880,350.662,536.784,390.262" id="8" size="18.0">Radiation-hardened  
+components <textline bbox="389.880,372.262,536.784,390.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Radiation-hardened  </textline>
+<textline bbox="418.440,350.662,505.434,368.662" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">components </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="554.400,372.262,678.330,390.262" id="9" size="18.0">Shake, rattle, roll <textline bbox="554.400,372.262,678.330,390.262" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Shake, rattle, roll </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="389.880,321.857,508.406,339.881" id="10" size="18.024">Design diversity <textline bbox="389.880,321.857,508.406,339.881" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Design diversity </textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="554.400,321.857,672.926,339.881" id="11" size="18.024">Design diversity <textline bbox="554.400,321.857,672.926,339.881" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Design diversity </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="389.880,293.042,476.532,311.042" id="12" size="18.0">Safe system <textline bbox="389.880,293.042,476.532,311.042" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Safe system </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="389.880,242.642,519.536,282.242" id="13" size="18.0">Component-level  
+redundancy <textline bbox="389.880,264.242,519.536,282.242" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Component-level  </textline>
+<textline bbox="418.440,242.642,502.518,260.642" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">redundancy </textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="389.880,192.212,513.655,231.861" id="14" size="18.012">Subsystem-level  
+redundancy <textline bbox="389.880,213.837,513.655,231.861" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Subsystem-level  </textline>
+<textline bbox="418.440,192.212,502.518,210.212" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">redundancy </textline>
+</normal_text>
+<normal_text archetypal_index="15" bbox="554.400,192.212,678.175,231.861" id="15" size="18.012">Subsystem-level  
+redundancy <textline bbox="554.400,213.837,678.175,231.861" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Subsystem-level  </textline>
+<textline bbox="582.960,192.212,667.038,210.212" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">redundancy </textline>
+</normal_text>
+<normal_text archetypal_index="16" bbox="235.100,163.412,349.328,181.412" id="16" size="18.0">Multi-computer <textline bbox="235.100,163.412,349.328,181.412" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Multi-computer </textline>
+</normal_text>
+<normal_text archetypal_index="17" bbox="389.880,163.412,503.946,181.412" id="17" size="18.0">Multi-computer <textline bbox="389.880,163.412,503.946,181.412" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Multi-computer </textline>
+</normal_text>
+<normal_text archetypal_index="18" bbox="554.400,163.412,668.628,181.412" id="18" size="18.0">Multi-computer <textline bbox="554.400,163.412,668.628,181.412" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Multi-computer </textline>
+</normal_text>
+<normal_text archetypal_index="19" bbox="235.100,134.612,275.150,152.612" id="19" size="18.0">Retry <textline bbox="235.100,134.612,275.150,152.612" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Retry </textline>
+</normal_text>
+<normal_text archetypal_index="20" bbox="235.100,105.807,302.185,123.831" id="20" size="18.024">Firewalls <textline bbox="235.100,105.807,302.185,123.831" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Firewalls </textline>
+</normal_text>
+<normal_text archetypal_index="21" bbox="389.880,134.612,429.930,152.612" id="21" size="18.0">Retry <textline bbox="389.880,134.612,429.930,152.612" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Retry </textline>
+</normal_text>
+<normal_text archetypal_index="22" bbox="235.100,76.992,358.688,94.992" id="22" size="18.0">Software patches <textline bbox="235.100,76.992,358.688,94.992" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Software patches </textline>
+</normal_text>
+<normal_text archetypal_index="23" bbox="389.880,76.992,504.396,94.992" id="23" size="18.0">Software reload <textline bbox="389.880,76.992,504.396,94.992" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Software reload </textline>
+</normal_text>
+<normal_text archetypal_index="24" bbox="554.400,105.807,621.485,123.831" id="24" size="18.024">Firewalls <textline bbox="554.400,105.807,621.485,123.831" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Firewalls </textline>
+</normal_text>
+<slide_number bbox="727.700,-1.258,734.906,11.702" id="25" size="12.96">4 <textline bbox="727.700,-1.258,734.906,11.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.960">4 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,756.000,576.000" id="9" mean_title="[24.504, 520.6902142857142, 578.3815357142856, 562.4785]" rotate="0">
+<title archetypal_index="0" bbox="37.536,528.949,604.708,560.989" id="0" size="32.04">Defense Meteorological Satellite Program <textline bbox="37.536,528.949,604.708,560.989" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="32.040">Defense Meteorological Satellite Program </textline>
+</title>
+<normal_text archetypal_index="1" bbox="74.712,366.773,125.273,401.933" id="1" size="15.96">Sensor 
+payload <textline bbox="78.312,385.973,121.883,401.933" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Sensor </textline>
+<textline bbox="74.712,366.773,125.273,382.733" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">payload </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="203.060,385.973,276.955,401.933" id="2" size="15.96">Equipment  <textline bbox="203.060,385.973,276.955,401.933" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Equipment  </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="190.460,347.573,250.645,382.733" id="3" size="15.96">status  
+telemetry <textline bbox="194.420,366.773,234.847,382.733" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">status  </textline>
+<textline bbox="190.460,347.573,250.645,363.533" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">telemetry </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="396.980,92.361,491.655,127.523" id="7" size="15.96">Communicatio 
+ns <textline bbox="396.980,111.563,491.655,127.523" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Communicatio </textline>
+<textline bbox="437.300,92.361,451.548,108.321" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">ns </textline>
+</normal_text>
+<slide_number bbox="727.700,-1.258,734.906,11.702" id="8" size="12.96">9 <textline bbox="727.700,-1.258,734.906,11.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.960">9 </textline>
+</slide_number>
+<rect bbox="519.300,222.420,627.900,291.420" linewidth="1" />
+<rect bbox="519.300,222.420,627.900,291.420" linewidth="1" />
+<rect bbox="499.500,377.940,608.340,447.060" linewidth="1" />
+<rect bbox="499.500,377.940,608.340,447.060" linewidth="1" />
+<rect bbox="351.660,377.940,460.380,447.060" linewidth="1" />
+<rect bbox="351.660,377.940,460.380,447.060" linewidth="1" />
+<rect bbox="203.700,377.940,312.540,447.060" linewidth="1" />
+<rect bbox="203.700,377.940,312.540,447.060" linewidth="1" />
+<rect bbox="45.900,343.380,154.380,408.180" linewidth="1" />
+<rect bbox="45.900,343.380,154.380,408.180" linewidth="1" />
+<rect bbox="390.180,88.260,498.780,152.940" linewidth="1" />
+<rect bbox="390.180,88.260,498.780,152.940" linewidth="1" />
+<rect bbox="184.020,343.260,292.380,408.180" linewidth="1" />
+<rect bbox="184.020,343.260,292.380,408.180" linewidth="1" />
+<curve bbox="154.320,379.100,183.960,385.100" linewidth="0" pts="183.960,382.700,159.320,382.600,159.320,381.600,183.960,381.700,160.310,385.100,154.320,382.080,160.330,379.100" />
+<curve bbox="115.200,413.640,121.200,469.800" linewidth="0" pts="118.700,469.800,118.700,418.640,117.700,418.640,117.700,469.800,121.200,419.640,118.200,413.640,115.200,419.640" />
+<curve bbox="483.480,413.640,489.480,469.800" linewidth="0" pts="486.980,469.800,486.980,418.640,485.980,418.640,485.980,469.800,489.480,419.640,486.480,413.640,483.480,419.640" />
+<curve bbox="440.400,353.190,468.360,359.250" linewidth="0" pts="445.400,356.760,463.360,356.680,463.360,355.680,445.400,355.760,446.390,353.250,440.400,356.280,446.410,359.250,462.370,359.190,468.360,356.160,462.350,353.190" />
+<curve bbox="229.080,136.080,390.120,142.080" linewidth="0" pts="229.080,139.580,385.120,139.580,385.120,138.580,229.080,138.580,384.120,142.080,390.120,139.080,384.120,136.080" />
+<curve bbox="118.200,118.680,390.120,124.680" linewidth="0" pts="118.200,122.180,385.120,122.180,385.120,121.180,118.200,121.180,384.120,124.680,390.120,121.680,384.120,118.680" />
+<curve bbox="269.730,316.440,275.730,343.320" linewidth="0" pts="273.140,316.440,273.240,338.320,272.240,338.320,272.140,316.440,275.730,337.310,272.760,343.320,269.730,337.330" />
+<curve bbox="476.850,316.440,482.850,343.320" linewidth="0" pts="480.260,316.440,480.360,338.320,479.360,338.320,479.260,316.440,482.850,337.310,479.880,343.320,476.850,337.330" />
+<curve bbox="506.400,252.600,512.400,343.320" linewidth="0" pts="509.900,257.600,509.900,338.320,508.900,338.320,508.900,257.600,506.400,258.600,509.400,252.600,512.400,258.600,512.400,337.320,509.400,343.320,506.400,337.320" />
+<curve bbox="397.920,148.800,403.920,265.560" linewidth="0" pts="401.420,265.560,401.420,153.800,400.420,153.800,400.420,265.560,403.920,154.800,400.920,148.800,397.920,154.800" />
+<curve bbox="496.440,265.560,502.440,343.320" linewidth="0" pts="499.940,265.560,499.940,338.320,498.940,338.320,498.940,265.560,502.440,337.320,499.440,343.320,496.440,337.320" />
+<table archetypal_index="5" bbox="410.82,105.78,607.98,252.54" dimensions="2/1"><cell bbox="410.82,105.78,519.42,174.66" /><cell bbox="499.5,187.74,607.98,252.54"><tabletext bbox="516.720,191.963,591.700,246.323" id="6" size="15.96">Electric  
+Power and  
+distribution <textline bbox="528.960,230.363,582.506,246.323" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Electric  </textline>
+<textline bbox="519.720,211.163,591.700,227.123" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Power and  </textline>
+<textline bbox="516.720,191.963,590.519,207.923" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">distribution </textline>
+</tabletext>
+</cell></table><table archetypal_index="6" bbox="331.98,343.38,578.34,408.18" dimensions="2/1"><cell bbox="331.98,343.38,440.46,408.18"><tabletext bbox="341.780,347.573,430.342,401.933" id="4" size="15.96">Attitude  
+determination 
+and control <textline bbox="359.900,385.973,416.303,401.933" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Attitude  </textline>
+<textline bbox="341.780,366.773,430.342,382.733" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">determination </textline>
+<textline bbox="349.820,347.573,422.215,363.533" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">and control </textline>
+</tabletext>
+</cell><cell bbox="469.98,343.38,578.34,408.18"><tabletext bbox="490.990,366.773,557.128,401.933" id="5" size="15.96">Command 
+control <textline bbox="490.990,385.973,557.128,401.933" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Command </textline>
+<textline bbox="501.430,366.773,546.820,382.733" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">control </textline>
+</tabletext>
+</cell></table></page>
+</pages>

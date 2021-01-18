@@ -1,0 +1,146 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[266.9066666666667, 451.272, 597.1476666666666, 495.31200000000007]" rotate="0">
+<title archetypal_index="0" bbox="232.540,451.272,631.454,495.312" id="0" size="44.04">EPICS Architecture <textline bbox="232.540,451.272,631.454,495.312" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.040">EPICS Architecture </textline>
+</title>
+<enlisting archetypal_index="1" bbox="67.392,263.233,593.71,409.276" id="3" size="24.006">Operating systems: 
+&#8226;VxWorks 
+&#8226;Linux 
+&#8226;WindowsNT <textline bbox="409.270,385.276,593.710,409.276" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Operating systems: </textline>
+<textline bbox="409.270,356.476,508.798,380.476" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;VxWorks </textline>
+<textline bbox="409.270,327.671,475.063,351.695" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226;Linux </textline>
+<textline bbox="409.270,298.846,540.478,322.846" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;WindowsNT </textline>
+<normal_text bbox="67.392,263.233,177.789,291.217" id="2" size="27.984">Network <textline bbox="67.392,263.233,177.789,291.217" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="27.984">Network </textline>
+</normal_text>
+<normal_text bbox="201.960,334.420,255.216,358.420" id="1" size="24.0">Host <textline bbox="201.960,334.420,255.216,358.420" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.2, 0.2, 0.8)" size="24.000">Host </textline>
+</normal_text>
+</enlisting>
+<normal_text archetypal_index="2" bbox="83.712,127.610,282.336,180.410" id="4" size="24.0">Hardware and 
+Software Devices <textline bbox="103.630,156.410,262.438,180.410" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.8, 0)" size="24.000">Hardware and </textline>
+<textline bbox="83.712,127.610,282.336,151.610" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.8, 0)" size="24.000">Software Devices </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="441.140,127.660,585.020,180.499" id="5" size="24.012">Input Output 
+Controller <textline bbox="441.140,156.475,585.020,180.499" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.024">Input Output </textline>
+<textline bbox="455.660,127.660,570.308,151.660" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.000">Controller </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="325.270,115.226,413.854,139.226" id="6" size="24.0">Data Bus <textline bbox="325.270,115.226,413.854,139.226" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">Data Bus </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="222.860,61.200,496.580,85.200" id="7" size="24.0">Control and monitor devices <textline bbox="222.860,61.200,496.580,85.200" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Control and monitor devices </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="61.224,27.711,146.966,41.751" id="8" size="14.04">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="307.320,27.711,412.606,41.751" id="9" size="14.04">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="10" size="14.04">3 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">3 </textline>
+</slide_number>
+<picture archetypal_index="8" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.1.200x106.bmp" width="147">
+</picture>
+<rect bbox="438.060,111.180,587.940,201.060" linewidth="3" />
+<rect bbox="153.660,309.660,303.660,387.180" linewidth="3" />
+<rect bbox="402.000,294.240,601.800,417.240" linewidth="3" />
+<rect bbox="402.000,294.240,601.800,417.240" linewidth="0" />
+<rect bbox="72.060,117.300,294.060,194.820" linewidth="3" />
+<curve bbox="295.560,148.620,436.560,163.620" linewidth="3" pts="308.060,158.620,424.060,158.620,424.060,153.620,308.060,153.620,310.560,148.620,295.560,156.120,310.560,163.620,421.560,163.620,436.560,156.120,421.560,148.620" />
+<rect bbox="215.640,56.520,504.480,93.240" linewidth="3" />
+<rect bbox="215.640,56.520,504.480,93.240" linewidth="0" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[265.98333333333335, 451.272, 598.0373333333333, 495.31200000000007]" rotate="0">
+<title archetypal_index="0" bbox="265.060,451.272,598.927,495.312" id="0" size="44.04">Channel Access <textline bbox="265.060,451.272,598.927,495.312" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.040">Channel Access </textline>
+</title>
+<normal_text archetypal_index="1" bbox="139.220,322.006,266.498,381.959" id="1" size="24.012">Host 
+CAS CAC <textline bbox="177.960,357.935,231.245,381.959" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.2, 0.2, 0.8)" size="24.024">Host </textline>
+<textline bbox="139.220,322.006,266.498,346.006" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAS CAC </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="331.270,301.606,594.000,412.036" id="2" size="24.006">The EPICS Software Bus &#8211; 
+&#8226;Client-server protocol 
+&#8226;Network or local  
+communication path <textline bbox="331.270,388.036,594.000,412.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">The EPICS Software Bus &#8211; </textline>
+<textline bbox="331.270,359.231,550.894,383.255" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226;Client-server protocol </textline>
+<textline bbox="331.270,330.406,508.414,354.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Network or local  </textline>
+<textline bbox="331.270,301.606,527.590,325.606" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">communication path </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="49.368,263.233,159.849,291.217" id="3" size="27.984">Network <textline bbox="49.368,263.233,159.849,291.217" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="27.984">Network </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="139.220,153.986,360.404,177.986" id="5" size="24.0">Channel Access Server <textline bbox="139.220,153.986,360.404,177.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 0.4)" size="24.000">Channel Access Server </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="139.220,105.956,356.444,129.956" id="7" size="24.0">Channel Access Client <textline bbox="139.220,105.956,356.444,129.956" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 0.4)" size="24.000">Channel Access Client </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="427.270,165.986,548.548,189.986" id="8" size="24.0">CAS CAC <textline bbox="427.270,165.986,548.548,189.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAS CAC </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="417.120,93.864,561.000,146.709" id="9" size="24.012">Input Output 
+Controller <textline bbox="417.120,122.685,561.000,146.709" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.024">Input Output </textline>
+<textline bbox="431.640,93.864,546.384,117.864" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.000">Controller </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="61.224,27.711,146.966,41.751" id="10" size="14.04">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="307.320,27.711,412.606,41.751" id="11" size="14.04">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="12" size="14.04">4 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">4 </textline>
+</slide_number>
+<picture archetypal_index="10" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.2.200x106.bmp" width="147">
+</picture>
+<rect bbox="414.060,89.940,563.940,203.820" linewidth="3" />
+<rect bbox="129.660,312.420,279.660,389.940" linewidth="3" />
+<rect bbox="324.000,294.000,612.000,420.000" linewidth="3" />
+<rect bbox="324.000,294.000,612.000,420.000" linewidth="0" />
+<curve bbox="197.100,202.290,496.350,314.040" linewidth="2" pts="202.100,301.540,202.100,258.670,346.720,258.670,344.220,261.170,344.220,258.290,488.850,258.290,486.350,260.790,486.350,214.790,491.350,214.790,491.350,263.290,346.720,263.290,349.220,260.790,349.220,263.670,204.600,263.670,207.100,261.170,207.100,301.540,212.100,299.040,204.600,314.040,197.100,299.040,481.350,217.290,488.850,202.290,496.350,217.290" />
+<rect bbox="54.000,90.000,366.000,192.000" linewidth="2" />
+<rect bbox="54.000,90.000,366.000,192.000" linewidth="0" />
+<table archetypal_index="11" bbox="60.06,99.9,125.94,185.94" dimensions="2/1"><cell bbox="60.06,147.9,123.3,185.94"><tabletext bbox="67.224,153.986,113.808,177.986" id="4" size="24.0">CAS <textline bbox="67.224,153.986,113.808,177.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAS </textline>
+</tabletext>
+</cell><cell bbox="60.06,99.9,125.94,137.94"><tabletext bbox="67.224,105.956,116.472,129.956" id="6" size="24.0">CAC <textline bbox="67.224,105.956,116.472,129.956" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAC </textline>
+</tabletext>
+</cell></table></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[248.81400000000002, 451.27200000000005, 615.2224, 495.31200000000007]" rotate="0">
+<title archetypal_index="0" bbox="223.060,451.272,641.000,495.312" id="0" size="44.04">CA Communication <textline bbox="223.060,451.272,641.000,495.312" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.040">CA Communication </textline>
+</title>
+<normal_text archetypal_index="1" bbox="177.960,357.935,231.245,381.959" id="1" size="24.024">Host <textline bbox="177.960,357.935,231.245,381.959" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.2, 0.2, 0.8)" size="24.024">Host </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="217.250,322.006,266.498,346.006" id="2" size="24.0">CAC <textline bbox="217.250,322.006,266.498,346.006" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAC </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="313.250,284.806,660.694,424.036" id="3" size="24.0048">CA Client &#8211; 
+&#8226;Connects with a record by name 
+&#8226;Access individual fields in a record 
+&#8226;Read/write, post events on value  
+change, &#8230; <textline bbox="313.250,400.036,427.870,424.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">CA Client &#8211; </textline>
+<textline bbox="313.250,371.231,631.171,395.255" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226;Connects with a record by name </textline>
+<textline bbox="313.250,342.406,660.694,366.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Access individual fields in a record </textline>
+<textline bbox="313.250,313.606,640.054,337.606" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Read/write, post events on value  </textline>
+<textline bbox="313.250,284.806,417.386,308.806" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">change, &#8230; </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="43.368,269.238,153.782,297.198" id="4" size="27.96">Network <textline bbox="43.368,269.238,153.782,297.198" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="27.960">Network </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="31.200,80.760,415.680,219.986" id="5" size="24.0048">CA Server &#8211; 
+&#8226;A record connects data with a name 
+&#8226;Fields in each record specify how to  
+manipulate the data 
+&#8226;Fields for conversions, alarm limits, &#8230; <textline bbox="31.200,195.986,149.900,219.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">CA Server &#8211; </textline>
+<textline bbox="31.200,167.186,381.576,191.186" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;A record connects data with a name </textline>
+<textline bbox="31.200,138.381,393.281,162.405" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226;Fields in each record specify how to  </textline>
+<textline bbox="31.200,109.556,218.784,133.556" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">manipulate the data </textline>
+<textline bbox="31.200,80.760,415.680,104.760" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Fields for conversions, alarm limits, &#8230; </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="469.300,166.106,515.884,190.106" id="6" size="24.0">CAS <textline bbox="469.300,166.106,515.884,190.106" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="24.000">CAS </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="459.140,94.003,602.996,146.810" id="7" size="24.012">Input Output 
+Controller <textline bbox="459.140,122.810,602.996,146.810" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.000">Input Output </textline>
+<textline bbox="473.660,94.003,588.351,118.027" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.502, 0, 0.502)" size="24.024">Controller </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="61.224,27.711,146.966,41.751" id="8" size="14.04">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="307.320,27.711,412.606,41.751" id="9" size="14.04">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="10" size="14.04">5 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">5 </textline>
+</slide_number>
+<picture archetypal_index="10" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.3.200x106.bmp" width="147">
+</picture>
+<rect bbox="456.060,90.060,605.940,203.940" linewidth="3" />
+<rect bbox="129.660,312.420,279.660,389.940" linewidth="3" />
+<rect bbox="306.000,282.000,678.000,432.000" linewidth="3" />
+<rect bbox="306.000,282.000,678.000,432.000" linewidth="0" />
+<rect bbox="462.060,160.020,525.300,198.060" linewidth="2" />
+<rect bbox="210.060,315.900,275.940,353.940" linewidth="2" />
+<curve bbox="197.100,202.410,538.350,314.040" linewidth="2" pts="202.100,301.540,202.100,258.670,367.720,258.670,365.220,261.170,365.220,258.170,530.850,258.170,528.350,260.670,528.350,214.910,533.350,214.910,533.350,263.170,367.720,263.170,370.220,260.670,370.220,263.670,204.600,263.670,207.100,261.170,207.100,301.540,212.100,299.040,204.600,314.040,197.100,299.040,523.350,217.410,530.850,202.410,538.350,217.410" />
+<rect bbox="24.000,78.000,450.000,228.000" linewidth="2" />
+<rect bbox="24.000,78.000,450.000,228.000" linewidth="0" />
+</page>
+</pages>

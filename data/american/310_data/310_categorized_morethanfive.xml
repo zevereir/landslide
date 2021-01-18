@@ -1,0 +1,64 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[37.044000000000004, 461.9385, 550.0066666666668, 495.201]" rotate="0">
+<title archetypal_index="0" bbox="36.888,482.875,690.240,531.360" id="0" size="24.012">AERI and Wind Profiler Monitoring of Convective Indices  
+from a 4-year record at CART/ARM site in Oklahoma <textline bbox="36.888,507.360,690.240,531.360" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="24.000">AERI and Wind Profiler Monitoring of Convective Indices  </textline>
+<textline bbox="63.192,482.875,657.274,506.899" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="24.024">from a 4-year record at CART/ARM site in Oklahoma </textline>
+</title>
+<normal_text archetypal_index="1" bbox="7.200,18.168,709.512,30.168" id="9" size="12.0">Wagner, T. J., W. F. Feltz, and S. A. Ackerman, 2008: The temporal evolution of convective indices in storm-producing environments. <textline bbox="7.200,18.168,709.512,30.168" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="12.000">Wagner, T. J., W. F. Feltz, and S. A. Ackerman, 2008: The temporal evolution of convective indices in storm-producing environments. </textline>
+</normal_text>
+<rect bbox="0.000,-0.360,720.000,36.000" linewidth="0" />
+<curve bbox="479.460,275.940,534.060,348.390" linewidth="0" pts="480.660,348.390,533.770,277.580,532.570,276.680,479.460,347.490,533.110,284.110,534.060,275.940,526.480,279.140,526.100,279.300,525.920,279.740,526.080,280.120,526.240,280.500,526.680,280.680,527.060,280.520,533.460,277.820,532.420,277.040,531.620,283.940,531.580,284.350,531.870,284.730,532.280,284.770,532.690,284.820,533.070,284.530,533.110,284.110" />
+<rect bbox="77.760,344.280,156.000,366.000" linewidth="0" />
+<curve bbox="119.720,311.380,180.060,342.610" linewidth="0" pts="120.400,342.610,179.070,313.270,178.400,311.930,119.720,341.270,175.560,318.830,180.060,311.940,171.850,311.410,171.430,311.380,171.080,311.700,171.050,312.110,171.020,312.520,171.340,312.880,171.750,312.910,178.680,313.350,178.100,312.190,174.300,318.010,174.080,318.350,174.170,318.820,174.520,319.050,174.870,319.270,175.330,319.180,175.560,318.830" />
+<curve bbox="137.420,203.550,186.060,281.940" linewidth="0" pts="138.700,203.550,185.920,280.280,184.640,281.070,137.420,204.330,185.870,273.710,186.060,281.940,178.800,278.060,178.440,277.870,178.300,277.410,178.490,277.050,178.690,276.680,179.140,276.540,179.510,276.740,185.640,280.010,184.530,280.690,184.370,273.750,184.360,273.330,184.690,272.990,185.100,272.980,185.510,272.970,185.860,273.300,185.870,273.710" />
+<curve bbox="478.270,203.280,546.120,240.270" linewidth="0" pts="478.970,203.280,545.160,238.580,544.460,239.900,478.270,204.600,541.800,232.940,546.120,239.940,537.900,240.260,537.480,240.270,537.130,239.950,537.120,239.530,537.100,239.120,537.430,238.770,537.840,238.760,544.780,238.490,544.170,239.630,540.520,233.720,540.310,233.370,540.420,232.910,540.770,232.690,541.120,232.470,541.580,232.580,541.800,232.940" />
+<table archetypal_index="2" bbox="252.12,348.36,672.0,372.6" dimensions="1/3"><cell bbox="578.88,348.36,672.0,372.6"><tabletext bbox="587.140,352.472,664.878,366.512" id="4" size="14.04">0-3 km SRH <textline bbox="587.140,352.472,664.878,366.512" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="14.040">0-3 km SRH </textline>
+</tabletext>
+</cell><cell bbox="252.12,348.36,306.0,372.6"><tabletext bbox="260.210,352.472,298.736,366.512" id="2" size="14.04">CAPE <textline bbox="260.210,352.472,298.736,366.512" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="14.040">CAPE </textline>
+</tabletext>
+</cell><cell bbox="438.0,350.28,516.24,372.0"><tabletext bbox="445.820,354.190,508.484,366.190" id="3" size="12.0">TORNADIC <textline bbox="445.820,354.190,508.484,366.190" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="12.000">TORNADIC </textline>
+</tabletext>
+</cell></table><table archetypal_index="3" bbox="54.0,125.4,672.0,372.0" dimensions="5/1"><cell bbox="54.0,125.4,318.0,186.0"><tabletext bbox="61.224,146.622,309.156,179.300" id="7" size="15.0">-8   -7   -6   -5   -4   -3   -2   -1    0    1    2 
+Time after event (hours) <textline bbox="61.224,163.340,309.156,179.300" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="15.960">-8   -7   -6   -5   -4   -3   -2   -1    0    1    2 </textline>
+<textline bbox="111.620,146.622,260.261,160.662" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Time after event (hours) </textline>
+</tabletext>
+</cell><cell bbox="91.56,186.0,196.8,207.72" /><cell bbox="426.0,186.0,531.24,207.72"><tabletext bbox="434.040,189.910,523.512,201.910" id="6" size="12.0">NONTORNADIC <textline bbox="434.040,189.910,523.512,201.910" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="12.000">NONTORNADIC </textline>
+</tabletext>
+</cell><cell bbox="72.0,186.0,306.0,372.0"><tabletext bbox="85.488,348.190,148.260,360.190" id="1" size="12.0">TORNADIC <textline bbox="85.488,348.190,148.260,360.190" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="12.000">TORNADIC </textline>
+</tabletext>
+</cell><cell bbox="432.0,180.0,672.0,372.0" /></table><table archetypal_index="4" bbox="72.0,125.4,684.0,372.0" dimensions="1/5"><cell bbox="420.0,125.4,684.0,186.0"><tabletext bbox="427.270,146.622,675.226,179.300" id="8" size="15.0">-8   -7   -6   -5   -4   -3   -2   -1    0    1    2 
+Time after event (hours) <textline bbox="427.270,163.340,675.226,179.300" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="15.960">-8   -7   -6   -5   -4   -3   -2   -1    0    1    2 </textline>
+<textline bbox="477.700,146.622,626.341,160.662" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Time after event (hours) </textline>
+</tabletext>
+</cell><cell bbox="91.56,186.0,196.8,207.72" /><cell bbox="426.0,186.0,531.24,207.72" /><cell bbox="72.0,186.0,306.0,372.0" /><cell bbox="432.0,180.0,672.0,372.0" /></table><picture archetypal_index="5" bbox="600.0,0.6,672.0,23.28" caption="" combined_sources="['Image32.0.70x69.bmp', 'Image34.0.68x68.bmp', 'Image36.0.61x62.bmp']" name="combined_0" src="combined_7_0.png" /><picture archetypal_index="6" bbox="44.52,163.8,310.92,373.92" caption="&#10;NONTORNADIC " combined_sources="['Image58.444x347.bmp', 'Image64.104x63.bmp', 'Image66.87x129.bmp', 'Image70.335x269.bmp']" name="combined_1" src="combined_7_1.png" /><picture archetypal_index="7" bbox="409.2,168.0,675.6,378.0" caption="" combined_sources="['Image59.444x350.bmp', 'Image62.96x121.bmp', 'Image68.114x71.bmp', 'Image72.344x277.bmp']" name="combined_2" src="combined_7_2.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[41.55542857142857, 488.4314761904762, 575.0621904761905, 520.4033333333334]" rotate="0">
+<title archetypal_index="0" bbox="49.632,490.360,450.622,529.999" id="0" size="18.012">Storm-Relative Helicity from combined analysis of  
+Platteville Wind Profiler and 1-km VLAPS <textline bbox="49.632,511.975,450.622,529.999" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Storm-Relative Helicity from combined analysis of  </textline>
+<textline bbox="83.712,490.360,411.750,508.360" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Platteville Wind Profiler and 1-km VLAPS </textline>
+</title>
+<normal_text archetypal_index="1" bbox="137.380,339.602,271.855,353.642" id="1" size="14.04">Mesoscale SRH jump <textline bbox="137.380,339.602,271.855,353.642" colourspace="Pattern" font="ArialMT" ncolour="(0.502, 0, 0)" size="14.040">Mesoscale SRH jump </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="634.200,267.940,694.308,279.940" id="2" size="12.0">PROFILER <textline bbox="634.200,267.940,694.308,279.940" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">PROFILER </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="523.300,246.185,603.464,258.209" id="3" size="12.024">RADIOMETER <textline bbox="523.300,246.185,603.464,258.209" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.024">RADIOMETER </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="375.140,9.532,502.230,23.572" id="5" size="14.04">Tornado (1740 UTC) <textline bbox="375.140,9.532,502.230,23.572" colourspace="Pattern" font="ArialMT" ncolour="(0.502, 0, 0)" size="14.040">Tornado (1740 UTC) </textline>
+</normal_text>
+<rect bbox="21.360,486.000,474.000,536.880" linewidth="0" />
+<rect bbox="357.660,5.460,519.660,29.940" linewidth="0" />
+<rect bbox="357.660,5.460,519.660,29.940" linewidth="1" />
+<curve bbox="357.590,5.460,357.590,29.940" linewidth="1" pts="357.590,29.940,357.590,5.460" />
+<curve bbox="351.730,18.109,358.340,188.470" linewidth="1" pts="356.840,18.109,354.010,185.430,355.510,185.450,358.340,18.134,351.760,185.390,351.730,187.040,353.050,188.410,354.710,188.440,356.360,188.470,357.730,187.150,357.760,185.490,357.780,183.830,356.460,182.470,354.810,182.440,353.150,182.410,351.790,183.730,351.760,185.390" />
+<curve bbox="153.660,403.300,207.660,412.580" linewidth="1" pts="207.660,408.940,155.640,408.940,155.640,406.940,207.660,406.940,161.140,412.300,153.660,407.940,161.140,403.580,161.610,403.300,162.230,403.460,162.500,403.940,162.780,404.410,162.620,405.030,162.140,405.300,156.140,408.800,156.140,407.080,162.140,410.580,162.140,410.580,162.620,410.850,162.780,411.470,162.500,411.940,162.230,412.420,161.610,412.580,161.140,412.300" />
+<rect bbox="123.660,335.460,285.660,359.940" linewidth="1" />
+<rect bbox="123.660,335.460,285.660,359.940" linewidth="1" />
+<curve bbox="286.440,335.460,286.440,359.940" linewidth="1" pts="286.440,359.940,286.440,335.460" />
+<curve bbox="284.870,249.770,290.930,341.000" linewidth="1" pts="287.190,341.000,288.650,252.810,287.150,252.780,285.690,340.970,290.900,252.850,290.930,251.190,289.610,249.820,287.950,249.800,286.300,249.770,284.930,251.090,284.900,252.750,284.870,254.400,286.200,255.770,287.850,255.800,289.510,255.820,290.870,254.500,290.900,252.850" />
+<rect bbox="474.820,143.630,720.130,396.380" linewidth="0" />
+<curve bbox="600.000,258.000,612.000,270.000" linewidth="1" pts="600.000,258.000,606.000,270.000,612.000,258.000" />
+<curve bbox="600.000,258.000,612.000,270.000" linewidth="0" pts="600.000,258.000,606.000,270.000,612.000,258.000" />
+<curve bbox="618.000,270.000,630.000,282.000" linewidth="0" pts="618.000,270.000,624.000,282.000,630.000,270.000" />
+<curve bbox="618.000,270.000,630.000,282.000" linewidth="0" pts="618.000,270.000,624.000,282.000,630.000,270.000" />
+<curve bbox="480.000,317.000,714.000,318.000" linewidth="1" pts="480.000,318.000,538.500,318.000,597.000,317.750,597.000,317.500,597.000,317.250,655.500,317.000,714.000,317.000" />
+<picture archetypal_index="5" bbox="8.16,-2.881,719.76,477.6" caption="&#10;+ 1800 UTC special  &#10;DEN raob " combined_sources="['Image114.jpg', 'Image115.244x268.bmp', 'Image117.209x49.bmp', 'Image121.97x34.bmp', 'Image123.243x171.bmp', 'Image125.220x50.bmp', 'Image129.783x807.bmp']" name="combined_0" src="combined_10_0.png" /></page>
+</pages>

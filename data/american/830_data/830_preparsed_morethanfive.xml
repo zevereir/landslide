@@ -1,0 +1,66 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[205.885, 468.616, 511.776, 508.66]" rotate="0">
+<title archetypal_index="0" bbox="161.590,472.365,553.889,508.389" id="0" size="36.024">Gaea - current hardware <textline bbox="161.590,472.365,553.889,508.389" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="36.024">Gaea - current hardware </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.104,409.638,156.146,425.598" id="1" size="15.96">Cray XT6 LC <textline bbox="61.104,409.638,156.146,425.598" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Cray XT6 LC </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="361.390,409.638,551.697,425.598" id="3" size="15.96">Peak performance: 260 TF <textline bbox="361.390,409.638,551.697,425.598" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Peak performance: 260 TF </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="361.390,382.513,664.543,398.497" id="4" size="15.984">14 cabinets in a 2x7 cabinet configuration   <textline bbox="361.390,382.513,664.543,398.497" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.984">14 cabinets in a 2x7 cabinet configuration   </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="150.000,23.040,555.120,192.000" height="168" name="Image56" src="Image56.jpg" width="405">
+</picture>
+<curve bbox="61.087,410.610,156.130,411.450" linewidth="0" pts="61.087,411.450,108.610,411.450,156.130,411.450,156.130,410.610,108.610,410.610,61.087,410.610" />
+<enlisting archetypal_index="5" bbox="61.104,246.388,511.163,398.497">30,912 cores 2,576 Socket G34 AMD 2.1 GHz 12-core  4 eslogin nodes 8 remote data transfer nodes (RDTN) 16 local data transfer nodes (LDTN) <normal_text bbox="61.104,382.513,153.565,398.497" id="2" size="15.984">30,912 cores <textline bbox="61.104,382.513,153.565,398.497" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.984">30,912 cores </textline>
+</normal_text>
+<normal_text bbox="61.104,355.258,355.637,371.218" id="5" size="15.96">2,576 Socket G34 AMD 2.1 GHz 12-core  <textline bbox="61.104,355.258,355.637,371.218" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">2,576 Socket G34 AMD 2.1 GHz 12-core  </textline>
+</normal_text>
+<normal_text bbox="61.104,308.818,173.000,324.778" id="8" size="15.96">4 eslogin nodes <textline bbox="61.104,308.818,173.000,324.778" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">4 eslogin nodes </textline>
+</normal_text>
+<normal_text bbox="61.104,281.698,326.152,297.658" id="9" size="15.96">8 remote data transfer nodes (RDTN) <textline bbox="61.104,281.698,326.152,297.658" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">8 remote data transfer nodes (RDTN) </textline>
+</normal_text>
+<normal_text bbox="61.104,254.428,315.187,270.388" id="10" size="15.96">16 local data transfer nodes (LDTN) <textline bbox="61.104,254.428,315.187,270.388" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">16 local data transfer nodes (LDTN) </textline>
+</normal_text>
+<normal_text bbox="88.104,336.058,266.758,352.018" id="7" size="15.96">Magny-Cours processors <textline bbox="88.104,336.058,266.758,352.018" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Magny-Cours processors </textline>
+</normal_text>
+<normal_text bbox="361.390,246.388,508.138,262.348" id="14" size="15.96">Seastar interconnect <textline bbox="361.390,246.388,508.138,262.348" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Seastar interconnect </textline>
+</normal_text>
+<normal_text bbox="361.390,355.258,445.611,371.218" id="6" size="15.96">Filesystems <textline bbox="361.390,355.258,445.611,371.218" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Filesystems </textline>
+</normal_text>
+<normal_text bbox="388.390,328.018,428.306,343.978" id="11" size="15.96">home <textline bbox="388.390,328.018,428.306,343.978" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">home </textline>
+</normal_text>
+<normal_text bbox="388.390,300.898,470.249,316.858" id="12" size="15.96">fast scratch <textline bbox="388.390,300.898,470.249,316.858" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">fast scratch </textline>
+</normal_text>
+<normal_text bbox="388.390,273.653,511.163,289.637" id="13" size="15.984">long term scratch <textline bbox="388.390,273.653,511.163,289.637" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.984">long term scratch </textline>
+</normal_text>
+</enlisting><picture archetypal_index="6" bbox="16.56,457.32,59.28,527.16" caption="" combined_sources="['Image14.2.131x131.bmp', 'Image16.2.99x99.bmp']" name="combined_0" src="combined_4_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[187.727, 471.4616, 527.3752000000001, 509.88800000000003]" rotate="0">
+<title archetypal_index="0" bbox="160.490,475.730,550.774,511.730" id="0" size="36.0">Gaea &#8211; future hardware  <textline bbox="160.490,475.730,550.774,511.730" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="36.000">Gaea &#8211; future hardware  </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.104,417.368,356.689,433.328" id="1" size="15.96">Cray XE6 LC (Separate System Partition c2) <textline bbox="25.104,417.368,356.689,433.328" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Cray XE6 LC (Separate System Partition c2) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="378.070,390.228,562.720,406.188" id="3" size="15.96">4 additional eslogin nodes <textline bbox="378.070,390.228,562.720,406.188" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">4 additional eslogin nodes </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="378.070,362.988,714.028,378.948" id="5" size="15.96">c1ms will be upgraded to match c2 in Spring of  <textline bbox="378.070,362.988,714.028,378.948" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">c1ms will be upgraded to match c2 in Spring of  </textline>
+</normal_text>
+<slide_number bbox="405.070,343.788,440.584,359.748" id="9" size="15.96">2012 <textline bbox="405.070,343.788,440.584,359.748" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">2012 </textline>
+</slide_number>
+<picture archetypal_index="4" bbox="76.800,22.320,642.000,249.480" height="227" name="Image69" src="Image69.jpg" width="565">
+</picture>
+<curve bbox="25.087,418.340,356.770,419.180" linewidth="0" pts="25.087,419.180,108.010,419.180,190.930,419.180,273.850,419.180,356.770,419.180,356.770,418.340,273.850,418.340,190.930,418.340,108.010,418.340,25.087,418.340" />
+<enlisting archetypal_index="5" bbox="25.104,281.383,697.063,406.188">* NOTE &#8211; c2 will not bit wise reproduce with  78,336 additional compute cores (2,448 nodes) 32 cores / node 4,896 AMD Interlagos processors 26 cabinets cabinets <normal_text bbox="25.104,297.348,697.063,332.508" id="11" size="15.96">* NOTE &#8211; c2 will not bit wise reproduce with  <textline bbox="378.070,316.548,697.063,332.508" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">* NOTE &#8211; c2 will not bit wise reproduce with  </textline>
+<normal_text bbox="25.104,308.628,354.758,324.588" id="7" size="15.96">Gemini High Speed Interconnect Infrastructure <textline bbox="25.104,308.628,354.758,324.588" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">Gemini High Speed Interconnect Infrastructure </textline>
+</normal_text>
+<normal_text bbox="405.070,297.348,443.278,313.308" id="10" size="15.96">c1ms <textline bbox="405.070,297.348,443.278,313.308" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">c1ms </textline>
+</normal_text>
+</normal_text>
+<normal_text bbox="25.104,281.383,359.29,406.188">78,336 additional compute cores (2,448 nodes) 32 cores / node 4,896 AMD Interlagos processors 26 cabinets cabinets <normal_text bbox="25.104,390.228,359.290,406.188" id="2" size="15.96">78,336 additional compute cores (2,448 nodes) <textline bbox="25.104,390.228,359.290,406.188" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">78,336 additional compute cores (2,448 nodes) </textline>
+</normal_text>
+<normal_text bbox="52.104,362.988,162.435,378.948" id="4" size="15.96">32 cores / node <textline bbox="52.104,362.988,162.435,378.948" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">32 cores / node </textline>
+</normal_text>
+<normal_text bbox="25.104,335.748,262.558,351.708" id="6" size="15.96">4,896 AMD Interlagos processors <textline bbox="25.104,335.748,262.558,351.708" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.960">4,896 AMD Interlagos processors </textline>
+</normal_text>
+<normal_text bbox="25.104,281.383,170.936,297.367" id="8" size="15.984">26 cabinets cabinets <textline bbox="25.104,281.383,170.936,297.367" colourspace="Pattern" font="ArialMT" ncolour="(0.0549, 0.224, 0.361)" size="15.984">26 cabinets cabinets </textline>
+</normal_text>
+</normal_text></enlisting><picture archetypal_index="6" bbox="16.56,457.32,59.28,527.16" caption="" combined_sources="['Image14.3.131x131.bmp', 'Image16.3.99x99.bmp']" name="combined_0" src="combined_5_0.png" /></page>
+</pages>

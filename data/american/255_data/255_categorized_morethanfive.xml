@@ -1,0 +1,58 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[57.208000000000006, 481.078, 608.0166666666668, 520.2669999999999]" rotate="0">
+<title archetypal_index="0" bbox="51.456,490.683,581.109,518.667" id="0" size="27.984">CLARREO Crossing Below Aqua 700km <textline bbox="51.456,490.683,581.109,518.667" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="27.984">CLARREO Crossing Below Aqua 700km </textline>
+</title>
+<normal_text archetypal_index="1" bbox="16.488,98.600,253.008,116.600" id="2" size="18.0">CLARREO 100 km nadir fov <textline bbox="16.488,98.600,253.008,116.600" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="18.000">CLARREO 100 km nadir fov </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="612.480,93.777,690.620,128.933" id="3" size="15.96">D. Garber  
+LaRC, 7/07 <textline bbox="612.480,112.973,686.167,128.933" colourspace="Pattern" font="BCDEEE+Times,Bold" ncolour="0" size="15.960">D. Garber  </textline>
+<textline bbox="612.480,93.777,690.620,109.737" colourspace="Pattern" font="BCDEEE+Times,Bold" ncolour="0" size="15.960">LaRC, 7/07 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="21.120,6.251,665.114,50.296" id="4" size="20.052">Time to Achieve Viewing Angle Matches:  
+40 seconds per 100km orbit altitude Difference: 140 seconds above  <textline bbox="21.120,30.256,411.820,50.296" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="0" size="20.040">Time to Achieve Viewing Angle Matches:  </textline>
+<textline bbox="21.120,6.251,665.114,26.315" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="0" size="20.064">40 seconds per 100km orbit altitude Difference: 140 seconds above  </textline>
+</normal_text>
+<background archetypal_index="4" bbox="0.000,-0.120,720.000,540.000" height="540" name="Image84" src="Image84.jpg" width="720">
+</background>
+<picture archetypal_index="5" bbox="34.080,470.820,600.660,532.800" caption="Aqua MODIS, &#10;CERES, or AIRS &#10;Crosstrack Scan  " height="61" name="Image85" src="Image85.1574x173.bmp" width="566">
+</picture>
+<picture archetypal_index="6" bbox="5.160,85.621,264.900,125.880" height="40" name="Image87" src="Image87.722x112.bmp" width="259">
+</picture>
+<curve bbox="262.170,112.300,342.000,198.000" linewidth="0" pts="265.830,112.300,335.330,187.140,331.660,190.540,262.170,115.700,337.290,181.900,342.000,198.000,326.300,192.110" />
+<curve bbox="124.320,336.000,192.000,397.850" linewidth="0" pts="127.680,397.850,184.430,346.260,181.070,342.560,124.320,394.150,185.950,351.640,192.000,336.000,175.860,340.540" />
+<picture archetypal_index="7" bbox="8.52,-1.139,679.02,60.6" caption="" combined_sources="['Image95.1159x125.bmp', 'Image99.1863x105.bmp']" name="combined_0" src="combined_3_0.png" /><picture archetypal_index="8" bbox="602.28,82.26,701.94,137.28" caption="" combined_sources="['Image101.265x100.bmp', 'Image105.277x100.bmp']" name="combined_1" src="combined_3_1.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[91.84942857142858, 466.6278214285715, 623.991, 517.4185714285715]" rotate="0">
+<title archetypal_index="0" bbox="113.400,455.868,603.091,517.467" id="0" size="27.972">74 degree Inclination/600 km Orbit 
+6 months of Equator Crossing Times <textline bbox="130.200,489.483,586.423,517.467" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984">74 degree Inclination/600 km Orbit </textline>
+<textline bbox="113.400,455.868,603.091,483.828" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960">6 months of Equator Crossing Times </textline>
+</title>
+<normal_text archetypal_index="1" bbox="498.720,342.302,693.048,410.372" id="1" size="20.048">Solar zenith angle in 
+color (blue high sun 
+to red low sun) <textline bbox="498.720,390.332,693.048,410.372" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">Solar zenith angle in </textline>
+<textline bbox="498.720,366.327,689.789,386.391" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064">color (blue high sun </textline>
+<textline bbox="498.720,342.302,640.703,362.342" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">to red low sun) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="498.720,246.297,687.161,314.342" id="2" size="20.048">This orbit samples  
+the equator at local 
+noon 6 times per yr. <textline bbox="498.720,294.302,680.884,314.342" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">This orbit samples  </textline>
+<textline bbox="498.720,270.302,681.966,290.342" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">the equator at local </textline>
+<textline bbox="498.720,246.297,687.161,266.361" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064">noon 6 times per yr. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="498.720,126.277,697.737,218.322" id="3" size="20.046">Nominal CLARREO 
+90 degree inclination 
+orbit does this twice 
+per year.  <textline bbox="498.720,198.282,682.326,218.322" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">Nominal CLARREO </textline>
+<textline bbox="498.720,174.282,697.737,194.322" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">90 degree inclination </textline>
+<textline bbox="498.720,150.282,692.146,170.322" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">orbit does this twice </textline>
+<textline bbox="498.720,126.277,586.299,146.341" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064">per year.  </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="498.720,30.256,723.008,98.296" id="4" size="20.04">Inclination is max 
+latitude seen at nadir, 
+add 10 deg lat off nadir  <textline bbox="498.720,78.256,666.395,98.296" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">Inclination is max </textline>
+<textline bbox="498.720,54.256,702.968,74.296" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">latitude seen at nadir, </textline>
+<textline bbox="498.720,30.256,723.008,50.296" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040">add 10 deg lat off nadir  </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="24.000,23.520,498.000,438.000" height="414" name="Image176" src="Image176.jpg" width="474">
+</picture>
+</page>
+</pages>

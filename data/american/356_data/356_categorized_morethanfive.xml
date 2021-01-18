@@ -1,0 +1,611 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[85.86742857142858, 449.971, 635.8603809523809, 498.3115714285714]" rotate="0">
+<title archetypal_index="0" bbox="37.200,457.540,685.399,510.379" id="0" size="24.012">CIPOLLO: Caenorhabditis elegans as a Surrogate Model  
+for  Glycan Dependent Host Infection <textline bbox="37.200,486.355,685.399,510.379">CIPOLLO: Caenorhabditis elegans as a Surrogate Model  <text bbox="37.200,486.355,54.545,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">C</text>
+<text bbox="54.545,486.355,61.224,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">I</text>
+<text bbox="61.224,486.355,77.248,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">P</text>
+<text bbox="77.152,486.355,95.843,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">O</text>
+<text bbox="95.843,486.355,110.521,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">L</text>
+<text bbox="110.521,486.355,125.200,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">L</text>
+<text bbox="125.200,486.355,143.891,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">O</text>
+<text bbox="143.891,486.355,151.891,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">:</text>
+<text bbox="151.891,486.355,158.569,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="158.300,486.355,175.645,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">C</text>
+<text bbox="175.645,486.355,189.003,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="188.907,486.355,202.264,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text bbox="202.264,486.355,216.943,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">n</text>
+<text bbox="216.871,486.355,231.549,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text bbox="231.549,486.355,240.895,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text bbox="240.895,486.355,255.573,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">h</text>
+<text bbox="255.573,486.355,268.931,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="268.834,486.355,283.513,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">b</text>
+<text bbox="283.513,486.355,298.192,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">d</text>
+<text bbox="298.120,486.355,304.798,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text bbox="304.798,486.355,312.798,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text bbox="312.846,486.355,319.525,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text bbox="319.525,486.355,332.882,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">s</text>
+<text bbox="332.882,486.355,339.561,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="339.561,486.355,352.918,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text bbox="352.918,486.355,359.597,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text bbox="359.597,486.355,372.954,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text bbox="372.954,486.355,387.633,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">g</text>
+<text bbox="387.633,486.355,400.990,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="400.990,486.355,415.669,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">n</text>
+<text bbox="415.573,486.355,428.930,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024">s</text>
+<text bbox="428.930,486.355,435.609,510.379" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="435.670,486.355,449.027,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="449.027,486.355,462.385,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">s</text>
+<text bbox="462.385,486.355,469.063,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="469.063,486.355,482.421,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="482.421,486.355,489.099,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="489.099,486.355,505.123,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">S</text>
+<text bbox="505.123,486.355,519.802,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">u</text>
+<text bbox="519.802,486.355,529.147,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text bbox="529.147,486.355,538.493,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text bbox="538.493,486.355,553.171,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text bbox="553.171,486.355,567.850,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">g</text>
+<text bbox="567.850,486.355,581.207,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text bbox="581.207,486.355,589.207,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text bbox="589.207,486.355,602.565,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text bbox="602.565,486.355,609.243,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text bbox="609.243,486.355,629.255,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">M</text>
+<text bbox="629.327,486.355,644.006,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text bbox="644.006,486.355,658.685,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">d</text>
+<text bbox="658.685,486.355,672.042,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text bbox="672.042,486.355,678.721,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text bbox="678.721,486.355,685.399,510.379" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+</textline>
+<textline bbox="37.200,457.540,459.792,481.540" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.4)" size="24.000">for  Glycan Dependent Host Infection </textline>
+</title>
+<normal_text archetypal_index="1" bbox="7.200,208.228,692.061,279.705" id="4" size="18.968">Over 40 microbes infect C. elegans: most of which are human pathogens or their  
+close relatives. 
+&#9642; Infectious agents requiring host glycoconjugates to infect C. elegans : <textline bbox="7.200,260.683,692.061,279.705">Over 40 microbes infect C. elegans: most of which are human pathogens or their  <text bbox="7.200,260.683,21.970,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">O</text>
+<text bbox="21.970,260.683,31.462,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">v</text>
+<text bbox="31.462,260.683,42.017,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="42.017,260.683,48.338,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="48.338,260.683,53.616,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="53.616,260.683,64.171,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">4</text>
+<text bbox="64.171,260.683,74.726,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">0</text>
+<text bbox="74.726,260.683,80.004,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="80.137,260.683,95.950,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">m</text>
+<text bbox="95.950,260.683,100.165,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="100.165,260.683,109.657,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">c</text>
+<text bbox="109.657,260.683,115.978,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="115.978,260.683,126.533,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="126.533,260.683,137.089,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">b</text>
+<text bbox="137.089,260.683,147.644,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="147.644,260.683,157.136,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">s</text>
+<text bbox="157.136,260.683,162.413,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="162.793,260.683,167.007,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="167.007,260.683,177.562,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="177.562,260.683,182.840,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">f</text>
+<text bbox="182.840,260.683,193.395,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="193.395,260.683,202.887,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">c</text>
+<text bbox="202.887,260.683,208.165,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="208.165,260.683,213.442,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="213.650,260.721,227.356,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">C</text>
+<text bbox="227.356,260.721,232.634,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">.</text>
+<text bbox="232.634,260.721,237.912,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="237.912,260.721,248.467,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="248.467,260.721,252.681,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">l</text>
+<text bbox="252.681,260.721,263.236,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="263.236,260.721,273.791,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">g</text>
+<text bbox="273.791,260.721,284.346,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="284.346,260.721,294.902,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="294.902,260.721,304.394,279.705" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">s</text>
+<text bbox="304.370,260.683,309.648,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">:</text>
+<text bbox="309.648,260.683,314.925,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="315.267,260.683,331.080,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">m</text>
+<text bbox="331.080,260.683,341.636,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="341.636,260.683,351.128,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">s</text>
+<text bbox="351.128,260.683,356.405,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="356.405,260.683,361.683,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="361.683,260.683,372.238,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="372.238,260.683,377.515,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">f</text>
+<text bbox="377.515,260.683,382.793,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="382.793,260.683,396.499,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">w</text>
+<text bbox="396.385,260.683,406.941,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="406.941,260.683,411.155,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="411.155,260.683,420.647,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">c</text>
+<text bbox="420.647,260.683,431.202,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="431.202,260.683,436.480,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="436.802,260.683,447.357,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="447.357,260.683,453.679,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="453.679,260.683,464.234,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="464.234,260.683,469.512,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="469.664,260.683,480.219,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="480.219,260.683,490.774,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">u</text>
+<text bbox="490.774,260.683,506.588,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">m</text>
+<text bbox="506.588,260.683,517.143,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="517.143,260.683,527.698,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="527.698,260.683,532.975,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="533.241,260.683,543.796,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">p</text>
+<text bbox="543.796,260.683,554.351,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="554.351,260.683,559.629,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="559.629,260.683,570.184,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="570.184,260.683,580.739,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="580.739,260.683,591.294,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">g</text>
+<text bbox="591.294,260.683,601.849,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="601.849,260.683,612.404,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="612.404,260.683,621.896,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">s</text>
+<text bbox="621.896,260.683,627.174,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="627.668,260.683,638.223,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="638.223,260.683,644.544,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="644.544,260.683,649.822,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="649.822,260.683,655.099,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="655.099,260.683,665.655,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="665.655,260.683,676.210,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="676.248,260.683,680.462,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="680.462,260.683,686.784,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="686.784,260.683,692.061,279.667" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+</textline>
+<textline bbox="7.200,234.508,132.886,253.468" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">close relatives. </textline>
+<textline bbox="7.200,208.228,606.951,227.283">&#9642; Infectious agents requiring host glycoconjugates to infect C. elegans : <text bbox="7.200,208.323,15.884,227.283" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="21.240,208.228,26.511,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">I</text>
+<text bbox="26.511,208.228,37.053,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="37.053,208.228,42.324,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">f</text>
+<text bbox="42.324,208.228,52.865,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="52.865,208.228,62.345,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="62.345,208.228,67.616,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="67.654,208.228,71.863,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="71.863,208.228,82.405,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="82.405,208.228,92.947,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="92.947,208.228,102.427,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="102.427,208.228,107.698,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="107.963,208.228,118.505,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="118.505,208.228,129.047,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="129.047,208.228,139.588,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="139.588,208.228,150.130,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="150.187,208.228,155.458,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="155.458,208.228,164.938,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="164.938,208.228,170.209,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="170.455,208.228,176.769,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="176.769,208.228,187.311,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="187.349,208.228,197.890,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">q</text>
+<text bbox="197.890,208.228,208.432,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="208.432,208.228,212.641,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="212.641,208.228,218.955,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="219.012,208.228,223.221,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="223.221,208.228,233.763,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="233.763,208.228,244.304,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="244.304,208.228,249.575,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="249.954,208.228,260.496,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">h</text>
+<text bbox="260.496,208.228,271.038,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="271.038,208.228,280.518,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="280.518,208.228,285.789,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="285.789,208.228,291.060,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="291.211,208.228,301.753,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="301.753,208.228,305.962,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="305.962,208.228,315.442,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="315.442,208.228,324.922,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="324.922,208.228,335.464,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="335.464,208.228,344.944,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="344.944,208.228,355.486,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="355.486,208.228,366.028,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="366.066,208.228,370.275,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">j</text>
+<text bbox="370.275,208.228,380.816,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="380.816,208.228,391.358,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="391.358,208.228,401.900,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="401.900,208.228,407.171,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="407.171,208.228,417.713,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="417.769,208.228,427.249,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="427.249,208.228,432.520,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="433.108,208.228,438.379,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="438.379,208.228,448.921,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="448.921,208.228,454.192,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="454.192,208.228,458.401,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="458.401,208.228,468.942,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="468.942,208.228,474.213,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">f</text>
+<text bbox="474.213,208.228,484.755,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="484.812,208.228,494.292,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="494.292,208.228,499.563,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="499.563,208.228,504.834,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="505.300,208.266,518.989,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">C</text>
+<text bbox="518.989,208.266,524.260,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">.</text>
+<text bbox="524.260,208.266,529.531,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="529.531,208.266,540.073,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="540.073,208.266,544.282,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="544.282,208.266,554.824,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="554.824,208.266,565.365,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="565.365,208.266,575.907,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="575.964,208.266,586.506,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="586.506,208.266,595.986,227.226" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="601.680,208.228,606.951,227.188" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">:</text>
+</textline>
+</normal_text>
+<curvetext bbox="65.784,129.623,342.160,148.645" id="6" size="18.984">lethal infection. &#8216;bre&#8217; gene family  <textline bbox="65.784,129.623,342.160,148.645">lethal infection. &#8216;bre&#8217; gene family  <text bbox="65.784,129.623,69.998,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">l</text>
+<text bbox="69.998,129.623,80.554,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="80.554,129.623,85.831,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="85.831,129.623,96.386,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">h</text>
+<text bbox="96.386,129.623,106.941,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="106.941,129.623,111.156,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">l</text>
+<text bbox="111.156,129.623,116.433,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="116.642,129.623,120.857,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="120.857,129.623,131.412,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="131.412,129.623,136.689,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">f</text>
+<text bbox="136.689,129.623,147.244,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="147.244,129.623,156.736,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">c</text>
+<text bbox="156.736,129.623,162.014,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">t</text>
+<text bbox="162.014,129.623,166.228,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="166.228,129.623,176.783,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">o</text>
+<text bbox="176.783,129.623,187.339,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="187.339,129.623,192.616,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">.</text>
+<text bbox="192.616,129.623,197.894,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="198.102,129.623,202.317,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">&#8216;</text>
+<text bbox="202.370,129.661,212.925,148.645" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">b</text>
+<text bbox="212.925,129.661,219.247,148.645" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">r</text>
+<text bbox="219.247,129.661,229.802,148.645" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="229.802,129.661,234.016,148.645" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.984">&#8217;</text>
+<text bbox="239.570,129.623,250.125,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">g</text>
+<text bbox="250.125,129.623,260.680,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="260.680,129.623,271.235,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">n</text>
+<text bbox="271.235,129.623,281.790,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">e</text>
+<text bbox="281.790,129.623,287.068,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+<text bbox="287.315,129.623,292.592,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">f</text>
+<text bbox="292.592,129.623,303.147,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">a</text>
+<text bbox="303.147,129.623,318.961,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">m</text>
+<text bbox="318.961,129.623,323.176,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">i</text>
+<text bbox="323.176,129.623,327.390,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">l</text>
+<text bbox="327.390,129.623,336.882,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984">y</text>
+<text bbox="336.882,129.623,342.160,148.607" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.984"> </text>
+</textline>
+</curvetext>
+<curvetext bbox="65.784,77.162,107.970,96.122" id="8" size="18.96">core  <textline bbox="65.784,77.162,107.970,96.122" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">core  </textline>
+</curvetext>
+<curve bbox="0.000,17.760,314.400,264.000" linewidth="0" pts="78.006,41.759,93.007,55.384,104.260,60.633,106.510,89.007,104.260,110.880,109.510,117.630,112.630,105.510,122.380,92.757,139.510,74.133,153.890,61.383,169.140,60.008,183.890,52.384,208.020,56.633,227.390,54.259,246.890,60.008,236.640,74.883,240.020,90.882,234.270,103.380,233.140,122.880,222.890,143.130,190.890,152.630,161.140,154.880,174.140,166.380,193.640,170.880,202.520,171.750,219.140,172.500,241.640,174.000,263.400,186.750,278.400,199.500,297.150,209.250,314.400,221.880,302.520,221.130,273.900,221.130,259.650,222.630,256.650,226.380,243.890,226.380,224.390,231.630,205.640,227.880,180.890,217.500,162.140,213.000,144.140,212.250,163.510,221.880,183.140,239.250,181.640,243.000,183.140,251.250,184.640,259.500,181.640,264.000,177.140,261.000,169.510,258.750,148.640,251.250,137.260,246.000,128.260,246.000,123.880,243.000,111.130,222.630,106.510,213.000,90.757,204.000,81.131,196.500,80.381,196.500,79.631,197.250,75.006,199.500,70.506,202.500,69.005,203.250,67.505,204.750,66.005,206.250,63.005,208.500,59.255,210.750,55.504,213.000,51.879,215.250,48.129,217.500,45.754,218.250,45.004,219.000,24.002,234.750,26.252,225.630,71.256,193.500,69.756,186.750,55.504,172.500,40.503,165.630,39.753,165.630,32.253,162.630,15.876,157.380,0.000,151.380,0.000,118.380,9.751,120.630,46.504,137.130,42.003,124.380,27.752,106.260,18.126,82.382,17.376,81.632,16.626,80.883,12.751,77.133,11.251,75.633,10.501,74.133,10.501,72.633,12.001,71.883,14.251,70.383,15.876,68.133,17.376,64.383,18.126,59.883,18.751,56.133,19.502,52.384,20.252,49.384,20.252,48.634,27.002,39.509,27.002,38.759,27.752,37.259,28.502,32.759,29.252,28.260,30.002,26.010,30.002,24.510,30.752,23.760,31.503,22.260,32.253,17.760,54.754,17.760,57.755,23.760,78.006,41.759,78.006,41.759" />
+<curve bbox="0.000,27.480,264.000,228.000" linewidth="0" pts="72.124,104.680,67.648,147.250,83.316,181.300,115.270,158.600,150.960,125.260,184.410,96.882,223.830,67.206,234.160,60.821,228.310,67.915,175.460,109.650,135.300,147.250,89.907,189.100,124.230,191.230,159.920,190.520,200.700,196.200,264.000,204.710,258.030,207.550,191.880,197.610,150.220,195.490,94.383,197.610,101.840,201.160,142.010,228.000,135.300,224.450,125.600,218.070,106.320,205.420,83.316,194.780,78.839,185.560,37.927,158.600,0.000,142.280,0.000,141.570,0.000,137.320,37.181,152.920,73.617,177.040,63.171,148.670,65.409,110.360,57.202,89.906,40.912,53.018,40.166,27.480,40.912,27.480,43.150,44.505,72.124,104.680,72.124,104.680" />
+<curve bbox="261.480,18.000,720.000,135.840" linewidth="0" pts="696.750,98.351,678.750,99.851,676.500,102.850,660.750,103.600,638.870,108.850,613.500,106.600,578.120,99.851,552.740,97.601,530.120,96.852,557.990,103.600,589.490,116.350,589.490,119.340,594.740,126.090,599.870,132.840,598.370,135.840,591.740,134.340,581.120,132.090,575.870,129.090,564.620,125.340,551.990,127.590,535.370,124.590,524.120,124.590,517.370,122.340,493.370,107.350,482.860,99.851,460.360,93.728,444.610,88.479,443.860,88.479,443.110,89.229,438.610,90.728,434.110,92.978,431.860,94.477,431.110,95.352,429.490,96.852,426.490,98.351,422.740,99.851,418.990,102.100,415.240,104.350,409.860,107.470,401.360,107.470,431.110,86.230,426.490,81.106,403.360,70.609,381.490,66.111,346.980,60.862,320.730,57.113,310.230,50.365,277.980,38.244,261.480,32.246,290.730,29.996,323.730,32.246,377.110,43.492,366.480,33.745,341.110,20.249,338.110,18.000,437.110,18.000,437.860,20.249,442.360,18.000,627.000,18.000,622.500,28.497,600.620,38.994,584.240,47.366,553.490,56.364,548.870,60.113,575.120,63.112,587.240,62.362,608.120,62.362,636.620,63.112,668.870,71.359,693.000,81.106,720.000,86.980,720.000,96.852,696.750,98.351,696.750,98.351" />
+<curve bbox="0.000,325.080,121.680,474.480" linewidth="0" pts="40.560,325.830,61.531,325.080,72.832,330.340,102.090,338.490,117.160,342.250,95.310,350.520,69.818,355.040,24.738,352.780,37.546,362.560,62.284,373.840,87.147,390.380,87.901,390.380,89.408,391.130,94.556,393.390,97.570,394.140,99.077,395.640,99.830,397.150,99.077,397.900,98.323,399.400,98.323,402.410,99.830,406.170,101.340,409.930,103.600,413.690,105.100,417.450,105.860,419.710,106.610,420.460,106.610,430.990,106.610,431.740,107.360,432.490,109.630,436.250,111.130,440.760,112.640,444.520,113.390,446.030,114.150,447.530,116.410,452.800,118.670,457.310,119.420,458.810,119.420,459.570,121.680,474.480,118.670,468.590,98.323,460.320,88.654,454.300,57.763,445.280,35.286,438.510,21.724,437.760,1.507,413.690,0.000,410.680,0.000,325.830,12.055,326.580,40.560,325.830,40.560,325.830" />
+<curve bbox="398.520,256.680,719.760,539.880" linewidth="0" pts="493.020,482.020,505.890,463.390,515.640,449.900,534.390,433.270,536.640,426.530,518.640,425.780,510.390,427.270,496.770,429.520,478.140,432.520,454.770,423.530,436.770,412.280,417.270,405.530,398.520,395.780,408.270,394.280,431.520,387.410,443.640,382.910,444.390,377.660,454.020,375.410,468.270,364.910,485.640,364.910,510.390,371.660,526.770,371.660,541.890,370.160,522.390,363.410,499.020,347.660,499.020,343.160,493.770,334.290,489.270,325.170,490.020,320.670,494.520,322.170,502.140,323.670,506.640,328.290,514.140,332.040,522.390,327.540,534.390,330.540,540.390,336.540,541.890,329.040,546.390,331.290,565.140,350.660,573.390,360.410,589.260,367.160,600.390,373.160,601.890,371.660,604.140,368.660,607.140,364.910,608.640,361.160,609.390,358.910,610.890,356.660,614.640,349.910,616.890,346.160,619.260,343.160,620.010,341.670,620.760,340.920,664.010,258.930,675.390,256.680,610.140,374.660,613.890,382.160,631.140,394.280,647.010,398.780,670.140,402.530,688.260,405.530,697.260,413.780,719.760,428.020,719.760,439.270,713.010,441.520,691.260,442.270,653.760,431.020,662.760,444.520,681.510,461.890,699.510,485.760,700.260,485.760,701.760,487.260,705.510,490.260,707.760,492.510,709.260,494.010,710.010,495.510,709.260,496.260,707.760,497.760,707.760,501.510,707.760,506.010,708.510,511.390,710.010,515.880,710.760,520.380,711.510,523.380,711.510,524.130,710.010,535.380,710.010,535.380,710.010,536.880,710.760,539.880,661.260,539.880,649.260,532.380,637.140,528.630,624.510,497.760,616.890,473.020,609.390,466.390,612.390,481.270,609.390,497.010,602.640,521.880,596.640,538.380,595.890,539.880,496.770,539.880,490.770,516.630,493.020,482.020,493.020,482.020" />
+<curve bbox="440.640,351.360,713.760,539.880" linewidth="0" pts="570.420,443.800,590.000,385.180,560.630,390.440,531.390,398.710,496.120,400.960,440.640,404.720,444.410,400.210,502.900,397.960,538.160,391.190,582.470,376.910,574.940,374.660,529.880,351.360,536.660,354.370,548.710,359.630,568.920,370.150,593.010,377.670,599.670,386.680,645.480,409.230,683.010,420.500,713.760,437.040,686.770,425.770,648.490,416.000,608.700,395.700,629.040,426.520,643.970,471.610,659.040,493.280,689.030,532.360,692.050,539.880,688.280,539.880,640.960,479.750,626.030,428.770,598.160,392.700,582.470,426.520,567.410,472.240,551.720,512.070,539.670,539.880,535.150,539.880,553.980,495.540,570.420,443.800,570.420,443.800" />
+<curve bbox="0.000,358.080,102.000,458.880" linewidth="0" pts="20.199,388.170,41.277,403.970,81.048,431.800,102.000,458.880,84.812,440.070,18.066,395.690,0.000,367.110,0.000,358.080,20.199,388.170,20.199,388.170" />
+<curve bbox="0.000,333.480,95.280,346.920" linewidth="0" pts="57.745,338.630,95.280,346.920,62.265,342.400,17.324,340.890,0.000,337.120,0.000,333.480,12.051,335.740,57.745,338.630,57.745,338.630" />
+<curve bbox="289.200,18.000,687.000,111.120" linewidth="0" pts="463.310,81.166,506.870,81.918,551.180,79.662,603.650,81.918,687.000,85.553,680.220,87.809,593.230,83.422,540.630,83.422,472.350,87.809,482.890,90.065,545.150,111.120,535.360,108.110,519.670,102.850,490.300,93.825,457.280,86.305,448.370,79.662,385.230,59.359,331.250,48.079,289.200,33.792,326.730,43.567,381.460,54.847,437.070,72.142,412.340,49.583,398.030,18.000,397.280,18.000,406.320,18.000,417.490,48.831,452.010,75.902,481.380,54.847,511.390,26.272,521.930,18.000,530.090,18.000,501.590,45.071,463.310,81.166,463.310,81.166" />
+<curve bbox="0.000,0.000,720.000,36.000" linewidth="0" pts="720.000,0.000,0.000,0.000,0.000,36.000,720.000,36.000,720.000,0.000,720.000,0.000" />
+<curve bbox="0.000,-6.000,720.000,36.000" linewidth="0" pts="720.000,-6.000,0.000,-6.000,0.000,36.000,720.000,36.000,720.000,-6.000,720.000,-6.000" />
+<curve bbox="0.000,504.000,720.000,540.000" linewidth="0" pts="720.000,504.000,0.000,504.000,0.000,540.000,720.000,540.000,720.000,504.000,720.000,504.000" />
+<curve bbox="63.600,258.360,462.120,511.320" linewidth="0" pts="171.730,332.720,172.480,333.470,174.730,334.970,176.980,337.220,180.730,340.220,187.480,346.350,190.480,347.720,192.730,349.220,195.730,351.470,199.360,355.220,202.480,358.220,203.980,358.970,203.980,359.720,195.730,367.220,185.980,379.970,173.230,383.720,149.230,394.960,145.480,397.960,153.730,401.840,145.480,405.590,140.100,414.590,143.980,422.830,138.600,428.830,132.600,431.080,129.600,437.080,127.350,440.080,132.600,442.330,143.230,440.830,153.730,439.330,158.980,440.080,179.980,424.330,199.980,405.090,197.730,425.710,189.730,440.580,181.730,462.200,195.360,478.200,205.730,505.700,219.730,511.320,230.860,494.200,246.860,474.830,251.360,459.950,247.980,442.830,231.980,415.340,259.480,432.580,274.490,453.580,287.990,465.700,306.110,481.450,344.240,492.570,375.870,494.070,390.870,488.820,415.490,494.070,444.870,492.570,460.620,490.320,456.120,485.070,453.120,487.320,437.370,485.070,426.870,478.450,417.870,464.200,409.620,444.580,401.370,430.330,405.870,420.580,386.370,407.840,369.120,397.210,342.860,385.210,325.610,378.470,308.990,376.970,317.990,371.720,345.740,372.470,381.740,369.470,388.620,360.470,404.370,348.470,425.370,331.220,436.620,327.470,453.870,316.980,462.120,318.480,442.620,313.230,441.870,313.230,439.620,312.480,436.620,312.480,433.620,311.730,426.870,310.980,423.870,310.230,421.620,310.230,419.370,310.230,417.120,310.230,410.370,309.480,407.370,309.480,404.370,308.730,402.870,308.730,402.120,308.730,389.370,304.230,387.870,304.230,384.740,304.230,380.240,303.480,374.370,302.730,369.120,301.980,364.620,301.230,360.860,300.480,359.360,298.980,358.610,298.230,356.360,298.230,351.740,300.480,347.990,302.730,346.490,303.480,345.740,304.230,315.740,313.230,294.110,325.220,277.490,329.720,295.610,299.730,298.610,280.860,295.610,262.110,284.990,271.110,265.610,286.980,254.980,292.230,248.980,307.230,239.980,326.720,233.360,338.720,215.980,349.970,206.980,351.470,79.476,260.610,63.600,258.360,171.730,332.720,171.730,332.720" />
+<curve bbox="168.000,279.960,435.960,503.400" linewidth="0" pts="207.740,368.610,195.120,387.370,180.750,402.370,172.500,410.620,168.000,415.870,201.740,383.620,204.740,377.610,213.870,419.630,215.370,452.010,211.370,488.650,217.120,503.400,217.620,458.760,220.620,427.250,216.120,400.120,216.120,373.860,277.610,405.370,331.600,434.000,393.220,472.270,429.960,494.770,394.720,468.510,349.600,440.760,308.350,415.870,260.360,391.120,225.870,367.860,270.110,354.230,328.600,354.980,407.460,328.850,435.960,325.850,394.720,327.350,347.350,342.350,320.350,349.730,267.860,350.480,231.120,360.230,259.610,331.100,277.610,300.970,294.110,279.960,270.110,302.470,252.110,331.850,219.870,364.730,207.740,368.610,207.740,368.610" />
+<curve bbox="366.480,28.200,720.000,324.000" linewidth="0" pts="617.240,219.610,600.620,234.610,593.240,248.240,584.870,269.240,578.870,284.990,568.370,292.490,548.120,313.500,538.360,324.000,534.610,307.500,537.610,287.240,555.620,254.240,539.110,262.490,516.610,278.990,486.610,295.620,485.860,296.370,485.110,297.120,480.610,300.870,476.110,303.870,473.860,304.500,473.110,303.870,471.610,303.120,467.740,302.370,462.490,303.120,456.490,303.870,451.230,304.500,446.110,305.250,443.110,306.000,441.610,306.000,428.730,303.870,427.980,303.870,426.480,304.500,423.480,304.500,420.480,305.250,413.860,306.000,411.610,306.750,409.230,306.750,406.980,306.750,403.980,307.500,397.230,308.250,393.480,309.000,390.480,309.000,388.230,309.750,387.480,309.750,367.230,309.000,393.480,293.990,404.730,287.240,426.480,266.240,442.360,250.490,448.360,239.990,485.110,227.860,513.610,221.860,522.610,215.110,506.110,217.360,487.990,215.110,460.990,209.110,443.860,203.850,427.980,185.100,418.980,172.220,409.980,155.850,400.980,143.840,390.480,140.090,374.730,140.840,371.730,143.840,366.480,140.090,382.230,134.090,412.360,125.840,437.730,125.090,452.730,115.960,485.110,109.960,523.990,112.210,542.860,123.590,556.370,131.840,572.120,149.100,578.870,150.600,583.370,134.840,582.620,128.090,581.870,115.210,581.870,98.712,595.370,78.459,611.120,62.706,621.740,45.328,635.870,28.200,636.620,37.077,640.370,57.330,643.370,67.957,648.750,68.707,650.250,77.708,659.250,90.461,657.000,105.460,645.620,127.340,642.620,142.340,642.620,155.850,653.250,138.590,674.120,117.590,679.500,117.590,690.000,112.960,701.250,109.210,706.500,109.960,703.370,113.710,701.250,120.590,695.250,124.340,690.000,131.090,693.750,138.590,688.500,149.100,680.250,154.350,688.500,155.100,685.500,159.600,660.750,175.980,648.000,183.600,638.120,197.850,629.240,207.610,629.990,207.610,630.740,208.360,633.620,210.610,637.370,213.610,641.120,214.360,643.370,215.110,646.500,216.610,654.000,220.360,657.000,221.860,660.000,224.110,662.250,224.860,663.000,225.610,720.000,250.490,720.000,257.990,626.240,215.860,617.240,219.610,617.240,219.610" />
+<curve bbox="395.040,65.760,665.280,307.440" linewidth="0" pts="626.240,200.880,638.170,179.840,652.480,161.180,660.760,151.410,665.280,145.400,632.140,185.100,628.500,191.110,618.710,152.160,617.210,121.360,623.230,68.765,619.470,65.760,614.190,115.350,611.930,146.150,616.450,171.570,617.210,197.870,554.200,181.340,498.590,165.690,435.580,143.150,397.300,129.620,434.080,146.900,480.640,164.190,523.320,177.580,572.150,191.110,607.420,205.380,562.360,229.430,503.110,242.950,423.530,287.280,395.040,297.050,436.340,285.030,484.410,259.480,512.150,245.960,564.610,233.180,602.140,214.400,573.650,249.710,556.460,283.520,539.890,307.440,563.110,280.520,581.940,246.710,614.190,206.890,626.240,200.880,626.240,200.880" />
+<picture archetypal_index="2" bbox="24.000,306.480,168.000,432.000" height="125" name="Image541" src="Image541.jpg" width="144">
+</picture>
+<curve bbox="462.060,361.360,492.060,368.110" linewidth="0" pts="462.060,365.870,486.430,365.860,486.430,363.610,462.060,363.620,485.310,368.110,492.060,364.740,485.310,361.360" />
+<curve bbox="390.060,361.360,426.060,368.110" linewidth="0" pts="390.060,365.870,420.430,365.860,420.430,363.610,390.060,363.620,419.310,368.110,426.060,364.740,419.310,361.360" />
+<curve bbox="377.160,363.840,378.840,369.000" linewidth="0" pts="377.160,366.420,377.160,367.840,377.540,369.000,378.000,369.000,378.460,369.000,378.840,367.840,378.840,366.420,378.840,365.000,378.460,363.840,378.000,363.840,377.540,363.840,377.160,365.000,377.160,366.420" />
+<curve bbox="377.160,363.840,378.840,369.000" linewidth="0" pts="377.160,366.420,377.160,367.840,377.540,369.000,378.000,369.000,378.460,369.000,378.840,367.840,378.840,366.420,378.840,365.000,378.460,363.840,378.000,363.840,377.540,363.840,377.160,365.000,377.160,366.420" />
+<curve bbox="374.520,371.640,376.320,376.800" linewidth="0" pts="374.520,374.220,374.520,375.640,374.920,376.800,375.420,376.800,375.920,376.800,376.320,375.640,376.320,374.220,376.320,372.800,375.920,371.640,375.420,371.640,374.920,371.640,374.520,372.800,374.520,374.220" />
+<curve bbox="374.520,371.640,376.320,376.800" linewidth="0" pts="374.520,374.220,374.520,375.640,374.920,376.800,375.420,376.800,375.920,376.800,376.320,375.640,376.320,374.220,376.320,372.800,375.920,371.640,375.420,371.640,374.920,371.640,374.520,372.800,374.520,374.220" />
+<curve bbox="374.520,358.800,376.320,363.840" linewidth="0" pts="374.520,361.320,374.520,362.710,374.920,363.840,375.420,363.840,375.920,363.840,376.320,362.710,376.320,361.320,376.320,359.930,375.920,358.800,375.420,358.800,374.920,358.800,374.520,359.930,374.520,361.320" />
+<curve bbox="374.520,358.800,376.320,363.840" linewidth="0" pts="374.520,361.320,374.520,362.710,374.920,363.840,375.420,363.840,375.920,363.840,376.320,362.710,376.320,361.320,376.320,359.930,375.920,358.800,375.420,358.800,374.920,358.800,374.520,359.930,374.520,361.320" />
+<curve bbox="361.980,362.760,364.280,364.940" linewidth="0" pts="362.850,364.770,363.400,364.940,363.970,364.660,364.120,364.150,364.280,363.640,363.960,363.090,363.410,362.930,362.860,362.760,362.290,363.040,362.140,363.550,361.980,364.060,362.300,364.610,362.850,364.770" />
+<curve bbox="361.980,362.760,364.280,364.940" linewidth="0" pts="362.850,364.770,363.400,364.940,363.970,364.660,364.120,364.150,364.280,363.640,363.960,363.090,363.410,362.930,362.860,362.760,362.290,363.040,362.140,363.550,361.980,364.060,362.300,364.610,362.850,364.770" />
+<curve bbox="364.110,366.430,366.410,368.610" linewidth="0" pts="364.980,368.440,365.530,368.610,366.100,368.330,366.250,367.820,366.410,367.310,366.090,366.770,365.540,366.600,364.990,366.430,364.420,366.710,364.270,367.220,364.110,367.730,364.430,368.280,364.980,368.440" />
+<curve bbox="364.110,366.430,366.410,368.610" linewidth="0" pts="364.980,368.440,365.530,368.610,366.100,368.330,366.250,367.820,366.410,367.310,366.090,366.770,365.540,366.600,364.990,366.430,364.420,366.710,364.270,367.220,364.110,367.730,364.430,368.280,364.980,368.440" />
+<curve bbox="359.160,364.920,361.450,367.100" linewidth="0" pts="360.020,366.940,360.570,367.100,361.140,366.820,361.300,366.320,361.450,365.810,361.130,365.260,360.590,365.090,360.040,364.920,359.470,365.200,359.310,365.710,359.160,366.220,359.480,366.770,360.020,366.940" />
+<curve bbox="359.160,364.920,361.450,367.100" linewidth="0" pts="360.020,366.940,360.570,367.100,361.140,366.820,361.300,366.320,361.450,365.810,361.130,365.260,360.590,365.090,360.040,364.920,359.470,365.200,359.310,365.710,359.160,366.220,359.480,366.770,360.020,366.940" />
+<curve bbox="340.770,370.440,343.000,373.020" linewidth="0" pts="341.250,371.270,340.830,371.840,340.770,372.510,341.120,372.770,341.460,373.020,342.090,372.770,342.510,372.200,342.940,371.630,343.000,370.960,342.650,370.700,342.300,370.440,341.680,370.700,341.250,371.270" />
+<curve bbox="340.770,370.440,343.000,373.020" linewidth="0" pts="341.250,371.270,340.830,371.840,340.770,372.510,341.120,372.770,341.460,373.020,342.090,372.770,342.510,372.200,342.940,371.630,343.000,370.960,342.650,370.700,342.300,370.440,341.680,370.700,341.250,371.270" />
+<curve bbox="336.580,372.130,338.810,374.710" linewidth="0" pts="337.060,372.950,336.640,373.520,336.580,374.200,336.920,374.450,337.270,374.710,337.900,374.460,338.320,373.890,338.740,373.320,338.810,372.650,338.460,372.390,338.110,372.130,337.480,372.380,337.060,372.950" />
+<curve bbox="336.580,372.130,338.810,374.710" linewidth="0" pts="337.060,372.950,336.640,373.520,336.580,374.200,336.920,374.450,337.270,374.710,337.900,374.460,338.320,373.890,338.740,373.320,338.810,372.650,338.460,372.390,338.110,372.130,337.480,372.380,337.060,372.950" />
+<curve bbox="340.410,366.970,342.640,369.550" linewidth="0" pts="340.900,367.800,340.470,368.370,340.410,369.040,340.760,369.300,341.110,369.550,341.730,369.300,342.160,368.730,342.580,368.160,342.640,367.490,342.290,367.230,341.950,366.970,341.320,367.230,340.900,367.800" />
+<curve bbox="340.410,366.970,342.640,369.550" linewidth="0" pts="340.900,367.800,340.470,368.370,340.410,369.040,340.760,369.300,341.110,369.550,341.730,369.300,342.160,368.730,342.580,368.160,342.640,367.490,342.290,367.230,341.950,366.970,341.320,367.230,340.900,367.800" />
+<curve bbox="340.680,346.320,342.240,348.840" linewidth="0" pts="340.680,347.580,340.680,348.280,341.030,348.840,341.460,348.840,341.890,348.840,342.240,348.280,342.240,347.580,342.240,346.880,341.890,346.320,341.460,346.320,341.030,346.320,340.680,346.880,340.680,347.580" />
+<curve bbox="340.680,346.320,342.240,348.840" linewidth="0" pts="340.680,347.580,340.680,348.280,341.030,348.840,341.460,348.840,341.890,348.840,342.240,348.280,342.240,347.580,342.240,346.880,341.890,346.320,341.460,346.320,341.030,346.320,340.680,346.880,340.680,347.580" />
+<curve bbox="338.280,350.160,339.840,352.800" linewidth="0" pts="338.280,351.480,338.280,352.210,338.630,352.800,339.060,352.800,339.490,352.800,339.840,352.210,339.840,351.480,339.840,350.750,339.490,350.160,339.060,350.160,338.630,350.160,338.280,350.750,338.280,351.480" />
+<curve bbox="338.280,350.160,339.840,352.800" linewidth="0" pts="338.280,351.480,338.280,352.210,338.630,352.800,339.060,352.800,339.490,352.800,339.840,352.210,339.840,351.480,339.840,350.750,339.490,350.160,339.060,350.160,338.630,350.160,338.280,350.750,338.280,351.480" />
+<curve bbox="338.280,343.800,339.840,346.320" linewidth="0" pts="338.280,345.060,338.280,345.760,338.630,346.320,339.060,346.320,339.490,346.320,339.840,345.760,339.840,345.060,339.840,344.360,339.490,343.800,339.060,343.800,338.630,343.800,338.280,344.360,338.280,345.060" />
+<curve bbox="338.280,343.800,339.840,346.320" linewidth="0" pts="338.280,345.060,338.280,345.760,338.630,346.320,339.060,346.320,339.490,346.320,339.840,345.760,339.840,345.060,339.840,344.360,339.490,343.800,339.060,343.800,338.630,343.800,338.280,344.360,338.280,345.060" />
+<curve bbox="361.680,380.160,364.320,383.640" linewidth="0" pts="361.680,381.900,361.680,382.860,362.270,383.640,363.000,383.640,363.730,383.640,364.320,382.860,364.320,381.900,364.320,380.940,363.730,380.160,363.000,380.160,362.270,380.160,361.680,380.940,361.680,381.900" />
+<curve bbox="361.680,380.160,364.320,383.640" linewidth="0" pts="361.680,381.900,361.680,382.860,362.270,383.640,363.000,383.640,363.730,383.640,364.320,382.860,364.320,381.900,364.320,380.940,363.730,380.160,363.000,380.160,362.270,380.160,361.680,380.940,361.680,381.900" />
+<curve bbox="357.840,385.320,360.480,388.800" linewidth="0" pts="357.840,387.060,357.840,388.020,358.430,388.800,359.160,388.800,359.890,388.800,360.480,388.020,360.480,387.060,360.480,386.100,359.890,385.320,359.160,385.320,358.430,385.320,357.840,386.100,357.840,387.060" />
+<curve bbox="357.840,385.320,360.480,388.800" linewidth="0" pts="357.840,387.060,357.840,388.020,358.430,388.800,359.160,388.800,359.890,388.800,360.480,388.020,360.480,387.060,360.480,386.100,359.890,385.320,359.160,385.320,358.430,385.320,357.840,386.100,357.840,387.060" />
+<curve bbox="357.840,376.800,360.480,380.160" linewidth="0" pts="357.840,378.480,357.840,379.410,358.430,380.160,359.160,380.160,359.890,380.160,360.480,379.410,360.480,378.480,360.480,377.550,359.890,376.800,359.160,376.800,358.430,376.800,357.840,377.550,357.840,378.480" />
+<curve bbox="357.840,376.800,360.480,380.160" linewidth="0" pts="357.840,378.480,357.840,379.410,358.430,380.160,359.160,380.160,359.890,380.160,360.480,379.410,360.480,378.480,360.480,377.550,359.890,376.800,359.160,376.800,358.430,376.800,357.840,377.550,357.840,378.480" />
+<curve bbox="368.760,384.240,372.000,387.240" linewidth="0" pts="372.000,387.240,370.380,384.240,368.760,387.240" />
+<curve bbox="368.760,384.240,372.000,387.240" linewidth="0" pts="372.000,387.240,370.380,384.240,368.760,387.240" />
+<curve bbox="359.220,344.030,362.740,346.320" linewidth="0" pts="360.890,344.110,359.950,344.180,359.220,344.730,359.270,345.320,359.320,345.910,360.120,346.320,361.070,346.240,362.010,346.160,362.740,345.620,362.690,345.030,362.640,344.440,361.830,344.030,360.890,344.110" />
+<curve bbox="359.220,344.030,362.740,346.320" linewidth="0" pts="360.890,344.110,359.950,344.180,359.220,344.730,359.270,345.320,359.320,345.910,360.120,346.320,361.070,346.240,362.010,346.160,362.740,345.620,362.690,345.030,362.640,344.440,361.830,344.030,360.890,344.110" />
+<curve bbox="353.830,341.250,357.340,343.540" linewidth="0" pts="355.500,341.330,354.550,341.410,353.830,341.950,353.880,342.540,353.930,343.130,354.730,343.540,355.680,343.470,356.620,343.390,357.340,342.840,357.300,342.260,357.250,341.670,356.440,341.250,355.500,341.330" />
+<curve bbox="353.830,341.250,357.340,343.540" linewidth="0" pts="355.500,341.330,354.550,341.410,353.830,341.950,353.880,342.540,353.930,343.130,354.730,343.540,355.680,343.470,356.620,343.390,357.340,342.840,357.300,342.260,357.250,341.670,356.440,341.250,355.500,341.330" />
+<curve bbox="362.370,340.540,365.890,342.830" linewidth="0" pts="364.040,340.620,363.100,340.700,362.370,341.240,362.420,341.830,362.470,342.420,363.270,342.830,364.220,342.750,365.160,342.670,365.890,342.130,365.840,341.540,365.790,340.950,364.980,340.540,364.040,340.620" />
+<curve bbox="362.370,340.540,365.890,342.830" linewidth="0" pts="364.040,340.620,363.100,340.700,362.370,341.240,362.420,341.830,362.470,342.420,363.270,342.830,364.220,342.750,365.160,342.670,365.890,342.130,365.840,341.540,365.790,340.950,364.980,340.540,364.040,340.620" />
+<curve bbox="363.900,334.390,365.350,337.380" linewidth="0" pts="364.150,337.380,365.350,335.650,363.900,334.390" />
+<curve bbox="363.900,334.390,365.350,337.380" linewidth="0" pts="364.150,337.380,365.350,335.650,363.900,334.390" />
+<curve bbox="354.600,335.170,356.040,338.160" linewidth="0" pts="354.850,338.160,356.040,336.430,354.600,335.170" />
+<curve bbox="354.600,335.170,356.040,338.160" linewidth="0" pts="354.850,338.160,356.040,336.430,354.600,335.170" />
+<curve bbox="349.450,364.950,353.650,368.130" linewidth="0" pts="351.710,365.080,350.600,364.950,349.630,365.510,349.540,366.320,349.450,367.130,350.270,367.880,351.390,368.000,352.500,368.130,353.470,367.570,353.560,366.760,353.650,365.960,352.820,365.200,351.710,365.080" />
+<curve bbox="349.450,364.950,353.650,368.130" linewidth="0" pts="351.710,365.080,350.600,364.950,349.630,365.510,349.540,366.320,349.450,367.130,350.270,367.880,351.390,368.000,352.500,368.130,353.470,367.570,353.560,366.760,353.650,365.960,352.820,365.200,351.710,365.080" />
+<curve bbox="343.740,359.560,347.940,362.690" linewidth="0" pts="346.000,359.690,344.890,359.560,343.920,360.110,343.830,360.900,343.740,361.700,344.570,362.440,345.680,362.570,346.790,362.690,347.760,362.150,347.850,361.350,347.940,360.560,347.110,359.810,346.000,359.690" />
+<curve bbox="343.740,359.560,347.940,362.690" linewidth="0" pts="346.000,359.690,344.890,359.560,343.920,360.110,343.830,360.900,343.740,361.700,344.570,362.440,345.680,362.570,346.790,362.690,347.760,362.150,347.850,361.350,347.940,360.560,347.110,359.810,346.000,359.690" />
+<curve bbox="353.800,361.270,357.990,364.400" linewidth="0" pts="356.050,361.400,354.940,361.270,353.970,361.820,353.880,362.610,353.800,363.410,354.620,364.150,355.730,364.280,356.850,364.400,357.820,363.860,357.910,363.060,357.990,362.270,357.170,361.520,356.050,361.400" />
+<curve bbox="353.800,361.270,357.990,364.400" linewidth="0" pts="356.050,361.400,354.940,361.270,353.970,361.820,353.880,362.610,353.800,363.410,354.620,364.150,355.730,364.280,356.850,364.400,357.820,363.860,357.910,363.060,357.990,362.270,357.170,361.520,356.050,361.400" />
+<curve bbox="582.060,361.360,612.060,368.110" linewidth="0" pts="582.060,365.870,606.430,365.860,606.430,363.610,582.060,363.620,605.310,368.110,612.060,364.740,605.310,361.360" />
+<curve bbox="180.000,348.000,300.000,396.000" linewidth="0" pts="180.000,384.000,270.000,384.000,270.000,396.000,300.000,372.000,270.000,348.000,270.000,360.000,180.000,360.000" />
+<curve bbox="180.000,348.000,300.000,396.000" linewidth="0" pts="180.000,384.000,270.000,384.000,270.000,396.000,300.000,372.000,270.000,348.000,270.000,360.000,180.000,360.000" />
+<table archetypal_index="3" bbox="330.0,306.24,576.48,408.12" dimensions="3/1"><cell bbox="330.0,306.24,386.64,328.68"><tabletext bbox="337.270,310.748,378.514,322.748" id="3" size="12.0">Glycans <textline bbox="337.270,310.748,378.514,322.748" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="12.000">Glycans </textline>
+</tabletext>
+</cell><cell bbox="432.48,313.32,454.8,408.12"><tabletext bbox="438.362,320.470,450.362,399.382" id="1" size="5.6657142857142855">n 
+o 
+i 
+t 
+a 
+l 
+y 
+h 
+t 
+e 
+m 
+r 
+e 
+P <textline bbox="438.362,392.710,450.362,399.382" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="6.672">n </textline>
+<textline bbox="438.362,386.710,450.362,392.710" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="6.000">o </textline>
+<textline bbox="438.362,383.374,450.362,386.710" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="3.336">i </textline>
+<textline bbox="438.362,379.378,450.362,383.374" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="3.996">t </textline>
+<textline bbox="438.362,373.378,450.362,379.378" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="6.000">a </textline>
+<textline bbox="438.362,370.018,450.362,373.354" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="3.336">l </textline>
+<textline bbox="438.362,364.018,450.362,370.018" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="6.000">y </textline>
+<textline bbox="438.362,357.346,450.362,364.018" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="6.672">h </textline>
+<textline bbox="438.362,353.350,450.362,357.346" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="3.996">t </textline>
+<textline bbox="438.362,348.070,450.362,353.398" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="5.328">e </textline>
+<textline bbox="438.362,338.230,450.362,348.226" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="9.996">m </textline>
+<textline bbox="438.362,332.950,450.362,338.278" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="5.328">r </textline>
+<textline bbox="438.362,327.670,450.362,332.998" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="5.328">e </textline>
+<textline bbox="438.362,320.470,450.362,327.802" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.2, 0.4)" size="7.332">P </textline>
+</tabletext>
+</cell><cell bbox="498.0,354.24,576.48,376.68" /></table><enlisting archetypal_index="4" bbox="43.2,24.76,697.025,201.123">&#9642; Yersinia pestis and Y. pseudotuberculosis 
+&#9642; Bacillus thuringiensis: crystal toxin (Cry5B) binds to glycolipid leading to  &#9642; Coprinopsis cinerea: fungal pathogen galectin CGL2 binds to the N-glycan  &#9642; Staphylococcus aureus  
+&#9642; Microbacterium nematophilum <normal_text bbox="43.200,155.788,674.446,201.123" id="5" size="18.96">&#9642; Yersinia pestis and Y. pseudotuberculosis 
+&#9642; Bacillus thuringiensis: crystal toxin (Cry5B) binds to glycolipid leading to  <textline bbox="43.200,182.068,416.119,201.123">&#9642; Yersinia pestis and Y. pseudotuberculosis <text bbox="43.200,182.163,51.884,201.123" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="65.784,182.106,78.430,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">Y</text>
+<text bbox="77.312,182.106,87.853,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="87.853,182.106,94.167,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="94.205,182.106,103.685,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="103.685,182.106,107.894,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="107.894,182.106,118.436,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="118.436,182.106,122.645,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="122.645,182.106,133.187,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="133.187,182.106,138.458,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="138.818,182.106,149.360,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="149.360,182.106,159.901,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="159.901,182.106,169.381,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="169.381,182.106,174.652,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="174.652,182.106,178.861,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="178.861,182.106,188.341,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="188.341,182.106,193.612,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="193.850,182.068,204.392,201.028" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="204.410,182.068,214.952,201.028" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="214.970,182.068,225.512,201.028" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="225.530,182.068,230.801,201.028" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="231.050,182.106,243.696,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">Y</text>
+<text bbox="241.857,182.106,247.128,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">.</text>
+<text bbox="247.128,182.106,252.399,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="252.399,182.106,262.941,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="262.941,182.106,272.421,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="272.421,182.106,282.962,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="282.962,182.106,293.504,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="293.561,182.106,304.103,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="304.103,182.106,314.645,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="314.645,182.106,319.916,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="319.916,182.106,330.457,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="330.495,182.106,341.037,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">b</text>
+<text bbox="341.037,182.106,351.579,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="351.579,182.106,357.892,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="357.949,182.106,367.429,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="367.429,182.106,377.971,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="377.971,182.106,382.180,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="382.294,182.106,392.836,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="392.836,182.106,402.316,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="402.316,182.106,406.525,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="406.639,182.106,416.119,201.066" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+</textline>
+<textline bbox="43.200,155.788,674.446,174.843">&#9642; Bacillus thuringiensis: crystal toxin (Cry5B) binds to glycolipid leading to  <text bbox="43.200,155.883,51.884,174.843" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="65.784,155.826,78.430,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">B</text>
+<text bbox="78.430,155.826,88.972,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="88.972,155.826,98.452,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="98.452,155.826,102.661,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="102.661,155.826,106.870,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="106.870,155.826,111.079,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="111.079,155.826,121.621,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="121.621,155.826,131.101,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="131.101,155.826,136.372,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="136.694,155.826,141.965,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="141.965,155.826,152.507,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">h</text>
+<text bbox="152.507,155.826,163.049,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="163.049,155.826,169.362,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="169.438,155.826,173.647,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="173.647,155.826,184.189,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="184.189,155.826,194.731,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="194.731,155.826,198.940,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="198.940,155.826,209.482,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="209.482,155.826,220.024,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="220.024,155.826,229.504,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="229.504,155.826,233.713,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="233.713,155.826,243.193,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="243.193,155.826,248.464,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">:</text>
+<text bbox="248.464,155.826,253.734,174.786" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="254.330,155.788,263.810,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="263.810,155.788,270.124,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="270.124,155.788,279.604,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="279.604,155.788,289.084,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="289.084,155.788,294.355,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="294.355,155.788,304.896,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="304.953,155.788,309.162,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="309.162,155.788,314.433,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="314.528,155.788,319.799,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="319.799,155.788,330.341,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="330.341,155.788,339.821,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">x</text>
+<text bbox="339.726,155.788,343.935,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="343.935,155.788,354.477,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="354.477,155.788,359.748,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="359.994,155.788,366.308,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">(</text>
+<text bbox="366.308,155.788,379.997,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">C</text>
+<text bbox="379.997,155.788,386.311,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="386.367,155.788,395.847,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="395.847,155.788,406.389,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">5</text>
+<text bbox="406.389,155.788,419.036,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">B</text>
+<text bbox="419.036,155.788,425.349,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">)</text>
+<text bbox="425.349,155.788,430.620,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="430.867,155.788,441.408,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">b</text>
+<text bbox="441.408,155.788,445.617,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="445.617,155.788,456.159,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="456.159,155.788,466.701,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="466.701,155.788,476.181,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="476.181,155.788,481.452,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="481.736,155.788,487.007,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="487.007,155.788,497.549,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="497.549,155.788,502.820,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="502.820,155.788,513.362,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="513.362,155.788,517.571,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="517.571,155.788,527.051,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="527.051,155.788,536.531,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="536.531,155.788,547.072,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="547.110,155.788,551.319,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="551.319,155.788,555.529,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="555.529,155.788,566.070,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="566.070,155.788,570.279,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="570.279,155.788,580.821,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="580.821,155.788,586.092,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="586.566,155.788,590.775,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="590.775,155.788,601.317,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="601.317,155.788,611.859,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="611.859,155.788,622.400,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="622.400,155.788,626.610,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="626.610,155.788,637.151,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="637.151,155.788,647.693,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="647.750,155.788,653.021,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="653.362,155.788,658.633,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="658.633,155.788,669.175,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="669.175,155.788,674.446,174.748" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="43.200,103.318,697.025,122.373" id="7" size="18.96">&#9642; Coprinopsis cinerea: fungal pathogen galectin CGL2 binds to the N-glycan  <textline bbox="43.200,103.318,697.025,122.373">&#9642; Coprinopsis cinerea: fungal pathogen galectin CGL2 binds to the N-glycan  <text bbox="43.200,103.413,51.884,122.373" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="65.784,103.356,79.473,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">C</text>
+<text bbox="79.473,103.356,90.015,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="90.015,103.356,100.557,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="100.557,103.356,106.870,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="106.927,103.356,111.136,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="111.136,103.356,121.678,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="121.678,103.356,132.220,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="132.220,103.356,142.762,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="142.762,103.356,152.242,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="152.242,103.356,156.451,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="156.451,103.356,165.931,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="165.931,103.356,171.202,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="171.714,103.356,181.194,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="181.194,103.356,185.403,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="185.403,103.356,195.944,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="195.944,103.356,206.486,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="206.486,103.356,212.800,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="212.857,103.356,223.398,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="223.398,103.356,233.940,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="233.940,103.356,239.211,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">:</text>
+<text bbox="244.970,103.318,250.241,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">f</text>
+<text bbox="250.241,103.318,260.783,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="260.783,103.318,271.324,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="271.324,103.318,281.866,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="281.904,103.318,292.446,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="292.446,103.318,296.655,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="296.655,103.318,301.926,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="302.172,103.318,312.714,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="312.714,103.318,323.256,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="323.256,103.318,328.527,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="328.527,103.318,339.068,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">h</text>
+<text bbox="339.106,103.318,349.648,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="349.648,103.318,360.190,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="360.190,103.318,370.732,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="370.732,103.318,381.273,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="387.070,103.318,397.612,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="397.612,103.318,408.154,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="408.154,103.318,412.363,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="412.363,103.318,422.904,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="422.904,103.318,432.384,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="432.384,103.318,437.655,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="437.655,103.318,441.864,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="441.864,103.318,452.406,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="452.444,103.318,457.715,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="458.056,103.318,471.745,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">C</text>
+<text bbox="471.745,103.318,486.496,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">G</text>
+<text bbox="486.496,103.318,497.038,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">L</text>
+<text bbox="497.038,103.318,507.580,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">2</text>
+<text bbox="513.100,103.318,523.642,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">b</text>
+<text bbox="523.642,103.318,527.851,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">i</text>
+<text bbox="527.851,103.318,538.393,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="538.393,103.318,548.934,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">d</text>
+<text bbox="548.934,103.318,558.414,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="558.414,103.318,563.685,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="563.970,103.318,569.241,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="569.241,103.318,579.782,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="579.782,103.318,585.053,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="585.053,103.318,590.324,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="590.324,103.318,600.866,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">h</text>
+<text bbox="600.904,103.318,611.446,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="611.446,103.318,616.716,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="616.920,103.356,630.609,122.316" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">N</text>
+<text bbox="630.600,103.318,636.914,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">-</text>
+<text bbox="636.960,103.318,647.502,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">g</text>
+<text bbox="647.502,103.318,651.711,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="651.711,103.318,661.191,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="661.191,103.318,670.671,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="670.671,103.318,681.213,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="681.213,103.318,691.754,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960">n</text>
+<text bbox="691.754,103.318,697.025,122.278" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="43.200,24.760,320.568,69.937" id="9" size="18.96">&#9642; Staphylococcus aureus  
+&#9642; Microbacterium nematophilum <textline bbox="43.200,50.920,267.632,69.937">&#9642; Staphylococcus aureus  <text bbox="43.200,50.977,51.884,69.937" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="65.784,50.920,78.430,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">S</text>
+<text bbox="78.430,50.920,83.701,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">t</text>
+<text bbox="83.701,50.920,94.243,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="94.243,50.920,104.785,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">p</text>
+<text bbox="104.785,50.920,115.326,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">h</text>
+<text bbox="115.326,50.920,124.806,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">y</text>
+<text bbox="124.806,50.920,129.016,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">l</text>
+<text bbox="129.016,50.920,139.557,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="139.557,50.920,149.037,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="149.037,50.920,159.579,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">o</text>
+<text bbox="159.579,50.920,169.059,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="169.059,50.920,178.539,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">c</text>
+<text bbox="178.539,50.920,189.081,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="189.119,50.920,198.599,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="198.599,50.920,203.870,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+<text bbox="204.344,50.920,214.885,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">a</text>
+<text bbox="214.885,50.920,225.427,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="225.427,50.920,231.741,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">r</text>
+<text bbox="231.798,50.920,242.340,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">e</text>
+<text bbox="242.340,50.920,252.881,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">u</text>
+<text bbox="252.881,50.920,262.361,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960">s</text>
+<text bbox="262.361,50.920,267.632,69.880" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0, 0.2, 0.4)" size="18.960"> </text>
+</textline>
+<textline bbox="43.200,24.760,320.568,43.777">&#9642; Microbacterium nematophilum <text bbox="43.200,24.817,51.884,43.777" colourspace="Pattern" font="BCDEEE+Wingdings-Regular" ncolour="(0.298, 0, 0)" size="18.960">&#9642;</text>
+<text bbox="65.784,24.760,81.578,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">M</text>
+<text bbox="81.578,24.760,85.787,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">i</text>
+<text bbox="85.787,24.760,95.267,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">c</text>
+<text bbox="95.267,24.760,101.580,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">r</text>
+<text bbox="101.637,24.760,112.179,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">o</text>
+<text bbox="112.179,24.760,122.721,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">b</text>
+<text bbox="122.721,24.760,133.263,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">a</text>
+<text bbox="133.263,24.760,142.743,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">c</text>
+<text bbox="142.743,24.760,148.014,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">t</text>
+<text bbox="148.051,24.760,158.593,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">e</text>
+<text bbox="158.593,24.760,164.907,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">r</text>
+<text bbox="164.945,24.760,169.154,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">i</text>
+<text bbox="169.154,24.760,179.696,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">u</text>
+<text bbox="179.809,24.760,195.603,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">m</text>
+<text bbox="195.414,24.760,200.684,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960"> </text>
+<text bbox="201.272,24.760,211.814,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">n</text>
+<text bbox="211.814,24.760,222.356,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">e</text>
+<text bbox="222.356,24.760,238.149,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">m</text>
+<text bbox="237.998,24.760,248.539,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">a</text>
+<text bbox="248.539,24.760,253.810,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">t</text>
+<text bbox="253.810,24.760,264.352,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">o</text>
+<text bbox="264.352,24.760,274.894,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">p</text>
+<text bbox="275.064,24.760,285.606,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">h</text>
+<text bbox="285.606,24.760,289.815,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">i</text>
+<text bbox="289.815,24.760,294.024,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">l</text>
+<text bbox="294.119,24.760,304.661,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">u</text>
+<text bbox="304.775,24.760,320.568,43.720" colourspace="Pattern" font="Arial-ItalicMT" ncolour="(0.976, 0.212, 0.0824)" size="18.960">m</text>
+</textline>
+</normal_text>
+</enlisting><picture archetypal_index="5" bbox="22.2,440.46,701.58,522.6" caption="&#10;MALDI-MS " combined_sources="['Image528.425x149.bmp', 'Image530.859x149.bmp', 'Image532.781x149.bmp', 'Image534.1263x149.bmp']" name="combined_0" src="combined_9_0.png" /></page>
+</pages>

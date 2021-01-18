@@ -1,0 +1,281 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[136.28133333333332, 426.076, 583.7083333333334, 462.116]" rotate="0">
+<title archetypal_index="0" bbox="91.752,428.468,628.262,460.508" id="0" size="32.04">Daily vs. extended range forecast skill <textline bbox="91.752,428.468,628.262,460.508" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="32.040">Daily vs. extended range forecast skill </textline>
+</title>
+<normal_text archetypal_index="1" bbox="139.390,357.935,279.306,381.959" id="1" size="24.024">Forecast skill <textline bbox="139.390,357.935,279.306,381.959" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Forecast skill </textline>
+</normal_text>
+<enlisting archetypal_index="2" bbox="229.250,281.050,345.038,299.050" id="2" size="18.0">&#8220;long-waves&#8221; <textline bbox="229.250,281.050,345.038,299.050" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.106, 0.0588)" size="18.000">&#8220;long-waves&#8221; </textline>
+</enlisting>
+<normal_text archetypal_index="3" bbox="223.250,157.430,286.124,197.030" id="3" size="18.0">&#8220;short- 
+waves&#8221; <textline bbox="223.250,179.030,283.244,197.030" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.106, 0.0588)" size="18.000">&#8220;short- </textline>
+<textline bbox="223.250,157.430,286.124,175.430" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.106, 0.0588)" size="18.000">waves&#8221; </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="18.000,53.880,367.080,342.000" caption="Figure courtesy Jeff Whitaker " height="288" name="Image27" src="Image27.582x480.bmp" width="349">
+</picture>
+<curve bbox="156.000,291.000,222.000,297.000" linewidth="0" pts="222.000,294.500,161.000,294.500,161.000,293.500,222.000,293.500,162.000,297.000,156.000,294.000,162.000,291.000" />
+<curve bbox="174.000,183.000,222.000,189.000" linewidth="0" pts="222.000,186.500,179.000,186.500,179.000,185.500,222.000,185.500,180.000,189.000,174.000,186.000,180.000,183.000" />
+<enlisting archetypal_index="5" bbox="403.27,75.514,677.671,366.8">&#8226; Most skill is lost for  &#8220;short-waves&#8221; for a 5- 
+day forecast. &#8226; &#8220;long-waves&#8221; skillful  
+well into week 2. &#8226; Obvious point:  
+Weeks 3 and 4  
+forecasts will mostly  
+be of large-scale  
+dynamics <normal_text bbox="403.270,340.682,655.776,366.800" id="5" size="26.04">&#8226; Most skill is lost for  <textline bbox="403.270,340.682,655.776,366.800" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">&#8226; Most skill is lost for  </textline>
+</normal_text>
+<normal_text bbox="403.27,75.514,677.671,338.72">&#8220;short-waves&#8221; for a 5- 
+day forecast. &#8226; &#8220;long-waves&#8221; skillful  
+well into week 2. &#8226; Obvious point:  
+Weeks 3 and 4  
+forecasts will mostly  
+be of large-scale  
+dynamics <normal_text bbox="430.270,284.600,677.671,338.720" id="6" size="26.04">&#8220;short-waves&#8221; for a 5- 
+day forecast. <textline bbox="430.270,312.602,677.671,338.720">&#8220;short-waves&#8221; for a 5- <text bbox="430.270,312.602,438.941,338.642" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.040">&#8220;</text>
+<text bbox="438.910,312.680,451.930,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">s</text>
+<text bbox="451.982,312.680,466.460,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">h</text>
+<text bbox="466.460,312.680,480.939,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">o</text>
+<text bbox="481.043,312.680,489.714,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">r</text>
+<text bbox="489.714,312.680,496.953,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">t</text>
+<text bbox="496.900,312.680,505.571,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">-</text>
+<text bbox="505.540,312.680,524.341,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">w</text>
+<text bbox="524.341,312.680,538.819,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">a</text>
+<text bbox="538.871,312.680,551.891,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">v</text>
+<text bbox="551.891,312.680,566.369,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">e</text>
+<text bbox="566.448,312.680,579.468,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">s</text>
+<text bbox="579.580,312.602,588.251,338.642" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.040">&#8221;</text>
+<text bbox="595.080,312.680,602.319,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">f</text>
+<text bbox="602.319,312.680,616.797,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">o</text>
+<text bbox="616.797,312.680,625.469,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">r</text>
+<text bbox="625.469,312.680,632.708,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040"> </text>
+<text bbox="632.708,312.680,647.186,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">a</text>
+<text bbox="647.186,312.680,654.425,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040"> </text>
+<text bbox="654.425,312.680,668.903,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">5</text>
+<text bbox="669.000,312.680,677.671,338.720" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">-</text>
+</textline>
+<textline bbox="430.270,284.600,579.375,310.640" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">day forecast. </textline>
+</normal_text>
+<normal_text bbox="403.270,222.180,664.632,276.339" id="7" size="26.052">&#8226; &#8220;long-waves&#8221; skillful  
+well into week 2. <textline bbox="403.270,250.197,664.632,276.339">&#8226; &#8220;long-waves&#8221; skillful  <text bbox="403.270,250.197,412.392,276.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.064">&#8226;</text>
+<text bbox="430.270,250.197,438.949,276.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.064">&#8220;</text>
+<text bbox="438.910,250.275,444.696,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">l</text>
+<text bbox="444.696,250.275,459.188,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">o</text>
+<text bbox="459.188,250.275,473.679,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">n</text>
+<text bbox="473.732,250.275,488.223,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">g</text>
+<text bbox="488.260,250.275,496.939,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">-</text>
+<text bbox="496.900,250.275,515.718,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">w</text>
+<text bbox="515.718,250.275,530.210,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">a</text>
+<text bbox="530.210,250.275,543.242,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">v</text>
+<text bbox="543.320,250.275,557.812,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">e</text>
+<text bbox="557.812,250.275,570.844,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">s</text>
+<text bbox="570.940,250.197,579.619,276.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.064">&#8221;</text>
+<text bbox="586.440,250.275,599.472,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">s</text>
+<text bbox="599.472,250.275,612.504,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">k</text>
+<text bbox="612.582,250.275,618.368,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">i</text>
+<text bbox="618.368,250.275,624.155,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">l</text>
+<text bbox="624.155,250.275,629.941,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">l</text>
+<text bbox="629.863,250.275,637.108,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">f</text>
+<text bbox="637.108,250.275,651.600,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">u</text>
+<text bbox="651.600,250.275,657.386,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">l</text>
+<text bbox="657.386,250.275,664.632,276.339" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064"> </text>
+</textline>
+<textline bbox="430.270,222.180,621.065,248.220" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">well into week 2. </textline>
+</normal_text>
+<normal_text bbox="403.270,75.514,668.990,213.900" id="8" size="26.0448">&#8226; Obvious point:  
+Weeks 3 and 4  
+forecasts will mostly  
+be of large-scale  
+dynamics <textline bbox="403.270,187.782,603.931,213.900" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">&#8226; Obvious point:  </textline>
+<textline bbox="430.270,159.780,610.675,185.820" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">Weeks 3 and 4  </textline>
+<textline bbox="430.270,131.695,668.990,157.759" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.064">forecasts will mostly  </textline>
+<textline bbox="430.270,103.590,630.301,129.630" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">be of large-scale  </textline>
+<textline bbox="430.270,75.514,540.445,101.554" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="26.040">dynamics </textline>
+</normal_text>
+</normal_text></enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[232.73066666666668, 424.618, 494.4331666666667, 451.638]" rotate="0">
+<normal_text archetypal_index="0" bbox="24.288,496.090,695.690,526.090" id="0" size="30.0">Teleconnections: high-frequency vs. low-frequency <textline bbox="24.288,496.090,695.690,526.090" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="30.000">Teleconnections: high-frequency vs. low-frequency </textline>
+</normal_text>
+<title archetypal_index="1" bbox="329.180,423.160,405.158,441.160" id="1" size="18.0">Synoptic <textline bbox="329.180,423.160,405.158,441.160" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.769, 0.0157, 0.18)" size="18.000">Synoptic </textline>
+</title>
+<normal_text archetypal_index="2" bbox="544.850,423.295,613.990,441.319" id="2" size="18.024">Monthly <textline bbox="544.850,423.295,613.990,441.319" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.769, 0.0157, 0.18)" size="18.024">Monthly </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="7.200,310.970,251.212,450.190" id="3" size="24.0048">Differences between 
+synoptic and climate  
+variability appear on  
+timescales as short  
+as a week <textline bbox="7.200,426.190,240.960,450.190" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Differences between </textline>
+<textline bbox="7.200,397.385,251.212,421.409" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">synoptic and climate  </textline>
+<textline bbox="7.200,368.570,247.152,392.570" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">variability appear on  </textline>
+<textline bbox="7.200,339.770,236.664,363.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">timescales as short  </textline>
+<textline bbox="7.200,310.970,119.568,334.970" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">as a week </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="11.640,133.910,255.834,281.699" id="4" size="18.00342857142857">The maps show the 
+correlation of the &#8220;band-pass  
+filtered&#8221; 500 mb anomaly  
+height time series at all  
+points on the hemisphere with  
+the time series at a  
+north Pacific &#8220;base point&#8221;. <textline bbox="11.640,263.675,168.791,281.699" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">The maps show the </textline>
+<textline bbox="12.240,241.930,246.020,259.930" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">correlation of the &#8220;band-pass  </textline>
+<textline bbox="12.240,220.330,214.776,238.330" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">filtered&#8221; 500 mb anomaly  </textline>
+<textline bbox="12.240,198.730,201.078,216.730" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">height time series at all  </textline>
+<textline bbox="12.240,177.130,255.834,195.130" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">points on the hemisphere with  </textline>
+<textline bbox="12.240,155.530,169.182,173.530" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">the time series at a  </textline>
+<textline bbox="12.240,133.910,216.036,151.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">north Pacific &#8220;base point&#8221;. </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="12.240,4.284,210.096,87.108" id="5" size="18.006">Positive correlations  
+are indicated by red and  
+negative correlations by 
+blue colors. <textline bbox="12.240,69.108,177.966,87.108" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Positive correlations  </textline>
+<textline bbox="12.240,47.508,210.096,65.508" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">are indicated by red and  </textline>
+<textline bbox="12.240,25.903,202.195,43.927" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">negative correlations by </textline>
+<textline bbox="12.240,4.284,104.148,22.284" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">blue colors. </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="336.430,187.995,398.036,206.019" id="6" size="18.024">Weekly <textline bbox="336.430,187.995,398.036,206.019" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.769, 0.0157, 0.18)" size="18.024">Weekly </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="539.860,187.995,618.787,206.019" id="7" size="18.024">Seasonal <textline bbox="539.860,187.995,618.787,206.019" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.769, 0.0157, 0.18)" size="18.024">Seasonal </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="391.320,3.800,581.404,19.760" id="8" size="15.96">Figure courtesy Gil Compo <textline bbox="391.320,3.800,581.404,19.760" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Figure courtesy Gil Compo </textline>
+</normal_text>
+<picture archetypal_index="9" bbox="268.680,15.840,689.160,484.920" height="469" name="Image37" src="Image37.jpg" width="420">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[254.49439999999998, 426.1196, 469.86710000000005, 455.14759999999995]" rotate="0">
+<title archetypal_index="0" bbox="287.140,428.372,433.018,460.412" id="0" size="32.04">Motivation <textline bbox="287.140,428.372,433.018,460.412" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Motivation </textline>
+</title>
+<normal_text archetypal_index="1" bbox="43.200,373.235,497.116,391.259" id="1" size="18.024">Consider the dynamical system describing the variable x, <textline bbox="43.200,373.235,497.116,391.259" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Consider the dynamical system describing the variable x, </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="70.224,331.330,195.234,349.330" id="2" size="18.0">dx/dt = N(x) + F <textline bbox="70.224,331.330,195.234,349.330" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">dx/dt = N(x) + F </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="220.250,331.330,631.082,349.330" id="3" size="18.0">(N is a nonlinear operator and F is external forcing)  <textline bbox="220.250,331.330,631.082,349.330" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">(N is a nonlinear operator and F is external forcing)  </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="43.200,290.290,294.084,308.290" id="4" size="18.0">This can always be rewritten as <textline bbox="43.200,290.290,294.084,308.290" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">This can always be rewritten as </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="70.224,249.245,408.931,267.269" id="5" size="18.024">dx/dt = slow nonlinearity + fast nonlinearity <textline bbox="70.224,249.245,408.931,267.269" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="18.024">dx/dt = slow nonlinearity + fast nonlinearity </textline>
+</normal_text>
+<enlisting archetypal_index="6" bbox="43.200,159.350,514.086,227.750" id="6" size="18.0">If: 
+&#9642; we are only interested in the slowly evolving portion of x 
+&#9642; and there is a big difference between &#8220;fast&#8221; and &#8220;slow&#8221;  <textline bbox="43.200,209.750,58.284,227.750" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">If: </textline>
+<textline bbox="43.200,184.910,514.086,203.000">&#9642; we are only interested in the slowly evolving portion of x <text bbox="43.200,185.000,51.444,203.000" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="0" size="18.000">&#9642;</text>
+<text bbox="70.224,184.910,83.220,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">w</text>
+<text bbox="82.824,184.910,92.832,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="92.832,184.910,97.836,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="98.160,184.910,108.168,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">a</text>
+<text bbox="108.168,184.910,114.162,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
+<text bbox="114.162,184.910,124.170,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="124.080,184.910,129.084,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="129.228,184.910,139.236,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="139.236,184.910,149.244,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="149.154,184.910,153.150,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">l</text>
+<text bbox="153.150,184.910,162.150,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">y</text>
+<text bbox="161.880,184.910,166.884,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="167.136,184.910,171.132,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="171.132,184.910,181.140,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="181.050,184.910,186.054,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="186.054,184.910,196.062,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="196.062,184.910,202.056,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
+<text bbox="202.056,184.910,212.064,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="212.010,184.910,221.010,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
+<text bbox="221.010,184.910,226.014,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="226.014,184.910,236.022,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="236.022,184.910,246.030,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">d</text>
+<text bbox="245.976,184.910,250.980,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="251.124,184.910,255.120,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="255.120,184.910,265.128,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="265.038,184.910,270.042,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="270.186,184.910,275.190,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="275.190,184.910,285.198,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">h</text>
+<text bbox="285.198,184.910,295.206,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="295.152,184.910,300.156,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="300.156,184.910,309.156,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
+<text bbox="309.156,184.910,313.152,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">l</text>
+<text bbox="313.152,184.910,323.160,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="323.160,184.910,336.156,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">w</text>
+<text bbox="335.706,184.910,339.702,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">l</text>
+<text bbox="339.774,184.910,348.774,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">y</text>
+<text bbox="348.540,184.910,353.544,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="354.156,184.910,364.164,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="364.164,184.910,373.164,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">v</text>
+<text bbox="373.164,184.910,383.172,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="383.082,184.910,387.078,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">l</text>
+<text bbox="387.078,184.910,396.078,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">v</text>
+<text bbox="396.078,184.910,400.074,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="400.002,184.910,410.010,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="410.010,184.910,420.018,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">g</text>
+<text bbox="419.928,184.910,424.932,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="425.076,184.910,435.084,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">p</text>
+<text bbox="435.084,184.910,445.092,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="445.002,184.910,450.996,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
+<text bbox="450.996,184.910,456.000,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="456.000,184.910,459.996,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="459.996,184.910,470.004,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="470.004,184.910,480.012,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="479.922,184.910,484.926,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="485.070,184.910,495.078,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="495.078,184.910,500.082,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">f</text>
+<text bbox="500.082,184.910,505.086,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="505.086,184.910,514.086,202.910" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">x</text>
+</textline>
+<textline bbox="43.200,159.350,503.340,177.440">&#9642; and there is a big difference between &#8220;fast&#8221; and &#8220;slow&#8221;  <text bbox="43.200,159.440,51.444,177.440" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="0" size="18.000">&#9642;</text>
+<text bbox="70.224,159.350,80.232,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">a</text>
+<text bbox="80.232,159.350,90.240,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="90.150,159.350,100.158,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">d</text>
+<text bbox="100.158,159.350,105.162,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="105.252,159.350,110.256,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="110.256,159.350,120.264,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">h</text>
+<text bbox="120.264,159.350,130.272,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="130.218,159.350,136.212,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
+<text bbox="136.212,159.350,146.220,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="146.220,159.350,151.224,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="151.224,159.350,155.220,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="155.220,159.350,164.220,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
+<text bbox="164.220,159.350,169.224,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="169.224,159.350,179.232,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">a</text>
+<text bbox="179.178,159.350,184.182,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="184.182,159.350,194.190,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">b</text>
+<text bbox="194.190,159.350,198.186,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="198.186,159.350,208.194,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">g</text>
+<text bbox="208.104,159.350,213.108,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="213.252,159.350,223.260,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">d</text>
+<text bbox="223.260,159.350,227.256,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="227.166,159.350,232.170,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">f</text>
+<text bbox="231.846,159.350,236.850,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">f</text>
+<text bbox="236.850,159.350,246.858,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="246.858,159.350,252.852,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
+<text bbox="252.852,159.350,262.860,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="262.806,159.350,272.814,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="272.814,159.350,281.814,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">c</text>
+<text bbox="281.814,159.350,291.822,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="291.732,159.350,296.736,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="296.880,159.350,306.888,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">b</text>
+<text bbox="306.888,159.350,316.896,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="316.806,159.350,321.810,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="321.810,159.350,334.806,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">w</text>
+<text bbox="334.446,159.350,344.454,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="344.454,159.350,354.462,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
+<text bbox="354.372,159.350,364.380,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="364.380,159.350,369.384,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="369.834,159.350,375.828,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8220;</text>
+<text bbox="375.828,159.350,380.832,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">f</text>
+<text bbox="380.832,159.350,390.840,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">a</text>
+<text bbox="390.840,159.350,399.840,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
+<text bbox="399.840,159.350,404.844,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">t</text>
+<text bbox="404.844,159.350,410.838,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8221;</text>
+<text bbox="410.838,159.350,415.842,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="415.896,159.350,425.904,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">a</text>
+<text bbox="425.904,159.350,435.912,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">n</text>
+<text bbox="435.822,159.350,445.830,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">d</text>
+<text bbox="445.830,159.350,450.834,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="450.834,159.350,456.828,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8220;</text>
+<text bbox="456.828,159.350,465.828,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
+<text bbox="465.828,159.350,469.824,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">l</text>
+<text bbox="469.824,159.350,479.832,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">o</text>
+<text bbox="479.742,159.350,492.738,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">w</text>
+<text bbox="492.342,159.350,498.336,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8221;</text>
+<text bbox="498.336,159.350,503.340,177.350" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+</textline>
+</enlisting>
+<normal_text archetypal_index="7" bbox="43.200,118.305,339.154,136.329" id="7" size="18.024">this may be usefully approximated as <textline bbox="43.200,118.305,339.154,136.329" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">this may be usefully approximated as </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="70.224,70.764,259.134,88.764" id="8" size="18.0">dx/dt = Lx + white noise <textline bbox="70.224,70.764,259.134,88.764" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">dx/dt = Lx + white noise </textline>
+</normal_text>
+</page>
+</pages>

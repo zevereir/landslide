@@ -1,0 +1,215 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[101.654, 440.9752, 613.517, 484.1992]" rotate="0">
+<title archetypal_index="0" bbox="100.510,469.292,607.322,513.332" id="0" size="44.04">Sustained Pain Response <textline bbox="100.510,469.292,607.322,513.332" colourspace="Pattern" font="ArialMT" ncolour="1" size="44.040">Sustained Pain Response </textline>
+</title>
+<enlisting archetypal_index="1" bbox="37.200,322.309,666.286,446.539" id="1" size="32.048">&#8226; Moderate or severe headache pain at baseline 
+&#8226; Mild or no headache pain at 2 hours 
+&#8226; No relapse, no use of rescue medication 2-24 h <textline bbox="37.200,414.499,645.910,446.539" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.040">&#8226; Moderate or severe headache pain at baseline </textline>
+<textline bbox="37.200,368.414,525.785,400.478" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064">&#8226; Mild or no headache pain at 2 hours </textline>
+<textline bbox="37.200,322.309,666.286,354.349" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.040">&#8226; No relapse, no use of rescue medication 2-24 h </textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="120.670,240.785,167.397,264.809" id="2" size="24.024">Mod <textline bbox="120.670,240.785,167.397,264.809" colourspace="Pattern" font="ArialMT" ncolour="1" size="24.024">Mod </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="123.310,200.690,164.590,224.690" id="3" size="24.0">Sev <textline bbox="123.310,200.690,164.590,224.690" colourspace="Pattern" font="ArialMT" ncolour="1" size="24.000">Sev </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="121.220,63.960,168.548,87.960" id="4" size="24.0">0 hrs <textline bbox="121.220,63.960,168.548,87.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="24.000">0 hrs </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="326.040,162.770,370.032,186.770" id="5" size="24.0">Mild <textline bbox="326.040,162.770,370.032,186.770" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Mild </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="319.440,122.685,376.761,146.709" id="6" size="24.024">None <textline bbox="319.440,122.685,376.761,146.709" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">None </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="325.270,63.960,372.598,87.960" id="7" size="24.0">2 hrs <textline bbox="325.270,63.960,372.598,87.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="24.000">2 hrs </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="539.780,190.850,618.404,240.770" id="8" size="24.0">No  
+relapse <textline bbox="563.810,216.770,601.082,240.770" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">No  </textline>
+<textline bbox="539.780,190.850,618.404,214.850" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">relapse </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="543.020,124.845,615.116,174.530" id="9" size="24.012">No  
+rescue <textline bbox="563.810,150.530,601.082,174.530" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">No  </textline>
+<textline bbox="543.020,124.845,615.116,148.869" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">rescue </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="541.300,63.960,620.668,87.960" id="10" size="24.0">2-24 hrs <textline bbox="541.300,63.960,620.668,87.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="24.000">2-24 hrs </textline>
+</normal_text>
+<slide_number bbox="673.320,27.960,685.320,51.960" id="11" size="24.0">5 <textline bbox="673.320,27.960,685.320,51.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">5 </textline>
+</slide_number>
+<curve bbox="210.000,138.000,282.000,180.000" linewidth="0" pts="210.000,169.500,264.000,169.500,264.000,180.000,282.000,159.000,264.000,138.000,264.000,148.500,210.000,148.500" />
+<curve bbox="210.000,138.000,282.000,180.000" linewidth="0" pts="210.000,169.500,264.000,169.500,264.000,180.000,282.000,159.000,264.000,138.000,264.000,148.500,210.000,148.500" />
+<rect bbox="96.060,107.940,192.060,281.940" linewidth="0" />
+<rect bbox="96.060,107.940,192.060,281.940" linewidth="3" />
+<curve bbox="120.000,132.000,168.000,186.000" linewidth="3" pts="144.000,171.500,152.270,186.000,151.460,172.690,160.840,174.860,157.120,167.710,166.880,165.660,159.130,159.810,168.000,152.780,157.420,153.650,160.320,140.760,151.160,149.860,149.440,136.660,143.400,148.660,138.860,132.000,137.140,146.930,130.580,141.960,132.590,151.160,120.300,149.530,128.270,156.560,120.000,164.460,130.280,166.960,120.820,180.260,136.250,170.200,138.560,180.260" />
+<curve bbox="120.000,132.000,168.000,186.000" linewidth="0" pts="144.000,171.500,152.270,186.000,151.460,172.690,160.840,174.860,157.120,167.710,166.880,165.660,159.130,159.810,168.000,152.780,157.420,153.650,160.320,140.760,151.160,149.860,149.440,136.660,143.400,148.660,138.860,132.000,137.140,146.930,130.580,141.960,132.590,151.160,120.300,149.530,128.270,156.560,120.000,164.460,130.280,166.960,120.820,180.260,136.250,170.200,138.560,180.260" />
+<rect bbox="108.000,196.680,180.000,270.000" linewidth="0" />
+<rect bbox="300.060,107.940,396.060,203.940" linewidth="0" />
+<rect bbox="300.060,107.940,396.060,203.940" linewidth="3" />
+<rect bbox="312.000,118.680,384.000,192.000" linewidth="3" />
+<curve bbox="426.000,138.000,498.000,180.000" linewidth="3" pts="426.000,169.500,480.000,169.500,480.000,180.000,498.000,159.000,480.000,138.000,480.000,148.500,426.000,148.500" />
+<curve bbox="426.000,138.000,498.000,180.000" linewidth="0" pts="426.000,169.500,480.000,169.500,480.000,180.000,498.000,159.000,480.000,138.000,480.000,148.500,426.000,148.500" />
+<rect bbox="516.060,101.940,648.060,263.940" linewidth="0" />
+<rect bbox="516.060,101.940,648.060,263.940" linewidth="3" />
+<rect bbox="522.000,120.840,636.000,246.000" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[78.38533333333334, 434.7768, 637.6553333333334, 489.9928]" rotate="0">
+<title archetypal_index="0" bbox="31.848,422.380,685.932,501.580" id="0" size="36.0">Sustained Pain Response: no significant  
+contribution of metoclopramide <textline bbox="31.848,465.580,685.932,501.580" colourspace="Pattern" font="ArialMT" ncolour="1" size="36.000">Sustained Pain Response: no significant  </textline>
+<textline bbox="107.830,422.380,600.058,458.380" colourspace="Pattern" font="ArialMT" ncolour="1" size="36.000">contribution of metoclopramide </textline>
+</title>
+<normal_text archetypal_index="1" bbox="31.200,365.335,101.352,393.319" id="1" size="27.984">Study <textline bbox="31.200,365.335,101.352,393.319" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.984">Study </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="157.220,365.335,607.665,393.319" id="2" size="27.984">MT100  Naproxen Metoclopramide  <textline bbox="157.220,365.335,607.665,393.319" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.984">MT100  Naproxen Metoclopramide  </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="403.270,331.711,573.994,359.671" id="3" size="27.96">contribution &#8747;  <textline bbox="403.270,331.711,573.994,359.671" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">contribution &#8747;  </textline>
+</normal_text>
+<slide_number bbox="31.200,147.851,137.504,297.271" id="4" size="27.96">301 
+(n=1067) 
+304 
+(n=2627) <textline bbox="31.200,269.311,73.260,297.271" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">301 </textline>
+<textline bbox="31.200,228.971,137.504,256.931" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">(n=1067) </textline>
+<textline bbox="31.200,188.171,73.260,216.131" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">304 </textline>
+<textline bbox="31.200,147.851,137.504,175.811" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">(n=2627) </textline>
+</slide_number>
+<enlisting archetypal_index="4" bbox="49.200,42.360,592.248,123.956" id="7" size="24.0">&#8747; Metoclopramide contribution to MT100 response =  
+MT100 response minus naproxen response. 
+&#167; FDA analysis <textline bbox="49.200,99.956,592.248,123.956" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000">&#8747; Metoclopramide contribution to MT100 response =  </textline>
+<textline bbox="49.200,71.160,491.544,95.160" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000">MT100 response minus naproxen response. </textline>
+<textline bbox="49.200,42.360,202.632,66.360" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000">&#167; FDA analysis </textline>
+</enlisting>
+<slide_number bbox="679.320,21.960,691.320,45.960" id="8" size="24.0">6 <textline bbox="679.320,21.960,691.320,45.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">6 </textline>
+</slide_number>
+<enlisting archetypal_index="5" bbox="166.27,188.171,621.23,297.271">35.6% 29.8% 5.8% (p=0.064)&#167; 31.8% 27.9% 3.9% (p=0.063) &#167; <normal_text bbox="166.270,269.311,617.750,297.271" id="5" size="27.96">35.6% 29.8% 5.8% (p=0.064)&#167; <textline bbox="166.270,269.311,617.750,297.271" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">35.6% 29.8% 5.8% (p=0.064)&#167; </textline>
+</normal_text>
+<normal_text bbox="166.270,188.171,621.230,216.131" id="6" size="27.96">31.8% 27.9% 3.9% (p=0.063) &#167; <textline bbox="166.270,188.171,621.230,216.131" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">31.8% 27.9% 3.9% (p=0.063) &#167; </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[58.917523809523814, 436.3714285714285, 654.7975238095238, 495.642]" rotate="0">
+<title archetypal_index="0" bbox="10.248,440.358,697.653,509.765" id="0" size="30.972">2-hour Endpoints in Factorial Studies&#167; (not  
+required to establish metoclopramide contribution) <textline bbox="63.072,477.573,653.645,509.765">2-hour Endpoints in Factorial Studies&#167; (not  <text bbox="63.072,477.573,80.299,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">2</text>
+<text bbox="80.232,477.573,90.550,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">-</text>
+<text bbox="90.552,477.573,107.779,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">h</text>
+<text bbox="107.779,477.573,125.006,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">o</text>
+<text bbox="124.882,477.573,142.109,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">u</text>
+<text bbox="142.109,477.573,152.427,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">r</text>
+<text bbox="152.427,477.573,161.041,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984"> </text>
+<text bbox="161.443,477.573,182.110,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">E</text>
+<text bbox="182.110,477.573,199.337,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">n</text>
+<text bbox="199.244,477.573,216.471,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">d</text>
+<text bbox="216.471,477.573,233.698,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">p</text>
+<text bbox="233.574,477.573,250.801,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">o</text>
+<text bbox="250.801,477.573,257.680,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">i</text>
+<text bbox="257.587,477.573,274.814,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">n</text>
+<text bbox="274.814,477.573,283.427,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">t</text>
+<text bbox="283.427,477.573,298.919,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">s</text>
+<text bbox="298.919,477.573,307.533,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984"> </text>
+<text bbox="307.967,477.573,314.845,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">i</text>
+<text bbox="314.845,477.573,332.072,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">n</text>
+<text bbox="331.979,477.573,340.593,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984"> </text>
+<text bbox="340.717,477.573,359.648,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">F</text>
+<text bbox="359.648,477.573,376.875,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">a</text>
+<text bbox="376.875,477.573,392.367,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">c</text>
+<text bbox="392.367,477.573,400.981,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">t</text>
+<text bbox="400.981,477.573,418.208,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">o</text>
+<text bbox="418.208,477.573,428.525,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">r</text>
+<text bbox="428.525,477.573,435.404,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">i</text>
+<text bbox="435.280,477.573,452.507,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">a</text>
+<text bbox="452.507,477.573,459.386,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">l</text>
+<text bbox="459.293,477.573,467.906,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984"> </text>
+<text bbox="468.154,477.573,488.820,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">S</text>
+<text bbox="488.820,477.573,497.434,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">t</text>
+<text bbox="497.434,477.573,514.661,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">u</text>
+<text bbox="514.661,477.573,531.888,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">d</text>
+<text bbox="531.764,477.573,538.643,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">i</text>
+<text bbox="538.643,477.573,555.870,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">e</text>
+<text bbox="555.777,477.573,571.269,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">s</text>
+<text bbox="571.370,489.101,582.859,509.765" colourspace="Pattern" font="ArialMT" ncolour="1" size="20.664">&#167;</text>
+<text bbox="591.770,477.573,602.088,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">(</text>
+<text bbox="602.088,477.573,619.315,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">n</text>
+<text bbox="619.315,477.573,636.542,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">o</text>
+<text bbox="636.418,477.573,645.031,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984">t</text>
+<text bbox="645.031,477.573,653.645,508.557" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.984"> </text>
+</textline>
+<textline bbox="10.248,440.358,697.653,471.318" colourspace="Pattern" font="ArialMT" ncolour="1" size="30.960">required to establish metoclopramide contribution) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="19.200,375.535,185.033,403.519" id="1" size="27.984">Endpoint (%) <textline bbox="19.200,375.535,185.033,403.519" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.984">Endpoint (%) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="302.830,395.341,441.400,423.301" id="2" size="27.96">MT100-301 <textline bbox="302.830,395.341,441.400,423.301" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">MT100-301 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="529.870,395.341,668.440,423.301" id="3" size="27.96">MT100-304 <textline bbox="529.870,395.341,668.440,423.301" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">MT100-304 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="265.030,355.678,700.875,382.678" id="4" size="27.0">MT100 Naproxen MT100 Naproxen <textline bbox="265.030,355.678,700.875,382.678" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.000">MT100 Naproxen MT100 Naproxen </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="384.240,58.065,463.003,342.871" id="14" size="27.966000000000005">46.6 
+p=0.67 
+26.6 
+p=0.33 
+52.2 
+p=0.50 
+48.0 
+p=0.50 <textline bbox="399.120,314.911,448.134,342.871" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">46.6 </textline>
+<textline bbox="384.240,281.311,463.003,309.271" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.67 </textline>
+<textline bbox="399.120,240.505,448.148,268.489" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984">26.6 </textline>
+<textline bbox="384.240,206.891,463.003,234.851" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.33 </textline>
+<textline bbox="399.120,166.091,448.134,194.051" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">52.2 </textline>
+<textline bbox="384.240,132.485,462.987,160.469" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984">p=0.50 </textline>
+<textline bbox="399.120,91.665,448.134,119.625" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">48.0 </textline>
+<textline bbox="384.240,58.065,463.003,86.025" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.50 </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="608.160,58.065,686.923,342.871" id="19" size="27.966000000000005">46.7 
+p=0.14 
+36.7 
+p=0.14 
+53.9 
+p=0.72 
+48.1 
+p=0.98 <textline bbox="623.040,314.911,672.054,342.871" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">46.7 </textline>
+<textline bbox="608.160,281.311,686.923,309.271" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.14 </textline>
+<textline bbox="623.040,240.505,672.068,268.489" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984">36.7 </textline>
+<textline bbox="608.160,206.891,686.923,234.851" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.14 </textline>
+<textline bbox="623.040,166.091,672.054,194.051" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">53.9 </textline>
+<textline bbox="608.160,132.485,686.907,160.469" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984">p=0.72 </textline>
+<textline bbox="623.040,91.665,672.054,119.625" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">48.1 </textline>
+<textline bbox="608.160,58.065,686.923,86.025" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">p=0.98 </textline>
+</normal_text>
+<slide_number bbox="673.320,3.955,685.332,27.979" id="20" size="24.024">7 <textline bbox="673.320,3.955,685.332,27.979" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.024">7 </textline>
+</slide_number>
+<enlisting archetypal_index="7" bbox="280.99,74.865,330.004,326.071">48.1 23.7 54.5 45.7 <normal_text bbox="280.990,298.111,330.004,326.071" id="6" size="27.96">48.1 <textline bbox="280.990,298.111,330.004,326.071" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">48.1 </textline>
+</normal_text>
+<normal_text bbox="280.990,223.691,330.004,251.651" id="8" size="27.96">23.7 <textline bbox="280.990,223.691,330.004,251.651" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">23.7 </textline>
+</normal_text>
+<normal_text bbox="280.990,149.291,330.004,177.251" id="10" size="27.96">54.5 <textline bbox="280.990,149.291,330.004,177.251" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">54.5 </textline>
+</normal_text>
+<normal_text bbox="280.990,74.865,330.004,102.825" id="12" size="27.96">45.7 <textline bbox="280.990,74.865,330.004,102.825" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">45.7 </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="8" bbox="514.03,74.865,563.044,326.071">49.8 33.7 54.8 48.0 <normal_text bbox="514.030,298.111,563.044,326.071" id="15" size="27.96">49.8 <textline bbox="514.030,298.111,563.044,326.071" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">49.8 </textline>
+</normal_text>
+<normal_text bbox="514.030,223.691,563.044,251.651" id="16" size="27.96">33.7 <textline bbox="514.030,223.691,563.044,251.651" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">33.7 </textline>
+</normal_text>
+<normal_text bbox="514.030,149.291,563.044,177.251" id="17" size="27.96">54.8 <textline bbox="514.030,149.291,563.044,177.251" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">54.8 </textline>
+</normal_text>
+<normal_text bbox="514.030,74.865,563.044,102.825" id="18" size="27.96">48.0 <textline bbox="514.030,74.865,563.044,102.825" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.960">48.0 </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="9" bbox="19.2,18.315,242.905,326.071">&#167; Pozen analysis 2-hr pain response 2-hr Nausea 2-hr Photophobia  2-hr Phonophobia  <normal_text bbox="49.200,18.315,195.897,40.299" id="13" size="21.984">&#167; Pozen analysis <textline bbox="49.200,18.315,195.897,40.299">&#167; Pozen analysis <text bbox="49.200,18.315,60.192,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="21.984">&#167;</text>
+<text bbox="65.664,18.315,77.887,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">P</text>
+<text bbox="77.887,18.315,88.879,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">o</text>
+<text bbox="88.879,18.315,98.640,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">z</text>
+<text bbox="98.640,18.315,108.401,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">e</text>
+<text bbox="108.401,18.315,119.393,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">n</text>
+<text bbox="119.393,18.315,124.889,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984"> </text>
+<text bbox="124.889,18.315,134.650,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">a</text>
+<text bbox="134.650,18.315,145.642,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">n</text>
+<text bbox="145.642,18.315,155.403,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">a</text>
+<text bbox="155.403,18.315,161.514,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">l</text>
+<text bbox="161.514,18.315,172.506,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">y</text>
+<text bbox="172.682,18.315,181.234,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">s</text>
+<text bbox="181.234,18.315,187.345,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">i</text>
+<text bbox="187.345,18.315,195.897,40.299" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="21.984">s</text>
+</textline>
+</normal_text>
+<normal_text bbox="19.2,74.865,242.905,326.071">2-hr pain response 2-hr Nausea 2-hr Photophobia  2-hr Phonophobia  <normal_text bbox="19.200,298.111,240.697,326.071" id="5" size="27.96">2-hr pain response <textline bbox="19.200,298.111,240.697,326.071" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">2-hr pain response </textline>
+</normal_text>
+<normal_text bbox="19.200,223.691,164.142,251.651" id="7" size="27.96">2-hr Nausea <textline bbox="19.200,223.691,164.142,251.651" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">2-hr Nausea </textline>
+</normal_text>
+<normal_text bbox="19.200,149.291,236.670,177.251" id="9" size="27.96">2-hr Photophobia  <textline bbox="19.200,149.291,236.670,177.251" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">2-hr Photophobia  </textline>
+</normal_text>
+<normal_text bbox="19.200,74.865,242.905,102.825" id="11" size="27.96">2-hr Phonophobia  <textline bbox="19.200,74.865,242.905,102.825" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="27.960">2-hr Phonophobia  </textline>
+</normal_text>
+</normal_text></enlisting></page>
+</pages>

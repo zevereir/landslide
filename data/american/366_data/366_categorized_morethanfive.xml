@@ -1,0 +1,135 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[243.1, 481.022, 476.975, 513.086]" rotate="0">
+<title archetypal_index="0" bbox="243.100,481.022,476.975,513.086" id="0" size="32.064">Store Summary <textline bbox="243.100,481.022,476.975,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Store Summary </textline>
+</title>
+<normal_text archetypal_index="1" bbox="31.848,375.029,70.247,389.069" id="1" size="14.04">Store <textline bbox="31.848,375.029,70.247,389.069" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Store </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="96.072,349.829,135.972,414.306" id="2" size="14.046">Avg  
+Init.  
+Lumi  
+(E30) <textline bbox="101.830,400.242,132.546,414.306" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.064">Avg  </textline>
+<textline bbox="98.232,383.429,135.972,397.469" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Init.  </textline>
+<textline bbox="99.192,366.629,135.148,380.669" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Lumi  </textline>
+<textline bbox="96.072,349.829,132.169,363.869">(E30) <text bbox="96.072,349.829,101.211,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">(</text>
+<text bbox="101.211,349.829,109.986,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">E</text>
+<text bbox="109.986,349.829,118.550,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">3</text>
+<text bbox="118.550,349.829,127.114,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">0</text>
+<text bbox="127.030,349.829,132.169,363.869" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">)</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="159.820,349.829,203.723,414.306" id="3" size="14.046">Avg  
+Deliv&#8217;d 
+Lumi 
+(nb-1) <textline bbox="169.540,400.242,200.256,414.306" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.064">Avg  </textline>
+<textline bbox="159.820,383.429,203.723,397.469" colourspace="DeviceGray" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="14.040">Deliv&#8217;d </textline>
+<textline bbox="166.900,366.629,196.721,380.669" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Lumi </textline>
+<textline bbox="163.060,349.829,200.479,364.676">(nb-1) <text bbox="163.060,349.829,168.199,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">(</text>
+<text bbox="168.199,349.829,175.542,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">n</text>
+<text bbox="175.542,349.829,183.867,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">b</text>
+<text bbox="183.820,355.316,189.530,364.676" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="9.360">-</text>
+<text bbox="189.580,355.316,195.290,364.676" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="9.360">1</text>
+<text bbox="195.340,349.829,200.479,363.869" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">)</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="223.080,366.629,261.578,397.469" id="4" size="14.04">Time  
+(hr) <textline bbox="223.080,383.429,261.578,397.469" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Time  </textline>
+<textline bbox="226.680,366.629,251.868,380.669" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">(hr) </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="289.940,366.629,366.907,397.469" id="5" size="14.04">How did it  
+end? <textline bbox="289.940,383.429,366.907,397.469" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">How did it  </textline>
+<textline bbox="309.740,366.629,341.077,380.669" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">end? </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="504.700,375.029,571.165,389.069" id="6" size="14.04">Comments <textline bbox="504.700,375.029,571.165,389.069" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="14.040">Comments </textline>
+</normal_text>
+<slide_number bbox="34.968,305.789,66.937,319.829" id="7" size="14.04">5187 <textline bbox="34.968,305.789,66.937,319.829" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">5187 </textline>
+</slide_number>
+<slide_number bbox="164.740,305.789,198.864,319.829" id="9" size="14.04">7708 <textline bbox="164.740,305.789,198.864,319.829" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">7708 </textline>
+</slide_number>
+<slide_number bbox="34.968,261.749,66.937,275.789" id="12" size="14.04">5188 <textline bbox="34.968,261.749,66.937,275.789" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">5188 </textline>
+</slide_number>
+<slide_number bbox="165.770,261.749,197.739,275.789" id="14" size="14.04">2153 <textline bbox="165.770,261.749,197.739,275.789" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">2153 </textline>
+</slide_number>
+<slide_number bbox="34.968,217.729,66.937,231.769" id="17" size="14.04">5190 <textline bbox="34.968,217.729,66.937,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">5190 </textline>
+</slide_number>
+<slide_number bbox="169.010,217.729,194.614,231.769" id="19" size="14.04">465 <textline bbox="169.010,217.729,194.614,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">465 </textline>
+</slide_number>
+<slide_number bbox="34.968,173.719,66.937,187.759" id="23" size="14.04">5193 <textline bbox="34.968,173.719,66.937,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">5193 </textline>
+</slide_number>
+<slide_number bbox="164.740,173.719,198.864,187.759" id="25" size="14.04">6847 <textline bbox="164.740,173.719,198.864,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">6847 </textline>
+</slide_number>
+<slide_number bbox="34.968,129.692,66.978,143.756" id="29" size="14.064">5194 <textline bbox="34.968,129.692,66.978,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">5194 </textline>
+</slide_number>
+<slide_number bbox="164.740,129.692,198.879,143.756" id="31" size="14.064">8257 <textline bbox="164.740,129.692,198.879,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">8257 </textline>
+</slide_number>
+<slide_number bbox="34.968,85.659,66.937,99.699" id="35" size="14.04">5197 <textline bbox="34.968,85.659,66.937,99.699" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">5197 </textline>
+</slide_number>
+<normal_text archetypal_index="7" bbox="61.224,9.116,201.977,23.180" id="39" size="14.064">Tevatron Coordinator <textline bbox="61.224,9.116,201.977,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">Tevatron Coordinator </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="324.000,9.116,402.168,23.180" id="40" size="14.064">11/30/2020 <textline bbox="324.000,9.116,402.168,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="650.280,9.116,658.859,23.180" id="41" size="14.064">2 <textline bbox="650.280,9.116,658.859,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">2 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.0.jpg" width="720">
+</background>
+<enlisting archetypal_index="9" bbox="92.112,85.659,604.3,319.829">235.5 64.76 111.89 238.18 273.17 193.2 <normal_text bbox="95.352,305.789,132.979,319.829" id="8" size="14.04">235.5 <textline bbox="95.352,305.789,132.979,319.829" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">235.5 </textline>
+</normal_text>
+<normal_text bbox="95.352,261.749,132.965,275.789" id="13" size="14.04">64.76 <textline bbox="95.352,261.749,132.965,275.789" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">64.76 </textline>
+</normal_text>
+<normal_text bbox="94.272,217.729,133.921,231.769" id="18" size="14.04">111.89 <textline bbox="94.272,217.729,133.921,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">111.89 </textline>
+</normal_text>
+<normal_text bbox="92.112,173.719,136.057,187.759" id="24" size="14.04">238.18 <textline bbox="92.112,173.719,136.057,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">238.18 </textline>
+</normal_text>
+<normal_text bbox="92.112,129.692,136.090,143.756" id="30" size="14.064">273.17 <textline bbox="92.112,129.692,136.090,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">273.17 </textline>
+</normal_text>
+<normal_text bbox="96.432,85.659,131.897,99.699" id="36" size="14.04">193.2 <textline bbox="96.432,85.659,131.897,99.699" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">193.2 </textline>
+</normal_text>
+<normal_text bbox="299.420,85.659,351.522,99.699" id="37" size="14.04">Ongoing <textline bbox="299.420,85.659,351.522,99.699" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">Ongoing </textline>
+</normal_text>
+<normal_text bbox="471.580,85.659,604.300,99.699" id="38" size="14.04">D17 separator spark <textline bbox="471.580,85.659,604.300,99.699" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">D17 separator spark </textline>
+</normal_text>
+<normal_text bbox="301.820,305.789,349.079,319.829" id="11" size="14.04">Normal <textline bbox="301.820,305.789,349.079,319.829" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">Normal </textline>
+</normal_text>
+<normal_text bbox="301.820,261.749,353.277,275.789" id="16" size="14.04">Normal  <textline bbox="301.820,261.749,353.277,275.789" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">Normal  </textline>
+</normal_text>
+<normal_text bbox="296.180,217.729,354.783,231.769" id="21" size="14.04">Normal ? <textline bbox="296.180,217.729,354.783,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">Normal ? </textline>
+</normal_text>
+<normal_text bbox="486.700,217.729,589.122,231.769" id="22" size="14.04">B17H separator <textline bbox="486.700,217.729,589.122,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">B17H separator </textline>
+</normal_text>
+<normal_text bbox="301.820,173.719,349.079,187.759" id="27" size="14.04">Normal <textline bbox="301.820,173.719,349.079,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">Normal </textline>
+</normal_text>
+<normal_text bbox="476.620,173.719,599.344,187.759" id="28" size="14.04">High losses at CDF <textline bbox="476.620,173.719,599.344,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">High losses at CDF </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="10" bbox="224.71,129.692,619.043,319.829">27.3 18.9 3.9 24.6 23.7 <normal_text bbox="224.710,305.789,253.815,319.829" id="10" size="14.04">27.3 <textline bbox="224.710,305.789,253.815,319.829" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">27.3 </textline>
+</normal_text>
+<normal_text bbox="225.740,261.749,252.683,275.789" id="15" size="14.04">18.9 <textline bbox="225.740,261.749,252.683,275.789" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">18.9 </textline>
+</normal_text>
+<normal_text bbox="228.980,217.729,249.563,231.769" id="20" size="14.04">3.9 <textline bbox="228.980,217.729,249.563,231.769" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">3.9 </textline>
+</normal_text>
+<normal_text bbox="224.710,173.719,253.815,187.759" id="26" size="14.04">24.6 <textline bbox="224.710,173.719,253.815,187.759" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.040">24.6 </textline>
+</normal_text>
+<normal_text bbox="224.710,129.692,253.837,143.756" id="32" size="14.064">23.7 <textline bbox="224.710,129.692,253.837,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">23.7 </textline>
+</normal_text>
+<normal_text bbox="301.820,129.692,349.145,143.756" id="33" size="14.064">Normal <textline bbox="301.820,129.692,349.145,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">Normal </textline>
+</normal_text>
+<normal_text bbox="461.020,129.692,619.043,143.756" id="34" size="14.064">D0 utility room rad trip  <textline bbox="461.020,129.692,619.043,143.756" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">D0 utility room rad trip  </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[247.51866666666666, 479.022, 493.43453333333326, 511.08600000000007]" rotate="0">
+<title archetypal_index="0" bbox="236.740,475.022,507.424,507.086" id="0" size="32.064">LBSEQ=17 losses <textline bbox="236.740,475.022,507.424,507.086" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="32.064">LBSEQ=17 losses </textline>
+</title>
+<normal_text archetypal_index="1" bbox="103.220,326.950,230.180,350.950" id="1" size="24.0">Store 5155 <textline bbox="103.220,326.950,230.180,350.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Store 5155 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="439.270,326.950,566.278,350.950" id="2" size="24.0">Store 5194 <textline bbox="439.270,326.950,566.278,350.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Store 5194 </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="324.000,9.116,402.168,23.180" id="4" size="14.064">11/30/2020 <textline bbox="324.000,9.116,402.168,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="650.280,9.116,658.859,23.180" id="5" size="14.064">6 <textline bbox="650.280,9.116,658.859,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">6 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.4.jpg" width="720">
+</background>
+<picture archetypal_index="4" bbox="30.000,76.800,324.000,312.000" caption="Tevatron Coordinator " height="235" name="Image36" src="Image36.640x512.bmp" width="294">
+</picture>
+<picture archetypal_index="5" bbox="360.000,76.800,654.000,312.000" height="235" name="Image37" src="Image37.640x512.bmp" width="294">
+</picture>
+</page>
+</pages>

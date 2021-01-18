@@ -1,0 +1,133 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[197.40066666666667, 396.1834999999999, 515.4184999999999, 473.8825]" rotate="0">
+<normal_text archetypal_index="0" bbox="180.360,476.140,547.440,528.960" id="0" size="24.0">Current ATN Data Management  
+Scattered and Less interoperable   <textline bbox="180.360,504.960,522.624,528.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Current ATN Data Management  </textline>
+<textline bbox="180.360,476.140,547.440,500.140" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Scattered and Less interoperable   </textline>
+</normal_text>
+<title archetypal_index="1" bbox="288.000,409.935,417.393,433.959" id="1" size="24.024">POST/OTN  <textline bbox="288.000,409.935,417.393,433.959" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">POST/OTN  </textline>
+</title>
+<normal_text archetypal_index="2" bbox="37.824,373.555,102.713,397.579" id="2" size="24.024">TOPP <textline bbox="37.824,373.555,102.713,397.579" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">TOPP </textline>
+</normal_text>
+<slide_number bbox="651.000,17.908,658.806,31.948" id="5" size="14.04">4 <textline bbox="651.000,17.908,658.806,31.948" colourspace="DeviceGray" font="ArialMT" ncolour="(0.733, 0.878, 0.89)" size="14.040">4 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="0.000,0.000,720.120,50.760" height="50" name="Image6" src="Image6.2.jpg" width="720">
+</picture>
+<picture archetypal_index="4" bbox="457.080,98.160,702.000,243.480" height="145" name="Image36" src="Image36.765x418.bmp" width="244">
+</picture>
+<picture archetypal_index="5" bbox="453.000,289.920,711.960,448.680" caption="MATOS " height="158" name="Image37" src="Image37.952x583.bmp" width="258">
+</picture>
+<picture archetypal_index="6" bbox="4.2,85.92,453.0,456.24" caption="&#10;&#10;GulfTOPP " combined_sources="['Image32.jpg', 'Image33.jpg', 'Image34.jpg', 'Image35.551x494.bmp']" name="combined_0" src="combined_4_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[179.13240000000002, 419.90689999999995, 504.95949999999993, 494.70230000000004]" rotate="0">
+<title archetypal_index="0" bbox="151.730,455.492,489.271,525.932" id="0" size="32.04">Current version of CTD  
+tag: <textline bbox="151.730,493.892,489.271,525.932" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="32.040">Current version of CTD  </textline>
+<textline bbox="151.730,455.492,205.045,487.532" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="32.040">tag: </textline>
+</title>
+<normal_text archetypal_index="1" bbox="94.272,378.240,337.398,396.240" id="1" size="18.0">Conductivity sensor        (inductive cell) <textline bbox="94.272,378.240,337.398,396.240" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">Conductivity sensor        (inductive cell) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="359.040,380.640,470.302,420.280" id="2" size="18.012">Pressure sensor   
+(not visible) <textline bbox="359.040,402.256,470.302,420.280" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.024">Pressure sensor   </textline>
+<textline bbox="374.400,380.640,447.462,398.640" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">(not visible) </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="417.840,308.640,464.208,348.240" id="3" size="18.0">D-cell  
+Battery <textline bbox="423.480,330.240,462.288,348.240" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">D-cell  </textline>
+<textline bbox="417.840,308.640,464.208,326.640" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">Battery </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="79.512,126.190,244.230,144.190" id="5" size="18.0">Temperature sensor (PRT) <textline bbox="79.512,126.190,244.230,144.190" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">Temperature sensor (PRT) </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="326.160,120.190,441.936,138.190" id="6" size="18.0">RS232 Comm. port <textline bbox="326.160,120.190,441.936,138.190" colourspace="DeviceGray" font="BCDEEE+AgencyFB-Bold" ncolour="1" size="18.000">RS232 Comm. port </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="30.696,66.000,527.998,91.656" id="7" size="24.0">Sensor performance: Temperature: &#177; 0.01&#176;C <textline bbox="30.696,66.000,527.998,91.656">Sensor performance: Temperature: &#177; 0.01&#176;C <text bbox="30.696,66.000,46.704,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">S</text>
+<text bbox="46.704,66.000,60.048,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="60.048,66.000,73.392,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">n</text>
+<text bbox="73.392,66.000,85.392,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">s</text>
+<text bbox="85.392,66.000,98.736,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">o</text>
+<text bbox="98.736,66.000,106.728,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">r</text>
+<text bbox="106.728,66.000,113.400,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000"> </text>
+<text bbox="113.568,66.000,126.912,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">p</text>
+<text bbox="126.912,66.000,140.256,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="140.256,66.000,148.248,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">r</text>
+<text bbox="148.248,66.000,154.920,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">f</text>
+<text bbox="154.992,66.000,168.336,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">o</text>
+<text bbox="168.336,66.000,176.328,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">r</text>
+<text bbox="176.328,66.000,196.320,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">m</text>
+<text bbox="196.416,66.000,209.760,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">a</text>
+<text bbox="209.760,66.000,223.104,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">n</text>
+<text bbox="223.104,66.000,235.104,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">c</text>
+<text bbox="235.104,66.000,248.448,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="248.448,66.000,255.120,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">:</text>
+<text bbox="255.120,66.000,261.792,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000"> </text>
+<text bbox="261.288,66.000,275.952,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">T</text>
+<text bbox="273.288,66.000,286.632,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="286.632,66.000,306.624,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">m</text>
+<text bbox="306.672,66.000,320.016,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">p</text>
+<text bbox="320.016,66.000,333.360,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="333.360,66.000,341.352,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">r</text>
+<text bbox="341.352,66.000,354.696,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">a</text>
+<text bbox="354.696,66.000,361.368,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">t</text>
+<text bbox="361.440,66.000,374.784,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">u</text>
+<text bbox="374.784,66.000,382.776,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">r</text>
+<text bbox="382.776,66.000,396.120,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">e</text>
+<text bbox="396.120,66.000,402.792,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">:</text>
+<text bbox="402.864,66.000,409.536,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000"> </text>
+<text bbox="409.250,67.656,433.250,91.656" colourspace="DeviceGray" font="BCDFEE+MS-PGothic" ncolour="(0.753, 0, 0)" size="24.000">&#177;</text>
+<text bbox="439.990,66.000,453.334,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">0</text>
+<text bbox="453.334,66.000,460.006,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">.</text>
+<text bbox="460.006,66.000,473.350,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">0</text>
+<text bbox="473.350,66.000,486.694,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">1</text>
+<text bbox="486.670,67.656,510.670,91.656" colourspace="DeviceGray" font="BCDFEE+MS-PGothic" ncolour="(0.753, 0, 0)" size="24.000">&#176;</text>
+<text bbox="510.670,66.000,527.998,90.000" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">C</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="263.780,8.635,681.966,62.856" id="8" size="24.012">Salinity: &#177; 0.01 
+Pressure: 1% of full scale (~2000 dBar) <textline bbox="263.780,37.200,431.834,62.856">Salinity: &#177; 0.01 <text bbox="263.780,37.200,279.788,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">S</text>
+<text bbox="279.788,37.200,293.132,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">a</text>
+<text bbox="293.060,37.200,298.388,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">l</text>
+<text bbox="298.388,37.200,303.716,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">i</text>
+<text bbox="303.620,37.200,316.964,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">n</text>
+<text bbox="316.964,37.200,322.292,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">i</text>
+<text bbox="322.220,37.200,328.892,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">t</text>
+<text bbox="328.892,37.200,340.892,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">y</text>
+<text bbox="340.892,37.200,347.564,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">:</text>
+<text bbox="347.636,37.200,354.308,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000"> </text>
+<text bbox="354.530,38.856,378.530,62.856" colourspace="DeviceGray" font="BCDFEE+MS-PGothic" ncolour="(0.753, 0, 0)" size="24.000">&#177;</text>
+<text bbox="385.130,37.200,398.474,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">0</text>
+<text bbox="398.474,37.200,405.146,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">.</text>
+<text bbox="405.146,37.200,418.490,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">0</text>
+<text bbox="418.490,37.200,431.834,61.200" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.000">1</text>
+</textline>
+<textline bbox="263.780,8.635,681.966,32.659" colourspace="DeviceGray" font="ArialMT" ncolour="(0.753, 0, 0)" size="24.024">Pressure: 1% of full scale (~2000 dBar) </textline>
+</normal_text>
+<picture archetypal_index="8" bbox="0.000,0.000,720.120,50.760" height="50" name="Image6" src="Image6.4.jpg" width="720">
+</picture>
+<background archetypal_index="9" bbox="0.000,0.000,720.000,539.880" height="539" name="Image45" src="Image45.jpg" width="720">
+</background>
+<picture archetypal_index="10" bbox="0.000,449.760,97.080,540.000" height="90" name="Image46" src="Image46.jpg" width="97">
+</picture>
+<picture archetypal_index="11" bbox="24.000,98.520,486.000,426.960" height="328" name="Image49" src="Image49.jpg" width="462">
+</picture>
+<curve bbox="408.060,270.900,438.920,307.620" linewidth="0" pts="437.200,307.620,410.800,275.940,412.530,274.500,438.920,306.180,409.790,278.250,408.060,270.900,414.970,273.920" />
+<curve bbox="221.210,258.900,306.060,355.640" linewidth="0" pts="222.910,355.640,303.200,263.870,301.510,262.390,221.210,354.160,304.150,266.200,306.060,258.900,299.080,261.760" />
+<curve bbox="162.980,154.530,288.060,240.900" linewidth="0" pts="164.260,154.530,284.060,236.790,282.790,238.640,162.980,156.390,284.410,234.300,288.060,240.900,280.580,239.860" />
+<curve bbox="99.561,289.760,142.540,329.710" linewidth="0" pts="105.320,316.030,103.750,317.330,105.090,319.600,103.110,321.240,101.130,319.490,99.561,320.790,99.584,320.810,110.380,329.710,112.050,328.330,105.990,321.150,109.170,326.570,104.440,322.430,110.730,311.570,109.170,312.850,113.750,318.400,112.270,319.580,107.710,314.060,106.160,315.340,111.810,322.180,113.360,320.900,113.160,320.650,113.570,320.410,113.970,320.170,114.370,319.930,114.880,319.640,115.270,319.370,115.550,319.140,116.120,318.670,116.170,318.160,115.710,317.600,114.850,308.160,113.130,309.580,112.550,310.060,112.500,310.570,112.970,311.140,116.830,315.820,116.100,316.420,117.190,317.740,117.920,317.140,119.450,318.990,121.000,317.720,119.470,315.860,120.460,315.040,119.370,313.720,118.370,314.540,114.900,310.340,115.940,309.480,120.810,304.660,120.350,304.100,119.820,304.050,119.240,304.530,116.560,306.750,115.980,307.230,115.920,307.750,116.390,308.310,120.640,313.460,121.110,314.030,121.630,314.070,122.220,313.590,124.890,311.380,125.470,310.900,125.530,310.370,125.070,309.810,122.990,307.300,122.210,307.220,119.700,309.300,118.110,307.380,119.570,306.180,120.510,307.320,121.990,306.090,121.990,309.100,123.340,310.740,121.880,311.950,120.530,310.310,125.810,299.110,124.250,300.400,128.830,305.950,127.350,307.120,122.790,301.600,121.240,302.880,126.890,309.730,128.440,308.450,128.240,308.190,128.650,307.950,129.050,307.710,129.450,307.470,129.960,307.180,130.350,306.920,130.640,306.680,131.200,306.220,131.250,305.700,130.790,305.150,131.540,294.370,129.990,295.660,134.570,301.210,133.090,302.390,128.530,296.860,126.980,298.140,132.630,304.990,134.180,303.710,133.970,303.460,134.380,303.220,134.790,302.980,135.190,302.740,135.690,302.440,136.090,302.180,136.370,301.940,136.940,301.480,136.990,300.970,136.530,300.410,137.120,289.760,135.640,290.990,135.840,291.230,135.440,291.460,135.040,291.700,134.640,291.940,134.130,292.250,133.750,292.510,133.510,292.700,132.950,293.170,132.890,293.680,133.350,294.240,135.390,296.700,135.860,297.270,136.380,297.310,136.960,296.830,139.060,295.100,140.360,296.670,138.870,297.900,138.070,296.920,136.660,298.080,137.720,299.360,138.190,299.920,138.710,299.970,139.290,299.490,141.920,297.320,142.490,296.850,142.540,296.330,142.080,295.760,136.670,292.210,138.190,294.050,136.710,295.270,135.140,293.380" />
+<curve bbox="370.540,264.900,397.150,355.190" linewidth="0" pts="394.970,355.190,372.420,270.630,374.600,270.050,397.150,354.610,370.540,272.290,372.060,264.900,377.060,270.550" />
+<curve bbox="392.680,144.900,399.430,198.900" linewidth="0" pts="397.180,144.900,397.180,193.270,394.930,193.270,394.930,144.900,399.430,192.150,396.060,198.900,392.680,192.150" />
+<picture archetypal_index="12" bbox="569.760,363.000,707.760,445.800" caption="NOPP funding " height="82" name="Image54" src="Image54.jpg" width="138">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[127.3416, 427.00426666666664, 566.0176666666666, 506.20386666666667]" rotate="0">
+<title archetypal_index="0" bbox="23.760,441.199,688.134,529.207" id="0" size="39.972">A Decade of Building Next Generation  
+Technology, Data Storage &amp; Display <textline bbox="23.760,489.223,688.134,529.207" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.98, 0.992, 0)" size="39.984">A Decade of Building Next Generation  </textline>
+<textline bbox="42.120,441.199,659.542,481.159" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.98, 0.992, 0)" size="39.960">Technology, Data Storage &amp; Display </textline>
+</title>
+<normal_text archetypal_index="1" bbox="163.870,485.263,594.656,513.247" id="1" size="27.984">Next Generation Electronic Tags <textline bbox="163.870,485.263,594.656,513.247" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.984">Next Generation Electronic Tags </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="97.224,413.092,167.658,431.092" id="2" size="18.0">CTD Tag <textline bbox="97.224,413.092,167.658,431.092" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.000">CTD Tag </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="301.250,377.092,466.240,395.092" id="3" size="18.0">Pop-Up Satellite Tags <textline bbox="301.250,377.092,466.240,395.092" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.000">Pop-Up Satellite Tags </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="481.300,383.092,674.656,401.092" id="4" size="18.0">Rapid Temperature TDR <textline bbox="481.300,383.092,674.656,401.092" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.000">Rapid Temperature TDR </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="109.270,93.288,256.942,111.288" id="6" size="18.0">Prototype GPS Tag <textline bbox="109.270,93.288,256.942,111.288" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.000">Prototype GPS Tag </textline>
+</normal_text>
+<picture archetypal_index="6" bbox="0.0,0.0,720.12,432.0" caption="&#10;Geolocation Tags (6 g) &#10;&#10;Small Acoustic &#10;Tags  &#10;&#10;" combined_sources="['Image63.jpg', 'Image62.jpg', 'Image6.5.jpg', 'Image64.jpg', 'Image69.jpg', 'Image71.jpg', 'Image72.jpg', 'Image73.jpg', 'Image75.80x58.bmp', 'Image59.jpg', 'Image70.jpg']" name="combined_0" src="combined_7_0.png" /></page>
+</pages>

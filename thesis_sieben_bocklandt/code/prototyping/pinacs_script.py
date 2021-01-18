@@ -22,7 +22,7 @@ def main():
     parser.add_argument("--cutoff",default=2)
     parser.add_argument("--equal-size",action="store_true")
     parser.add_argument("--beam-size",default=None)
-    parser.add_argument("--experiment",action="store_true")
+    parser.add_argument("--experiment-set",default="all")
     args = parser.parse_args()
 
     beam=args.beam_size
@@ -33,12 +33,15 @@ def main():
     name_output=args.exp_name+"_"+args.archetypes+"_"+str(args.cutoff)+"_"+beam_name+"_"+str(args.experiment)+"_"+str(args.equal_size)
     if beam!=None:
         beam=int(beam)
-    if not args.experiment:
+    if args.experiment_set=="all":
         categorized="_categorized.xml"
         preparsed="_preparsed.xml"
+    elif args.experiment_set=="five":
+        categorized="_categorized_lessthanfive.xml"
+        preparsed = "_preparsed_lessthanfive.xml"
     else:
-        "_categorized_experiment.xml"
-        preparsed = "_preparsed_experiment.xml"
+        categorized = "_categorized_morethanfive.xml"
+        preparsed = "_preparsed_morethanfive.xml"
     source = Path(args.data).resolve()
     force_override=args.force
     data=source.stem.replace("_data","")

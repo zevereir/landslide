@@ -1,0 +1,43 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[57.42333333333334, 490.08033333333333, 322.3723333333333, 528.7443333333333]" rotate="0">
+<title archetypal_index="0" bbox="7.200,489.123,229.511,529.107" id="0" size="39.984">Inlet/airflow <textline bbox="7.200,489.123,229.511,529.107" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984">Inlet/airflow </textline>
+</title>
+<normal_text archetypal_index="1" bbox="13.200,340.038,396.161,435.228" id="1" size="27.968">Differential pressure  
+measurement at inlet.  Valve  
+regulation of impedance. <textline bbox="13.200,407.268,293.331,435.228" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="27.960">Differential pressure  </textline>
+<textline bbox="13.200,373.663,396.161,401.647" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="27.984">measurement at inlet.  Valve  </textline>
+<textline bbox="13.200,340.038,344.498,367.998" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="27.960">regulation of impedance. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="547.300,371.135,642.004,423.940" id="2" size="24.012">Butterfly  
+valve <textline bbox="547.300,399.940,642.004,423.940" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">Butterfly  </textline>
+<textline bbox="547.300,371.135,603.276,395.159" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">valve </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="19.200,155.090,132.576,207.890" id="3" size="24.0">Free- 
+stream tap <textline bbox="19.200,183.890,76.536,207.890" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">Free- </textline>
+<textline bbox="19.200,155.090,132.576,179.090" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="24.000">stream tap </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="223.250,3.859,308.631,27.883" id="4" size="24.024">Inlet tap <textline bbox="223.250,3.859,308.631,27.883" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 0)" size="24.024">Inlet tap </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="12.000,0.000,702.000,441.480" height="441" name="Image22" src="Image22.1013x649.bmp" width="690">
+</picture>
+<curve bbox="70.087,41.940,94.006,150.270" linewidth="0" pts="74.033,150.270,90.389,52.133,86.443,51.475,70.087,149.610,94.006,54.763,90.060,41.940,82.169,52.790" />
+<curve bbox="108.060,15.956,204.310,34.405" linewidth="0" pts="203.810,15.956,117.730,26.715,118.230,30.684,204.310,19.925,119.220,22.498,108.060,29.940,120.710,34.405" />
+<curve bbox="42.000,6.000,138.000,54.000" linewidth="0" pts="42.000,30.000,42.000,43.255,63.490,54.000,90.000,54.000,116.510,54.000,138.000,43.255,138.000,30.000,138.000,16.745,116.510,6.000,90.000,6.000,63.490,6.000,42.000,16.745,42.000,30.000" />
+<curve bbox="521.510,251.940,577.880,372.760" linewidth="0" pts="574.240,372.760,524.340,261.880,527.990,260.240,577.880,371.120,521.510,265.350,522.060,251.940,532.460,260.420" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[10.174395604395606, 482.22743956043956, 270.0286703296703, 529.095043956044]" rotate="0">
+<title archetypal_index="0" bbox="7.200,482.081,79.649,529.107" id="0" size="39.984">CH4 <textline bbox="7.200,482.081,79.649,529.107">CH4 <text bbox="7.200,489.123,36.068,529.107" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984">C</text>
+<text bbox="36.000,489.123,64.868,529.107" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984">H</text>
+<text bbox="64.824,482.081,79.649,508.745" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="26.664">4</text>
+</textline>
+</title>
+<normal_text archetypal_index="1" bbox="589.320,482.747,697.164,502.811" id="1" size="20.064">July 3, 2005 <textline bbox="589.320,482.747,697.164,502.811" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">July 3, 2005 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="589.320,446.732,659.640,466.772" id="2" size="20.04">descent <textline bbox="589.320,446.732,659.640,466.772" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">descent </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="589.320,212.682,697.115,232.722" id="3" size="20.04">July 7, 2005 <textline bbox="589.320,212.682,697.115,232.722" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">July 7, 2005 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="589.320,176.682,659.640,196.722" id="4" size="20.04">descent <textline bbox="589.320,176.682,659.640,196.722" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">descent </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="90.0,0.0,588.0,540.0" caption="" combined_sources="['Image71.jpg', 'Image72.jpg']" name="combined_0" src="combined_14_0.png" /></page>
+</pages>

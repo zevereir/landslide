@@ -1,0 +1,77 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[71.86457142857144, 416.3161071428571, 445.28542857142855, 451.89610714285715]" rotate="0">
+<title archetypal_index="0" bbox="72.936,401.690,406.944,437.690" id="0" size="36.0">Construction Costs <textline bbox="72.936,401.690,406.944,437.690" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.4, 0.4)" size="36.000">Construction Costs </textline>
+</title>
+<normal_text archetypal_index="1" bbox="73.224,303.602,288.401,351.242" id="1" size="14.04">Original Project Budget 
+Building Construction (Hard Costs) 
+Related Costs (Soft Costs) <textline bbox="73.224,337.202,217.037,351.242" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Original Project Budget </textline>
+<textline bbox="73.224,320.402,288.401,334.442" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Building Construction (Hard Costs) </textline>
+<textline bbox="73.224,303.602,238.812,317.642" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Related Costs (Soft Costs) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="73.224,185.982,284.372,267.261" id="2" size="14.044799999999999">Actual Construction Costs 
+Low Base Bid Amounts 
+Detention Furnishings (Still to Bid) 
+Signage (Still to Bid) 
+Alternates Selected <textline bbox="73.224,253.197,234.201,267.261" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.064">Actual Construction Costs </textline>
+<textline bbox="73.224,236.382,217.106,250.422" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Low Base Bid Amounts </textline>
+<textline bbox="73.224,219.582,284.372,233.622" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Detention Furnishings (Still to Bid) </textline>
+<textline bbox="73.224,202.782,199.921,216.822" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Signage (Still to Bid) </textline>
+<textline bbox="73.224,185.982,194.614,200.022" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Alternates Selected </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="73.224,101.952,288.401,149.622" id="3" size="14.04">NEW PROJECT BUDGET  
+Building Construction (Hard Costs) 
+Related Costs (Soft Costs) <textline bbox="73.224,135.582,242.827,149.622" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.2, 0.4)" size="14.040">NEW PROJECT BUDGET  </textline>
+<textline bbox="73.224,118.752,288.401,132.792" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Building Construction (Hard Costs) </textline>
+<textline bbox="73.224,101.952,238.812,115.992" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Related Costs (Soft Costs) </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="215.090,169.182,394.315,183.222" id="4" size="14.04">Building Construction TOTAL <textline bbox="215.090,169.182,394.315,183.222" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">Building Construction TOTAL </textline>
+</normal_text>
+<enlisting archetypal_index="5" bbox="73.224,4.999,622.242,47.012" id="11" size="9.96">*Does not include land purchase and financing costs <textline bbox="73.224,37.052,324.027,47.012" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.2, 0.4)" size="9.960">*Does not include land purchase and financing costs </textline>
+<normal_text bbox="499.300,4.999,622.242,23.023" id="12" size="18.024">Updated 2/6/09 <textline bbox="499.300,4.999,622.242,23.023" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="18.024">Updated 2/6/09 </textline>
+</normal_text>
+</enlisting>
+<rect bbox="0.000,0.000,60.000,540.000" linewidth="0" />
+<curve bbox="36.000,448.080,252.000,540.000" linewidth="0" pts="252.000,540.000,252.000,479.970,83.500,479.720,80.250,479.970,74.500,478.850,72.250,477.720,68.875,475.840,66.750,473.590,64.625,471.340,62.875,468.210,61.750,465.340,60.625,462.460,60.250,459.590,60.000,456.710,60.000,448.080,36.000,448.080,36.000,479.970,36.000,540.000,252.000,540.000" />
+<rect bbox="48.000,359.040,600.000,384.000" linewidth="0" />
+<curve bbox="18.000,358.920,48.960,384.000" linewidth="0" pts="48.960,384.000,33.480,384.000,24.931,384.000,18.000,378.390,18.000,371.460,18.000,364.530,24.931,358.920,33.480,358.920,48.960,358.920" />
+<rect bbox="73.200,337.680,217.080,338.760" linewidth="0" />
+<rect bbox="433.200,304.080,542.640,305.160" linewidth="0" />
+<curve bbox="73.200,253.680,234.240,254.760" linewidth="0" pts="73.200,254.760,153.720,254.760,234.240,254.760,234.240,253.680,153.720,253.680,73.200,253.680" />
+<rect bbox="433.200,186.480,542.040,187.560" linewidth="0" />
+<curve bbox="73.200,135.720,238.920,137.160" linewidth="0" pts="73.200,137.160,156.060,137.160,238.920,137.160,238.920,135.720,156.060,135.720,73.200,135.720" />
+<rect bbox="433.200,102.480,539.760,103.560" linewidth="0" />
+<enlisting archetypal_index="6" bbox="361.27,85.156,546.039,334.442">$  14,229,234.00 
+$    3,117,087.00* 
+$  17,346,321.00 $   13,112,442.00 $        150,000.00 
+$          50,000.00 
+$        223,760.00 
+$    13,536,202.00 $ 13,536,202.00 
+$   3,253,237.00* 
+$16,789,439.00 <normal_text bbox="433.270,286.802,542.614,334.442" id="5" size="14.04">$  14,229,234.00 
+$    3,117,087.00* 
+$  17,346,321.00 <textline bbox="433.270,320.402,538.219,334.442" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$  14,229,234.00 </textline>
+<textline bbox="433.270,303.602,542.614,317.642" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$    3,117,087.00* </textline>
+<textline bbox="433.270,286.802,538.219,300.842" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$  17,346,321.00 </textline>
+</normal_text>
+<normal_text bbox="361.270,236.382,469.125,250.422" id="7" size="14.04">$   13,112,442.00 <textline bbox="361.270,236.382,469.125,250.422" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$   13,112,442.00 </textline>
+</normal_text>
+<normal_text bbox="433.270,169.182,546.039,233.622" id="8" size="14.04">$        150,000.00 
+$          50,000.00 
+$        223,760.00 
+$    13,536,202.00 <textline bbox="433.270,219.582,542.192,233.622" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$        150,000.00 </textline>
+<textline bbox="433.270,202.782,542.164,216.822" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$          50,000.00 </textline>
+<textline bbox="433.270,185.982,542.192,200.022" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$        223,760.00 </textline>
+<textline bbox="433.270,169.182,546.039,183.222" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$    13,536,202.00 </textline>
+</normal_text>
+<normal_text bbox="433.270,85.156,539.890,132.792" id="9" size="14.04">$ 13,536,202.00 
+$   3,253,237.00* 
+$16,789,439.00 <textline bbox="433.270,118.752,534.428,132.792" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$ 13,536,202.00 </textline>
+<textline bbox="433.270,101.952,539.890,115.992" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">$   3,253,237.00* </textline>
+<textline bbox="433.270,85.156,530.609,99.196" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.2, 0.4)" size="14.040">$16,789,439.00 </textline>
+</normal_text>
+<normal_text bbox="361.270,286.802,405.089,300.842" id="6" size="14.04">TOTAL <textline bbox="361.270,286.802,405.089,300.842" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="14.040">TOTAL </textline>
+</normal_text>
+<normal_text bbox="361.270,85.156,406.212,99.196" id="10" size="14.04">TOTAL <textline bbox="361.270,85.156,406.212,99.196" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.2, 0.4)" size="14.040">TOTAL </textline>
+</normal_text>
+</enlisting></page>
+</pages>
