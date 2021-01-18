@@ -209,7 +209,7 @@ def archetypes2slides(archetypes, tree, output_directory, ppt_path, RA=None, mak
         for i in to_add:
             used_content.append(i)
         info_used.append([x.strip() for x in used_content if x != None])
-    add_numbers = sum(slide_numbers) / len(slide_numbers) > 0.8
+    add_numbers = sum(slide_numbers) / max(1.0,len(slide_numbers)) > 0.8
     counter = 0
     for slide in prs.slides:
         ref = references.pop(0)
