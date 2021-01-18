@@ -18,7 +18,7 @@ def tree2RA(tree,xml_file):
         background_indexes = [element for element in elements if element.tag=="background"]
         if len(background_indexes) > 0:
             background_counter += 1
-    if background_counter / amount_of_slides > 0.8:
+    if background_counter / max(1.0,amount_of_slides) > 0.8:
         one_background = True
     for page in tree.getroot():
         page_id=int(page.attrib.get("id"))
@@ -46,7 +46,7 @@ def tree2RA(tree,xml_file):
         rectangle_algebra=calc_RA_set(usefull_elements,page_size, title_indices,background_indices, page_id)
         pages.append(Page(usefull_elements,rectangle_algebra,page_index, len(usefull_elements)))
         page_index+=1
-    tree.write(str(xml_file).replace(".xml","_categorized.xml"))
+    tree.write(xml_file)
     return Powerpoint(pages), tree, one_background
 
 def calc_RA_set(elements,page_size, title_indices, background_indices, page_id):

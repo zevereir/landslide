@@ -268,7 +268,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     return max_dist,False, best_mapping
 
 
-def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
+def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, large_search):
     indices = [1,1,2,3,4,1,0,2,1,0]
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
@@ -321,7 +321,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
     for page in powerpoint.pages:
         start=datetime.now()
         glob.init()
-        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam)
+        possible_archetypes,simil= find_archetype(page.RA,page.n, True,archs_to_use,equal_size, cutoff,beam=beam, large_search=large_search)
         times.append((datetime.now()-start).total_seconds())
         #print("Dia",count,"#iteraties=",glob.numb_iterations, "#substituties=", glob.numb_substitution)
         count += 1
@@ -394,7 +394,7 @@ def remove_overlapping(RA_set):
         lists=new_lists[:]
     return [(set(l),n) for l in lists]
 
-def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False, beam=None):
+def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=False, beam=None, large_search=False):
     """"
     De functie die voor een bepaalde slide (gegeven door de RA-matrix) het archetype bepaald. Dit gaat als volgt:
     1. er worden een aantal constraints bepaald
@@ -431,7 +431,7 @@ def find_archetype(RA,n, recursive, archs_to_use,equal_size, cutoff=0, subset=Fa
     if solutions!=[]:
         return solutions,1
     elif recursive:
-        solutions=select_closest(RA,n, archs_to_use, cutoff, equal_size, beam)
+        solutions=select_closest(RA,n, archs_to_use, cutoff, equal_size, beam, large_search)
 
         return solutions[0],1
     else:
@@ -603,14 +603,14 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equ
     return best_arch,best_simil, best_change
 
 from datetime import datetime
-def select_closest(RA_set,amount, archs, cutoff, equal_size,beam):
+def select_closest(RA_set,amount, archs, cutoff, equal_size,beam, large_search):
 
 
     """
    Iterative deepening op de RA-matrix
     """
     #aantal elementen in de bovendriehoeksmatrix
-    if amount>5:
+    if (not large_search) and amount>5:
         return find_archetype(RA_set, amount, False, archs, False, cutoff, True)
     max_amount_changes = int(amount + (amount * amount - amount) / 2)
     extra = 0
