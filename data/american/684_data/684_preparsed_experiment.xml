@@ -1,0 +1,1576 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<textbox bbox="66.192,276.522,662.918,346.962" id="0" size="32.04">Instrumentation for Linac-based X-Ray  
+FELs <textline bbox="66.192,314.922,662.918,346.962" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">Instrumentation for Linac-based X-Ray  </textline>
+<textline bbox="320.880,276.522,399.169,308.562" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">FELs </textline>
+</textbox>
+<textbox bbox="285.100,203.938,434.630,231.898" id="1" size="27.96">Henrik Loos <textline bbox="285.100,203.938,434.630,231.898" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">Henrik Loos </textline>
+</textbox>
+<textbox bbox="128.830,103.108,590.955,165.799" id="2" size="27.972">12th Beam Instrumentation Workshop 
+May 1-4, 2006 <textline bbox="128.830,136.733,590.955,165.799">12th Beam Instrumentation Workshop <text bbox="128.830,136.733,144.389,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">1</text>
+<text bbox="144.430,136.733,159.989,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">2</text>
+<text bbox="160.030,147.079,165.234,165.799" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.720">t</text>
+<text bbox="165.190,147.079,175.598,165.799" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.720">h</text>
+<text bbox="183.340,136.733,202.005,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">B</text>
+<text bbox="202.005,136.733,217.564,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">e</text>
+<text bbox="217.564,136.733,233.124,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">a</text>
+<text bbox="233.124,136.733,256.434,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">m</text>
+<text bbox="256.434,136.733,264.214,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984"> </text>
+<text bbox="264.326,136.733,272.105,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">I</text>
+<text bbox="272.105,136.733,287.664,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">n</text>
+<text bbox="287.664,136.733,301.656,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">s</text>
+<text bbox="301.740,136.733,309.520,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">t</text>
+<text bbox="309.520,136.733,318.839,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">r</text>
+<text bbox="318.839,136.733,334.398,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">u</text>
+<text bbox="334.482,136.733,357.792,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">m</text>
+<text bbox="357.792,136.733,373.351,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">e</text>
+<text bbox="373.351,136.733,388.910,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">n</text>
+<text bbox="388.910,136.733,396.690,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">t</text>
+<text bbox="396.690,136.733,412.249,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">a</text>
+<text bbox="412.333,136.733,420.113,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">t</text>
+<text bbox="420.113,136.733,426.325,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">i</text>
+<text bbox="426.325,136.733,441.884,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">o</text>
+<text bbox="441.940,136.733,457.499,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">n</text>
+<text bbox="457.499,136.733,465.279,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984"> </text>
+<text bbox="465.279,136.733,491.696,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">W</text>
+<text bbox="491.248,136.733,506.807,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">o</text>
+<text bbox="506.807,136.733,516.126,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">r</text>
+<text bbox="516.126,136.733,530.118,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">k</text>
+<text bbox="530.230,136.733,544.222,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">s</text>
+<text bbox="544.222,136.733,559.781,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">h</text>
+<text bbox="559.837,136.733,575.396,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">o</text>
+<text bbox="575.396,136.733,590.955,164.717" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">p</text>
+</textline>
+<textline bbox="270.340,103.108,449.482,131.068" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">May 1-4, 2006 </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="3" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="4" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="5" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="6" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.137x99.bmp" width="49">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<textbox bbox="304.900,435.567,415.360,467.631" id="0" size="32.064">Outline <textline bbox="304.900,435.567,415.360,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">Outline </textline>
+</textbox>
+<textbox bbox="58.200,205.618,457.486,410.631" id="1" size="30.417600000000004">XFEL introduction 
+LCLS overview 
+Electron beam diagnostics 
+Transverse Beam Properties 
+Longitudinal Beam Properties <textline bbox="58.200,378.567,311.666,410.631" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.064">XFEL introduction </textline>
+<textline bbox="58.200,332.462,273.733,364.502" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">LCLS overview </textline>
+<textline bbox="58.200,286.382,433.677,318.422" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">Electron beam diagnostics </textline>
+<textline bbox="89.784,245.953,445.405,273.937" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">Transverse Beam Properties </textline>
+<textline bbox="89.784,205.618,457.486,233.578" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">Longitudinal Beam Properties </textline>
+</textbox>
+<textbox bbox="58.200,159.642,417.497,191.682" id="2" size="32.04">Photon beam diagnostics <textline bbox="58.200,159.642,417.497,191.682" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">Photon beam diagnostics </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="3" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="4" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="5" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="6" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.0.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.0.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.0.137x99.bmp" width="49">
+</figure>
+<figure bbox="31.200,385.200,53.160,407.640" height="22" name="Image22" src="Image22.12x12.bmp" width="21">
+</figure>
+<figure bbox="31.200,339.120,53.160,361.560" height="22" name="Image22" src="Image22.0.12x12.bmp" width="21">
+</figure>
+<figure bbox="31.200,293.040,53.160,315.480" height="22" name="Image22" src="Image22.1.12x12.bmp" width="21">
+</figure>
+<figure bbox="67.200,251.760,86.160,271.320" height="19" name="Image24" src="Image24.12x12.bmp" width="18">
+</figure>
+<figure bbox="67.200,211.440,86.160,231.000" height="19" name="Image24" src="Image24.0.12x12.bmp" width="18">
+</figure>
+<figure bbox="31.200,166.320,53.160,188.760" height="22" name="Image22" src="Image22.2.12x12.bmp" width="21">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
+<textbox bbox="209.260,435.567,510.766,467.631" id="0" size="32.064">X-Ray FEL Features <textline bbox="209.260,435.567,510.766,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">X-Ray FEL Features </textline>
+</textbox>
+<textbox bbox="58.200,228.762,695.444,414.471" id="1" size="32.044799999999995">~1&#197; photon wavelength or ~10keV photon  
+energy 
+Uses SASE principle to amplify and saturate  
+spontaneous radiation in ~100m of undulator 
+Requires <textline bbox="58.200,382.407,664.096,414.471" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.064">~1&#197; photon wavelength or ~10keV photon  </textline>
+<textline bbox="58.200,347.822,156.146,379.862" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">energy </textline>
+<textline bbox="58.200,305.582,695.444,337.622" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">Uses SASE principle to amplify and saturate  </textline>
+<textline bbox="58.200,271.022,692.400,303.062" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">spontaneous radiation in ~100m of undulator </textline>
+<textline bbox="58.200,228.762,186.392,260.802" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">Requires </textline>
+</textbox>
+<textbox bbox="89.784,87.512,675.461,219.658" id="2" size="27.966">Multi GeV beam energy 
+kA peak beam current 
+Micron beam emittance to match photon beam  
+phase space <textline bbox="89.784,191.698,384.119,219.658" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">Multi GeV beam energy </textline>
+<textline bbox="89.784,154.738,362.366,182.698" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">kA peak beam current </textline>
+<textline bbox="89.784,117.773,675.461,145.757" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">Micron beam emittance to match photon beam  </textline>
+<textline bbox="89.784,87.512,248.681,115.472" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">phase space </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="3" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="4" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="5" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="6" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.1.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.1.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.1.137x99.bmp" width="49">
+</figure>
+<figure bbox="31.200,389.040,53.160,411.480" height="22" name="Image22" src="Image22.3.12x12.bmp" width="21">
+</figure>
+<figure bbox="31.200,312.240,53.160,334.680" height="22" name="Image22" src="Image22.4.12x12.bmp" width="21">
+</figure>
+<figure bbox="31.200,235.440,53.160,257.880" height="22" name="Image22" src="Image22.5.12x12.bmp" width="21">
+</figure>
+<figure bbox="67.200,197.520,86.160,217.080" height="19" name="Image24" src="Image24.1.12x12.bmp" width="18">
+</figure>
+<figure bbox="67.200,160.560,86.160,180.120" height="19" name="Image24" src="Image24.2.12x12.bmp" width="18">
+</figure>
+<figure bbox="67.200,123.600,86.160,143.160" height="19" name="Image24" src="Image24.3.12x12.bmp" width="18">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" rotate="0">
+<textbox bbox="188.860,435.567,531.344,467.631" id="0" size="32.064">X-Ray FEL Parameters <textline bbox="188.860,435.567,531.344,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">X-Ray FEL Parameters </textline>
+</textbox>
+<textbox bbox="31.200,397.428,143.143,413.388" id="1" size="15.96">Electron Beam <textline bbox="31.200,397.428,143.143,413.388" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">Electron Beam </textline>
+</textbox>
+<textbox bbox="259.250,397.428,300.858,413.388" id="2" size="15.96">LCLS <textline bbox="259.250,397.428,300.858,413.388" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">LCLS </textline>
+</textbox>
+<textbox bbox="31.200,371.023,81.837,387.007" id="3" size="15.984">Energy <textline bbox="31.200,371.023,81.837,387.007" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">Energy </textline>
+</textbox>
+<textbox bbox="31.200,344.598,125.252,360.558" id="4" size="15.96">Peak Current <textline bbox="31.200,344.598,125.252,360.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Peak Current </textline>
+</textbox>
+<textbox bbox="31.200,318.198,133.312,334.158" id="5" size="15.96">Bunch Charge <textline bbox="31.200,318.198,133.312,334.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Bunch Charge </textline>
+</textbox>
+<textbox bbox="205.250,371.023,237.154,387.007" id="6" size="15.984">GeV <textline bbox="205.250,371.023,237.154,387.007" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">GeV </textline>
+</textbox>
+<textbox bbox="259.250,371.023,317.814,387.007" id="7" size="15.984">4.3-13.6 <textline bbox="259.250,371.023,317.814,387.007" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">4.3-13.6 </textline>
+</textbox>
+<textbox bbox="205.250,344.598,223.935,360.558" id="8" size="15.96">kA <textline bbox="205.250,344.598,223.935,360.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">kA </textline>
+</textbox>
+<textbox bbox="205.250,318.198,225.653,334.158" id="9" size="15.96">nC <textline bbox="205.250,318.198,225.653,334.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">nC </textline>
+</textbox>
+<textbox bbox="205.250,265.398,217.670,281.358" id="10" size="15.96">fs <textline bbox="205.250,265.398,217.670,281.358" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">fs </textline>
+</textbox>
+<textbox bbox="259.250,344.598,281.447,360.558" id="11" size="15.96">3.4 <textline bbox="259.250,344.598,281.447,360.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3.4 </textline>
+</textbox>
+<textbox bbox="259.250,318.198,295.604,334.158" id="12" size="15.96">0.2-1 <textline bbox="259.250,318.198,295.604,334.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">0.2-1 </textline>
+</textbox>
+<textbox bbox="259.250,291.798,281.447,307.758" id="13" size="15.96">1.2 <textline bbox="259.250,291.798,281.447,307.758" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">1.2 </textline>
+</textbox>
+<textbox bbox="259.250,265.398,277.004,281.358" id="14" size="15.96">70 <textline bbox="259.250,265.398,277.004,281.358" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">70 </textline>
+</textbox>
+<textbox bbox="31.200,291.798,227.785,307.758" id="15" size="15.96">Norm. Slice Emittance &#956;m <textline bbox="31.200,291.798,227.785,307.758" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Norm. Slice Emittance &#956;m </textline>
+</textbox>
+<textbox bbox="31.200,265.398,129.785,281.358" id="16" size="15.96">Bunch Length <textline bbox="31.200,265.398,129.785,281.358" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Bunch Length </textline>
+</textbox>
+<textbox bbox="31.200,238.993,176.734,254.977" id="17" size="15.984">Slice Energy Spread <textline bbox="31.200,238.993,176.734,254.977" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">Slice Energy Spread </textline>
+</textbox>
+<textbox bbox="205.250,238.993,281.454,254.977" id="18" size="15.984">MeV 1.4 <textline bbox="205.250,238.993,281.454,254.977" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">MeV 1.4 </textline>
+</textbox>
+<textbox bbox="361.270,397.428,402.064,413.388" id="19" size="15.96">XFEL <textline bbox="361.270,397.428,402.064,413.388" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">XFEL </textline>
+</textbox>
+<textbox bbox="361.270,371.023,402.077,387.007" id="20" size="15.984">10-20 <textline bbox="361.270,371.023,402.077,387.007" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">10-20 </textline>
+</textbox>
+<textbox bbox="361.270,344.598,370.144,360.558" id="21" size="15.96">5 <textline bbox="361.270,344.598,370.144,360.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">5 </textline>
+</textbox>
+<textbox bbox="361.270,318.198,370.144,334.158" id="22" size="15.96">1 <textline bbox="361.270,318.198,370.144,334.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">1 </textline>
+</textbox>
+<textbox bbox="361.270,291.798,383.467,307.758" id="23" size="15.96">1.4 <textline bbox="361.270,291.798,383.467,307.758" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">1.4 </textline>
+</textbox>
+<textbox bbox="361.270,265.398,379.024,281.358" id="24" size="15.96">80 <textline bbox="361.270,265.398,379.024,281.358" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">80 </textline>
+</textbox>
+<textbox bbox="361.270,238.993,383.474,254.977" id="25" size="15.984">2.5 <textline bbox="361.270,238.993,383.474,254.977" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">2.5 </textline>
+</textbox>
+<textbox bbox="31.200,186.178,134.158,202.138" id="26" size="15.96">Photon Beam <textline bbox="31.200,186.178,134.158,202.138" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">Photon Beam </textline>
+</textbox>
+<textbox bbox="31.200,159.778,157.364,175.738" id="27" size="15.96">Saturation Length <textline bbox="31.200,159.778,157.364,175.738" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Saturation Length </textline>
+</textbox>
+<textbox bbox="205.250,159.778,218.545,175.738" id="28" size="15.96">m <textline bbox="205.250,159.778,218.545,175.738" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m </textline>
+</textbox>
+<textbox bbox="259.250,186.178,300.858,202.138" id="29" size="15.96">LCLS <textline bbox="259.250,186.178,300.858,202.138" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">LCLS </textline>
+</textbox>
+<textbox bbox="259.250,159.778,308.924,175.738" id="30" size="15.96">60-100 <textline bbox="259.250,159.778,308.924,175.738" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">60-100 </textline>
+</textbox>
+<textbox bbox="31.200,133.373,136.886,149.357" id="31" size="15.984">Photon Energy <textline bbox="31.200,133.373,136.886,149.357" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">Photon Energy </textline>
+</textbox>
+<textbox bbox="205.250,133.373,232.822,149.357" id="32" size="15.984">keV <textline bbox="205.250,133.373,232.822,149.357" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">keV </textline>
+</textbox>
+<textbox bbox="259.250,133.373,295.617,149.357" id="33" size="15.984">0.8-8 <textline bbox="259.250,133.373,295.617,149.357" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">0.8-8 </textline>
+</textbox>
+<textbox bbox="31.200,106.948,117.256,122.908" id="34" size="15.96">Peak Power <textline bbox="31.200,106.948,117.256,122.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Peak Power </textline>
+</textbox>
+<textbox bbox="205.250,106.948,282.284,122.908" id="35" size="15.96">GW 4-8 <textline bbox="205.250,106.948,282.284,122.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">GW 4-8 </textline>
+</textbox>
+<textbox bbox="361.270,186.178,402.064,202.138" id="36" size="15.96">XFEL <textline bbox="361.270,186.178,402.064,202.138" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">XFEL </textline>
+</textbox>
+<textbox bbox="361.270,159.778,410.944,175.738" id="37" size="15.96">40-170 <textline bbox="361.270,159.778,410.944,175.738" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">40-170 </textline>
+</textbox>
+<textbox bbox="361.270,133.373,419.834,149.357" id="38" size="15.984">0.2-12.4 <textline bbox="361.270,133.373,419.834,149.357" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">0.2-12.4 </textline>
+</textbox>
+<textbox bbox="361.270,106.948,410.944,122.908" id="39" size="15.96">22-135 <textline bbox="361.270,106.948,410.944,122.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">22-135 </textline>
+</textbox>
+<textbox bbox="457.300,397.428,500.807,413.388" id="40" size="15.96">SCSS <textline bbox="457.300,397.428,500.807,413.388" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">SCSS </textline>
+</textbox>
+<textbox bbox="457.300,371.023,479.504,387.007" id="41" size="15.984">6.1 <textline bbox="457.300,371.023,479.504,387.007" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">6.1 </textline>
+</textbox>
+<textbox bbox="457.300,344.598,466.174,360.558" id="42" size="15.96">3 <textline bbox="457.300,344.598,466.174,360.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3 </textline>
+</textbox>
+<textbox bbox="457.300,318.198,466.174,334.158" id="43" size="15.96">1 <textline bbox="457.300,318.198,466.174,334.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">1 </textline>
+</textbox>
+<textbox bbox="457.300,291.798,488.377,307.758" id="44" size="15.96">0.85 <textline bbox="457.300,291.798,488.377,307.758" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">0.85 </textline>
+</textbox>
+<textbox bbox="457.300,265.398,475.054,281.358" id="45" size="15.96">80 <textline bbox="457.300,265.398,475.054,281.358" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">80 </textline>
+</textbox>
+<textbox bbox="457.300,238.993,488.384,254.977" id="46" size="15.984">0.25 <textline bbox="457.300,238.993,488.384,254.977" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">0.25 </textline>
+</textbox>
+<textbox bbox="457.300,186.178,500.807,202.138" id="47" size="15.96">SCSS <textline bbox="457.300,186.178,500.807,202.138" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">SCSS </textline>
+</textbox>
+<textbox bbox="457.300,159.778,475.054,175.738" id="48" size="15.96">80 <textline bbox="457.300,159.778,475.054,175.738" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">80 </textline>
+</textbox>
+<textbox bbox="457.300,133.373,475.067,149.357" id="49" size="15.984">12 <textline bbox="457.300,133.373,475.067,149.357" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">12 </textline>
+</textbox>
+<textbox bbox="457.300,106.948,466.174,122.908" id="50" size="15.96">3 <textline bbox="457.300,106.948,466.174,122.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3 </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="51" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="52" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="53" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="54" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.2.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.2.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.2.137x99.bmp" width="49">
+</figure>
+<line bbox="24.000,393.600,546.000,393.600" linewidth="1" />
+<line bbox="24.000,182.400,546.000,182.400" linewidth="1" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" rotate="0">
+<textbox bbox="141.670,435.567,578.414,467.631" id="0" size="32.064">Linac Coherent Light Source <textline bbox="141.670,435.567,578.414,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="32.064">Linac Coherent Light Source </textline>
+</textbox>
+<textbox bbox="397.270,321.898,454.838,337.858" id="1" size="15.96">Injector <textline bbox="397.270,321.898,454.838,337.858" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="15.960">Injector </textline>
+</textbox>
+<textbox bbox="348.140,190.758,423.375,206.718" id="2" size="15.96">Undulator <textline bbox="348.140,190.758,423.375,206.718" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="15.960">Undulator </textline>
+</textbox>
+<textbox bbox="300.000,163.378,369.219,179.338" id="3" size="15.96">Near Hall <textline bbox="300.000,163.378,369.219,179.338" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="15.960">Near Hall </textline>
+</textbox>
+<textbox bbox="169.220,99.863,227.929,115.847" id="4" size="15.984">Far Hall <textline bbox="169.220,99.863,227.929,115.847" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="15.984">Far Hall </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="5" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="6" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="7" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="8" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.3.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.3.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.3.137x99.bmp" width="49">
+</figure>
+<figure bbox="96.000,54.000,642.000,486.000" height="432" name="Image57" src="Image57.jpg" width="546">
+</figure>
+<curve bbox="293.910,207.930,523.010,332.720" linewidth="0" pts="520.180,332.720,305.710,217.660,308.540,212.370,523.010,327.430,305.510,224.370,293.910,207.930,314.020,208.500" />
+<curve bbox="100.590,104.920,296.960,212.220" linewidth="0" pts="294.120,212.220,112.390,114.660,115.220,109.380,296.960,206.930,112.190,121.370,100.590,104.920,120.700,105.510" />
+<curve bbox="258.060,167.520,295.740,176.520" linewidth="0" pts="295.740,173.520,265.560,173.520,265.560,170.520,295.740,170.520,267.060,176.520,258.060,172.020,267.060,167.520" />
+<curve bbox="108.060,105.960,156.060,114.960" linewidth="0" pts="156.060,111.960,115.560,111.960,115.560,108.960,156.060,108.960,117.060,114.960,108.060,110.460,117.060,105.960" />
+<curve bbox="263.460,184.260,300.180,221.100" linewidth="2" pts="263.460,202.680,263.460,212.850,271.680,221.100,281.820,221.100,291.960,221.100,300.180,212.850,300.180,202.680,300.180,192.510,291.960,184.260,281.820,184.260,271.680,184.260,263.460,192.510,263.460,202.680" />
+<curve bbox="264.060,191.940,297.120,210.690" linewidth="2" pts="296.040,210.690,268.460,195.620,269.540,193.650,297.120,208.710,268.370,198.140,264.060,191.940,271.600,192.210" />
+<curve bbox="286.980,196.800,334.980,205.800" linewidth="2" pts="334.980,202.800,294.480,202.800,294.480,199.800,334.980,199.800,295.980,205.800,286.980,201.300,295.980,196.800" />
+<curve bbox="462.420,325.440,510.420,334.440" linewidth="2" pts="462.420,331.440,502.920,331.440,502.920,328.440,462.420,328.440,501.420,334.440,510.420,329.940,501.420,325.440" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" rotate="0">
+<textbox bbox="169.630,435.567,550.807,467.631" id="0" size="32.064">LCLS Accelerator Layout <textline bbox="169.630,435.567,550.807,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">LCLS Accelerator Layout </textline>
+</textbox>
+<textbox bbox="38.475,345.233,125.362,394.613" id="1" size="15.96">6 MeV 
+&#61555;z &#61627; 0.83 mm 
+&#61555;&#61540;&#61627; 0.05 % <textline bbox="59.544,378.653,105.237,394.613" colourspace="Pattern" font="BCDGEE+Times,Bold" ncolour="(0.4, 0, 0.2)" size="15.960">6 MeV </textline>
+<textline bbox="38.475,360.593,125.362,379.253">&#61555;z &#61627; 0.83 mm <text bbox="38.475,363.293,53.418,379.253" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="49.224,360.593,53.379,371.273" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680">z</text>
+<text bbox="53.424,360.593,56.094,371.273" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680"> </text>
+<text bbox="55.944,363.293,64.706,379.253" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="68.784,363.293,76.764,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="76.812,363.293,80.802,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="80.802,363.293,88.782,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">8</text>
+<text bbox="88.782,363.293,96.762,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">3</text>
+<text bbox="96.842,363.293,100.832,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="100.688,363.293,113.105,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+<text bbox="112.945,363.293,125.362,379.253" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+</textline>
+<textline bbox="43.515,345.233,120.278,363.893">&#61555;&#61540;&#61627; 0.05 % <text bbox="43.515,347.933,58.458,363.893" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="53.495,345.233,62.331,355.913" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="10.680">&#61540;</text>
+<text bbox="62.184,347.933,70.946,363.893" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="74.904,347.933,82.884,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="82.948,347.933,86.938,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="86.938,347.933,94.918,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="94.950,347.933,102.930,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">5</text>
+<text bbox="102.994,347.933,106.984,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="106.984,347.933,120.278,363.893" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">%</text>
+</textline>
+</textbox>
+<textbox bbox="143.231,344.353,230.150,393.733" id="2" size="15.96">135 MeV 
+&#61555;z &#61627; 0.83 mm 
+&#61555;&#61540;&#61627; 0.10 % <textline bbox="156.260,377.773,217.898,393.733" colourspace="Pattern" font="BCDGEE+Times,Bold" ncolour="(0.4, 0, 0.2)" size="15.960">135 MeV </textline>
+<textline bbox="143.231,359.713,230.150,378.373">&#61555;z &#61627; 0.83 mm <text bbox="143.231,362.413,158.174,378.373" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="153.980,359.713,158.135,370.393" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680">z</text>
+<text bbox="158.180,359.713,160.850,370.393" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680"> </text>
+<text bbox="160.700,362.413,169.462,378.373" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="173.540,362.413,181.520,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="181.584,362.413,185.574,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="185.574,362.413,193.554,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">8</text>
+<text bbox="193.586,362.413,201.566,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">3</text>
+<text bbox="201.630,362.413,205.620,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="205.476,362.413,217.893,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+<text bbox="217.733,362.413,230.150,378.373" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+</textline>
+<textline bbox="148.151,344.353,224.912,363.013">&#61555;&#61540;&#61627; 0.10 % <text bbox="148.151,347.053,163.094,363.013" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="158.131,344.353,166.967,355.033" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="10.680">&#61540;</text>
+<text bbox="166.820,347.053,175.582,363.013" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="179.570,347.053,187.550,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="187.598,347.053,191.588,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="191.588,347.053,199.568,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">1</text>
+<text bbox="199.568,347.053,207.548,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="207.628,347.053,211.618,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="211.618,347.053,224.912,363.013" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">%</text>
+</textline>
+</textbox>
+<textbox bbox="265.901,345.473,352.772,394.853" id="3" size="15.96">250 MeV 
+&#61555;z &#61627; 0.19 mm 
+&#61555;&#61540;&#61627; 1.6 % <textline bbox="279.050,378.893,340.688,394.853" colourspace="Pattern" font="BCDGEE+Times,Bold" ncolour="(0.4, 0, 0.2)" size="15.960">250 MeV </textline>
+<textline bbox="265.901,360.833,352.772,379.493">&#61555;z &#61627; 0.19 mm <text bbox="265.901,363.533,280.844,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="276.650,360.833,280.805,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680">z</text>
+<text bbox="280.850,360.833,283.520,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680"> </text>
+<text bbox="283.370,363.533,292.132,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="296.210,363.533,304.190,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="304.238,363.533,308.228,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="308.228,363.533,316.208,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">1</text>
+<text bbox="316.208,363.533,324.188,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">9</text>
+<text bbox="324.268,363.533,328.258,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="328.114,363.533,340.531,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+<text bbox="340.355,363.533,352.772,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+</textline>
+<textline bbox="274.901,345.473,343.573,364.133">&#61555;&#61540;&#61627; 1.6 % <text bbox="274.901,348.173,289.844,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="284.881,345.473,293.717,356.153" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="10.680">&#61540;</text>
+<text bbox="293.570,348.173,302.332,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="306.290,348.173,314.270,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">1</text>
+<text bbox="314.318,348.173,318.308,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="318.308,348.173,326.288,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">6</text>
+<text bbox="326.288,348.173,330.278,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="330.278,348.173,343.573,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">%</text>
+</textline>
+</textbox>
+<textbox bbox="404.791,345.473,499.710,394.853" id="4" size="15.96">4.30 GeV 
+&#61555;z &#61627; 0.022 mm 
+&#61555;&#61540;&#61627; 0.71 % <textline bbox="421.200,378.893,484.194,394.853" colourspace="Pattern" font="BCDGEE+Times,Bold" ncolour="(0.4, 0, 0.2)" size="15.960">4.30 GeV </textline>
+<textline bbox="404.791,360.833,499.710,379.493">&#61555;z &#61627; 0.022 mm <text bbox="404.791,363.533,419.734,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="415.540,360.833,419.695,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680">z</text>
+<text bbox="419.764,360.833,422.434,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680"> </text>
+<text bbox="422.280,363.533,431.042,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="435.120,363.533,443.100,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="443.148,363.533,447.138,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="447.138,363.533,455.118,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="455.118,363.533,463.098,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">2</text>
+<text bbox="463.178,363.533,471.158,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">2</text>
+<text bbox="471.206,363.533,475.196,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="475.052,363.533,487.469,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+<text bbox="487.293,363.533,499.710,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+</textline>
+<textline bbox="413.791,345.473,490.542,364.133">&#61555;&#61540;&#61627; 0.71 % <text bbox="413.791,348.173,428.734,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="423.791,345.473,432.627,356.153" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="10.680">&#61540;</text>
+<text bbox="432.480,348.173,441.242,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="445.200,348.173,453.180,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="453.228,348.173,457.218,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="457.218,348.173,465.198,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">7</text>
+<text bbox="465.198,348.173,473.178,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">1</text>
+<text bbox="473.258,348.173,477.248,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="477.248,348.173,490.542,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">%</text>
+</textline>
+</textbox>
+<textbox bbox="565.321,345.473,660.220,394.853" id="5" size="15.96">13.6 GeV 
+&#61555;z &#61627; 0.022 mm 
+&#61555;&#61540;&#61627; 0.01 % <textline bbox="581.710,378.893,644.688,394.853" colourspace="Pattern" font="BCDGEE+Times,Bold" ncolour="(0.4, 0, 0.2)" size="15.960">13.6 GeV </textline>
+<textline bbox="565.321,360.833,660.220,379.493">&#61555;z &#61627; 0.022 mm <text bbox="565.321,363.533,580.264,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="576.070,360.833,580.225,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680">z</text>
+<text bbox="580.270,360.833,582.940,371.513" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="(0.4, 0, 0.2)" size="10.680"> </text>
+<text bbox="582.790,363.533,591.552,379.493" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="595.630,363.533,603.610,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="603.658,363.533,607.648,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="607.648,363.533,615.628,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="615.628,363.533,623.608,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">2</text>
+<text bbox="623.688,363.533,631.668,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">2</text>
+<text bbox="631.716,363.533,635.706,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="635.562,363.533,647.979,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+<text bbox="647.803,363.533,660.220,379.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">m</text>
+</textline>
+<textline bbox="574.201,345.473,650.932,364.133">&#61555;&#61540;&#61627; 0.01 % <text bbox="574.201,348.173,589.144,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61555;</text>
+<text bbox="584.181,345.473,593.017,356.153" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="10.680">&#61540;</text>
+<text bbox="592.870,348.173,601.632,364.133" colourspace="Pattern" font="SymbolMT" ncolour="(0.4, 0, 0.2)" size="15.960">&#61627;</text>
+<text bbox="605.590,348.173,613.570,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="613.618,348.173,617.608,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">.</text>
+<text bbox="617.608,348.173,625.588,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">0</text>
+<text bbox="625.588,348.173,633.568,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">1</text>
+<text bbox="633.648,348.173,637.638,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960"> </text>
+<text bbox="637.638,348.173,650.932,364.133" colourspace="Pattern" font="BCDFEE+Times" ncolour="(0.4, 0, 0.2)" size="15.960">%</text>
+</textline>
+</textbox>
+<textbox bbox="119.020,298.283,174.814,329.578" id="6" size="15.96">Linac-0 
+L =6 m <textline bbox="119.020,313.618,174.814,329.578" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-0 </textline>
+<textline bbox="124.060,298.283,170.096,314.243">L =6 m <text bbox="124.060,298.283,132.934,314.243" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="132.700,298.283,136.690,314.243" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="136.660,298.283,145.661,314.243" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">=</text>
+<text bbox="145.661,298.283,153.641,314.243" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">6</text>
+<text bbox="153.689,298.283,157.679,314.243" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="157.679,298.283,170.096,314.243" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="232.631,285.833,302.714,337.108" id="7" size="15.96">Linac-X 
+L =0.6 m 
+&#61546;rf= -160&#61616; <textline bbox="239.420,321.148,297.015,337.108">Linac-X <text bbox="239.420,321.148,249.172,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">L</text>
+<text bbox="249.172,321.148,253.608,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">i</text>
+<text bbox="253.608,321.148,263.360,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">n</text>
+<text bbox="263.296,321.148,272.170,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">a</text>
+<text bbox="272.170,321.148,281.044,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">c</text>
+<text bbox="281.090,321.148,286.405,337.108" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">-</text>
+<text bbox="286.370,321.148,297.015,337.108" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="15.960">X</text>
+</textline>
+<textline bbox="239.300,304.853,297.386,320.813">L =0.6 m <text bbox="239.300,304.853,248.174,320.813" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="247.940,304.853,251.930,320.813" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="251.900,304.853,260.901,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">=</text>
+<text bbox="260.901,304.853,268.881,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="268.977,304.853,272.967,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">.</text>
+<text bbox="272.967,304.853,280.947,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">6</text>
+<text bbox="280.979,304.853,284.969,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="284.969,304.853,297.386,320.813" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="232.631,285.833,302.714,304.493">&#61546;rf= -160&#61616; <text bbox="232.631,288.533,247.574,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61546;</text>
+<text bbox="243.380,285.833,246.936,296.513" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">r</text>
+<text bbox="246.980,285.833,250.536,296.513" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">f</text>
+<text bbox="250.460,288.533,259.461,304.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">=</text>
+<text bbox="259.460,288.533,263.450,304.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="263.450,288.533,272.212,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">-</text>
+<text bbox="272.210,288.533,280.190,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">1</text>
+<text bbox="280.250,288.533,288.230,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">6</text>
+<text bbox="288.290,288.533,296.270,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">0</text>
+<text bbox="296.330,288.533,302.714,304.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61616;</text>
+</textline>
+</textbox>
+<textbox bbox="24.936,274.788,54.127,304.188" id="8" size="15.96">rf 
+gun <textline bbox="33.696,288.228,45.251,304.188" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">rf </textline>
+<textline bbox="24.936,274.788,54.127,290.748" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">gun </textline>
+</textbox>
+<textbox bbox="192.001,223.703,256.444,273.058" id="9" size="15.96">Linac-1 
+L &#61627;9 m 
+&#61546;rf &#61627; -25&#176; <textline bbox="196.870,257.098,252.694,273.058" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-1 </textline>
+<textline bbox="202.030,241.763,247.855,257.723">L &#61627;9 m <text bbox="202.030,241.763,210.904,257.723" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="210.670,241.763,214.660,257.723" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="214.630,241.763,223.392,257.723" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="223.420,241.763,231.400,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">9</text>
+<text bbox="231.448,241.763,235.438,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="235.438,241.763,247.855,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="192.001,223.703,256.444,242.363">&#61546;rf &#61627; -25&#176; <text bbox="192.001,226.403,206.944,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61546;</text>
+<text bbox="202.750,223.703,206.306,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">r</text>
+<text bbox="206.338,223.703,209.895,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">f</text>
+<text bbox="209.820,223.703,212.490,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680"> </text>
+<text bbox="212.350,226.403,221.112,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="225.220,226.403,233.982,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">-</text>
+<text bbox="233.980,226.403,241.960,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="242.020,226.403,250.000,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">5</text>
+<text bbox="250.060,226.403,256.444,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">&#176;</text>
+</textline>
+</textbox>
+<textbox bbox="210.960,182.090,239.016,208.490" id="10" size="12.0">21-1 
+b,c,d <textline bbox="213.000,196.490,237.072,208.490" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">21-1 </textline>
+<textline bbox="210.960,182.090,239.016,194.090" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">b,c,d </textline>
+</textbox>
+<textbox bbox="263.450,188.297,273.587,202.337" id="11" size="14.04">X <textline bbox="263.450,188.297,273.587,202.337" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="14.040">X </textline>
+</textbox>
+<textbox bbox="330.291,223.703,394.704,273.058" id="12" size="15.96">Linac-2 
+L &#61627;330 m 
+&#61546;rf &#61627; -41&#176; <textline bbox="335.160,257.098,390.954,273.058" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-2 </textline>
+<textline bbox="332.280,241.763,393.987,257.723">L &#61627;330 m <text bbox="332.280,241.763,341.154,257.723" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="340.920,241.763,344.910,257.723" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="344.880,241.763,353.642,257.723" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="353.640,241.763,361.620,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">3</text>
+<text bbox="361.668,241.763,369.648,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">3</text>
+<text bbox="369.696,241.763,377.676,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="377.724,241.763,381.714,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="381.570,241.763,393.987,257.723" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="330.291,223.703,394.704,242.363">&#61546;rf &#61627; -41&#176; <text bbox="330.291,226.403,345.234,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61546;</text>
+<text bbox="341.040,223.703,344.596,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">r</text>
+<text bbox="344.628,223.703,348.185,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">f</text>
+<text bbox="348.110,223.703,350.780,234.383" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680"> </text>
+<text bbox="350.640,226.403,359.402,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="363.480,226.403,372.242,242.363" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">-</text>
+<text bbox="372.240,226.403,380.220,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">4</text>
+<text bbox="380.280,226.403,388.260,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">1</text>
+<text bbox="388.320,226.403,394.704,242.363" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">&#176;</text>
+</textline>
+</textbox>
+<textbox bbox="345.550,182.090,377.002,208.490" id="13" size="12.0">21-3b 
+24-6d <textline bbox="345.550,196.490,377.002,208.490" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">21-3b </textline>
+<textline bbox="345.550,182.090,377.002,194.090" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">24-6d </textline>
+</textbox>
+<textbox bbox="476.950,224.833,538.657,274.188" id="14" size="15.96">Linac-3 
+L &#61627;550 m 
+&#61546;rf &#61627; 0&#176; <textline bbox="479.710,258.228,535.504,274.188" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-3 </textline>
+<textline bbox="476.950,242.893,538.657,258.853">L &#61627;550 m <text bbox="476.950,242.893,485.824,258.853" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="485.590,242.893,489.580,258.853" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="489.550,242.893,498.312,258.853" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="498.310,242.893,506.290,258.853" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">5</text>
+<text bbox="506.338,242.893,514.318,258.853" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">5</text>
+<text bbox="514.366,242.893,522.346,258.853" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="522.394,242.893,526.384,258.853" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="526.240,242.893,538.657,258.853" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="483.241,224.833,530.854,243.493">&#61546;rf &#61627; 0&#176; <text bbox="483.241,227.533,498.184,243.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61546;</text>
+<text bbox="493.990,224.833,497.546,235.513" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">r</text>
+<text bbox="497.578,224.833,501.135,235.513" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">f</text>
+<text bbox="501.060,224.833,503.730,235.513" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680"> </text>
+<text bbox="503.590,227.533,512.352,243.493" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="516.430,227.533,524.410,243.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="524.470,227.533,530.854,243.493" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">&#176;</text>
+</textline>
+</textbox>
+<textbox bbox="494.500,183.215,525.305,209.620" id="15" size="12.012">25-1a 
+30-8c <textline bbox="494.500,197.620,525.292,209.620" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">25-1a </textline>
+<textline bbox="494.500,183.215,525.305,195.239" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.024">30-8c </textline>
+</textbox>
+<textbox bbox="251.780,139.313,338.482,188.668" id="16" size="15.96">BC1 
+L &#61627;6 m 
+R56&#61627; -39 mm <textline bbox="279.050,172.708,310.964,188.668" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">BC1 </textline>
+<textline bbox="272.330,157.373,318.125,173.333">L &#61627;6 m <text bbox="272.330,157.373,281.204,173.333" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="280.970,157.373,284.960,173.333" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="284.930,157.373,293.692,173.333" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="293.690,157.373,301.670,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">6</text>
+<text bbox="301.718,157.373,305.708,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="305.708,157.373,318.125,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="251.780,139.313,338.482,157.973">R56&#61627; -39 mm <text bbox="251.780,142.013,261.532,157.973" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">R</text>
+<text bbox="261.500,139.313,266.840,149.993" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">5</text>
+<text bbox="266.900,139.313,272.240,149.993" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">6</text>
+<text bbox="272.330,142.013,281.092,157.973" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="285.050,142.013,293.812,157.973" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">-</text>
+<text bbox="293.810,142.013,301.790,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">3</text>
+<text bbox="301.838,142.013,309.818,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">9</text>
+<text bbox="309.866,142.013,313.856,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="313.856,142.013,326.273,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+<text bbox="326.065,142.013,338.482,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="386.450,139.313,473.122,188.668" id="17" size="15.96">BC2 
+L &#61627;22 m 
+R56&#61627; -25 mm <textline bbox="413.690,172.708,445.604,188.668" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">BC2 </textline>
+<textline bbox="403.010,157.373,456.689,173.333">L &#61627;22 m <text bbox="403.010,157.373,411.884,173.333" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="411.650,157.373,415.640,173.333" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="415.610,157.373,424.372,173.333" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="424.370,157.373,432.350,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="432.398,157.373,440.378,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="440.426,157.373,444.416,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="444.272,157.373,456.689,173.333" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="386.450,139.313,473.122,157.973">R56&#61627; -25 mm <text bbox="386.450,142.013,396.202,157.973" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">R</text>
+<text bbox="396.170,139.313,401.510,149.993" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">5</text>
+<text bbox="401.570,139.313,406.910,149.993" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">6</text>
+<text bbox="406.970,142.013,415.732,157.973" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="419.690,142.013,428.452,157.973" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">-</text>
+<text bbox="428.450,142.013,436.430,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="436.478,142.013,444.458,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">5</text>
+<text bbox="444.506,142.013,448.496,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="448.496,142.013,460.913,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+<text bbox="460.705,142.013,473.122,157.973" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="61.440,179.352,126.122,210.192" id="18" size="14.04">...existing 
+linac <textline bbox="61.440,196.152,126.122,210.192" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040">...existing </textline>
+<textline bbox="77.760,179.352,109.785,193.392" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040">linac </textline>
+</textbox>
+<textbox bbox="143.400,118.943,197.079,168.298" id="19" size="15.96">DL1 
+L &#61627;12 m 
+R56 &#61627;0  <textline bbox="155.040,152.338,185.188,168.298" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">DL1 </textline>
+<textline bbox="143.400,137.003,197.079,152.963">L &#61627;12 m <text bbox="143.400,137.003,152.274,152.963" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="152.040,137.003,156.030,152.963" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="156.000,137.003,164.762,152.963" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="164.760,137.003,172.740,152.963" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">1</text>
+<text bbox="172.788,137.003,180.768,152.963" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="180.816,137.003,184.806,152.963" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="184.662,137.003,197.079,152.963" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="148.080,118.943,192.030,137.603">R56 &#61627;0  <text bbox="148.080,121.643,157.832,137.603" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">R</text>
+<text bbox="157.800,118.943,163.140,129.623" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">5</text>
+<text bbox="163.200,118.943,168.540,129.623" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">6</text>
+<text bbox="168.600,118.943,171.270,129.623" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680"> </text>
+<text bbox="171.240,121.643,180.002,137.603" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="180.000,121.643,187.980,137.603" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="188.040,121.643,192.030,137.603" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+</textline>
+</textbox>
+<textbox bbox="611.230,174.873,684.630,206.168" id="20" size="15.96">undulator 
+L =130 m <textline bbox="611.230,190.208,684.630,206.168" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">undulator </textline>
+<textline bbox="617.110,174.873,679.058,190.833">L =130 m <text bbox="617.110,174.873,625.984,190.833" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="625.750,174.873,629.740,190.833" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="629.710,174.873,638.711,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">=</text>
+<text bbox="638.711,174.873,646.691,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">1</text>
+<text bbox="646.739,174.873,654.719,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">3</text>
+<text bbox="654.767,174.873,662.747,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="662.795,174.873,666.785,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="666.641,174.873,679.058,190.833" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="565.970,102.553,627.918,151.947" id="21" size="15.968000000000002">DL2   
+L =275 m 
+R56 &#61627; 0  <textline bbox="577.250,135.963,616.363,151.947" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.984">DL2   </textline>
+<textline bbox="565.970,120.613,627.918,136.573">L =275 m <text bbox="565.970,120.613,574.844,136.573" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">L</text>
+<text bbox="574.610,120.613,578.600,136.573" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960"> </text>
+<text bbox="578.570,120.613,587.571,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">=</text>
+<text bbox="587.571,120.613,595.551,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">2</text>
+<text bbox="595.599,120.613,603.579,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">7</text>
+<text bbox="603.627,120.613,611.607,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">5</text>
+<text bbox="611.655,120.613,615.645,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+<text bbox="615.501,120.613,627.918,136.573" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">m</text>
+</textline>
+<textline bbox="572.810,102.553,620.720,121.213">R56 &#61627; 0  <text bbox="572.810,105.253,582.562,121.213" colourspace="Pattern" font="BCDEEE+Times,Italic" ncolour="0" size="15.960">R</text>
+<text bbox="582.530,102.553,587.870,113.233" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">5</text>
+<text bbox="587.930,102.553,593.270,113.233" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680">6</text>
+<text bbox="593.330,102.553,596.000,113.233" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="10.680"> </text>
+<text bbox="595.970,105.253,604.732,121.213" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="608.690,105.253,616.670,121.213" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960">0</text>
+<text bbox="616.730,105.253,620.720,121.213" colourspace="Pattern" font="BCDFEE+Times" ncolour="0" size="15.960"> </text>
+</textline>
+</textbox>
+<textbox bbox="229.130,62.656,388.348,82.696" id="22" size="20.04">SLAC linac tunnel <textline bbox="229.130,62.656,388.348,82.696" colourspace="Pattern" font="ArialMT" ncolour="(0.647, 0, 0.129)" size="20.040">SLAC linac tunnel </textline>
+</textbox>
+<textbox bbox="570.240,62.656,692.424,82.696" id="23" size="20.04">research yard <textline bbox="570.240,62.656,692.424,82.696" colourspace="Pattern" font="ArialMT" ncolour="(0.647, 0, 0.129)" size="20.040">research yard </textline>
+</textbox>
+<textbox bbox="25.200,60.144,124.440,72.144" id="24" size="12.0">Courtesy P. Emma <textline bbox="25.200,60.144,124.440,72.144" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">Courtesy P. Emma </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="25" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="26" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="27" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="28" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<rect bbox="0.000,486.000,720.000,540.000" linewidth="0" />
+<rect bbox="20.000,52.000,704.000,478.000" linewidth="0" />
+<rect bbox="18.000,54.000,702.000,480.000" linewidth="0" />
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.4.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.4.148x132.bmp" width="47">
+</figure>
+<rect bbox="652.560,12.000,702.000,48.000" linewidth="0" />
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.4.137x99.bmp" width="49">
+</figure>
+<rect bbox="19.020,54.900,701.100,398.100" linewidth="0" />
+<rect bbox="19.020,54.900,701.100,398.100" linewidth="1" />
+<rect bbox="19.020,89.580,701.100,398.100" linewidth="1" />
+<rect bbox="19.020,89.580,701.100,398.100" linewidth="1" />
+<line bbox="562.920,56.400,562.920,397.440" linewidth="0" />
+<figure bbox="216.480,48.300,402.420,93.000" height="44" name="Image64" src="Image64.517x125.bmp" width="185">
+</figure>
+<figure bbox="557.520,48.300,706.500,93.000" height="44" name="Image66" src="Image66.414x125.bmp" width="148">
+</figure>
+<figure bbox="108.960,302.100,172.020,337.920" height="35" name="Image68" src="Image68.176x100.bmp" width="63">
+</figure>
+<figure bbox="150.600,302.100,177.301,337.920" height="35" name="Image70" src="Image70.75x100.bmp" width="26">
+</figure>
+<figure bbox="155.880,302.100,186.181,337.920" height="35" name="Image72" src="Image72.85x100.bmp" width="30">
+</figure>
+<figure bbox="114.000,286.740,148.020,322.560" height="35" name="Image74" src="Image74.95x100.bmp" width="34">
+</figure>
+<figure bbox="126.600,286.740,181.140,322.560" height="35" name="Image78" src="Image78.152x100.bmp" width="54">
+</figure>
+<figure bbox="186.840,245.580,249.900,281.400" height="35" name="Image82" src="Image82.176x100.bmp" width="63">
+</figure>
+<figure bbox="228.480,245.580,255.181,281.400" height="35" name="Image84" src="Image84.75x100.bmp" width="26">
+</figure>
+<figure bbox="233.760,245.580,264.061,281.400" height="35" name="Image86" src="Image86.85x100.bmp" width="30">
+</figure>
+<figure bbox="192.000,230.220,226.020,266.040" height="35" name="Image88" src="Image88.95x100.bmp" width="34">
+</figure>
+<figure bbox="204.600,230.580,234.779,266.400" height="35" name="Image90" src="Image90.84x100.bmp" width="30">
+</figure>
+<figure bbox="213.360,230.220,258.900,266.040" height="35" name="Image92" src="Image92.127x100.bmp" width="45">
+</figure>
+<figure bbox="183.120,215.220,214.141,251.040" height="35" name="Image94" src="Image94.87x100.bmp" width="31">
+</figure>
+<figure bbox="195.840,215.340,220.500,240.000" height="24" name="Image96" src="Image96.69x69.bmp" width="24">
+</figure>
+<figure bbox="202.320,215.220,232.499,251.040" height="35" name="Image90" src="Image90.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="215.160,215.220,245.339,251.040" height="35" name="Image98" src="Image98.84x100.bmp" width="30">
+</figure>
+<figure bbox="223.920,214.860,261.421,250.680" height="35" name="Image100" src="Image100.105x100.bmp" width="37">
+</figure>
+<figure bbox="240.000,214.860,267.781,250.680" height="35" name="Image102" src="Image102.78x100.bmp" width="27">
+</figure>
+<figure bbox="325.080,245.580,388.140,281.400" height="35" name="Image104" src="Image104.176x100.bmp" width="63">
+</figure>
+<figure bbox="366.720,245.580,393.421,281.400" height="35" name="Image70" src="Image70.0.75x100.bmp" width="26">
+</figure>
+<figure bbox="372.000,245.580,402.301,281.400" height="35" name="Image106" src="Image106.85x100.bmp" width="30">
+</figure>
+<figure bbox="322.200,230.220,356.220,266.040" height="35" name="Image108" src="Image108.95x100.bmp" width="34">
+</figure>
+<figure bbox="334.800,230.580,364.979,266.400" height="35" name="Image110" src="Image110.84x100.bmp" width="30">
+</figure>
+<figure bbox="343.560,230.220,405.060,266.040" height="35" name="Image112" src="Image112.171x100.bmp" width="61">
+</figure>
+<figure bbox="321.360,215.220,352.381,251.040" height="35" name="Image114" src="Image114.87x100.bmp" width="31">
+</figure>
+<figure bbox="334.080,215.340,358.740,240.000" height="24" name="Image116" src="Image116.69x69.bmp" width="24">
+</figure>
+<figure bbox="340.560,215.220,370.739,251.040" height="35" name="Image110" src="Image110.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="353.400,215.220,383.579,251.040" height="35" name="Image98" src="Image98.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="362.160,214.860,399.661,250.680" height="35" name="Image118" src="Image118.105x100.bmp" width="37">
+</figure>
+<figure bbox="378.240,214.860,406.021,250.680" height="35" name="Image120" src="Image120.78x100.bmp" width="27">
+</figure>
+<figure bbox="469.560,246.660,532.620,282.480" height="35" name="Image122" src="Image122.176x100.bmp" width="63">
+</figure>
+<figure bbox="511.200,246.660,537.901,282.480" height="35" name="Image124" src="Image124.75x100.bmp" width="26">
+</figure>
+<figure bbox="516.480,246.660,546.781,282.480" height="35" name="Image126" src="Image126.85x100.bmp" width="30">
+</figure>
+<figure bbox="466.800,231.300,500.820,267.120" height="35" name="Image128" src="Image128.95x100.bmp" width="34">
+</figure>
+<figure bbox="479.400,231.660,509.579,267.480" height="35" name="Image130" src="Image130.84x100.bmp" width="30">
+</figure>
+<figure bbox="488.160,231.300,549.660,267.120" height="35" name="Image132" src="Image132.171x100.bmp" width="61">
+</figure>
+<figure bbox="474.240,216.300,505.261,252.120" height="35" name="Image134" src="Image134.87x100.bmp" width="31">
+</figure>
+<figure bbox="487.080,216.540,511.740,241.200" height="24" name="Image136" src="Image136.69x69.bmp" width="24">
+</figure>
+<figure bbox="493.440,216.300,523.619,252.120" height="35" name="Image130" src="Image130.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="506.280,215.940,535.739,251.760" height="35" name="Image138" src="Image138.82x100.bmp" width="29">
+</figure>
+<figure bbox="514.320,215.940,542.101,251.760" height="35" name="Image140" src="Image140.78x100.bmp" width="27">
+</figure>
+<figure bbox="268.920,161.220,322.260,197.040" height="35" name="Image142" src="Image142.149x100.bmp" width="53">
+</figure>
+<figure bbox="262.200,145.860,296.220,181.680" height="35" name="Image144" src="Image144.95x100.bmp" width="34">
+</figure>
+<figure bbox="274.800,146.220,304.979,182.040" height="35" name="Image146" src="Image146.84x100.bmp" width="30">
+</figure>
+<figure bbox="283.560,145.860,329.100,181.680" height="35" name="Image148" src="Image148.127x100.bmp" width="45">
+</figure>
+<figure bbox="241.680,130.500,272.820,166.320" height="35" name="Image150" src="Image150.87x100.bmp" width="31">
+</figure>
+<figure bbox="254.640,130.980,280.499,155.640" height="24" name="Image152" src="Image152.72x69.bmp" width="25">
+</figure>
+<figure bbox="262.200,130.860,292.379,166.680" height="35" name="Image146" src="Image146.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="274.920,130.860,305.099,166.680" height="35" name="Image154" src="Image154.84x100.bmp" width="30">
+</figure>
+<figure bbox="283.680,130.500,349.500,166.320" height="35" name="Image156" src="Image156.183x100.bmp" width="65">
+</figure>
+<figure bbox="403.560,161.220,456.900,197.040" height="35" name="Image158" src="Image158.149x100.bmp" width="53">
+</figure>
+<figure bbox="392.880,145.860,426.900,181.680" height="35" name="Image160" src="Image160.95x100.bmp" width="34">
+</figure>
+<figure bbox="405.480,146.220,435.659,182.040" height="35" name="Image162" src="Image162.84x100.bmp" width="30">
+</figure>
+<figure bbox="414.240,145.860,467.700,181.680" height="35" name="Image164" src="Image164.149x100.bmp" width="53">
+</figure>
+<figure bbox="376.320,130.500,407.460,166.320" height="35" name="Image166" src="Image166.87x100.bmp" width="31">
+</figure>
+<figure bbox="389.160,130.980,415.019,155.640" height="24" name="Image168" src="Image168.72x69.bmp" width="25">
+</figure>
+<figure bbox="396.840,130.860,427.019,166.680" height="35" name="Image162" src="Image162.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="409.560,130.860,439.739,166.680" height="35" name="Image154" src="Image154.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="418.320,130.500,484.140,166.320" height="35" name="Image170" src="Image170.183x100.bmp" width="65">
+</figure>
+<figure bbox="567.120,124.380,627.660,160.200" height="35" name="Image172" src="Image172.169x100.bmp" width="60">
+</figure>
+<figure bbox="555.840,109.020,589.860,144.840" height="35" name="Image174" src="Image174.95x100.bmp" width="34">
+</figure>
+<figure bbox="568.440,109.020,638.940,144.840" height="35" name="Image176" src="Image176.196x100.bmp" width="70">
+</figure>
+<figure bbox="562.680,93.660,593.820,129.480" height="35" name="Image178" src="Image178.87x100.bmp" width="31">
+</figure>
+<figure bbox="575.520,94.260,604.021,118.920" height="24" name="Image180" src="Image180.80x69.bmp" width="28">
+</figure>
+<figure bbox="585.840,94.020,616.019,129.840" height="35" name="Image182" src="Image182.84x100.bmp" width="30">
+</figure>
+<figure bbox="598.560,93.660,631.979,129.480" height="35" name="Image184" src="Image184.93x100.bmp" width="33">
+</figure>
+<figure bbox="144.960,140.820,196.500,176.640" height="35" name="Image186" src="Image186.144x100.bmp" width="51">
+</figure>
+<figure bbox="133.320,125.460,167.340,161.280" height="35" name="Image188" src="Image188.95x100.bmp" width="34">
+</figure>
+<figure bbox="145.920,125.820,176.099,161.640" height="35" name="Image190" src="Image190.84x100.bmp" width="30">
+</figure>
+<figure bbox="154.680,125.460,208.140,161.280" height="35" name="Image192" src="Image192.149x100.bmp" width="53">
+</figure>
+<figure bbox="138.000,110.100,169.140,145.920" height="35" name="Image194" src="Image194.87x100.bmp" width="31">
+</figure>
+<figure bbox="150.840,110.580,179.341,135.359" height="24" name="Image196" src="Image196.80x69.bmp" width="28">
+</figure>
+<figure bbox="161.160,110.460,191.339,146.280" height="35" name="Image190" src="Image190.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="169.920,110.100,203.339,145.920" height="35" name="Image198" src="Image198.93x100.bmp" width="33">
+</figure>
+<figure bbox="601.080,178.620,695.940,214.440" height="35" name="Image200" src="Image200.264x100.bmp" width="94">
+</figure>
+<figure bbox="606.960,163.260,640.980,199.080" height="35" name="Image202" src="Image202.95x100.bmp" width="34">
+</figure>
+<figure bbox="619.560,163.260,690.060,199.080" height="35" name="Image204" src="Image204.196x100.bmp" width="70">
+</figure>
+<figure bbox="49.440,367.020,116.580,402.840" height="35" name="Image206" src="Image206.187x100.bmp" width="67">
+</figure>
+<figure bbox="29.520,352.020,60.541,387.840" height="35" name="Image210" src="Image210.87x100.bmp" width="31">
+</figure>
+<figure bbox="42.360,352.260,64.140,376.920" height="24" name="Image212" src="Image212.61x69.bmp" width="21">
+</figure>
+<figure bbox="45.840,352.020,76.019,387.840" height="35" name="Image214" src="Image214.84x100.bmp" width="30">
+</figure>
+<figure bbox="58.680,351.660,136.500,387.480" height="35" name="Image216" src="Image216.217x100.bmp" width="77">
+</figure>
+<figure bbox="34.560,336.660,65.581,372.480" height="35" name="Image210" src="Image210.0.87x100.bmp" width="31">
+</figure>
+<figure bbox="47.400,337.020,67.740,361.680" height="24" name="Image218" src="Image218.57x69.bmp" width="20">
+</figure>
+<figure bbox="52.080,336.660,82.259,372.480" height="35" name="Image214" src="Image214.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="64.800,336.300,131.580,372.120" height="35" name="Image220" src="Image220.186x100.bmp" width="66">
+</figure>
+<figure bbox="146.160,366.180,229.260,402.000" height="35" name="Image222" src="Image222.231x100.bmp" width="83">
+</figure>
+<figure bbox="134.280,351.180,165.301,387.000" height="35" name="Image224" src="Image224.87x100.bmp" width="31">
+</figure>
+<figure bbox="147.120,351.300,168.900,376.079" height="24" name="Image226" src="Image226.61x69.bmp" width="21">
+</figure>
+<figure bbox="150.600,351.180,180.779,387.000" height="35" name="Image228" src="Image228.84x100.bmp" width="30">
+</figure>
+<figure bbox="163.440,350.820,241.260,386.640" height="35" name="Image230" src="Image230.217x100.bmp" width="77">
+</figure>
+<figure bbox="139.200,335.820,170.221,371.640" height="35" name="Image224" src="Image224.0.87x100.bmp" width="31">
+</figure>
+<figure bbox="152.040,336.060,172.380,360.839" height="24" name="Image232" src="Image232.57x69.bmp" width="20">
+</figure>
+<figure bbox="156.720,335.820,186.899,371.640" height="35" name="Image228" src="Image228.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="169.440,335.460,236.220,371.280" height="35" name="Image234" src="Image234.186x100.bmp" width="66">
+</figure>
+<figure bbox="268.920,367.260,352.020,403.080" height="35" name="Image236" src="Image236.231x100.bmp" width="83">
+</figure>
+<figure bbox="256.920,352.260,287.941,388.080" height="35" name="Image238" src="Image238.87x100.bmp" width="31">
+</figure>
+<figure bbox="269.760,352.500,291.540,377.160" height="24" name="Image240" src="Image240.61x69.bmp" width="21">
+</figure>
+<figure bbox="273.240,352.260,303.419,388.080" height="35" name="Image242" src="Image242.84x100.bmp" width="30">
+</figure>
+<figure bbox="286.080,351.900,363.900,387.720" height="35" name="Image244" src="Image244.217x100.bmp" width="77">
+</figure>
+<figure bbox="265.920,336.900,296.941,372.720" height="35" name="Image238" src="Image238.0.87x100.bmp" width="31">
+</figure>
+<figure bbox="278.760,337.260,299.100,361.920" height="24" name="Image246" src="Image246.57x69.bmp" width="20">
+</figure>
+<figure bbox="283.440,336.900,313.619,372.720" height="35" name="Image242" src="Image242.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="296.160,336.540,354.900,372.360" height="35" name="Image248" src="Image248.164x100.bmp" width="58">
+</figure>
+<figure bbox="411.000,367.260,495.420,403.080" height="35" name="Image250" src="Image250.235x100.bmp" width="84">
+</figure>
+<figure bbox="395.760,352.260,426.781,388.080" height="35" name="Image252" src="Image252.87x100.bmp" width="31">
+</figure>
+<figure bbox="408.600,352.500,430.380,377.160" height="24" name="Image254" src="Image254.61x69.bmp" width="21">
+</figure>
+<figure bbox="412.080,352.260,442.259,388.080" height="35" name="Image256" src="Image256.84x100.bmp" width="30">
+</figure>
+<figure bbox="424.920,351.900,510.660,387.720" height="35" name="Image258" src="Image258.239x100.bmp" width="85">
+</figure>
+<figure bbox="404.760,336.900,435.781,372.720" height="35" name="Image252" src="Image252.0.87x100.bmp" width="31">
+</figure>
+<figure bbox="417.600,337.260,437.940,361.920" height="24" name="Image260" src="Image260.57x69.bmp" width="20">
+</figure>
+<figure bbox="422.280,336.900,452.459,372.720" height="35" name="Image256" src="Image256.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="435.000,336.540,501.780,372.360" height="35" name="Image262" src="Image262.186x100.bmp" width="66">
+</figure>
+<figure bbox="571.560,367.260,655.980,403.080" height="35" name="Image264" src="Image264.235x100.bmp" width="84">
+</figure>
+<figure bbox="556.320,352.260,587.341,388.080" height="35" name="Image266" src="Image266.87x100.bmp" width="31">
+</figure>
+<figure bbox="569.040,352.500,590.820,377.160" height="24" name="Image268" src="Image268.61x69.bmp" width="21">
+</figure>
+<figure bbox="572.640,352.260,602.819,388.080" height="35" name="Image270" src="Image270.84x100.bmp" width="30">
+</figure>
+<figure bbox="585.480,351.900,671.220,387.720" height="35" name="Image272" src="Image272.239x100.bmp" width="85">
+</figure>
+<figure bbox="565.200,336.900,596.221,372.720" height="35" name="Image266" src="Image266.0.87x100.bmp" width="31">
+</figure>
+<figure bbox="577.920,337.260,598.260,361.920" height="24" name="Image274" src="Image274.57x69.bmp" width="20">
+</figure>
+<figure bbox="582.720,336.900,612.899,372.720" height="35" name="Image270" src="Image270.0.84x100.bmp" width="30">
+</figure>
+<figure bbox="595.440,336.540,662.220,372.360" height="35" name="Image276" src="Image276.186x100.bmp" width="66">
+</figure>
+<curve bbox="180.070,207.600,191.210,338.880" linewidth="1" pts="185.140,338.880,185.140,208.630,186.140,208.630,186.140,338.880,180.200,217.390,185.640,207.600,191.080,217.390,191.210,217.630,191.120,217.930,190.880,218.070,190.640,218.200,190.340,218.110,190.200,217.870,185.200,208.870,186.080,208.870,181.080,217.870,180.940,218.110,180.640,218.200,180.400,218.070,180.160,217.930,180.070,217.630,180.200,217.390" />
+<curve bbox="304.990,214.440,316.130,338.880" linewidth="1" pts="311.060,338.880,311.060,215.470,310.060,215.470,310.060,338.880,316.000,224.230,310.560,214.440,305.120,224.230,304.990,224.470,305.080,224.770,305.320,224.910,305.560,225.040,305.860,224.950,306.000,224.710,306.000,224.710,311.000,215.710,310.120,215.710,315.120,224.710,315.260,224.950,315.560,225.040,315.800,224.910,316.040,224.770,316.130,224.470,316.000,224.230" />
+<curve bbox="446.590,214.440,457.730,338.880" linewidth="1" pts="451.660,338.880,451.660,215.470,452.660,215.470,452.660,338.880,446.720,224.230,452.160,214.440,457.600,224.230,457.730,224.470,457.640,224.770,457.400,224.910,457.160,225.040,456.860,224.950,456.720,224.710,451.720,215.710,452.600,215.710,447.600,224.710,447.460,224.950,447.160,225.040,446.920,224.910,446.680,224.770,446.590,224.470,446.720,224.230" />
+<curve bbox="601.390,165.960,612.530,338.880" linewidth="1" pts="607.460,338.880,607.460,166.990,606.460,166.990,606.460,338.880,612.400,175.750,606.960,165.960,601.520,175.750,601.390,175.990,601.480,176.290,601.720,176.430,601.960,176.560,602.260,176.470,602.400,176.230,602.400,176.230,607.400,167.230,606.520,167.230,611.520,176.230,611.660,176.470,611.960,176.560,612.200,176.430,612.440,176.290,612.530,175.990,612.400,175.750" />
+<rect bbox="170.380,171.120,171.380,184.440" linewidth="1" />
+<line bbox="422.820,219.780,435.300,219.780" linewidth="4" />
+<line bbox="288.060,212.820,296.460,212.820" linewidth="4" />
+<line bbox="270.420,196.020,286.020,196.020" linewidth="4" />
+<line bbox="102.840,313.440,102.840,338.880" linewidth="1" />
+<curve bbox="86.545,294.380,102.840,313.440" linewidth="1" pts="87.593,294.840,102.840,312.800,102.070,313.440,86.831,295.490,88.735,305.360,86.545,294.380,97.024,298.320,97.283,298.420,97.413,298.710,97.316,298.970,97.219,299.220,96.931,299.360,96.672,299.260,87.036,295.630,87.702,295.070,89.716,305.160,89.770,305.440,89.594,305.700,89.323,305.750,89.052,305.810,88.789,305.630,88.735,305.360" />
+<figure bbox="229.320,309.540,292.380,345.360" height="35" name="Image278" src="Image278.176x100.bmp" width="63">
+</figure>
+<figure bbox="270.960,309.540,297.661,345.360" height="35" name="Image280" src="Image280.75x100.bmp" width="26">
+</figure>
+<figure bbox="276.240,309.540,308.341,345.360" height="35" name="Image282" src="Image282.90x100.bmp" width="32">
+</figure>
+<figure bbox="229.200,293.220,263.220,329.040" height="35" name="Image286" src="Image286.95x100.bmp" width="34">
+</figure>
+<figure bbox="241.800,293.220,308.340,329.040" height="35" name="Image288" src="Image288.185x100.bmp" width="66">
+</figure>
+<figure bbox="223.680,277.260,254.701,313.080" height="35" name="Image290" src="Image290.87x100.bmp" width="31">
+</figure>
+<figure bbox="236.520,277.500,258.660,302.160" height="24" name="Image292" src="Image292.62x69.bmp" width="22">
+</figure>
+<figure bbox="240.360,276.900,274.740,312.720" height="35" name="Image294" src="Image294.96x100.bmp" width="34">
+</figure>
+<figure bbox="253.320,277.260,283.499,313.080" height="35" name="Image296" src="Image296.84x100.bmp" width="30">
+</figure>
+<figure bbox="262.080,277.260,307.620,313.080" height="35" name="Image298" src="Image298.127x100.bmp" width="45">
+</figure>
+<figure bbox="286.200,277.260,313.981,313.080" height="35" name="Image300" src="Image300.78x100.bmp" width="27">
+</figure>
+<rect bbox="267.460,222.000,268.460,288.000" linewidth="1" />
+<line bbox="396.180,197.340,411.900,197.340" linewidth="4" />
+<line bbox="548.220,197.220,584.100,197.220" linewidth="4" />
+<curve bbox="201.830,173.160,248.280,219.480" linewidth="4" pts="201.830,173.160,204.270,173.160,206.250,183.530,206.250,196.320,206.250,209.110,204.270,219.480,201.830,219.480,243.850,219.480,246.300,219.480,248.280,209.110,248.280,196.320,248.280,183.530,246.300,173.160,243.850,173.160" />
+<curve bbox="197.400,173.160,206.250,219.480" linewidth="4" pts="201.830,173.160,199.380,173.160,197.400,183.530,197.400,196.320,197.400,209.110,199.380,219.480,201.830,219.480,204.270,219.480,206.250,209.110,206.250,196.320,206.250,183.530,204.270,173.160,201.830,173.160" />
+<curve bbox="197.400,173.160,248.280,219.480" linewidth="0" pts="201.830,219.480,204.270,219.480,206.250,209.110,206.250,196.320,206.250,183.530,204.270,173.160,201.830,173.160,199.380,173.160,197.400,183.530,197.400,196.320,197.400,209.110,199.380,219.480,201.830,219.480,243.850,219.480,246.300,219.480,248.280,209.110,248.280,196.320,248.280,183.530,246.300,173.160,243.850,173.160,201.830,173.160" />
+<curve bbox="50.926,172.800,136.680,219.120" linewidth="4" pts="50.926,172.800,52.741,172.800,54.212,183.170,54.212,195.960,54.212,208.750,52.741,219.120,50.926,219.120,133.390,219.120,135.210,219.120,136.680,208.750,136.680,195.960,136.680,183.170,135.210,172.800,133.390,172.800" />
+<curve bbox="47.640,172.800,54.212,219.120" linewidth="4" pts="50.926,172.800,49.111,172.800,47.640,183.170,47.640,195.960,47.640,208.750,49.111,219.120,50.926,219.120,52.741,219.120,54.212,208.750,54.212,195.960,54.212,183.170,52.741,172.800,50.926,172.800" />
+<curve bbox="47.640,172.800,136.680,219.120" linewidth="0" pts="50.926,219.120,52.741,219.120,54.212,208.750,54.212,195.960,54.212,183.170,52.741,172.800,50.926,172.800,49.111,172.800,47.640,183.170,47.640,195.960,47.640,208.750,49.111,219.120,50.926,219.120,133.390,219.120,135.210,219.120,136.680,208.750,136.680,195.960,136.680,183.170,135.210,172.800,133.390,172.800,50.926,172.800" />
+<line bbox="25.980,196.020,51.300,196.020" linewidth="4" />
+<line bbox="136.740,195.780,203.100,195.780" linewidth="4" />
+<curve bbox="83.541,221.110,147.330,284.900" linewidth="4" pts="83.541,255.020,85.408,253.150,93.609,258.330,101.860,266.580,110.110,274.830,115.280,283.030,113.420,284.900,145.460,252.850,147.330,250.990,142.150,242.790,133.900,234.540,125.650,226.290,117.450,221.110,115.580,222.980" />
+<curve bbox="81.674,253.150,115.280,286.760" linewidth="4" pts="83.541,255.020,81.674,256.890,86.849,265.090,95.099,273.340,103.350,281.590,111.550,286.760,113.420,284.900,115.280,283.030,110.110,274.830,101.860,266.580,93.609,258.330,85.408,253.150,83.541,255.020" />
+<curve bbox="81.674,221.110,147.330,286.760" linewidth="0" pts="113.420,284.900,115.280,283.030,110.110,274.830,101.860,266.580,93.609,258.330,85.408,253.150,83.541,255.020,81.674,256.890,86.849,265.090,95.099,273.340,103.350,281.590,111.550,286.760,113.420,284.900,145.460,252.850,147.330,250.990,142.150,242.790,133.900,234.540,125.650,226.290,117.450,221.110,115.580,222.980,83.541,255.020" />
+<curve bbox="101.180,253.180,114.970,267.000" linewidth="4" pts="101.180,260.980,107.200,267.000,108.430,265.780,103.430,260.780,106.480,257.730,105.460,256.700,114.130,260.220,114.720,259.640,114.970,258.970,114.880,258.210,114.780,257.320,114.150,256.300,113.000,255.150,111.850,254.000,110.830,253.370,109.930,253.270,109.180,253.180,108.520,253.430,107.930,254.020,107.340,254.610,107.090,255.320,107.180,256.130,107.270,256.950,107.900,257.940,109.070,259.100,110.210,260.250,111.240,260.870,112.140,260.980,112.880,261.060,113.540,260.810,114.130,260.220,113.170,259.260,113.030,259.400,112.860,259.480,112.660,259.500,112.460,259.520,112.210,259.450,111.920,259.270,111.530,259.050,110.990,258.590,110.280,257.870,109.560,257.160,109.110,256.640,108.910,256.300,108.720,255.960,108.630,255.690,108.650,255.490,108.670,255.300,108.750,255.130,108.900,254.990,109.040,254.850,109.210,254.760,109.410,254.740,109.610,254.720,109.850,254.800,110.150,254.970,110.530,255.190,111.070,255.650,111.780,256.370,112.500,257.080,112.950,257.600,113.140,257.940,113.340,258.280,113.430,258.550,113.410,258.750,113.390,258.950,113.310,259.120,113.170,259.260" />
+<curve bbox="114.210,237.920,128.670,252.140" linewidth="4" pts="117.790,250.480,116.930,251.730,117.470,252.030,117.990,252.140,118.490,252.060,118.980,251.970,119.510,251.640,120.090,251.070,120.600,250.550,120.930,250.100,121.060,249.730,121.190,249.350,121.220,249.020,121.130,248.720,121.040,248.430,120.750,248.030,120.240,247.530,118.870,246.180,118.480,245.790,118.220,245.490,118.070,245.270,117.930,245.050,117.800,244.780,117.690,244.470,116.540,245.620,116.590,245.730,116.660,245.880,116.770,246.080,116.820,246.160,116.850,246.220,116.870,246.250,116.470,246.260,116.120,246.330,115.790,246.460,115.470,246.590,115.180,246.780,114.920,247.040,114.470,247.490,114.240,247.970,114.220,248.480,114.210,248.980,114.390,249.420,114.760,249.800,115.010,250.050,115.290,250.210,115.600,250.290,115.920,250.360,116.230,250.350,116.550,250.240,116.870,250.120,117.270,249.910,117.750,249.580,118.390,249.140,118.870,248.860,119.170,248.740,119.280,248.850,119.510,249.080,119.610,249.290,119.590,249.500,119.580,249.700,119.420,249.960,119.110,250.260,118.900,250.470,118.700,250.590,118.500,250.630,118.310,250.660,118.070,250.610,117.790,250.480,118.410,247.980,118.210,248.080,117.910,248.250,117.520,248.510,117.130,248.760,116.850,248.910,116.680,248.940,116.420,248.980,116.210,248.920,116.050,248.760,115.880,248.590,115.800,248.390,115.810,248.150,115.810,247.910,115.900,247.700,116.090,247.510,116.300,247.300,116.570,247.170,116.900,247.120,117.140,247.080,117.370,247.120,117.560,247.220,117.690,247.290,117.900,247.470,118.180,247.750,119.750,244.730,120.920,243.570,120.080,242.740,119.750,242.400,119.450,242.160,119.200,242.030,118.950,241.890,118.660,241.820,118.350,241.830,118.030,241.840,117.700,241.920,117.370,242.080,117.620,242.790,117.930,242.630,118.210,242.570,118.440,242.610,118.670,242.640,118.910,242.780,119.150,243.010,118.590,243.570,120.940,241.210,127.020,247.290,128.180,246.120,125.990,243.940,126.760,243.990,127.390,243.770,127.880,243.270,128.420,242.740,128.670,242.100,128.630,241.360,128.590,240.620,128.210,239.890,127.490,239.160,126.740,238.410,125.980,238.010,125.210,237.960,124.450,237.920,123.810,238.150,123.300,238.660,123.050,238.910,122.870,239.220,122.750,239.590,122.630,239.960,122.600,240.360,122.670,240.780,122.030,240.130,124.400,242.350,123.940,241.900,123.670,241.490,123.600,241.130,123.490,240.620,123.610,240.190,123.940,239.860,124.200,239.600,124.530,239.490,124.930,239.530,125.330,239.570,125.760,239.830,126.240,240.300,126.740,240.800,127.010,241.250,127.050,241.660,127.090,242.060,126.970,242.410,126.680,242.690,126.400,242.970,126.060,243.100,125.660,243.060,125.260,243.030,124.840,242.800,124.400,242.350" />
+<figure bbox="23.640,276.660,56.580,312.480" height="35" name="Image314" src="Image314.92x100.bmp" width="32">
+</figure>
+<figure bbox="14.880,263.220,65.460,299.040" height="35" name="Image316" src="Image316.141x100.bmp" width="50">
+</figure>
+<curve bbox="316.770,173.160,405.600,219.480" linewidth="4" pts="316.770,173.160,319.540,173.160,321.790,183.530,321.790,196.320,321.790,209.110,319.540,219.480,316.770,219.480,400.590,219.480,403.360,219.480,405.600,209.110,405.600,196.320,405.600,183.530,403.360,173.160,400.590,173.160" />
+<curve bbox="311.760,173.160,321.790,219.480" linewidth="4" pts="316.770,173.160,314.000,173.160,311.760,183.530,311.760,196.320,311.760,209.110,314.000,219.480,316.770,219.480,319.540,219.480,321.790,209.110,321.790,196.320,321.790,183.530,319.540,173.160,316.770,173.160" />
+<curve bbox="311.760,173.160,405.600,219.480" linewidth="0" pts="316.770,219.480,319.540,219.480,321.790,209.110,321.790,196.320,321.790,183.530,319.540,173.160,316.770,173.160,314.000,173.160,311.760,183.530,311.760,196.320,311.760,209.110,314.000,219.480,316.770,219.480,400.590,219.480,403.360,219.480,405.600,209.110,405.600,196.320,405.600,183.530,403.360,173.160,400.590,173.160,316.770,173.160" />
+<line bbox="300.780,196.140,318.180,196.140" linewidth="4" />
+<rect bbox="220.080,160.800,228.600,170.040" linewidth="4" />
+<rect bbox="220.080,160.800,228.600,170.040" linewidth="0" />
+<curve bbox="259.200,183.000,277.800,210.120" linewidth="4" pts="259.200,183.000,260.590,183.000,261.710,189.070,261.710,196.560,261.710,204.050,260.590,210.120,259.200,210.120,275.280,210.120,276.670,210.120,277.800,204.050,277.800,196.560,277.800,189.070,276.670,183.000,275.280,183.000" />
+<curve bbox="256.680,183.000,261.710,210.120" linewidth="4" pts="259.200,183.000,257.810,183.000,256.680,189.070,256.680,196.560,256.680,204.050,257.810,210.120,259.200,210.120,260.590,210.120,261.710,204.050,261.710,196.560,261.710,189.070,260.590,183.000,259.200,183.000" />
+<curve bbox="256.680,183.000,277.800,210.120" linewidth="0" pts="259.200,210.120,260.590,210.120,261.710,204.050,261.710,196.560,261.710,189.070,260.590,183.000,259.200,183.000,257.810,183.000,256.680,189.070,256.680,196.560,256.680,204.050,257.810,210.120,259.200,210.120,275.280,210.120,276.670,210.120,277.800,204.050,277.800,196.560,277.800,189.070,276.670,183.000,275.280,183.000,259.200,183.000" />
+<line bbox="249.060,195.780,259.620,195.780" linewidth="4" />
+<curve bbox="459.740,174.240,559.920,220.680" linewidth="4" pts="459.740,174.240,462.870,174.240,465.410,184.640,465.410,197.460,465.410,210.280,462.870,220.680,459.740,220.680,554.260,220.680,557.380,220.680,559.920,210.280,559.920,197.460,559.920,184.640,557.380,174.240,554.260,174.240" />
+<curve bbox="454.080,174.240,465.410,220.680" linewidth="4" pts="459.740,174.240,456.620,174.240,454.080,184.640,454.080,197.460,454.080,210.280,456.620,220.680,459.740,220.680,462.870,220.680,465.410,210.280,465.410,197.460,465.410,184.640,462.870,174.240,459.740,174.240" />
+<curve bbox="454.080,174.240,559.920,220.680" linewidth="0" pts="459.740,220.680,462.870,220.680,465.410,210.280,465.410,197.460,465.410,184.640,462.870,174.240,459.740,174.240,456.620,174.240,454.080,184.640,454.080,197.460,454.080,210.280,456.620,220.680,459.740,220.680,554.260,220.680,557.380,220.680,559.920,210.280,559.920,197.460,559.920,184.640,557.380,174.240,554.260,174.240,459.740,174.240" />
+<line bbox="445.980,197.340,460.020,197.340" linewidth="4" />
+<curve bbox="584.900,168.450,598.280,180.020" linewidth="4" pts="584.900,180.020,598.280,179.390,590.540,168.450" />
+<curve bbox="584.900,168.450,598.280,180.020" linewidth="0" pts="584.900,180.020,598.280,179.390,590.540,168.450" />
+<curve bbox="617.770,139.680,677.520,171.840" linewidth="4" pts="617.770,139.680,620.020,139.680,621.850,146.880,621.850,155.760,621.850,164.640,620.020,171.840,617.770,171.840,673.430,171.840,675.690,171.840,677.520,164.640,677.520,155.760,677.520,146.880,675.690,139.680,673.430,139.680" />
+<curve bbox="613.680,139.680,621.850,171.840" linewidth="4" pts="617.770,139.680,615.510,139.680,613.680,146.880,613.680,155.760,613.680,164.640,615.510,171.840,617.770,171.840,620.020,171.840,621.850,164.640,621.850,155.760,621.850,146.880,620.020,139.680,617.770,139.680" />
+<curve bbox="613.680,139.680,677.520,171.840" linewidth="0" pts="617.770,171.840,620.020,171.840,621.850,164.640,621.850,155.760,621.850,146.880,620.020,139.680,617.770,139.680,615.510,139.680,613.680,146.880,613.680,155.760,613.680,164.640,615.510,171.840,617.770,171.840,673.430,171.840,675.690,171.840,677.520,164.640,677.520,155.760,677.520,146.880,675.690,139.680,673.430,139.680,617.770,139.680" />
+<line bbox="677.700,155.700,688.740,155.700" linewidth="4" />
+<line bbox="598.380,156.060,618.780,156.060" linewidth="4" />
+<curve bbox="617.780,223.440,677.520,255.720" linewidth="4" pts="617.780,223.440,620.050,223.440,621.880,230.670,621.880,239.580,621.880,248.490,620.050,255.720,617.780,255.720,673.420,255.720,675.680,255.720,677.520,248.490,677.520,239.580,677.520,230.670,675.680,223.440,673.420,223.440" />
+<curve bbox="613.680,223.440,621.880,255.720" linewidth="4" pts="617.780,223.440,615.520,223.440,613.680,230.670,613.680,239.580,613.680,248.490,615.520,255.720,617.780,255.720,620.050,255.720,621.880,248.490,621.880,239.580,621.880,230.670,620.050,223.440,617.780,223.440" />
+<curve bbox="613.680,223.440,677.520,255.720" linewidth="0" pts="617.780,255.720,620.050,255.720,621.880,248.490,621.880,239.580,621.880,230.670,620.050,223.440,617.780,223.440,615.520,223.440,613.680,230.670,613.680,239.580,613.680,248.490,615.520,255.720,617.780,255.720,673.420,255.720,675.680,255.720,677.520,248.490,677.520,239.580,677.520,230.670,675.680,223.440,673.420,223.440,617.780,223.440" />
+<line bbox="677.580,238.860,691.740,238.860" linewidth="4" />
+<line bbox="598.860,239.340,618.780,239.340" linewidth="4" />
+<curve bbox="48.879,280.510,91.111,322.750" linewidth="4" pts="48.879,292.870,50.370,291.380,58.266,296.860,66.515,305.110,74.765,313.360,80.245,321.260,78.754,322.750,89.621,311.880,91.111,310.390,85.632,302.490,77.382,294.240,69.132,285.990,61.236,280.510,59.746,282.000" />
+<curve bbox="47.389,291.380,80.245,324.240" linewidth="4" pts="48.879,292.870,47.389,294.360,52.868,302.260,61.118,310.510,69.368,318.760,77.264,324.240,78.754,322.750,80.245,321.260,74.765,313.360,66.515,305.110,58.266,296.860,50.370,291.380,48.879,292.870" />
+<curve bbox="47.389,280.510,91.111,324.240" linewidth="0" pts="78.754,322.750,80.245,321.260,74.765,313.360,66.515,305.110,58.266,296.860,50.370,291.380,48.879,292.870,47.389,294.360,52.868,302.260,61.118,310.510,69.368,318.760,77.264,324.240,78.754,322.750,89.621,311.880,91.111,310.390,85.632,302.490,77.382,294.240,69.132,285.990,61.236,280.510,59.746,282.000,48.879,292.870" />
+<line bbox="143.520,283.680,143.520,296.520" linewidth="1" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" rotate="0">
+<textbox bbox="174.820,435.567,545.416,467.631" id="0" size="32.064">LCLS Diagnostics Tasks <textline bbox="174.820,435.567,545.416,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">LCLS Diagnostics Tasks </textline>
+</textbox>
+<textbox bbox="58.200,397.532,124.092,417.572" id="1" size="20.04">Charge <textline bbox="58.200,397.532,124.092,417.572" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Charge </textline>
+</textbox>
+<textbox bbox="403.270,397.532,520.103,417.572" id="2" size="20.04">Bunch length <textline bbox="403.270,397.532,520.103,417.572" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Bunch length </textline>
+</textbox>
+<textbox bbox="89.784,354.250,305.622,393.880" id="3" size="18.0">Toroids (Gun, Inj, BC, Und) 
+Faraday cups (Gun &amp; Inj) <textline bbox="89.784,375.880,305.622,393.880" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Toroids (Gun, Inj, BC, Und) </textline>
+<textline bbox="89.784,354.250,290.790,372.250" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Faraday cups (Gun &amp; Inj) </textline>
+</textbox>
+<textbox bbox="58.200,308.702,232.408,328.742" id="4" size="20.04">Trajectory &amp; energy <textline bbox="58.200,308.702,232.408,328.742" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Trajectory &amp; energy </textline>
+</textbox>
+<textbox bbox="89.784,226.550,340.524,305.050" id="5" size="18.006">Stripline BPMs (Gun, Inj, Linac) 
+Cavity BPMs (Und) 
+Profile monitors (Inj), compare  
+position with alignment laser <textline bbox="89.784,287.050,340.524,305.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Stripline BPMs (Gun, Inj, Linac) </textline>
+<textline bbox="89.784,265.450,242.640,283.450" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Cavity BPMs (Und) </textline>
+<textline bbox="89.784,243.845,335.613,261.869" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">Profile monitors (Inj), compare  </textline>
+<textline bbox="89.784,226.550,315.594,244.550" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">position with alignment laser </textline>
+</textbox>
+<textbox bbox="58.200,161.802,341.405,201.042" id="6" size="20.04">Transverse emittance &amp; energy  
+spread <textline bbox="58.200,181.002,341.405,201.042" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Transverse emittance &amp; energy  </textline>
+<textline bbox="58.200,161.802,119.683,181.842" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">spread </textline>
+</textbox>
+<textbox bbox="89.784,96.920,284.634,158.150" id="7" size="18.008">Wire scanners 
+YAG screen (Gun, Inj) 
+OTR screens (Inj, Linac) <textline bbox="89.784,140.150,204.624,158.150" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Wire scanners </textline>
+<textline bbox="89.784,118.545,265.446,136.569" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">YAG screen (Gun, Inj) </textline>
+<textline bbox="89.784,96.920,284.634,114.920" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">OTR screens (Inj, Linac) </textline>
+</textbox>
+<textbox bbox="434.830,298.090,678.820,393.880" id="8" size="18.0">Cherenkov radiators + streak  
+camera (Gun) 
+Transverse cavity + OTR (Inj,  
+Linac) 
+Coherent radiation power (BC) <textline bbox="434.830,375.880,671.296,393.880" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Cherenkov radiators + streak  </textline>
+<textline bbox="434.830,358.570,545.836,376.570" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">camera (Gun) </textline>
+<textline bbox="434.830,336.970,673.726,354.970" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Transverse cavity + OTR (Inj,  </textline>
+<textline bbox="434.830,319.690,483.664,337.690" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Linac) </textline>
+<textline bbox="434.830,298.090,678.820,316.090" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Coherent radiation power (BC) </textline>
+</textbox>
+<textbox bbox="403.270,252.537,584.829,272.601" id="9" size="20.064">Slice measurements <textline bbox="403.270,252.537,584.829,272.601" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">Slice measurements </textline>
+</textbox>
+<textbox bbox="434.830,230.870,598.846,248.870" id="10" size="18.0">Horizontal emittance <textline bbox="434.830,230.870,598.846,248.870" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Horizontal emittance </textline>
+</textbox>
+<textbox bbox="466.300,211.618,627.180,227.578" id="11" size="15.96">T-cavity + quad + OTR <textline bbox="466.300,211.618,627.180,227.578" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">T-cavity + quad + OTR </textline>
+</textbox>
+<textbox bbox="434.830,190.070,578.758,208.070" id="12" size="18.0">Vertical Emittance <textline bbox="434.830,190.070,578.758,208.070" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Vertical Emittance </textline>
+</textbox>
+<textbox bbox="466.300,155.458,685.128,186.778" id="13" size="15.96">OTR in dispersive beam line +  
+quad <textline bbox="466.300,170.818,685.128,186.778" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">OTR in dispersive beam line +  </textline>
+<textline bbox="466.300,155.458,501.814,171.418" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">quad </textline>
+</textbox>
+<textbox bbox="434.830,133.910,551.794,151.910" id="14" size="18.0">Energy spread <textline bbox="434.830,133.910,551.794,151.910" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Energy spread </textline>
+</textbox>
+<textbox bbox="466.300,99.268,671.358,130.588" id="15" size="15.96">T-cavity + OTR in dispersive  
+beam line <textline bbox="466.300,114.628,671.358,130.588" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">T-cavity + OTR in dispersive  </textline>
+<textline bbox="466.300,99.268,535.726,115.228" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">beam line </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="16" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="17" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="18" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="19" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.5.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.5.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.5.137x99.bmp" width="49">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" rotate="0">
+<textbox bbox="158.350,435.567,561.715,467.631" id="0" size="32.064">Diagnostics Requirements <textline bbox="158.350,435.567,561.715,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">Diagnostics Requirements </textline>
+</textbox>
+<textbox bbox="25.200,398.732,118.747,418.772" id="1" size="20.04">Parameter <textline bbox="25.200,398.732,118.747,418.772" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Parameter </textline>
+</textbox>
+<textbox bbox="193.250,398.732,260.083,418.772" id="2" size="20.04">Method <textline bbox="193.250,398.732,260.083,418.772" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Method </textline>
+</textbox>
+<textbox bbox="409.270,398.732,444.941,418.772" id="3" size="20.04">Unit <textline bbox="409.270,398.732,444.941,418.772" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Unit </textline>
+</textbox>
+<textbox bbox="529.300,398.732,624.069,418.772" id="4" size="20.04">Resolution <textline bbox="529.300,398.732,624.069,418.772" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Resolution </textline>
+</textbox>
+<textbox bbox="25.200,362.082,92.134,382.122" id="5" size="20.04">Current <textline bbox="25.200,362.082,92.134,382.122" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Current </textline>
+</textbox>
+<textbox bbox="25.200,325.452,96.482,345.492" id="6" size="20.04">Position <textline bbox="25.200,325.452,96.482,345.492" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Position </textline>
+</textbox>
+<textbox bbox="193.250,362.082,285.454,382.122" id="7" size="20.04">Toroid, FC <textline bbox="193.250,362.082,285.454,382.122" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Toroid, FC </textline>
+</textbox>
+<textbox bbox="193.250,325.452,314.492,345.492" id="8" size="20.04">Stripline BPM <textline bbox="193.250,325.452,314.492,345.492" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Stripline BPM </textline>
+</textbox>
+<textbox bbox="193.250,288.952,297.678,308.992" id="9" size="20.04">Cavity BPM <textline bbox="193.250,288.952,297.678,308.992" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Cavity BPM </textline>
+</textbox>
+<textbox bbox="25.200,252.327,121.888,272.391" id="10" size="20.064">Beam Size <textline bbox="25.200,252.327,121.888,272.391" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">Beam Size </textline>
+</textbox>
+<textbox bbox="193.250,252.327,314.637,272.391" id="11" size="20.064">Wire Scanner <textline bbox="193.250,252.327,314.637,272.391" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">Wire Scanner </textline>
+</textbox>
+<textbox bbox="25.200,142.427,148.814,162.491" id="12" size="20.064">Bunch Length <textline bbox="25.200,142.427,148.814,162.491" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">Bunch Length </textline>
+</textbox>
+<textbox bbox="193.250,142.427,327.839,162.491" id="13" size="20.064">Streak Camera <textline bbox="193.250,142.427,327.839,162.491" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">Streak Camera </textline>
+</textbox>
+<textbox bbox="193.250,105.902,353.630,125.942" id="14" size="20.04">Transverse Cavity <textline bbox="193.250,105.902,353.630,125.942" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Transverse Cavity </textline>
+</textbox>
+<textbox bbox="409.270,105.902,462.717,125.942" id="15" size="20.04">Slices <textline bbox="409.270,105.902,462.717,125.942" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">Slices </textline>
+</textbox>
+<textbox bbox="193.250,215.682,234.092,235.722" id="16" size="20.04">YAG <textline bbox="193.250,215.682,234.092,235.722" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">YAG </textline>
+</textbox>
+<textbox bbox="193.250,179.052,235.554,199.092" id="17" size="20.04">OTR <textline bbox="193.250,179.052,235.554,199.092" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">OTR </textline>
+</textbox>
+<textbox bbox="193.250,69.280,234.452,89.320" id="18" size="20.04">BLM <textline bbox="193.250,69.280,234.452,89.320" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">BLM </textline>
+</textbox>
+<textbox bbox="409.270,362.082,427.086,382.122" id="19" size="20.04">% <textline bbox="409.270,362.082,427.086,382.122" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">% </textline>
+</textbox>
+<textbox bbox="409.270,325.452,437.483,345.492" id="20" size="20.04">&#956;m <textline bbox="409.270,325.452,437.483,345.492" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">&#956;m </textline>
+</textbox>
+<textbox bbox="409.270,288.952,437.483,308.992" id="21" size="20.04">&#956;m <textline bbox="409.270,288.952,437.483,308.992" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">&#956;m </textline>
+</textbox>
+<textbox bbox="409.270,252.327,437.503,272.391" id="22" size="20.064">&#956;m <textline bbox="409.270,252.327,437.503,272.391" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">&#956;m </textline>
+</textbox>
+<textbox bbox="409.270,215.682,437.483,235.722" id="23" size="20.04">&#956;m <textline bbox="409.270,215.682,437.483,235.722" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">&#956;m </textline>
+</textbox>
+<textbox bbox="409.270,179.052,437.483,199.092" id="24" size="20.04">&#956;m <textline bbox="409.270,179.052,437.483,199.092" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">&#956;m </textline>
+</textbox>
+<textbox bbox="409.270,142.427,424.822,162.491" id="25" size="20.064">fs <textline bbox="409.270,142.427,424.822,162.491" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">fs </textline>
+</textbox>
+<textbox bbox="409.270,69.280,427.086,89.320" id="26" size="20.04">% <textline bbox="409.270,69.280,427.086,89.320" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">% </textline>
+</textbox>
+<textbox bbox="529.300,325.452,580.402,345.492" id="27" size="20.04">5 - 20 <textline bbox="529.300,325.452,580.402,345.492" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">5 - 20 </textline>
+</textbox>
+<textbox bbox="529.300,362.082,540.442,382.122" id="28" size="20.04">2 <textline bbox="529.300,362.082,540.442,382.122" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">2 </textline>
+</textbox>
+<textbox bbox="529.300,288.952,540.442,308.992" id="29" size="20.04">1 <textline bbox="529.300,288.952,540.442,308.992" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">1 </textline>
+</textbox>
+<textbox bbox="529.300,252.327,540.456,272.391" id="30" size="20.064">5 <textline bbox="529.300,252.327,540.456,272.391" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">5 </textline>
+</textbox>
+<textbox bbox="529.300,215.682,596.026,235.722" id="31" size="20.04">15 &#8211; 30 <textline bbox="529.300,215.682,596.026,235.722" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">15 &#8211; 30 </textline>
+</textbox>
+<textbox bbox="529.300,179.052,584.842,199.092" id="32" size="20.04">5 &#8211; 30 <textline bbox="529.300,179.052,584.842,199.092" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">5 &#8211; 30 </textline>
+</textbox>
+<textbox bbox="529.300,142.427,562.776,162.491" id="33" size="20.064">300 <textline bbox="529.300,142.427,562.776,162.491" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.064">300 </textline>
+</textbox>
+<textbox bbox="529.300,105.902,551.602,125.942" id="34" size="20.04">10 <textline bbox="529.300,105.902,551.602,125.942" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">10 </textline>
+</textbox>
+<textbox bbox="529.300,69.280,540.442,89.320" id="35" size="20.04">5 <textline bbox="529.300,69.280,540.442,89.320" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">5 </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="36" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="37" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="38" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="39" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.6.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.6.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.6.137x99.bmp" width="49">
+</figure>
+<line bbox="18.000,389.370,690.000,389.370" linewidth="1" />
+<line bbox="18.000,352.750,690.000,352.750" linewidth="1" />
+<line bbox="18.000,279.620,690.000,279.620" linewidth="1" />
+<line bbox="18.000,169.750,690.000,169.750" linewidth="1" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" rotate="0">
+<textbox bbox="25.200,431.080,111.960,449.080" id="0" size="18.0">Cherenkov <textline bbox="25.200,431.080,111.960,449.080" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Cherenkov </textline>
+</textbox>
+<textbox bbox="160.990,435.567,559.546,467.631" id="1" size="32.064">LCLS Injector Diagnostics <textline bbox="160.990,435.567,559.546,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">LCLS Injector Diagnostics </textline>
+</textbox>
+<textbox bbox="55.200,323.050,104.358,341.050" id="2" size="18.0">Toroid <textline bbox="55.200,323.050,104.358,341.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Toroid </textline>
+</textbox>
+<textbox bbox="55.200,275.050,171.354,293.050" id="3" size="18.0">Phase Monitor <textline bbox="55.200,275.050,171.354,293.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Phase Monitor </textline>
+</textbox>
+<textbox bbox="391.270,287.050,457.384,305.050" id="4" size="18.0">T-Cavity <textline bbox="391.270,287.050,457.384,305.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">T-Cavity </textline>
+</textbox>
+<textbox bbox="475.300,263.050,584.146,281.050" id="5" size="18.0">Wire Scanner <textline bbox="475.300,263.050,584.146,281.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Wire Scanner </textline>
+</textbox>
+<textbox bbox="205.250,401.080,275.900,419.080" id="6" size="18.0">YAG, FC <textline bbox="205.250,401.080,275.900,419.080" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">YAG, FC </textline>
+</textbox>
+<textbox bbox="307.250,353.050,343.934,371.050" id="7" size="18.0">YAG <textline bbox="307.250,353.050,343.934,371.050" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">YAG </textline>
+</textbox>
+<textbox bbox="199.250,209.030,248.300,227.030" id="8" size="18.0">Toroid <textline bbox="199.250,209.030,248.300,227.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Toroid </textline>
+</textbox>
+<textbox bbox="271.250,161.030,309.428,179.030" id="9" size="18.0">OTR <textline bbox="271.250,161.030,309.428,179.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">OTR </textline>
+</textbox>
+<textbox bbox="553.300,179.030,591.478,197.030" id="10" size="18.0">OTR <textline bbox="553.300,179.030,591.478,197.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">OTR </textline>
+</textbox>
+<textbox bbox="625.320,173.030,674.370,191.030" id="11" size="18.0">Toroid <textline bbox="625.320,173.030,674.370,191.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Toroid </textline>
+</textbox>
+<textbox bbox="499.300,59.004,535.984,77.004" id="12" size="18.0">YAG <textline bbox="499.300,59.004,535.984,77.004" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">YAG </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="13" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="14" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="15" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="16" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.7.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.7.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.7.137x99.bmp" width="49">
+</figure>
+<figure bbox="30.000,63.600,690.000,432.000" height="368" name="Image361" src="Image361.jpg" width="660">
+</figure>
+<curve bbox="408.000,216.000,480.250,258.430" linewidth="0" pts="479.750,258.430,412.070,218.950,412.570,218.090,480.250,257.570,411.670,221.610,408.000,216.000,414.690,216.430" />
+<curve bbox="455.050,186.000,480.470,258.160" linewidth="0" pts="479.530,258.160,457.110,190.900,458.060,190.590,480.470,257.840,455.050,192.640,456.000,186.000,460.740,190.740" />
+<curve bbox="479.510,150.000,499.970,258.080" linewidth="0" pts="480.490,258.080,497.670,155.010,496.680,154.850,479.510,257.920,499.970,156.410,498.000,150.000,494.050,155.430" />
+<curve bbox="114.000,407.510,198.070,422.120" linewidth="0" pts="197.930,407.510,118.880,418.800,119.020,419.790,198.070,408.500,119.520,416.180,114.000,420.000,120.360,422.120" />
+<curve bbox="132.000,399.560,198.050,408.500" linewidth="0" pts="197.950,408.500,136.930,402.950,137.020,401.950,198.050,407.500,137.700,405.530,132.000,402.000,138.250,399.560" />
+<curve bbox="216.000,351.440,300.040,360.500" linewidth="0" pts="299.960,360.500,220.950,354.860,221.020,353.860,300.040,359.500,221.770,357.420,216.000,354.000,222.200,351.440" />
+<curve bbox="108.000,382.650,198.130,408.480" linewidth="0" pts="197.870,408.480,112.700,385.770,112.960,384.810,198.130,407.520,113.020,388.440,108.000,384.000,114.570,382.650" />
+<curve bbox="71.576,384.000,102.000,432.270" linewidth="0" pts="72.424,432.270,99.774,388.510,98.926,387.970,71.576,431.740,101.360,390.680,102.000,384.000,96.276,387.500" />
+<curve bbox="71.700,396.000,120.000,432.400" linewidth="0" pts="72.300,432.400,116.300,399.400,115.700,398.600,71.700,431.600,117.000,402.000,120.000,396.000,113.400,397.200" />
+<curve bbox="317.890,173.510,396.000,193.570" linewidth="0" pts="318.110,173.510,391.240,190.390,391.020,191.360,317.890,174.490,390.830,187.730,396.000,192.000,389.480,193.570" />
+<curve bbox="317.540,173.800,342.300,228.000" linewidth="0" pts="318.460,173.800,340.430,223.230,339.510,223.630,317.540,174.200,342.300,221.300,342.000,228.000,336.820,223.740" />
+<curve bbox="317.500,173.960,326.490,246.000" linewidth="0" pts="318.500,173.960,324.080,240.980,323.090,241.060,317.500,174.040,326.490,239.770,324.000,246.000,320.510,240.270" />
+<curve bbox="317.950,159.580,444.000,174.500" linewidth="0" pts="318.050,174.500,439.070,162.970,438.980,161.980,317.950,173.500,438.310,165.560,444.000,162.000,437.740,159.580" />
+<curve bbox="317.870,124.700,492.000,174.480" linewidth="0" pts="318.130,174.480,487.310,127.810,487.050,126.850,317.870,173.520,487.010,130.490,492.000,126.000,485.420,124.700" />
+<curve bbox="539.580,65.723,552.000,84.000" linewidth="0" pts="540.420,65.723,549.640,79.562,548.810,80.117,539.580,66.277,551.170,77.344,552.000,84.000,546.180,80.672" />
+<curve bbox="539.970,65.501,648.000,74.663" linewidth="0" pts="540.030,65.501,643.040,71.223,642.980,72.222,539.970,66.499,642.180,68.672,648.000,72.000,641.840,74.663" />
+<curve bbox="545.700,120.000,570.460,174.200" linewidth="0" pts="569.540,174.200,547.570,124.770,548.490,124.370,570.460,173.800,545.700,126.700,546.000,120.000,551.180,124.260" />
+<curve bbox="569.610,84.000,642.000,174.310" linewidth="0" pts="570.390,174.310,639.270,88.217,638.490,87.592,569.610,173.690,640.590,90.559,642.000,84.000,635.910,86.811" />
+<curve bbox="372.000,234.000,420.370,288.330" linewidth="0" pts="419.630,288.330,374.950,238.070,375.700,237.400,420.370,287.670,373.740,240.480,372.000,234.000,378.230,236.490" />
+<curve bbox="173.680,293.620,210.000,324.000" linewidth="0" pts="174.320,293.620,206.480,320.410,205.840,321.180,173.680,294.380,207.310,317.850,210.000,324.000,203.470,322.460" />
+<curve bbox="83.510,347.900,97.765,408.000" linewidth="0" pts="84.490,347.900,95.510,403.000,94.529,403.200,83.510,348.100,97.765,401.530,96.000,408.000,91.882,402.700" />
+<curve bbox="479.570,120.000,564.000,258.260" linewidth="0" pts="480.430,258.260,561.830,124.530,560.970,124.010,479.570,257.740,563.440,126.690,564.000,120.000,558.320,123.570" />
+<curve bbox="227.840,233.530,300.000,258.950" linewidth="0" pts="228.160,233.530,295.410,255.940,295.100,256.890,227.840,234.470,295.260,253.260,300.000,258.000,293.360,258.950" />
+<curve bbox="645.440,84.000,654.500,168.040" linewidth="0" pts="653.500,168.040,647.860,89.023,648.850,88.952,654.500,167.960,645.440,90.199,648.000,84.000,651.420,89.771" />
+<curve bbox="612.000,102.000,654.420,168.270" linewidth="0" pts="653.580,168.270,614.260,106.490,615.110,105.950,654.420,167.730,612.690,108.670,612.000,102.000,617.750,105.450" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" rotate="0">
+<textbox bbox="176.980,435.567,543.055,467.631" id="0" size="32.064">LCLS Linac Diagnostics <textline bbox="176.980,435.567,543.055,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">LCLS Linac Diagnostics </textline>
+</textbox>
+<textbox bbox="79.272,389.268,125.396,405.228" id="1" size="15.96">6 MeV <textline bbox="79.272,389.268,125.396,405.228" colourspace="Pattern" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960">6 MeV </textline>
+</textbox>
+<textbox bbox="139.510,388.878,203.414,404.838" id="2" size="15.96">135 MeV <textline bbox="139.510,388.878,203.414,404.838" colourspace="Pattern" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960">135 MeV </textline>
+</textbox>
+<textbox bbox="265.560,387.868,329.464,403.828" id="3" size="15.96">250 MeV <textline bbox="265.560,387.868,329.464,403.828" colourspace="Pattern" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960">250 MeV </textline>
+</textbox>
+<textbox bbox="400.940,389.268,468.435,405.228" id="4" size="15.96">4.30 GeV <textline bbox="400.940,389.268,468.435,405.228" colourspace="Pattern" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960">4.30 GeV </textline>
+</textbox>
+<textbox bbox="570.720,389.268,638.374,405.228" id="5" size="15.96">13.6 GeV <textline bbox="570.720,389.268,638.374,405.228" colourspace="Pattern" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960">13.6 GeV </textline>
+</textbox>
+<textbox bbox="54.000,346.808,83.191,376.208" id="6" size="15.96">rf 
+gun <textline bbox="62.760,360.248,74.315,376.208" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">rf </textline>
+<textline bbox="54.000,346.808,83.191,362.768" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">gun </textline>
+</textbox>
+<textbox bbox="22.008,273.868,77.802,305.188" id="7" size="15.96">Linac-0 
+L =6 m <textline bbox="22.008,289.228,77.802,305.188" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-0 </textline>
+<textline bbox="25.248,273.868,74.414,289.860">L =6 m <text bbox="25.248,273.900,34.122,289.860" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="33.888,273.900,38.325,289.860" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="38.328,273.868,47.649,289.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="47.649,273.868,56.522,289.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="56.522,273.868,60.959,289.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="61.119,273.868,74.414,289.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="25.200,128.660,177.960,156.170" id="8" size="12.0">WS - Wire Scanner 
+BLM - Bunch Length Monitor <textline bbox="25.200,144.170,128.316,156.170" colourspace="Pattern" font="ArialMT" ncolour="0.502" size="12.000">WS - Wire Scanner </textline>
+<textline bbox="25.200,128.660,177.960,140.660" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">BLM - Bunch Length Monitor </textline>
+</textbox>
+<textbox bbox="212.540,341.098,275.000,373.378" id="9" size="15.96">Linac-X 
+L =0.6 m <textline bbox="215.060,357.418,272.625,373.378">Linac-X <text bbox="215.060,357.418,224.812,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">L</text>
+<text bbox="224.812,357.418,229.248,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">i</text>
+<text bbox="229.248,357.418,239.000,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">n</text>
+<text bbox="238.936,357.418,247.810,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">a</text>
+<text bbox="247.810,357.418,256.684,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">c</text>
+<text bbox="256.700,357.418,262.015,373.378" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">-</text>
+<text bbox="261.980,357.418,272.625,373.378" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="15.960">X</text>
+</textline>
+<textline bbox="212.540,341.098,275.000,357.090">L =0.6 m <text bbox="212.540,341.130,221.414,357.090" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="221.180,341.130,225.617,357.090" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="225.620,341.098,234.941,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="234.941,341.098,243.814,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="243.814,341.098,248.251,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">.</text>
+<text bbox="248.283,341.098,257.157,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="257.157,341.098,261.594,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="261.706,341.098,275.000,357.058" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="183.140,239.980,213.932,266.380" id="10" size="12.0">21-1b 
+21-1d <textline bbox="183.140,254.380,213.932,266.380" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">21-1b </textline>
+<textline bbox="183.140,239.980,213.932,251.980" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">21-1d </textline>
+</textbox>
+<textbox bbox="232.420,244.328,243.065,260.288" id="11" size="15.96">X <textline bbox="232.420,244.328,243.065,260.288" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="15.960">X </textline>
+</textbox>
+<textbox bbox="188.230,211.128,216.536,221.088" id="12" size="9.96">Spect. <textline bbox="188.230,211.128,216.536,221.088" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="9.960">Spect. </textline>
+</textbox>
+<textbox bbox="232.180,175.378,265.808,191.338" id="13" size="15.96">OTR <textline bbox="232.180,175.378,265.808,191.338" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">OTR </textline>
+</textbox>
+<textbox bbox="323.140,240.720,353.932,267.120" id="14" size="12.0">21-3b 
+24-6d <textline bbox="323.140,255.120,353.932,267.120" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">21-3b </textline>
+<textline bbox="323.140,240.720,353.932,252.720" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">24-6d </textline>
+</textbox>
+<textbox bbox="332.160,193.378,357.925,209.338" id="15" size="15.96">WS <textline bbox="332.160,193.378,357.925,209.338" colourspace="Pattern" font="ArialMT" ncolour="0.502" size="15.960">WS </textline>
+</textbox>
+<textbox bbox="334.560,153.868,367.374,169.828" id="16" size="15.96">BLM <textline bbox="334.560,153.868,367.374,169.828" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">BLM </textline>
+</textbox>
+<textbox bbox="172.660,286.903,228.454,318.318" id="17" size="15.96">Linac-1 
+L &#61627;9 m <textline bbox="172.660,302.358,228.454,318.318" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-1 </textline>
+<textline bbox="176.260,286.903,224.718,302.990">L &#61627;9 m <text bbox="176.260,287.030,185.134,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="184.900,287.030,189.337,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="189.340,286.903,198.102,302.863" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="198.100,286.998,206.974,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">9</text>
+<text bbox="206.980,286.998,211.417,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="211.423,286.998,224.718,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="244.030,283.783,292.518,315.198" id="18" size="15.96">BC-1 
+L &#61627;6 m <textline bbox="249.670,299.238,286.894,315.198" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">BC-1 </textline>
+<textline bbox="244.030,283.783,292.518,299.870">L &#61627;6 m <text bbox="244.030,283.910,252.904,299.870" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="252.670,283.910,257.107,299.870" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="257.110,283.783,265.872,299.743" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="265.900,283.878,274.774,299.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="274.780,283.878,279.217,299.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="279.223,283.878,292.518,299.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="311.810,286.903,378.028,318.318" id="19" size="15.96">Linac-2 
+L &#61627;330 m <textline bbox="317.090,302.358,372.884,318.318" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-2 </textline>
+<textline bbox="311.810,286.903,378.028,302.990">L &#61627;330 m <text bbox="311.810,287.030,320.684,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="320.450,287.030,324.887,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="324.890,286.903,333.652,302.863" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="333.650,286.998,342.524,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
+<text bbox="342.530,286.998,351.404,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
+<text bbox="351.410,286.998,360.284,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="360.290,286.998,364.727,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="364.733,286.998,378.028,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="382.940,285.773,440.278,317.188" id="20" size="15.96">BC-2 
+L &#61627;22 m <textline bbox="393.020,301.228,430.214,317.188" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">BC-2 </textline>
+<textline bbox="382.940,285.773,440.278,301.860">L &#61627;22 m <text bbox="382.940,285.900,391.814,301.860" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="391.580,285.900,396.017,301.860" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="396.020,285.773,404.782,301.733" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="404.780,285.868,413.654,301.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">2</text>
+<text bbox="413.660,285.868,422.534,301.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">2</text>
+<text bbox="422.540,285.868,426.977,301.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="426.983,285.868,440.278,301.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="457.940,286.903,524.188,318.318" id="21" size="15.96">Linac-3 
+L &#61627;550 m <textline bbox="463.250,302.358,519.044,318.318" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">Linac-3 </textline>
+<textline bbox="457.940,286.903,524.188,302.990">L &#61627;550 m <text bbox="457.940,287.030,466.814,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="466.604,287.030,471.041,302.990" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="471.050,286.903,479.812,302.863" colourspace="Pattern" font="SymbolMT" ncolour="0" size="15.960">&#61627;</text>
+<text bbox="479.810,286.998,488.684,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">5</text>
+<text bbox="488.690,286.998,497.564,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">5</text>
+<text bbox="497.570,286.998,506.444,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="506.450,286.998,510.887,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="510.893,286.998,524.188,302.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="555.720,277.878,622.617,309.198" id="22" size="15.96">LTU 
+L =275 m <textline bbox="574.320,293.238,604.117,309.198" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.960">LTU </textline>
+<textline bbox="555.720,277.878,622.617,293.870">L =275 m <text bbox="555.720,277.910,564.594,293.870" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960">L</text>
+<text bbox="564.360,277.910,568.797,293.870" colourspace="Pattern" font="Arial-ItalicMT" ncolour="0" size="15.960"> </text>
+<text bbox="568.800,277.878,578.121,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="578.121,277.878,586.994,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">2</text>
+<text bbox="586.994,277.878,595.868,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">7</text>
+<text bbox="595.900,277.878,604.774,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">5</text>
+<text bbox="604.774,277.878,609.211,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="609.322,277.878,622.617,293.838" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">m</text>
+</textline>
+</textbox>
+<textbox bbox="601.250,255.488,667.851,271.448" id="23" size="15.96">undulator <textline bbox="601.250,255.488,667.851,271.448" colourspace="Pattern" font="ArialMT" ncolour="(0, 0, 1)" size="15.960">undulator </textline>
+</textbox>
+<textbox bbox="455.008,240.821,464.968,268.130" id="24" size="5.4224000000000006">T 
+- 
+C 
+a 
+v <textline bbox="455.008,262.044,464.968,268.130" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="6.086">T </textline>
+<textline bbox="455.008,258.573,464.968,261.890" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="3.317">- </textline>
+<textline bbox="455.008,251.339,464.968,258.530" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="7.191">C </textline>
+<textline bbox="455.008,245.801,464.968,251.339" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="5.538">a </textline>
+<textline bbox="455.008,240.821,464.968,245.801" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="4.980">v </textline>
+</textbox>
+<textbox bbox="475.870,240.720,506.662,267.120" id="25" size="12.0">25-1a 
+30-8c <textline bbox="475.870,255.120,506.662,267.120" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">25-1a </textline>
+<textline bbox="476.230,240.720,506.350,252.720" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">30-8c </textline>
+</textbox>
+<textbox bbox="430.200,181.378,463.826,197.338" id="26" size="15.96">OTR <textline bbox="430.200,181.378,463.826,197.338" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">OTR </textline>
+</textbox>
+<textbox bbox="500.180,169.378,525.945,185.338" id="27" size="15.96">WS <textline bbox="500.180,169.378,525.945,185.338" colourspace="Pattern" font="ArialMT" ncolour="0.502" size="15.960">WS </textline>
+</textbox>
+<textbox bbox="556.220,157.378,589.846,173.338" id="28" size="15.96">OTR <textline bbox="556.220,157.378,589.846,173.338" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960">OTR </textline>
+</textbox>
+<textbox bbox="654.120,165.843,699.291,181.827" id="29" size="15.984">Dump <textline bbox="654.120,165.843,699.291,181.827" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="15.984">Dump </textline>
+</textbox>
+<textbox bbox="187.220,88.288,346.738,108.328" id="30" size="20.04">SLAC linac tunnel <textline bbox="187.220,88.288,346.738,108.328" colourspace="Pattern" font="ArialMT" ncolour="(0.647, 0, 0.129)" size="20.040">SLAC linac tunnel </textline>
+</textbox>
+<textbox bbox="561.600,88.043,683.810,108.107" id="31" size="20.064">research yard <textline bbox="561.600,88.043,683.810,108.107" colourspace="Pattern" font="ArialMT" ncolour="(0.647, 0, 0.129)" size="20.064">research yard </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="32" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="33" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="34" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="35" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<rect bbox="0.000,486.000,720.000,540.000" linewidth="0" />
+<rect bbox="20.000,52.000,704.000,478.000" linewidth="0" />
+<rect bbox="18.000,54.000,702.000,480.000" linewidth="0" />
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.8.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.8.148x132.bmp" width="47">
+</figure>
+<rect bbox="652.560,12.000,702.000,48.000" linewidth="0" />
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.8.137x99.bmp" width="49">
+</figure>
+<rect bbox="18.060,77.940,702.060,119.940" linewidth="0" />
+<rect bbox="18.060,77.940,702.060,119.940" linewidth="2" />
+<rect bbox="18.060,119.940,702.060,407.940" linewidth="2" />
+<rect bbox="18.060,119.940,702.060,407.940" linewidth="2" />
+<line bbox="552.000,83.160,552.000,400.320" linewidth="0" />
+<line bbox="587.100,217.620,675.180,217.620" linewidth="4" />
+<rect bbox="608.820,200.940,662.340,234.420" linewidth="4" />
+<rect bbox="608.820,200.940,662.340,234.420" linewidth="1" />
+<curve bbox="161.170,268.800,169.310,384.840" linewidth="1" pts="164.740,384.840,164.740,269.790,165.740,269.790,165.740,384.840,161.310,275.540,165.240,268.800,169.170,275.540,169.310,275.780,169.230,276.080,168.990,276.220,168.750,276.360,168.450,276.280,168.310,276.040,168.310,276.040,164.810,270.040,165.670,270.040,162.170,276.040,162.030,276.280,161.730,276.360,161.490,276.220,161.250,276.080,161.170,275.780,161.310,275.540" />
+<curve bbox="292.090,271.200,300.230,381.000" linewidth="1" pts="296.660,381.000,296.660,272.190,295.660,272.190,295.660,381.000,300.090,277.940,296.160,271.200,292.230,277.940,292.090,278.180,292.170,278.480,292.410,278.620,292.650,278.760,292.950,278.680,293.090,278.440,296.590,272.440,295.730,272.440,299.230,278.440,299.370,278.680,299.670,278.760,299.910,278.620,300.150,278.480,300.230,278.180,300.090,277.940" />
+<curve bbox="588.610,226.080,596.750,381.000" linewidth="1" pts="593.180,381.000,593.180,227.070,592.180,227.070,592.180,381.000,596.610,232.820,592.680,226.080,588.750,232.820,588.610,233.060,588.690,233.360,588.930,233.500,589.170,233.640,589.470,233.560,589.610,233.320,593.110,227.320,592.250,227.320,595.750,233.320,595.890,233.560,596.190,233.640,596.430,233.500,596.670,233.360,596.750,233.060,596.610,232.820" />
+<line bbox="404.100,277.740,416.820,277.740" linewidth="4" />
+<line bbox="428.460,255.180,447.300,255.180" linewidth="4" />
+<line bbox="260.220,271.140,268.020,271.140" linewidth="4" />
+<line bbox="248.580,254.100,255.060,254.100" linewidth="4" />
+<line bbox="272.580,253.380,307.020,253.380" linewidth="4" />
+<curve bbox="239.760,272.640,245.760,330.720" linewidth="4" pts="242.260,330.720,242.260,277.640,243.260,277.640,243.260,330.720,239.760,278.640,242.760,272.640,245.760,278.640" />
+<line bbox="375.180,255.180,391.140,255.180" linewidth="4" />
+<rect bbox="296.580,238.140,380.580,271.620" linewidth="4" />
+<rect bbox="296.580,238.140,380.580,271.620" linewidth="1" />
+<line bbox="463.260,255.060,573.060,255.060" linewidth="4" />
+<rect bbox="436.380,238.140,546.060,271.620" linewidth="4" />
+<rect bbox="436.380,238.140,546.060,271.620" linewidth="1" />
+<curve bbox="97.834,313.960,111.180,327.400" linewidth="4" pts="97.834,321.320,103.910,327.400,104.710,326.590,99.354,321.240,102.350,318.250,101.630,317.530,105.310,319.840,106.030,320.560,106.680,321.060,107.270,321.350,107.850,321.640,108.410,321.760,108.940,321.700,109.470,321.650,109.950,321.400,110.400,320.960,110.720,320.630,110.940,320.280,111.060,319.910,111.170,319.530,111.180,319.140,111.100,318.730,111.010,318.320,110.840,317.900,110.570,317.450,110.310,317.000,109.870,316.480,109.270,315.880,108.560,315.160,107.910,314.660,107.330,314.370,106.740,314.080,106.190,313.960,105.660,314.010,105.130,314.060,104.640,314.310,104.190,314.760,103.610,315.340,103.360,316.010,103.440,316.770,103.550,317.670,104.170,318.700,105.310,319.840,106.080,319.070,105.080,318.070,104.530,317.290,104.440,316.730,104.340,316.170,104.460,315.710,104.810,315.370,105.150,315.030,105.600,314.910,106.170,315.000,106.730,315.100,107.510,315.650,108.510,316.640,109.510,317.640,110.050,318.420,110.150,318.990,110.240,319.550,110.120,320.000,109.770,320.350,109.430,320.690,109.010,320.820,108.510,320.740,107.890,320.620,107.080,320.070,106.080,319.070" />
+<curve bbox="109.500,297.360,127.670,313.400" linewidth="4" pts="109.500,309.650,117.910,313.400,118.780,312.530,115.190,303.970,114.270,304.890,115.400,307.430,112.860,309.970,110.360,308.800,113.750,310.400,115.810,308.340,116.860,310.650,117.180,311.360,117.450,311.920,117.690,312.340,117.220,312.030,116.720,311.750,116.200,311.510,115.960,303.200,116.800,304.050,117.650,303.200,116.800,302.350,116.490,302.040,116.190,301.840,115.880,301.760,115.580,301.680,115.260,301.710,114.910,301.840,115.020,302.370,115.250,302.280,115.470,302.270,115.680,302.330,115.880,302.390,116.120,302.540,116.380,302.780,118.200,300.960,124.270,307.030,126.550,304.760,127.020,304.290,127.330,303.860,127.480,303.450,127.640,303.050,127.670,302.640,127.570,302.230,127.480,301.810,127.290,301.470,127.010,301.190,126.750,300.930,126.440,300.750,126.070,300.670,125.700,300.580,125.300,300.600,124.870,300.750,125.130,300.270,125.230,299.810,125.170,299.350,125.110,298.890,124.900,298.490,124.550,298.130,124.260,297.850,123.940,297.650,123.570,297.520,123.210,297.400,122.870,297.360,122.560,297.400,122.250,297.450,121.930,297.570,121.600,297.770,121.260,297.960,120.900,298.260,120.510,298.640,122.520,303.680,123.840,302.360,124.190,302.010,124.470,301.780,124.670,301.670,124.940,301.520,125.190,301.470,125.440,301.510,125.680,301.550,125.910,301.670,126.120,301.880,126.330,302.090,126.460,302.310,126.510,302.560,126.570,302.810,126.540,303.050,126.410,303.290,126.290,303.530,126.010,303.860,125.570,304.300,124.360,305.510,119.720,300.870,121.230,299.360,121.490,299.100,121.680,298.930,121.810,298.840,122.030,298.690,122.240,298.590,122.440,298.540,122.640,298.500,122.850,298.510,123.080,298.580,123.310,298.640,123.520,298.770,123.710,298.970,123.940,299.190,124.080,299.450,124.130,299.730,124.180,300.010,124.140,300.290,124.000,300.570,123.860,300.840,123.600,301.170,123.210,301.560,121.810,302.960" />
+<line bbox="75.000,288.960,88.800,288.960" linewidth="0" />
+<curve bbox="88.966,290.130,99.100,300.260" linewidth="0" pts="88.966,290.840,95.210,297.080,95.918,296.380,89.673,290.130,92.736,298.140,99.100,300.260,96.978,293.900" />
+<line bbox="106.560,358.800,106.560,384.600" linewidth="0" />
+<curve bbox="91.613,340.870,106.540,358.780" linewidth="0" pts="92.631,341.320,106.540,358.150,105.770,358.780,91.860,341.950,92.877,348.570,91.613,340.870,98.938,343.560,99.198,343.660,99.331,343.940,99.235,344.200,99.140,344.460,98.853,344.590,98.594,344.500,92.073,342.110,92.739,341.550,93.864,348.410,93.864,348.410,93.909,348.680,93.724,348.940,93.452,348.980,93.179,349.030,92.922,348.840,92.877,348.570" />
+<curve bbox="427.930,270.840,436.070,380.640" linewidth="0" pts="432.500,380.640,432.500,271.830,431.500,271.830,431.500,380.640,435.930,277.580,432.000,270.840,428.070,277.580,427.930,277.820,428.010,278.120,428.250,278.260,428.490,278.400,428.790,278.320,428.930,278.080,432.430,272.080,431.570,272.080,435.070,278.080,435.210,278.320,435.510,278.400,435.750,278.260,435.990,278.120,436.070,277.820,435.930,277.580" />
+<line bbox="218.100,252.060,234.060,252.060" linewidth="4" />
+<rect bbox="228.060,236.940,247.260,270.420" linewidth="4" />
+<rect bbox="228.060,236.940,247.260,270.420" linewidth="1" />
+<rect bbox="450.060,238.260,471.540,270.780" linewidth="1" />
+<rect bbox="450.060,238.260,471.540,270.780" linewidth="1" />
+<curve bbox="130.420,273.730,137.790,281.110" linewidth="1" pts="137.120,273.730,132.670,278.180,131.010,276.520,130.420,277.110,134.410,281.110,135.010,280.510,133.340,278.850,137.790,274.400" />
+<curve bbox="138.600,280.220,153.130,294.780" linewidth="1" pts="144.450,284.600,145.290,285.100,145.700,284.410,145.860,283.740,145.790,283.090,145.710,282.440,145.410,281.850,144.890,281.330,144.340,280.790,143.790,280.450,143.230,280.330,142.670,280.220,142.090,280.280,141.490,280.520,140.890,280.760,140.350,281.120,139.870,281.600,139.350,282.130,138.990,282.690,138.800,283.280,138.610,283.870,138.600,284.450,138.770,285.030,138.930,285.600,139.240,286.110,139.680,286.550,140.190,287.060,140.740,287.350,141.340,287.440,141.940,287.530,142.540,287.410,143.140,287.070,142.640,286.260,142.160,286.510,141.720,286.610,141.330,286.560,140.940,286.500,140.580,286.300,140.240,285.970,139.850,285.580,139.620,285.160,139.550,284.720,139.470,284.270,139.540,283.840,139.750,283.420,139.950,283.000,140.220,282.630,140.560,282.290,140.990,281.870,141.420,281.550,141.870,281.360,142.310,281.160,142.750,281.120,143.170,281.230,143.590,281.330,143.950,281.540,144.260,281.840,144.630,282.220,144.840,282.640,144.890,283.120,144.930,283.590,144.790,284.090,144.450,284.600,149.570,287.080,149.530,286.660,149.450,286.300,149.320,286.010,149.190,285.720,149.000,285.450,148.760,285.210,148.360,284.800,147.950,284.590,147.540,284.570,147.130,284.560,146.770,284.700,146.460,285.000,146.280,285.180,146.160,285.390,146.100,285.620,146.030,285.840,146.020,286.070,146.060,286.290,146.100,286.510,146.180,286.730,146.300,286.940,146.390,287.090,146.540,287.310,146.760,287.580,147.200,288.140,147.500,288.580,147.650,288.900,147.570,288.990,147.510,289.040,147.490,289.060,147.240,289.320,147.000,289.440,146.780,289.420,146.480,289.400,146.180,289.240,145.870,288.930,145.580,288.640,145.410,288.370,145.380,288.130,145.340,287.890,145.420,287.600,145.610,287.280,144.920,286.760,144.720,287.070,144.600,287.370,144.570,287.660,144.530,287.940,144.590,288.250,144.750,288.570,144.900,288.900,145.130,289.210,145.450,289.530,145.760,289.840,146.050,290.060,146.320,290.180,146.580,290.300,146.820,290.350,147.020,290.330,147.220,290.310,147.430,290.240,147.640,290.100,147.760,290.020,147.960,289.840,148.240,289.560,149.060,288.740,149.640,288.160,150.020,287.810,150.190,287.690,150.370,287.560,150.570,287.470,150.790,287.400,150.140,286.760,149.950,286.820,149.760,286.930,149.570,287.080,148.130,288.410,148.000,288.100,147.740,287.680,147.360,287.170,147.140,286.880,147.000,286.660,146.940,286.510,146.880,286.350,146.870,286.210,146.900,286.060,146.930,285.910,147.000,285.790,147.110,285.680,147.270,285.520,147.470,285.440,147.710,285.460,147.940,285.470,148.180,285.600,148.420,285.840,148.660,286.080,148.820,286.340,148.900,286.630,148.980,286.920,148.970,287.200,148.880,287.470,148.810,287.670,148.630,287.910,148.360,288.190,152.550,289.170,147.510,291.430,148.170,292.080,151.140,290.680,151.460,290.530,151.780,290.360,152.110,290.180,151.970,290.430,151.810,290.730,151.640,291.100,150.230,294.140,150.860,294.780,153.130,289.750" />
+<rect bbox="172.620,237.420,224.580,270.780" linewidth="1" />
+<rect bbox="172.620,237.420,224.580,270.780" linewidth="1" />
+<rect bbox="186.060,206.220,218.580,227.700" linewidth="1" />
+<rect bbox="186.060,206.220,218.580,227.700" linewidth="1" />
+<curve bbox="260.640,267.360,267.960,275.760" linewidth="1" pts="260.640,271.560,260.640,273.880,262.280,275.760,264.300,275.760,266.320,275.760,267.960,273.880,267.960,271.560,267.960,269.240,266.320,267.360,264.300,267.360,262.280,267.360,260.640,269.240,260.640,271.560" />
+<curve bbox="277.080,249.360,284.520,257.760" linewidth="1" pts="277.080,253.560,277.080,255.880,278.750,257.760,280.800,257.760,282.850,257.760,284.520,255.880,284.520,253.560,284.520,251.240,282.850,249.360,280.800,249.360,278.750,249.360,277.080,251.240,277.080,253.560" />
+<curve bbox="408.000,273.360,415.320,281.760" linewidth="1" pts="408.000,277.560,408.000,279.880,409.640,281.760,411.660,281.760,413.680,281.760,415.320,279.880,415.320,277.560,415.320,275.240,413.680,273.360,411.660,273.360,409.640,273.360,408.000,275.240,408.000,277.560" />
+<curve bbox="574.680,237.360,582.000,245.760" linewidth="1" pts="574.680,241.560,574.680,243.880,576.320,245.760,578.340,245.760,580.360,245.760,582.000,243.880,582.000,241.560,582.000,239.240,580.360,237.360,578.340,237.360,576.320,237.360,574.680,239.240,574.680,241.560" />
+<curve bbox="592.680,213.360,600.000,221.760" linewidth="1" pts="592.680,217.560,592.680,219.880,594.320,221.760,596.340,221.760,598.360,221.760,600.000,219.880,600.000,217.560,600.000,215.240,598.360,213.360,596.340,213.360,594.320,213.360,592.680,215.240,592.680,217.560" />
+<curve bbox="267.960,249.360,275.400,257.760" linewidth="1" pts="267.960,253.560,267.960,255.880,269.630,257.760,271.680,257.760,273.730,257.760,275.400,255.880,275.400,253.560,275.400,251.240,273.730,249.360,271.680,249.360,269.630,249.360,267.960,251.240,267.960,253.560" />
+<curve bbox="426.000,251.760,433.320,260.160" linewidth="1" pts="426.000,255.960,426.000,258.280,427.640,260.160,429.660,260.160,431.680,260.160,433.320,258.280,433.320,255.960,433.320,253.640,431.680,251.760,429.660,251.760,427.640,251.760,426.000,253.640,426.000,255.960" />
+<curve bbox="286.320,249.600,293.760,258.000" linewidth="1" pts="286.320,253.800,286.320,256.120,287.990,258.000,290.040,258.000,292.090,258.000,293.760,256.120,293.760,253.800,293.760,251.480,292.090,249.600,290.040,249.600,287.990,249.600,286.320,251.480,286.320,253.800" />
+<curve bbox="600.000,213.600,607.320,222.000" linewidth="1" pts="600.000,217.800,600.000,220.120,601.640,222.000,603.660,222.000,605.680,222.000,607.320,220.120,607.320,217.800,607.320,215.480,605.680,213.600,603.660,213.600,601.640,213.600,600.000,215.480,600.000,217.800" />
+<curve bbox="684.000,195.600,691.320,204.000" linewidth="1" pts="684.000,199.800,684.000,202.120,685.640,204.000,687.660,204.000,689.680,204.000,691.320,202.120,691.320,199.800,691.320,197.480,689.680,195.600,687.660,195.600,685.640,195.600,684.000,197.480,684.000,199.800" />
+<curve bbox="472.680,249.600,480.000,258.000" linewidth="1" pts="472.680,253.800,472.680,256.120,474.320,258.000,476.340,258.000,478.360,258.000,480.000,256.120,480.000,253.800,480.000,251.480,478.360,249.600,476.340,249.600,474.320,249.600,472.680,251.480,472.680,253.800" />
+<curve bbox="281.520,173.650,348.360,242.280" linewidth="1" pts="347.640,173.650,284.650,238.350,285.370,239.050,348.360,174.350,283.560,235.890,281.520,242.280,287.860,240.070" />
+<curve bbox="347.630,173.660,420.000,252.000" linewidth="1" pts="348.370,173.660,416.980,247.990,416.240,248.670,347.630,174.340,418.130,245.560,420.000,252.000,413.730,249.630" />
+<curve bbox="251.510,197.910,265.560,264.480" linewidth="1" pts="252.490,197.910,263.270,259.470,262.290,259.640,251.510,198.090,265.560,258.050,263.640,264.480,259.650,259.090" />
+<curve bbox="251.560,197.760,278.280,246.000" linewidth="1" pts="252.440,197.760,276.320,241.370,275.440,241.850,251.560,198.240,278.030,239.300,278.280,246.000,272.770,242.180" />
+<curve bbox="573.000,180.000,579.000,234.000" linewidth="1" pts="575.500,180.000,575.500,229.000,576.500,229.000,576.500,180.000,573.000,228.000,576.000,234.000,579.000,228.000" />
+<curve bbox="575.550,179.780,588.000,204.000" linewidth="1" pts="576.450,179.780,586.210,199.300,585.320,199.750,575.550,180.220,588.000,197.290,588.000,204.000,582.630,199.980" />
+<curve bbox="575.920,179.510,684.000,199.970" linewidth="1" pts="576.080,179.510,679.150,196.680,678.990,197.670,575.920,180.490,678.570,194.050,684.000,198.000,677.590,199.970" />
+<curve bbox="414.000,203.760,450.440,270.000" linewidth="1" pts="449.560,203.760,415.960,265.370,416.830,265.850,450.440,204.240,414.240,263.300,414.000,270.000,419.510,266.170" />
+<curve bbox="449.570,203.750,474.000,246.000" linewidth="1" pts="450.430,203.750,471.950,241.410,471.090,241.910,449.570,204.250,473.630,239.300,474.000,246.000,468.420,242.280" />
+<curve bbox="383.160,250.920,390.480,259.200" linewidth="1" pts="383.160,255.060,383.160,257.350,384.800,259.200,386.820,259.200,388.840,259.200,390.480,257.350,390.480,255.060,390.480,252.770,388.840,250.920,386.820,250.920,384.800,250.920,383.160,252.770,383.160,255.060" />
+<curve bbox="508.080,249.840,515.520,258.240" linewidth="1" pts="508.080,254.040,508.080,256.360,509.750,258.240,511.800,258.240,513.850,258.240,515.520,256.360,515.520,254.040,515.520,251.720,513.850,249.840,511.800,249.840,509.750,249.840,508.080,251.720,508.080,254.040" />
+<curve bbox="300.000,215.580,348.260,246.000" linewidth="1" pts="347.730,215.580,303.970,242.930,304.500,243.770,348.260,216.420,303.500,240.280,300.000,246.000,306.680,245.360" />
+<curve bbox="347.680,215.620,384.000,246.000" linewidth="1" pts="348.320,215.620,380.480,242.410,379.840,243.180,347.680,216.380,381.310,239.850,384.000,246.000,377.470,244.460" />
+<curve bbox="507.680,191.940,516.500,246.000" linewidth="1" pts="515.500,191.940,510.060,240.980,511.050,241.090,516.500,192.060,507.680,239.710,510.000,246.000,513.640,240.370" />
+<curve bbox="515.900,191.510,600.000,211.680" linewidth="1" pts="516.100,191.510,595.220,208.460,595.010,209.440,515.900,192.490,594.760,205.810,600.000,210.000,593.500,211.680" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" rotate="0">
+<textbox bbox="87.792,435.567,632.207,467.631" id="0" size="32.064">Beam Profile Monitors (YAG &amp; OTR) <textline bbox="87.792,435.567,632.207,467.631" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.064">Beam Profile Monitors (YAG &amp; OTR) </textline>
+</textbox>
+<textbox bbox="58.200,397.532,221.766,417.572" id="1" size="20.04">YAG requirements <textline bbox="58.200,397.532,221.766,417.572" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">YAG requirements </textline>
+</textbox>
+<textbox bbox="89.784,354.250,437.940,393.880" id="2" size="18.0">Use 100&#181;m thick crystals to meet resolution 
+GTF measurements show feasibility <textline bbox="89.784,375.880,437.940,393.880" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Use 100&#181;m thick crystals to meet resolution </textline>
+<textline bbox="89.784,354.250,375.588,372.250" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">GTF measurements show feasibility </textline>
+</textbox>
+<textbox bbox="58.200,330.302,223.169,350.342" id="3" size="20.04">OTR requirements <textline bbox="58.200,330.302,223.169,350.342" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">OTR requirements </textline>
+</textbox>
+<textbox bbox="89.784,308.650,573.642,326.650" id="4" size="18.0">Optimize yield to enable beam profile measurement at 0.2nC <textline bbox="89.784,308.650,573.642,326.650" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Optimize yield to enable beam profile measurement at 0.2nC </textline>
+</textbox>
+<textbox bbox="146.470,281.690,375.466,293.690" id="5" size="12.0">OTR yield for 100mrad angular acceptance <textline bbox="146.470,281.690,375.466,293.690" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">OTR yield for 100mrad angular acceptance </textline>
+</textbox>
+<textbox bbox="97.224,260.090,423.960,272.090" id="6" size="12.0">Energy (MeV) QE (%), 450-650 nm QE (%), 400-750 nm <textline bbox="97.224,260.090,423.960,272.090" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">Energy (MeV) QE (%), 450-650 nm QE (%), 400-750 nm </textline>
+</textbox>
+<textbox bbox="152.540,238.490,172.652,250.490" id="7" size="12.0">135 <textline bbox="152.540,238.490,172.652,250.490" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">135 </textline>
+</textbox>
+<textbox bbox="145.820,216.860,172.652,228.860" id="8" size="12.0">4300 <textline bbox="145.820,216.860,172.652,228.860" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">4300 </textline>
+</textbox>
+<textbox bbox="139.220,195.260,172.772,207.260" id="9" size="12.0">13500 <textline bbox="139.220,195.260,172.772,207.260" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">13500 </textline>
+</textbox>
+<textbox bbox="231.220,238.490,254.668,250.490" id="10" size="12.0">0.44 <textline bbox="231.220,238.490,254.668,250.490" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">0.44 </textline>
+</textbox>
+<textbox bbox="231.220,216.860,254.668,228.860" id="11" size="12.0">0.98 <textline bbox="231.220,216.860,254.668,228.860" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">0.98 </textline>
+</textbox>
+<textbox bbox="231.220,195.260,254.668,207.260" id="12" size="12.0">1.17 <textline bbox="231.220,195.260,254.668,207.260" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">1.17 </textline>
+</textbox>
+<textbox bbox="357.240,238.490,380.688,250.490" id="13" size="12.0">0.75 <textline bbox="357.240,238.490,380.688,250.490" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">0.75 </textline>
+</textbox>
+<textbox bbox="357.240,216.860,380.688,228.860" id="14" size="12.0">1.68 <textline bbox="357.240,216.860,380.688,228.860" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">1.68 </textline>
+</textbox>
+<textbox bbox="357.240,195.260,380.688,207.260" id="15" size="12.0">1.99 <textline bbox="357.240,195.260,380.688,207.260" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">1.99 </textline>
+</textbox>
+<textbox bbox="89.784,157.430,508.744,175.430" id="16" size="18.0">Provide sufficient depth of field for imaging of 45&#176; foil <textline bbox="89.784,157.430,508.744,175.430" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Provide sufficient depth of field for imaging of 45&#176; foil </textline>
+</textbox>
+<textbox bbox="121.220,138.178,564.429,154.138" id="17" size="15.96">Simulation shows 1mm DOF for f/# of 5 within 20&#181;m resolution <textline bbox="121.220,138.178,564.429,154.138" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">Simulation shows 1mm DOF for f/# of 5 within 20&#181;m resolution </textline>
+</textbox>
+<textbox bbox="89.784,95.004,669.654,134.600" id="18" size="18.0">Match direction of reflection with axis of dispersion or T-CAV deflection 
+Foil is aluminum to optimize TR yield and 1&#181;m thick to minimize radiation <textline bbox="89.784,116.600,650.068,134.600" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Match direction of reflection with axis of dispersion or T-CAV deflection </textline>
+<textline bbox="89.784,95.004,669.654,113.004" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Foil is aluminum to optimize TR yield and 1&#181;m thick to minimize radiation </textline>
+</textbox>
+<textbox bbox="25.200,30.144,87.960,42.144" id="19" size="12.0">3 May 2006 <textline bbox="25.200,30.144,87.960,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">3 May 2006 </textline>
+</textbox>
+<textbox bbox="25.200,5.044,87.495,19.084" id="20" size="14.04">BIW 2006 <textline bbox="25.200,5.044,87.495,19.084" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.502" size="14.040">BIW 2006 </textline>
+</textbox>
+<textbox bbox="516.700,30.144,580.732,42.144" id="21" size="12.0">Henrik Loos <textline bbox="516.700,30.144,580.732,42.144" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Henrik Loos </textline>
+</textbox>
+<textbox bbox="467.980,9.740,580.667,19.700" id="22" size="9.96">loos@slac.stanford.edu <textline bbox="467.980,9.740,580.667,19.700" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="9.960">loos@slac.stanford.edu </textline>
+</textbox>
+<figure bbox="102.000,485.040,618.000,540.000" height="54" name="Image8" src="Image8.9.1433x152.bmp" width="516">
+</figure>
+<figure bbox="606.000,12.240,653.160,48.000" height="35" name="Image14" src="Image14.9.148x132.bmp" width="47">
+</figure>
+<figure bbox="652.560,12.000,702.000,48.000" height="36" name="Image16" src="Image16.9.137x99.bmp" width="49">
+</figure>
+<line bbox="180.000,191.000,180.000,278.400" linewidth="1" />
+<line bbox="306.000,191.000,306.000,278.400" linewidth="1" />
+<line bbox="89.500,277.900,432.500,277.900" linewidth="1" />
+<line bbox="89.500,256.300,432.500,256.300" linewidth="1" />
+<line bbox="89.500,234.700,432.500,234.700" linewidth="1" />
+<line bbox="89.500,213.100,432.500,213.100" linewidth="1" />
+<line bbox="90.000,191.000,90.000,278.400" linewidth="1" />
+<line bbox="432.000,191.000,432.000,278.400" linewidth="1" />
+<line bbox="89.500,191.500,432.500,191.500" linewidth="1" />
+</page>
+</pages>

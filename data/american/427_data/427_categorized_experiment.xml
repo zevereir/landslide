@@ -1,0 +1,616 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="170.950,259.033,573.183,354.198" id="0" size="27.968">LDCM Cloud Cover Assessment 
+Update and Overview 
+November, 2010 <textline bbox="170.950,326.238,573.183,354.198" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">LDCM Cloud Cover Assessment </textline>
+<textline bbox="237.220,292.638,506.671,320.598" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">Update and Overview </textline>
+<textline bbox="269.140,259.033,474.822,287.017" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">November, 2010 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="36.216,1.220,163.106,11.180" id="2" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="0.000,451.680,720.120,533.280" height="81" name="Image6" src="Image6.jpg" width="720">
+</picture>
+<picture archetypal_index="3" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.934x54.bmp" width="720">
+</picture>
+<picture archetypal_index="4" bbox="155.040,240.900,590.820,366.960" caption="Pat Scaramuzza, SGT &#10;U.S. Geological Survey Center for Earth Resources Observation and Science &#10;Sioux Falls, SD " height="126" name="Image11" src="Image11.1211x351.bmp" width="435">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[181.3, 478.493, 704.573, 506.477]" rotate="0">
+<title archetypal_index="0" bbox="181.300,478.493,704.573,506.477" id="0" size="27.984">Summary of LDCM CCA Changes in 2010 <textline bbox="181.300,478.493,704.573,506.477" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">Summary of LDCM CCA Changes in 2010 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="36.216,1.220,163.106,11.180" id="13" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.0.934x54.bmp" width="720">
+</picture>
+<enlisting archetypal_index="3" bbox="49.392,53.316,684.382,455.802">&#8226; Minor changes to CCA Control flow. &#8226; Quality Band format has been finalized. &#8226; Creation of new ASTER dataset for thermal studies. &#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic  &#8226; Addition of Thermal ACCA. &#8211; Using L7 ACCA on TIRS band 1. 
+&#8211; Study using ASTER data suggests that surface temperature will offer no  &#8226; Addition of Cirrus CCA. &#8211; Using 1.38 &#181;m band threshold test from MODIS. <normal_text bbox="49.392,435.762,391.982,455.802" id="1" size="20.04">&#8226; Minor changes to CCA Control flow. <textline bbox="49.392,435.762,391.982,455.802" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Minor changes to CCA Control flow. </textline>
+</normal_text>
+<normal_text bbox="49.392,320.532,425.188,340.572" id="4" size="20.04">&#8226; Quality Band format has been finalized. <textline bbox="49.392,320.532,425.188,340.572" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Quality Band format has been finalized. </textline>
+</normal_text>
+<normal_text bbox="49.392,272.512,534.146,292.552" id="5" size="20.04">&#8226; Creation of new ASTER dataset for thermal studies. <textline bbox="49.392,272.512,534.146,292.552" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Creation of new ASTER dataset for thermal studies. </textline>
+</normal_text>
+<normal_text bbox="85.392,248.700,615.478,266.700" id="6" size="18.0">&#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic  <textline bbox="85.392,248.700,615.478,266.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic  </textline>
+</normal_text>
+<normal_text bbox="49.392,183.472,314.968,203.512" id="8" size="20.04">&#8226; Addition of Thermal ACCA. <textline bbox="49.392,183.472,314.968,203.512" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Addition of Thermal ACCA. </textline>
+</normal_text>
+<normal_text bbox="85.392,140.200,684.382,179.839" id="9" size="18.012">&#8211; Using L7 ACCA on TIRS band 1. 
+&#8211; Study using ASTER data suggests that surface temperature will offer no  <textline bbox="85.392,161.815,367.586,179.839" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">&#8211; Using L7 ACCA on TIRS band 1. </textline>
+<textline bbox="85.392,140.200,684.382,158.200" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Study using ASTER data suggests that surface temperature will offer no  </textline>
+</normal_text>
+<normal_text bbox="49.392,74.968,283.165,95.008" id="11" size="20.04">&#8226; Addition of Cirrus CCA. <textline bbox="49.392,74.968,283.165,95.008" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Addition of Cirrus CCA. </textline>
+</normal_text>
+<normal_text bbox="85.392,53.316,492.382,71.316" id="12" size="18.0">&#8211; Using 1.38 &#181;m band threshold test from MODIS. <textline bbox="85.392,53.316,492.382,71.316" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Using 1.38 &#181;m band threshold test from MODIS. </textline>
+</normal_text>
+<normal_text bbox="107.950,231.420,215.788,249.420" id="7" size="18.0">temperature). <textline bbox="107.950,231.420,215.788,249.420" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">temperature). </textline>
+</normal_text>
+<normal_text bbox="107.950,122.920,614.794,140.920" id="10" size="18.0">advantage over brightness temperature for the ACCA algorithm. <textline bbox="107.950,122.920,614.794,140.920" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">advantage over brightness temperature for the ACCA algorithm. </textline>
+</normal_text>
+</enlisting><picture archetypal_index="4" bbox="0.0,451.68,720.12,533.28" caption="&#10;&#8211; Thermal data switch, no saturation switch. &#10;&#8226; Using only non-saturated version of See5 CCA. " combined_sources="['Image6.0.jpg', 'Image17.1541x164.bmp']" name="combined_0" src="combined_2_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[181.30000000000004, 476.96233333333333, 649.7296666666666, 507.66633333333334]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,622.308,508.261" id="0" size="32.064">CCA Control System Flowchart <textline bbox="181.300,476.197,622.308,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">CCA Control System Flowchart </textline>
+</title>
+<curvetext bbox="628.060,231.948,677.802,286.328" id="3" size="15.968000000000002">L1G 
+Quality 
+Band <textline bbox="637.780,270.368,667.957,286.328" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">L1G </textline>
+<textline bbox="628.060,251.163,677.802,267.147" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Quality </textline>
+<textline bbox="634.180,231.948,671.447,247.908" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Band </textline>
+</curvetext>
+<curvetext bbox="202.420,319.168,215.158,329.128" id="6" size="9.96">No <textline bbox="202.420,319.168,215.158,329.128" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">No </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="30.792,243.287,70.638,290.932" id="9" size="14.048">L1G 
+Scene 
+Data <textline bbox="37.392,276.892,63.915,290.932" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">L1G </textline>
+<textline bbox="30.792,260.092,70.638,274.132" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Scene </textline>
+<textline bbox="35.832,243.287,65.465,257.351" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Data </textline>
+</normal_text>
+<curvetext bbox="383.980,357.842,422.871,388.682" id="10" size="14.04">ACCA 
+Mask <textline bbox="383.980,374.642,422.871,388.682" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">ACCA </textline>
+<textline bbox="386.620,357.842,420.148,371.882" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="373.660,291.702,433.311,322.542" id="11" size="14.04">AT-ACCA 
+Mask <textline bbox="373.660,308.502,433.311,322.542" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">AT-ACCA </textline>
+<textline bbox="386.620,291.702,420.148,305.742" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="368.110,225.942,438.928,256.782" id="12" size="14.04">Cirrus CCA 
+Mask <textline bbox="368.110,242.742,438.928,256.782" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Cirrus CCA </textline>
+<textline bbox="386.620,225.942,420.148,239.982" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Mask </textline>
+</curvetext>
+<curvetext bbox="370.510,160.057,436.512,190.902" id="13" size="14.052">See5 CCA 
+Mask <textline bbox="370.510,176.862,436.512,190.902" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">See5 CCA </textline>
+<textline bbox="386.620,160.057,420.149,174.121" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Mask </textline>
+</curvetext>
+<curvetext bbox="369.310,91.156,437.587,121.992" id="14" size="14.04">Other CCA 
+Masks <textline bbox="369.310,107.952,437.587,121.992" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Other CCA </textline>
+<textline bbox="383.140,91.156,423.730,105.196" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Masks </textline>
+</curvetext>
+<normal_text archetypal_index="2" bbox="36.216,1.220,163.106,11.180" id="18" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.1.934x54.bmp" width="720">
+</picture>
+<curve bbox="101.620,270.590,141.620,339.840" linewidth="0" pts="101.620,270.590,101.620,337.340,132.620,337.340,132.620,336.340,102.120,336.340,102.620,336.840,102.620,270.590,131.620,339.840,141.620,336.840,131.620,333.840" />
+<curve bbox="101.620,235.200,223.620,265.700" linewidth="0" pts="101.620,265.700,101.620,237.700,214.620,237.700,214.620,238.700,102.120,238.700,102.620,238.200,102.620,265.700,213.620,235.200,223.620,238.200,213.620,241.200" />
+<curve bbox="101.620,169.330,223.620,265.700" linewidth="0" pts="101.620,265.700,101.620,171.820,214.620,171.830,214.620,172.830,102.120,172.820,102.620,172.320,102.620,265.700,213.620,169.330,223.620,172.330,213.620,175.330" />
+<curve bbox="324.820,367.050,365.070,373.050" linewidth="1" pts="324.820,369.450,356.070,369.550,356.070,370.550,324.820,370.450,355.080,367.050,365.070,370.080,355.060,373.050" />
+<curve bbox="365.160,343.970,441.600,391.680" linewidth="1" pts="365.160,391.680,441.600,391.680,441.600,357.130,403.380,357.130,403.380,343.970,365.160,351.450" />
+<curve bbox="365.160,343.970,441.600,391.680" linewidth="1" pts="365.160,391.680,441.600,391.680,441.600,357.130,403.380,357.130,403.380,343.970,365.160,351.450" />
+<curve bbox="365.160,277.860,441.600,325.440" linewidth="1" pts="365.160,325.440,441.600,325.440,441.600,290.990,403.380,290.990,403.380,277.860,365.160,285.320" />
+<curve bbox="365.160,277.860,441.600,325.440" linewidth="1" pts="365.160,325.440,441.600,325.440,441.600,290.990,403.380,290.990,403.380,277.860,365.160,285.320" />
+<curve bbox="365.160,212.090,441.600,259.800" linewidth="1" pts="365.160,259.800,441.600,259.800,441.600,225.250,403.380,225.250,403.380,212.090,365.160,219.570" />
+<curve bbox="365.160,212.090,441.600,259.800" linewidth="1" pts="365.160,259.800,441.600,259.800,441.600,225.250,403.380,225.250,403.380,212.090,365.160,219.570" />
+<curve bbox="365.160,146.210,441.600,193.920" linewidth="1" pts="365.160,193.920,441.600,193.920,441.600,159.370,403.380,159.370,403.380,146.210,365.160,153.690" />
+<curve bbox="365.160,146.210,441.600,193.920" linewidth="1" pts="365.160,193.920,441.600,193.920,441.600,159.370,403.380,159.370,403.380,146.210,365.160,153.690" />
+<curve bbox="324.820,300.990,365.070,306.990" linewidth="1" pts="324.820,304.580,356.070,304.480,356.070,303.480,324.820,303.580,355.080,306.990,365.070,303.960,355.060,300.990" />
+<curve bbox="324.820,235.200,365.070,241.200" linewidth="1" pts="324.820,238.700,356.070,238.700,356.070,237.700,324.820,237.700,355.070,241.200,365.070,238.200,355.070,235.200" />
+<curve bbox="324.820,169.320,365.070,175.320" linewidth="1" pts="324.820,172.820,356.070,172.820,356.070,171.820,324.820,171.820,355.070,175.320,365.070,172.320,355.070,169.320" />
+<curve bbox="365.160,77.329,441.600,125.040" linewidth="1" pts="365.160,125.040,441.600,125.040,441.600,90.492,403.380,90.492,403.380,77.329,365.160,84.808" />
+<curve bbox="365.160,77.329,441.600,125.040" linewidth="1" pts="365.160,125.040,441.600,125.040,441.600,90.492,403.380,90.492,403.380,77.329,365.160,84.808" />
+<curve bbox="325.320,100.410,365.070,106.410" linewidth="1" pts="325.320,102.810,329.320,102.830,329.320,103.830,325.320,103.810,332.320,102.840,336.320,102.850,336.320,103.850,332.320,103.840,339.320,102.860,343.320,102.870,343.320,103.870,339.320,103.860,346.320,102.880,350.320,102.890,350.320,103.890,346.320,103.880,353.320,102.900,356.070,102.910,356.070,103.910,353.320,103.900,355.080,100.410,365.070,103.440,355.060,106.410" />
+<curve bbox="101.620,100.330,223.620,265.200" linewidth="1" pts="101.620,265.200,101.620,261.200,102.620,261.200,102.620,265.200,101.620,258.200,101.620,254.200,102.620,254.200,102.620,258.200,101.620,251.200,101.620,247.200,102.620,247.200,102.620,251.200,101.620,244.200,101.620,240.200,102.620,240.200,102.620,244.200,101.620,237.200,101.620,233.200,102.620,233.200,102.620,237.200,101.620,230.200,101.620,226.200,102.620,226.200,102.620,230.200,101.620,223.200,101.620,219.200,102.620,219.200,102.620,223.200,101.620,216.200,101.620,212.200,102.620,212.200,102.620,216.200,101.620,209.200,101.620,205.200,102.620,205.200,102.620,209.200,101.620,202.200,101.620,198.200,102.620,198.200,102.620,202.200,101.620,195.200,101.620,191.200,102.620,191.200,102.620,195.200,101.620,188.200,101.620,184.200,102.620,184.200,102.620,188.200,101.620,181.200,101.620,177.200,102.620,177.200,102.620,181.200,101.620,174.200,101.620,170.200,102.620,170.200,102.620,174.200,101.620,167.200,101.620,163.200,102.620,163.200,102.620,167.200,101.620,160.200,101.620,156.200,102.620,156.200,102.620,160.200,101.620,153.200,101.620,149.200,102.620,149.200,102.620,153.200,101.620,146.200,101.620,142.200,102.620,142.200,102.620,146.200,101.620,139.200,101.620,135.200,102.620,135.200,102.620,139.200,101.620,132.200,101.620,128.200,102.620,128.200,102.620,132.200,101.620,125.200,101.620,121.200,102.620,121.200,102.620,125.200,101.620,118.200,101.620,114.200,102.620,114.200,102.620,118.200,101.620,111.200,101.620,107.200,102.620,107.200,102.620,111.200,101.620,104.200,101.620,102.830,105.250,102.830,105.250,103.830,102.120,103.830,102.620,103.330,102.620,104.200,108.250,102.830,112.250,102.830,112.250,103.830,108.250,103.830,115.250,102.830,119.250,102.830,119.250,103.830,115.250,103.830,122.250,102.830,126.250,102.830,126.250,103.830,122.250,103.830,129.250,102.830,133.250,102.830,133.250,103.830,129.250,103.830,136.250,102.830,140.250,102.830,140.250,103.830,136.250,103.830,143.250,102.830,147.250,102.830,147.250,103.830,143.250,103.830,150.250,102.830,154.250,102.830,154.250,103.830,150.250,103.830,157.250,102.830,161.250,102.830,161.250,103.830,157.250,103.830,164.250,102.830,168.250,102.830,168.250,103.830,164.250,103.830,171.250,102.830,175.250,102.830,175.250,103.830,171.250,103.830,178.250,102.830,182.250,102.830,182.250,103.830,178.250,103.830,185.250,102.830,189.250,102.830,189.250,103.830,185.250,103.830,192.250,102.830,196.250,102.830,196.250,103.830,192.250,103.830,199.250,102.830,203.250,102.830,203.250,103.830,199.250,103.830,206.250,102.830,210.250,102.830,210.250,103.830,206.250,103.830,213.250,102.830,214.620,102.830,214.620,103.830,213.250,103.830,213.620,100.330,223.620,103.330,213.620,106.330" />
+<curve bbox="612.960,199.510,692.520,295.200" linewidth="1" pts="612.960,295.200,692.520,295.200,692.520,225.910,652.740,225.910,652.740,199.510,612.960,214.510" />
+<curve bbox="612.960,199.510,692.520,295.200" linewidth="1" pts="612.960,295.200,692.520,295.200,692.520,225.910,652.740,225.910,652.740,199.510,612.960,214.510" />
+<curve bbox="441.100,248.960,500.220,370.580" linewidth="1" pts="441.100,370.580,471.350,370.580,471.350,251.960,470.850,252.460,491.220,252.460,491.220,251.460,470.350,251.460,470.350,370.080,470.850,369.580,441.100,369.580,490.220,254.960,500.220,251.960,490.220,248.960" />
+<curve bbox="441.100,248.960,500.220,304.460" linewidth="1" pts="441.100,304.460,471.350,304.460,471.350,251.960,470.850,252.460,491.220,252.460,491.220,251.460,470.350,251.460,470.350,303.960,470.850,303.460,441.100,303.460,490.220,254.960,500.220,251.960,490.220,248.960" />
+<curve bbox="441.100,237.750,500.220,255.000" linewidth="1" pts="441.100,237.750,471.350,237.750,471.350,252.000,470.850,251.500,491.220,251.500,491.220,252.500,470.350,252.500,470.350,238.250,470.850,238.750,441.100,238.750,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="441.100,171.870,500.220,255.000" linewidth="1" pts="441.100,171.870,471.350,171.870,471.350,252.000,470.850,251.500,491.220,251.500,491.220,252.500,470.350,252.500,470.350,172.370,470.850,172.870,441.100,172.870,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="441.600,103.000,500.220,255.000" linewidth="1" pts="441.600,103.000,445.600,103.000,445.600,104.000,441.600,104.000,448.600,103.000,452.600,103.000,452.600,104.000,448.600,104.000,455.600,103.000,459.600,103.000,459.600,104.000,455.600,104.000,462.600,103.000,466.600,103.000,466.600,104.000,462.600,104.000,469.600,103.000,471.350,103.000,471.350,106.250,470.350,106.250,470.350,103.500,470.850,104.000,469.600,104.000,471.350,109.250,471.350,113.250,470.350,113.250,470.350,109.250,471.350,116.250,471.350,120.250,470.350,120.250,470.350,116.250,471.350,123.250,471.350,127.250,470.350,127.250,470.350,123.250,471.350,130.250,471.350,134.250,470.350,134.250,470.350,130.250,471.350,137.250,471.350,141.250,470.350,141.250,470.350,137.250,471.350,144.250,471.350,148.250,470.350,148.250,470.350,144.250,471.350,151.250,471.350,155.250,470.350,155.250,470.350,151.250,471.350,158.250,471.350,162.250,470.350,162.250,470.350,158.250,471.350,165.250,471.350,169.250,470.350,169.250,470.350,165.250,471.350,172.250,471.350,176.250,470.350,176.250,470.350,172.250,471.350,179.250,471.350,183.250,470.350,183.250,470.350,179.250,471.350,186.250,471.350,190.250,470.350,190.250,470.350,186.250,471.350,193.250,471.350,197.250,470.350,197.250,470.350,193.250,471.350,200.250,471.350,204.250,470.350,204.250,470.350,200.250,471.350,207.250,471.350,211.250,470.350,211.250,470.350,207.250,471.350,214.250,471.350,218.250,470.350,218.250,470.350,214.250,471.350,221.250,471.350,225.250,470.350,225.250,470.350,221.250,471.350,228.250,471.350,232.250,470.350,232.250,470.350,228.250,471.350,235.250,471.350,239.250,470.350,239.250,470.350,235.250,471.350,242.250,471.350,246.250,470.350,246.250,470.350,242.250,471.350,249.250,471.350,252.000,470.850,251.500,472.100,251.500,472.100,252.500,470.350,252.500,470.350,249.250,475.100,251.500,479.100,251.500,479.100,252.500,475.100,252.500,482.100,251.500,486.100,251.500,486.100,252.500,482.100,252.500,489.100,251.500,491.220,251.500,491.220,252.500,489.100,252.500,490.220,249.000,500.220,252.000,490.220,255.000" />
+<curve bbox="586.060,249.000,613.060,255.000" linewidth="1" pts="586.060,252.500,604.060,252.500,604.060,251.500,586.060,251.500,603.060,255.000,613.060,252.000,603.060,249.000" />
+<curve bbox="141.600,318.720,177.960,355.080" linewidth="0" pts="141.600,336.900,141.600,346.940,149.740,355.080,159.780,355.080,169.820,355.080,177.960,346.940,177.960,336.900,177.960,326.860,169.820,318.720,159.780,318.720,149.740,318.720,141.600,326.860,141.600,336.900" />
+<curve bbox="141.600,318.720,177.960,355.080" linewidth="1" pts="141.600,336.900,141.600,346.940,149.740,355.080,159.780,355.080,169.820,355.080,177.960,346.940,177.960,336.900,177.960,326.860,169.820,318.720,159.780,318.720,149.740,318.720,141.600,326.860,141.600,336.900" />
+<curve bbox="177.260,304.090,223.580,337.540" linewidth="1" pts="177.850,337.540,216.570,309.740,215.980,308.930,177.260,336.730,217.210,312.360,223.580,304.090,213.710,307.480" />
+<curve bbox="177.260,336.140,223.580,369.960" linewidth="1" pts="177.850,336.140,216.600,364.270,216.010,365.080,177.260,336.950,217.260,361.660,223.580,369.960,213.730,366.510" />
+<curve bbox="540.360,311.280,546.360,374.780" linewidth="1" pts="543.860,374.780,543.860,320.280,542.860,320.280,542.860,374.780,546.360,321.280,543.360,311.280,540.360,321.280" />
+<table archetypal_index="4" bbox="98.88,265.2,325.32,328.92" dimensions="2/1"><cell bbox="98.88,265.2,105.36,271.08" /><cell bbox="223.68,279.48,325.32,328.92"><tabletext bbox="238.610,285.178,310.538,320.377" id="8" size="15.972000000000001">Expanded 
+AT-ACCA <textline bbox="238.610,304.393,310.538,320.377" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Expanded </textline>
+<textline bbox="240.530,285.178,308.507,301.138" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">AT-ACCA </textline>
+</tabletext>
+</cell></table><table archetypal_index="5" bbox="223.68,78.72,586.56,328.92" dimensions="4/2"><cell bbox="223.68,213.6,325.32,263.04"><tabletext bbox="234.050,228.898,314.855,244.858" id="15" size="15.96">Cirrus CCA <textline bbox="234.050,228.898,314.855,244.858" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Cirrus CCA </textline>
+</tabletext>
+</cell><cell bbox="223.68,147.72,325.32,197.16"><tabletext bbox="236.810,163.018,312.237,178.978" id="16" size="15.96">See5 CCA <textline bbox="236.810,163.018,312.237,178.978" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">See5 CCA </textline>
+</tabletext>
+</cell><cell bbox="223.68,78.72,325.32,128.16"><tabletext bbox="231.290,93.992,317.586,109.952" id="17" size="15.96">Other CCAs <textline bbox="231.290,93.992,317.586,109.952" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Other CCAs </textline>
+</tabletext>
+</cell><cell bbox="500.28,192.72,586.56,311.28"><tabletext bbox="517.440,219.830,569.442,281.050" id="2" size="18.008">Merge 
+CCA 
+Masks <textline bbox="518.040,263.050,568.962,281.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Merge </textline>
+<textline bbox="524.520,241.445,562.462,259.469" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">CCA </textline>
+<textline bbox="517.440,219.830,569.442,237.830" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Masks </textline>
+</tabletext>
+</cell><cell bbox="223.68,279.48,325.32,328.92" /></table><picture archetypal_index="6" bbox="0.0,451.68,720.12,533.28" caption="&#10;CCA &#10;Weights &#10;(CPF) &#10;Is &#10;TIRS data &#10;available? &#10;Yes &#10;ACCA " combined_sources="['Image6.1.jpg', 'Image26.1332x187.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[183.17, 476.6671666666666, 604.9468333333333, 508.03916666666663]" rotate="0">
+<title archetypal_index="0" bbox="185.040,476.372,560.164,508.412" id="0" size="32.04">CCA Algorithms compared <textline bbox="185.040,476.372,560.164,508.412" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">CCA Algorithms compared </textline>
+</title>
+<normal_text archetypal_index="1" bbox="181.130,361.995,240.141,401.600" id="1" size="18.012">Pixels  
+Correct <textline bbox="186.790,383.600,239.548,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="181.130,361.995,240.141,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Correct </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="280.920,361.995,333.678,401.600" id="2" size="18.012">Pixels  
+False <textline bbox="280.920,383.600,333.678,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="282.840,361.995,326.837,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">False </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="362.830,361.995,452.626,401.600" id="3" size="18.012">Pixels  
+Ambiguous <textline bbox="383.830,383.600,436.588,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Pixels  </textline>
+<textline bbox="362.830,361.995,452.626,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Ambiguous </textline>
+</normal_text>
+<ref bbox="42.216,71.311,672.860,132.520" id="26" size="18.008">Source for these numbers for ACCA, AT-ACCA, and See5-rE is Landsat 7 data  
+from the Irish dataset. 
+Source for Cirrus test is the Hyperion dataset. <textline bbox="42.216,114.520,672.860,132.520" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Source for these numbers for ACCA, AT-ACCA, and See5-rE is Landsat 7 data  </textline>
+<textline bbox="42.216,92.916,216.132,110.916" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">from the Irish dataset. </textline>
+<textline bbox="42.216,71.311,406.103,89.335" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Source for Cirrus test is the Hyperion dataset. </textline>
+</ref>
+<normal_text archetypal_index="4" bbox="36.216,1.220,163.106,11.180" id="31" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="5" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.2.934x54.bmp" width="720">
+</picture>
+<table archetypal_index="6" bbox="462.0,177.8,699.0,446.75" dimensions="2/5"><cell bbox="462.0,358.25,576.0,446.75"><tabletext bbox="468.240,361.995,574.998,401.600" id="4" size="18.012">Misclassified  
+Clouds <textline bbox="468.240,383.600,574.998,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Misclassified  </textline>
+<textline bbox="491.160,361.995,546.998,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Clouds </textline>
+</tabletext>
+</cell><cell bbox="576.0,358.25,699.0,446.75"><tabletext bbox="586.700,361.995,693.458,401.600" id="5" size="18.012">Misclassified  
+Clear <textline bbox="586.700,383.600,693.458,401.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Misclassified  </textline>
+<textline bbox="616.220,361.995,659.081,380.019" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Clear </textline>
+</tabletext>
+</cell><cell bbox="462.0,323.75,576.0,358.25" /><cell bbox="576.0,323.75,699.0,358.25" /><cell bbox="462.0,290.37,576.0,323.745"><tabletext bbox="521.620,294.110,572.560,312.110" id="16" size="18.0">12.3% <textline bbox="521.620,294.110,572.560,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">12.3% </textline>
+</tabletext>
+</cell><cell bbox="576.0,290.37,699.0,323.745"><tabletext bbox="654.600,294.110,695.568,312.110" id="19" size="18.0">6.3% <textline bbox="654.600,294.110,695.568,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">6.3% </textline>
+</tabletext>
+</cell><cell bbox="462.0,257.0,576.0,290.375"><tabletext bbox="521.620,260.720,572.560,278.720" id="17" size="18.0">12.1% <textline bbox="521.620,260.720,572.560,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">12.1% </textline>
+</tabletext>
+</cell><cell bbox="576.0,257.0,699.0,290.375"><tabletext bbox="654.600,260.720,695.568,278.720" id="20" size="18.0">4.5% <textline bbox="654.600,260.720,695.568,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.5% </textline>
+</tabletext>
+</cell><cell bbox="462.0,177.8,576.0,257.0"><tabletext bbox="531.580,181.500,572.548,199.500" id="24" size="18.0">4.8% <textline bbox="531.580,181.500,572.548,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.8% </textline>
+</tabletext>
+</cell><cell bbox="576.0,177.8,699.0,257.0"><tabletext bbox="654.600,181.500,695.568,199.500" id="25" size="18.0">8.7% <textline bbox="654.600,181.500,695.568,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.7% </textline>
+</tabletext>
+</cell></table><enlisting archetypal_index="7" bbox="308.74,181.5,349.762,312.11">8.5% 7.3% 8.1% <normal_text bbox="308.740,294.110,349.762,312.110" id="10" size="18.0">8.5% <textline bbox="308.740,294.110,349.762,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.5% </textline>
+</normal_text>
+<normal_text bbox="308.740,260.720,349.762,278.720" id="11" size="18.0">7.3% <textline bbox="308.740,260.720,349.762,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">7.3% </textline>
+</normal_text>
+<normal_text bbox="308.740,181.500,349.762,199.500" id="22" size="18.0">8.1% <textline bbox="308.740,181.500,349.762,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">8.1% </textline>
+</normal_text>
+</enlisting><enlisting archetypal_index="8" bbox="41.112,181.32,458.498,312.11">89.8% 88.5% 91.9% 1.7% 4.2% <normal_text bbox="201.77,181.5,252.71,312.11">89.8% 88.5% 91.9% <normal_text bbox="201.770,294.110,252.710,312.110" id="7" size="18.0">89.8% <textline bbox="201.770,294.110,252.710,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">89.8% </textline>
+</normal_text>
+<normal_text bbox="201.770,260.720,252.710,278.720" id="8" size="18.0">88.5% <textline bbox="201.770,260.720,252.710,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">88.5% </textline>
+</normal_text>
+<normal_text bbox="201.770,181.500,252.710,199.500" id="21" size="18.0">91.9% <textline bbox="201.770,181.500,252.710,199.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">91.9% </textline>
+</normal_text>
+</normal_text><normal_text bbox="41.112,181.32,458.498,312.11">1.7% 4.2% <normal_text bbox="417.530,294.110,458.498,312.110" id="13" size="18.0">1.7% <textline bbox="417.530,294.110,458.498,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">1.7% </textline>
+</normal_text>
+<normal_text bbox="417.530,260.720,458.498,278.720" id="14" size="18.0">4.2% <textline bbox="417.530,260.720,458.498,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">4.2% </textline>
+</normal_text>
+<normal_text bbox="41.112,181.320,153.972,249.920" id="30" size="15.006">Cirrus Simple  
+Test  
+(excluding high  
+altitude playas) <textline bbox="41.112,231.920,153.972,249.920" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Cirrus Simple  </textline>
+<textline bbox="41.112,210.315,79.233,228.339" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Test  </textline>
+<textline bbox="41.112,195.720,124.812,207.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">(excluding high  </textline>
+<textline bbox="41.112,181.320,121.596,193.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">altitude playas) </textline>
+</normal_text>
+<normal_text bbox="395.230,181.536,420.250,199.536" id="23" size="18.0">n/a <textline bbox="395.230,181.536,420.250,199.536" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="18.000">n/a </textline>
+</normal_text>
+<normal_text bbox="41.112,294.110,117.924,312.110" id="28" size="18.0">AT-ACCA <textline bbox="41.112,294.110,117.924,312.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">AT-ACCA </textline>
+</normal_text>
+<normal_text bbox="41.112,260.720,106.998,278.720" id="29" size="18.0">See5-rE <textline bbox="41.112,260.720,106.998,278.720" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">See5-rE </textline>
+</normal_text>
+</normal_text></enlisting><picture archetypal_index="9" bbox="0.0,451.68,720.12,533.28" caption="&#10;79.9% &#10;4.3% &#10;15.8% &#10;7.8% &#10;2.3% &#10;ACCA " combined_sources="['Image6.2.jpg', 'Image30.1149x187.bmp']" name="combined_0" src="combined_4_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[182.422, 476.4790999999999, 510.18449999999996, 508.12789999999995]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,368.041,508.261" id="0" size="32.064">LDCM ACCA <textline bbox="181.300,476.197,368.041,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">LDCM ACCA </textline>
+</title>
+<normal_text archetypal_index="1" bbox="23.712,185.270,333.600,246.490" id="2" size="18.0">The LDCM ACCA algorithm is only the  
+classification phase of ACCA, using  
+TIRS thermal band 1. <textline bbox="23.712,228.490,333.600,246.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">The LDCM ACCA algorithm is only the  </textline>
+<textline bbox="23.712,206.890,311.514,224.890" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">classification phase of ACCA, using  </textline>
+<textline bbox="23.712,185.270,194.694,203.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">TIRS thermal band 1. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="23.712,77.263,341.592,160.070" id="3" size="18.006">The snow/ice and water classifications  
+reported by the ACCA algorithm will be   
+provided in the Quality Band of the L1  
+product. <textline bbox="23.712,142.070,334.410,160.070" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">The snow/ice and water classifications  </textline>
+<textline bbox="23.712,120.470,341.592,138.470" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">reported by the ACCA algorithm will be   </textline>
+<textline bbox="23.712,98.870,329.586,116.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">provided in the Quality Band of the L1  </textline>
+<textline bbox="23.712,77.263,88.598,95.287" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">product. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="36.216,1.220,163.106,11.180" id="4" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="4" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.3.934x54.bmp" width="720">
+</picture>
+<picture archetypal_index="5" bbox="342.000,111.360,717.000,387.720" height="276" name="Image36" src="Image36.882x650.bmp" width="375">
+</picture>
+<picture archetypal_index="6" bbox="0.0,451.68,720.12,533.28" caption="&#10;ACCA is a simple decision tree that  &#10;does crude classification of land cover  &#10;and clouds, then refines the cloud  &#10;estimates using statistical data from  &#10;the thermal band.  It was developed by  &#10;NASA Goddard for the Landsat  &#10;program. " combined_sources="['Image6.3.jpg', 'Image37.626x187.bmp']" name="combined_0" src="combined_5_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[182.04800000000003, 476.38506666666666, 446.0476666666666, 508.17226666666664]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,317.774,508.261" id="0" size="32.064">AT-ACCA <textline bbox="181.300,476.197,317.774,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">AT-ACCA </textline>
+</title>
+<normal_text archetypal_index="1" bbox="34.200,420.608,655.031,455.768" id="1" size="15.96">AT-ACCA is a variant of the ACCA algorithm that uses an 'artificial thermal' or AT band.   
+This was developed as a means of running ACCA when thermal data is not available. <textline bbox="34.200,439.808,655.031,455.768" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">AT-ACCA is a variant of the ACCA algorithm that uses an 'artificial thermal' or AT band.   </textline>
+<textline bbox="34.200,420.608,635.892,436.568" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">This was developed as a means of running ACCA when thermal data is not available. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="34.200,247.758,666.292,321.348" id="3" size="15.966000000000001">To reduce the number of pixels markes as 'ambiguous' by the ACCA algorithm, a  
+disambiguation algorithm was added to AT-ACCA.  This is a small McCulloch-Pitts neural  
+network organized in a voting scheme that can re-designate ambiguous pixels as either  
+cloudy or clear terrain. <textline bbox="34.200,305.388,607.340,321.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">To reduce the number of pixels markes as 'ambiguous' by the ACCA algorithm, a  </textline>
+<textline bbox="34.200,286.183,666.292,302.167" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">disambiguation algorithm was added to AT-ACCA.  This is a small McCulloch-Pitts neural  </textline>
+<textline bbox="34.200,266.958,655.616,282.918" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">network organized in a voting scheme that can re-designate ambiguous pixels as either  </textline>
+<textline bbox="34.200,247.758,192.268,263.718" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">cloudy or clear terrain. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="164.400,222.880,246.390,240.880" id="4" size="18.0">L7 Band 6 <textline bbox="164.400,222.880,246.390,240.880" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">L7 Band 6 </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="488.660,223.020,554.972,241.020" id="5" size="18.0">AT band <textline bbox="488.660,223.020,554.972,241.020" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">AT band </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="36.216,1.220,163.106,11.180" id="6" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="6" bbox="0.0,451.68,720.12,533.28" caption="&#10;The AT band formula was created using the Rulequest Cubist statistical modelling software  &#10;as a combination of the reflective bands (Landsat bands 1-5 &amp; 7).  It was trained on 2  &#10;million pixels randomly selected from 103 Landsat 7 scenes, and it has an RMS Average  &#10;Difference from actual Band 6 brightness temperature of 9.5 K. " combined_sources="['Image6.4.jpg', 'Image42.486x187.bmp']" name="combined_0" src="combined_6_0.png" /><picture archetypal_index="7" bbox="0.0,0.0,720.0,222.72" caption="" combined_sources="['Image7.4.934x54.bmp', 'Image41.jpg']" name="combined_1" src="combined_6_1.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[181.83428571428573, 476.33133333333325, 413.60947619047613, 508.197619047619]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,332.514,508.261" id="0" size="32.064">See5 CCA <textline bbox="181.300,476.197,332.514,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">See5 CCA </textline>
+</title>
+<normal_text archetypal_index="1" bbox="350.760,168.028,704.846,279.988" id="3" size="15.960000000000003">Once the dataset is divided into subsets, C5.0  
+then iterates over the subsets.  It may select a  
+different variable for each iteration. The user  
+specifies how many iterations and what minimal  
+amount of data each branch must contain.  The  
+end result is a decision tree of user-specified size. <textline bbox="350.760,264.028,680.526,279.988" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Once the dataset is divided into subsets, C5.0  </textline>
+<textline bbox="350.760,244.828,681.962,260.788" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">then iterates over the subsets.  It may select a  </textline>
+<textline bbox="350.760,225.628,668.635,241.588" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">different variable for each iteration. The user  </textline>
+<textline bbox="350.760,206.428,692.910,222.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">specifies how many iterations and what minimal  </textline>
+<textline bbox="350.760,187.228,690.325,203.188" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">amount of data each branch must contain.  The  </textline>
+<textline bbox="350.760,168.028,704.846,183.988" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">end result is a decision tree of user-specified size. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="350.760,91.208,707.035,145.568" id="4" size="15.96">The LDCM See5 CCA decision tree has 245  
+branches, and was trained using 6.4 million pixels  
+randomly selected from 104 Landsat 7 scenes. <textline bbox="350.760,129.608,667.821,145.568" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">The LDCM See5 CCA decision tree has 245  </textline>
+<textline bbox="350.760,110.408,707.035,126.368" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">branches, and was trained using 6.4 million pixels  </textline>
+<textline bbox="350.760,91.208,682.505,107.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">randomly selected from 104 Landsat 7 scenes. </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.5.934x54.bmp" width="720">
+</picture>
+<curve bbox="227.880,263.460,236.880,300.600" linewidth="0" pts="233.880,300.600,233.880,276.960,230.880,276.960,230.880,300.600,236.880,278.460,232.380,263.460,227.880,278.460" />
+<curve bbox="67.560,263.460,76.560,300.600" linewidth="0" pts="73.560,300.600,73.560,276.960,70.560,276.960,70.560,300.600,76.560,278.460,72.060,263.460,67.560,278.460" />
+<curve bbox="44.685,142.020,51.435,172.070" linewidth="3" pts="49.185,172.070,49.185,152.150,46.935,152.150,46.935,172.070,51.435,153.270,48.060,142.020,44.685,153.270" />
+<curve bbox="122.690,142.020,129.440,172.070" linewidth="3" pts="127.180,172.070,127.190,152.150,124.940,152.150,124.930,172.070,129.440,153.270,126.060,142.020,122.690,153.270" />
+<curve bbox="212.690,142.020,219.440,172.070" linewidth="2" pts="217.180,172.070,217.190,152.150,214.940,152.150,214.930,172.070,219.440,153.270,216.060,142.020,212.690,153.270" />
+<curve bbox="290.680,142.020,297.430,172.070" linewidth="2" pts="295.180,172.070,295.180,152.150,292.930,152.150,292.930,172.070,297.430,153.270,294.060,142.020,290.680,153.270" />
+<curve bbox="37.320,52.800,43.320,78.620" linewidth="2" pts="40.820,78.620,40.820,57.800,39.820,57.800,39.820,78.620,43.320,58.800,40.320,52.800,37.320,58.800" />
+<curve bbox="68.520,52.800,74.520,78.620" linewidth="2" pts="72.020,78.620,72.020,57.800,71.020,57.800,71.020,78.620,74.520,58.800,71.520,52.800,68.520,58.800" />
+<curve bbox="120.600,52.800,126.600,78.620" linewidth="1" pts="124.100,78.620,124.100,57.800,123.100,57.800,123.100,78.620,126.600,58.800,123.600,52.800,120.600,58.800" />
+<curve bbox="151.920,52.800,157.920,78.620" linewidth="1" pts="155.420,78.620,155.420,57.800,154.420,57.800,154.420,78.620,157.920,58.800,154.920,52.800,151.920,58.800" />
+<curve bbox="210.600,52.800,216.600,78.620" linewidth="1" pts="214.100,78.620,214.100,57.800,213.100,57.800,213.100,78.620,216.600,58.800,213.600,52.800,210.600,58.800" />
+<curve bbox="241.920,52.800,247.920,78.620" linewidth="1" pts="245.420,78.620,245.420,57.800,244.420,57.800,244.420,78.620,247.920,58.800,244.920,52.800,241.920,58.800" />
+<curve bbox="294.000,52.800,300.000,78.620" linewidth="1" pts="297.500,78.620,297.500,57.800,296.500,57.800,296.500,78.620,300.000,58.800,297.000,52.800,294.000,58.800" />
+<curve bbox="325.200,52.800,331.200,78.620" linewidth="1" pts="328.700,78.620,328.700,57.800,327.700,57.800,327.700,78.620,331.200,58.800,328.200,52.800,325.200,58.800" />
+<picture archetypal_index="4" bbox="0.0,89.52,720.12,533.28" caption="&#10;The See5 CCA algorithm was created using the  &#10;Rulequest C5.0 stastical classifier software. &#10;The Rulequest C5.0 software creates a decision  &#10;tree by finding the input variable which can best be  &#10;divided by a threshold test.  It selects the threshold  &#10;value that minimizes the entropy in the dataset. &#10;. . . &#10;. . . &#10;. . . &#10;. . . &#10;U.S. Department of Interior " combined_sources="['Image6.5.jpg', 'Image46.527x187.bmp', 'Image48.645x709.bmp']" name="combined_0" src="combined_7_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[181.70071428571433, 476.87174999999996, 441.53385714285713, 507.76746428571425]" rotate="0">
+<title archetypal_index="0" bbox="181.300,478.493,525.307,506.477" id="0" size="27.984">LDCM Quality Band Format <textline bbox="181.300,478.493,525.307,506.477" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">LDCM Quality Band Format </textline>
+</title>
+<normal_text archetypal_index="1" bbox="17.712,287.598,298.369,322.758" id="2" size="15.96">The existing CCA algorithms contribute  
+to some of these classifications: <textline bbox="17.712,306.798,298.369,322.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">The existing CCA algorithms contribute  </textline>
+<textline bbox="17.712,287.598,243.849,303.558" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">to some of these classifications: </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="384.770,326.952,502.776,340.992" id="7" size="14.04">Terrain Occlusion <textline bbox="384.770,326.952,502.776,340.992" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">Terrain Occlusion </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="384.770,299.290,444.875,313.330" id="8" size="14.04">Reserved <textline bbox="384.770,299.290,444.875,313.330" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="14.040">Reserved </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="570.310,304.732,646.505,335.611" id="12" size="14.052">Snow/Ice  
+Confidence <textline bbox="570.310,321.547,635.047,335.611" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.064">Snow/Ice  </textline>
+<textline bbox="570.310,304.732,646.505,318.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">Confidence </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="17.712,258.798,251.764,274.758" id="13" size="15.96">ACCA -- Cloud, Snow/Ice, Water. <textline bbox="17.712,258.798,251.764,274.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">ACCA -- Cloud, Snow/Ice, Water. </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="384.770,257.692,503.197,271.732" id="14" size="14.04">Water Confidence <textline bbox="384.770,257.692,503.197,271.732" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">Water Confidence </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="570.310,257.692,691.588,271.732" id="15" size="14.04">Cirrus Confidence <textline bbox="570.310,257.692,691.588,271.732" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">Cirrus Confidence </textline>
+</normal_text>
+<slide_number bbox="352.780,326.952,360.586,340.992" id="18" size="14.04">2 <textline bbox="352.780,326.952,360.586,340.992" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">2 </textline>
+</slide_number>
+<slide_number bbox="352.780,299.262,360.586,313.302" id="19" size="14.04">3 <textline bbox="352.780,299.262,360.586,313.302" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">3 </textline>
+</slide_number>
+<slide_number bbox="352.780,271.632,360.586,285.672" id="20" size="14.04">4 <textline bbox="352.780,271.632,360.586,285.672" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">4 </textline>
+</slide_number>
+<slide_number bbox="352.780,243.887,360.600,257.951" id="21" size="14.064">5 <textline bbox="352.780,243.887,360.600,257.951" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.064">5 </textline>
+</slide_number>
+<slide_number bbox="352.780,216.002,360.586,230.042" id="22" size="14.04">6 <textline bbox="352.780,216.002,360.586,230.042" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">6 </textline>
+</slide_number>
+<slide_number bbox="352.780,188.232,360.586,202.272" id="23" size="14.04">7 <textline bbox="352.780,188.232,360.586,202.272" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">7 </textline>
+</slide_number>
+<slide_number bbox="534.360,326.952,549.966,340.992" id="26" size="14.04">10 <textline bbox="534.360,326.952,549.966,340.992" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">10 </textline>
+</slide_number>
+<slide_number bbox="534.720,299.262,549.606,313.302" id="27" size="14.04">11 <textline bbox="534.720,299.262,549.606,313.302" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">11 </textline>
+</slide_number>
+<slide_number bbox="534.360,271.632,549.966,285.672" id="28" size="14.04">12 <textline bbox="534.360,271.632,549.966,285.672" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">12 </textline>
+</slide_number>
+<slide_number bbox="534.360,243.887,549.980,257.951" id="29" size="14.064">13 <textline bbox="534.360,243.887,549.980,257.951" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.064">13 </textline>
+</slide_number>
+<slide_number bbox="534.360,216.002,549.966,230.042" id="30" size="14.04">14 <textline bbox="534.360,216.002,549.966,230.042" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">14 </textline>
+</slide_number>
+<slide_number bbox="534.360,188.232,549.966,202.272" id="31" size="14.04">15 <textline bbox="534.360,188.232,549.966,202.272" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">15 </textline>
+</slide_number>
+<normal_text archetypal_index="8" bbox="384.770,202.210,444.875,216.250" id="32" size="14.04">Reserved <textline bbox="384.770,202.210,444.875,216.250" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="14.040">Reserved </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="570.310,202.182,689.818,216.222" id="33" size="14.04">Cloud Confidence <textline bbox="570.310,202.182,689.818,216.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.040">Cloud Confidence </textline>
+</normal_text>
+<enlisting archetypal_index="10" bbox="395.830,62.096,637.840,154.638" id="34" size="15.960000000000003">Two-bit confidence levels: 
+&#8226; 00 = Not set 
+&#8226; 01 = 0-35% confidence 
+&#8226; 10 = 36-64% confidence 
+&#8226; 11 = 65-100% confidence <textline bbox="395.830,138.678,578.937,154.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Two-bit confidence levels: </textline>
+<textline bbox="431.830,119.718,542.660,136.030">&#8226; 00 = Not set <text bbox="431.830,120.070,441.406,136.030" colourspace="DeviceGray" font="BCDEEE+CourierNewPSMT" ncolour="0" size="15.960">&#8226;</text>
+<text bbox="454.390,119.734,463.966,135.694" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">0</text>
+<text bbox="463.990,119.734,473.566,135.694" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">0</text>
+<text bbox="478.150,119.718,487.471,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="487.471,119.718,491.908,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="492.051,119.718,503.574,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">N</text>
+<text bbox="503.574,119.718,512.448,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">o</text>
+<text bbox="512.448,119.718,516.885,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">t</text>
+<text bbox="516.885,119.718,521.322,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="521.322,119.718,529.302,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">s</text>
+<text bbox="529.350,119.718,538.223,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+<text bbox="538.223,119.718,542.660,135.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">t</text>
+</textline>
+<textline bbox="431.830,100.518,620.087,116.830">&#8226; 01 = 0-35% confidence <text bbox="431.830,100.870,441.406,116.830" colourspace="DeviceGray" font="BCDEEE+CourierNewPSMT" ncolour="0" size="15.960">&#8226;</text>
+<text bbox="454.390,100.534,463.966,116.494" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">0</text>
+<text bbox="463.990,100.534,473.566,116.494" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">1</text>
+<text bbox="478.150,100.518,487.471,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="487.471,100.518,491.908,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="492.051,100.518,500.925,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="500.950,100.518,506.265,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+<text bbox="506.260,100.518,515.134,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">3</text>
+<text bbox="515.134,100.518,524.008,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">5</text>
+<text bbox="524.008,100.518,538.196,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">%</text>
+<text bbox="538.196,100.518,542.633,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="542.729,100.518,550.709,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="550.756,100.518,559.630,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">o</text>
+<text bbox="559.630,100.518,568.504,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="568.504,100.518,572.941,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">f</text>
+<text bbox="572.941,100.518,576.484,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">i</text>
+<text bbox="576.548,100.518,585.422,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">d</text>
+<text bbox="585.422,100.518,594.295,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+<text bbox="594.295,100.518,603.169,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="603.169,100.518,611.149,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="611.213,100.518,620.087,116.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+</textline>
+<textline bbox="431.830,81.320,628.967,97.632">&#8226; 10 = 36-64% confidence <text bbox="431.830,81.672,441.406,97.632" colourspace="DeviceGray" font="BCDEEE+CourierNewPSMT" ncolour="0" size="15.960">&#8226;</text>
+<text bbox="454.390,81.336,463.966,97.296" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">1</text>
+<text bbox="463.990,81.336,473.566,97.296" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">0</text>
+<text bbox="478.150,81.320,487.471,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="487.471,81.320,491.908,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="492.051,81.320,500.925,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">3</text>
+<text bbox="500.925,81.320,509.799,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="509.860,81.320,515.175,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+<text bbox="515.140,81.320,524.014,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="524.014,81.320,532.888,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">4</text>
+<text bbox="532.888,81.320,547.076,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">%</text>
+<text bbox="547.076,81.320,551.513,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="551.609,81.320,559.589,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="559.636,81.320,568.510,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">o</text>
+<text bbox="568.510,81.320,577.384,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="577.384,81.320,581.821,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">f</text>
+<text bbox="581.821,81.320,585.364,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">i</text>
+<text bbox="585.428,81.320,594.302,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">d</text>
+<text bbox="594.302,81.320,603.175,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+<text bbox="603.175,81.320,612.049,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="612.049,81.320,620.029,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="620.093,81.320,628.967,97.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+</textline>
+<textline bbox="431.830,62.096,637.840,78.408">&#8226; 11 = 65-100% confidence <text bbox="431.830,62.448,441.406,78.408" colourspace="DeviceGray" font="BCDEEE+CourierNewPSMT" ncolour="0" size="15.960">&#8226;</text>
+<text bbox="454.390,62.112,463.966,78.072" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">1</text>
+<text bbox="463.990,62.112,473.566,78.072" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="15.960">1</text>
+<text bbox="478.150,62.096,487.471,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">=</text>
+<text bbox="487.471,62.096,491.908,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="492.051,62.096,500.925,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">6</text>
+<text bbox="500.925,62.096,509.799,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">5</text>
+<text bbox="509.860,62.096,515.175,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+<text bbox="515.140,62.096,524.014,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">1</text>
+<text bbox="524.014,62.096,532.888,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="532.888,62.096,541.761,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">0</text>
+<text bbox="541.761,62.096,555.950,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">%</text>
+<text bbox="555.950,62.096,560.387,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960"> </text>
+<text bbox="560.482,62.096,568.462,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="568.510,62.096,577.384,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">o</text>
+<text bbox="577.384,62.096,586.258,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="586.258,62.096,590.695,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">f</text>
+<text bbox="590.695,62.096,594.238,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">i</text>
+<text bbox="594.302,62.096,603.175,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">d</text>
+<text bbox="603.175,62.096,612.049,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+<text bbox="612.049,62.096,620.923,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">n</text>
+<text bbox="620.923,62.096,628.903,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">c</text>
+<text bbox="628.967,62.096,637.840,78.056" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">e</text>
+</textline>
+</enlisting>
+<normal_text archetypal_index="11" bbox="17.712,229.978,275.402,245.938" id="35" size="15.96">AT-ACCA -- Cloud, Snow/Ice, Water. <textline bbox="17.712,229.978,275.402,245.938" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">AT-ACCA -- Cloud, Snow/Ice, Water. </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="17.712,201.178,158.066,217.138" id="36" size="15.96">See5 CCA -- Cloud. <textline bbox="17.712,201.178,158.066,217.138" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">See5 CCA -- Cloud. </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="17.712,172.378,164.312,188.338" id="37" size="15.96">Cirrus CCA -- Cirrus. <textline bbox="17.712,172.378,164.312,188.338" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Cirrus CCA -- Cirrus. </textline>
+</normal_text>
+<normal_text archetypal_index="14" bbox="17.712,105.148,299.486,159.538" id="38" size="15.968000000000002">Future algorithms may be developed to  
+improve or expand the classification of  
+these land cover categories. <textline bbox="17.712,143.578,299.486,159.538" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Future algorithms may be developed to  </textline>
+<textline bbox="17.712,124.373,294.043,140.357" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">improve or expand the classification of  </textline>
+<textline bbox="17.712,105.148,217.739,121.108" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">these land cover categories. </textline>
+</normal_text>
+<normal_text archetypal_index="15" bbox="36.216,1.220,163.106,11.180" id="39" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="16" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.6.934x54.bmp" width="720">
+</picture>
+<rect bbox="388.560,49.440,649.560,157.440" linewidth="0" />
+<rect bbox="388.560,49.440,649.560,157.440" linewidth="0" />
+<picture archetypal_index="17" bbox="0.0,451.68,720.12,533.28" caption="&#10;The Quality Band for LDCM Level 1  &#10;products is a 16-bit image of the same  &#10;dimensions as the L1G scene.  Each  &#10;pixel describes certain processing flags  &#10;and land/cloud classifications. &#10;Bit &#10;Description &#10;Designated Fill &#10;Reserved &#10;Bit &#10;Description &#10;Vegetation  &#10;Confidence &#10;0 &#10;1 &#10;8 &#10;9 " combined_sources="['Image6.6.jpg', 'Image51.1050x164.bmp']" name="combined_0" src="combined_8_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[181.70071428571433, 476.87174999999996, 441.53385714285713, 507.76746428571425]" rotate="0">
+<normal_text archetypal_index="0" bbox="207.980,530.512,511.844,538.552" id="0" size="8.04">Planned end of slide show; all slides past this point are supporting information. <textline bbox="207.980,530.512,511.844,538.552" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="8.040">Planned end of slide show; all slides past this point are supporting information. </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="36.216,1.220,163.106,11.180" id="1" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="0.000,451.680,720.120,533.280" height="81" name="Image6" src="Image6.7.jpg" width="720">
+</picture>
+<picture archetypal_index="3" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.7.934x54.bmp" width="720">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[181.61166666666668, 476.7218055555556, 432.32033333333334, 507.8771388888889]" rotate="0">
+<title archetypal_index="0" bbox="181.300,476.197,400.073,508.261" id="0" size="32.064">Cloud Datasets <textline bbox="181.300,476.197,400.073,508.261" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">Cloud Datasets </textline>
+</title>
+<normal_text archetypal_index="1" bbox="36.216,1.220,163.106,11.180" id="7" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.8.934x54.bmp" width="720">
+</picture>
+<enlisting archetypal_index="3" bbox="37.512,93.512,664.425,439.96">'Irish' Dataset 
+&#8211; 212 Landsat 7 L1Gs scenes.  (207 used) 
+&#8211; Manual truth masks created by three analysts. 
+&#8211; For general cloud studies. 
+&#8211; Available online. &#8226; Hyperion Dataset &#8211; 22 Hyperion scenes, spectrally resampled to resemble Landsat 7 bands 1-5 &amp; 7. 
+&#8211; Manual truth masks created by a single analyst. 
+&#8211; For studying Cirrus algorithms. &#8226; ASTER Dataset &#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic temperature). 
+&#8211; Manual truth masks created by a single analyst. 
+&#8211; For studying brightness temperature / surface temperature differences in ACCA. <normal_text bbox="64.512,329.718,423.364,439.960" id="2" size="16.368000000000002">'Irish' Dataset 
+&#8211; 212 Landsat 7 L1Gs scenes.  (207 used) 
+&#8211; Manual truth masks created by three analysts. 
+&#8211; For general cloud studies. 
+&#8211; Available online. <textline bbox="64.512,421.960,180.792,439.960" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">'Irish' Dataset </textline>
+<textline bbox="73.512,398.868,385.115,414.828" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; 212 Landsat 7 L1Gs scenes.  (207 used) </textline>
+<textline bbox="73.512,375.828,423.364,391.788" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; Manual truth masks created by three analysts. </textline>
+<textline bbox="73.512,352.788,280.043,368.748" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; For general cloud studies. </textline>
+<textline bbox="73.512,329.718,212.037,345.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; Available online. </textline>
+</normal_text>
+<normal_text bbox="37.512,280.810,212.364,298.810" id="3" size="18.0">&#8226; Hyperion Dataset <textline bbox="37.512,280.810,212.364,298.810">&#8226; Hyperion Dataset <text bbox="37.512,280.810,43.812,298.810" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226;</text>
+<text bbox="64.512,280.810,77.508,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">H</text>
+<text bbox="77.508,280.810,87.516,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">y</text>
+<text bbox="87.318,280.810,98.316,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">p</text>
+<text bbox="98.316,280.810,108.324,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">e</text>
+<text bbox="108.324,280.810,115.326,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">r</text>
+<text bbox="115.326,280.810,120.330,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">i</text>
+<text bbox="120.330,280.810,131.328,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">o</text>
+<text bbox="131.328,280.810,142.326,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">n</text>
+<text bbox="142.380,280.810,147.384,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000"> </text>
+<text bbox="147.528,280.810,160.524,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">D</text>
+<text bbox="160.524,280.810,170.532,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">a</text>
+<text bbox="170.442,280.810,176.436,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">t</text>
+<text bbox="176.436,280.810,186.444,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">a</text>
+<text bbox="186.444,280.810,196.452,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">s</text>
+<text bbox="196.362,280.810,206.370,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">e</text>
+<text bbox="206.370,280.810,212.364,298.810" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">t</text>
+</textline>
+</normal_text>
+<normal_text bbox="73.512,211.618,664.425,273.678" id="4" size="15.96">&#8211; 22 Hyperion scenes, spectrally resampled to resemble Landsat 7 bands 1-5 &amp; 7. 
+&#8211; Manual truth masks created by a single analyst. 
+&#8211; For studying Cirrus algorithms. <textline bbox="73.512,257.718,664.425,273.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; 22 Hyperion scenes, spectrally resampled to resemble Landsat 7 bands 1-5 &amp; 7. </textline>
+<textline bbox="73.512,234.678,433.786,250.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; Manual truth masks created by a single analyst. </textline>
+<textline bbox="73.512,211.618,313.846,227.578" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; For studying Cirrus algorithms. </textline>
+</normal_text>
+<normal_text bbox="37.512,162.710,199.638,180.710" id="5" size="18.0">&#8226; ASTER Dataset <textline bbox="37.512,162.710,199.638,180.710">&#8226; ASTER Dataset <text bbox="37.512,162.710,43.812,180.710" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226;</text>
+<text bbox="68.832,162.710,81.828,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">A</text>
+<text bbox="81.306,162.710,93.312,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">S</text>
+<text bbox="93.312,162.710,104.310,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">T</text>
+<text bbox="104.310,162.710,116.316,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">E</text>
+<text bbox="116.316,162.710,129.312,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">R</text>
+<text bbox="129.312,162.710,134.316,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000"> </text>
+<text bbox="134.802,162.710,147.798,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">D</text>
+<text bbox="147.798,162.710,157.806,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">a</text>
+<text bbox="157.716,162.710,163.710,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">t</text>
+<text bbox="163.710,162.710,173.718,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">a</text>
+<text bbox="173.718,162.710,183.726,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">s</text>
+<text bbox="183.636,162.710,193.644,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">e</text>
+<text bbox="193.644,162.710,199.638,180.710" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">t</text>
+</textline>
+</normal_text>
+<normal_text bbox="73.512,93.512,661.599,155.578" id="6" size="15.96">&#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic temperature). 
+&#8211; Manual truth masks created by a single analyst. 
+&#8211; For studying brightness temperature / surface temperature differences in ACCA. <textline bbox="73.512,139.618,643.213,155.578" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; 15 ASTER scenes as both L1 (TOA reflectance) and L2 (kinetic temperature). </textline>
+<textline bbox="73.512,116.578,433.786,132.538" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; Manual truth masks created by a single analyst. </textline>
+<textline bbox="73.512,93.512,661.599,109.472" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8211; For studying brightness temperature / surface temperature differences in ACCA. </textline>
+</normal_text>
+</enlisting><picture archetypal_index="4" bbox="0.0,451.68,720.12,533.28" caption="&#10;&#8226; " combined_sources="['Image6.8.jpg', 'Image64.715x187.bmp']" name="combined_0" src="combined_10_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[181.54933333333335, 476.84644444444444, 473.0168666666666, 507.77551111111114]" rotate="0">
+<title archetypal_index="0" bbox="181.300,477.345,635.803,507.369" id="0" size="30.024">Goddard / Rich Irish Test Data Set <textline bbox="181.300,477.345,635.803,507.369" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="30.024">Goddard / Rich Irish Test Data Set </textline>
+</title>
+<curvetext bbox="540.100,316.272,650.567,330.312" id="17" size="14.04">Subtropical South <textline bbox="540.100,316.272,650.567,330.312" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Subtropical South </textline>
+</curvetext>
+<curvetext bbox="538.850,294.027,651.529,308.091" id="18" size="14.064">Mid-latitude South <textline bbox="538.850,294.027,651.529,308.091" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Mid-latitude South </textline>
+</curvetext>
+<curvetext bbox="572.500,271.752,616.263,285.792" id="19" size="14.04">Austral <textline bbox="572.500,271.752,616.263,285.792" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Austral </textline>
+</curvetext>
+<curvetext bbox="557.620,249.512,630.782,263.552" id="20" size="14.04">Polar South <textline bbox="557.620,249.512,630.782,263.552" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Polar South </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="36.216,1.220,163.106,11.180" id="29" size="9.96">U.S. Department of Interior <textline bbox="36.216,1.220,163.106,11.180" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">U.S. Department of Interior </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="0.000,0.000,720.000,40.440" height="40" name="Image7" src="Image7.9.934x54.bmp" width="720">
+</picture>
+<curve bbox="492.000,244.440,696.720,449.280" linewidth="0" pts="492.000,346.860,492.000,403.430,537.830,449.280,594.360,449.280,650.890,449.280,696.720,403.430,696.720,346.860,696.720,290.300,650.890,244.440,594.360,244.440,537.830,244.440,492.000,290.300,492.000,346.860" />
+<curve bbox="492.000,244.440,696.720,449.280" linewidth="1" pts="492.000,346.860,492.000,403.430,537.830,449.280,594.360,449.280,650.890,449.280,696.720,403.430,696.720,346.860,696.720,290.300,650.890,244.440,594.360,244.440,537.830,244.440,492.000,290.300,492.000,346.860" />
+<enlisting archetypal_index="3" bbox="22.248,61.224,696.312,455.358">&#8226; &#8211; Provided by Rich Irish at NASA Goddard. 
+&#8211; Divided by latitude into 9 zones, 20-24 scenes per zone. 
+&#8211; Scenes acquired in 2000-2001. 
+&#8211; When referring to 'Irish' in this presentation, we are referring to this data  &#8226; &#8211; &#8211; Manual masks were created by three operators at EDC. 
+&#8211; Cloud masks should be treated as having ~7% error. &#8226; &#8211; Scenes were tagged based on scene content and ACCA performance. 
+&#8211; 
+&#8211; Division into training and validation sets was performed while attempting to equalize the quantity of each tag in each  &#8226; &#8211; Courtesy of EDC.   Contact pscar@usgs.gov for instructions. 212 Landsat 7 L1Gs scenes 207 scenes with manual cloud masks 5 scenes were excluded due to visible gain change artifacts. 104 Training scenes, 103 Validation scenes. &#8226; One scene had a gain change but no visible artifacts; it was retained. &#8226; Based on 11 masks duplicated by all three operators. <normal_text bbox="22.248,61.224,696.312,455.358">&#8226; &#8211; Provided by Rich Irish at NASA Goddard. 
+&#8211; Divided by latitude into 9 zones, 20-24 scenes per zone. 
+&#8211; Scenes acquired in 2000-2001. 
+&#8211; When referring to 'Irish' in this presentation, we are referring to this data  &#8226; &#8211; &#8211; Manual masks were created by three operators at EDC. 
+&#8211; Cloud masks should be treated as having ~7% error. &#8226; &#8211; Scenes were tagged based on scene content and ACCA performance. 
+&#8211; 
+&#8211; Division into training and validation sets was performed while attempting to equalize the quantity of each tag in each  &#8226; &#8211; Courtesy of EDC.   Contact pscar@usgs.gov for instructions. 212 Landsat 7 L1Gs scenes 207 scenes with manual cloud masks 5 scenes were excluded due to visible gain change artifacts. 104 Training scenes, 103 Validation scenes. <normal_text bbox="22.248,439.398,27.834,455.358" id="1" size="15.96">&#8226; <textline bbox="22.248,439.398,27.834,455.358" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; </textline>
+</normal_text>
+<normal_text bbox="58.272,370.265,463.508,434.110" id="3" size="12.006">&#8211; Provided by Rich Irish at NASA Goddard. 
+&#8211; Divided by latitude into 9 zones, 20-24 scenes per zone. 
+&#8211; Scenes acquired in 2000-2001. 
+&#8211; When referring to 'Irish' in this presentation, we are referring to this data  <textline bbox="58.272,422.110,299.316,434.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Provided by Rich Irish at NASA Goddard. </textline>
+<textline bbox="58.272,404.830,378.076,416.830" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Divided by latitude into 9 zones, 20-24 scenes per zone. </textline>
+<textline bbox="58.272,387.550,246.544,399.550" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Scenes acquired in 2000-2001. </textline>
+<textline bbox="58.272,370.265,463.508,382.289" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.024">&#8211; When referring to 'Irish' in this presentation, we are referring to this data  </textline>
+</normal_text>
+<normal_text bbox="22.248,309.778,27.834,325.738" id="5" size="15.96">&#8226; <textline bbox="22.248,309.778,27.834,325.738" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; </textline>
+</normal_text>
+<normal_text bbox="58.272,292.490,64.944,304.490" id="7" size="12.0">&#8211; <textline bbox="58.272,292.490,64.944,304.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; </textline>
+</normal_text>
+<normal_text bbox="58.272,240.620,376.226,269.949" id="10" size="12.012">&#8211; Manual masks were created by three operators at EDC. 
+&#8211; Cloud masks should be treated as having ~7% error. <textline bbox="58.272,257.925,376.226,269.949" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.024">&#8211; Manual masks were created by three operators at EDC. </textline>
+<textline bbox="58.272,240.620,358.968,252.620" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Cloud masks should be treated as having ~7% error. </textline>
+</normal_text>
+<normal_text bbox="22.248,185.098,27.834,201.058" id="21" size="15.96">&#8226; <textline bbox="22.248,185.098,27.834,201.058" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; </textline>
+</normal_text>
+<normal_text bbox="58.272,133.250,696.312,179.810" id="23" size="12.0">&#8211; Scenes were tagged based on scene content and ACCA performance. 
+&#8211; 
+&#8211; Division into training and validation sets was performed while attempting to equalize the quantity of each tag in each  <textline bbox="58.272,167.810,452.556,179.810" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Scenes were tagged based on scene content and ACCA performance. </textline>
+<textline bbox="58.272,150.530,64.944,162.530" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; </textline>
+<textline bbox="58.272,133.250,696.312,145.250" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Division into training and validation sets was performed while attempting to equalize the quantity of each tag in each  </textline>
+</normal_text>
+<normal_text bbox="22.248,78.512,27.834,94.472" id="26" size="15.96">&#8226; <textline bbox="22.248,78.512,27.834,94.472" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; </textline>
+</normal_text>
+<normal_text bbox="58.272,61.224,402.804,73.224" id="28" size="12.0">&#8211; Courtesy of EDC.   Contact pscar@usgs.gov for instructions. <textline bbox="58.272,61.224,402.804,73.224" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8211; Courtesy of EDC.   Contact pscar@usgs.gov for instructions. </textline>
+</normal_text>
+<normal_text bbox="49.248,185.098,399.24,455.358">212 Landsat 7 L1Gs scenes 207 scenes with manual cloud masks 5 scenes were excluded due to visible gain change artifacts. 104 Training scenes, 103 Validation scenes. <normal_text bbox="49.248,439.398,258.611,455.358" id="2" size="15.96">212 Landsat 7 L1Gs scenes <textline bbox="49.248,439.398,258.611,455.358" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">212 Landsat 7 L1Gs scenes </textline>
+</normal_text>
+<normal_text bbox="49.248,309.778,333.662,325.738" id="6" size="15.96">207 scenes with manual cloud masks <textline bbox="49.248,309.778,333.662,325.738" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">207 scenes with manual cloud masks </textline>
+</normal_text>
+<normal_text bbox="80.832,292.490,399.240,304.490" id="8" size="12.0">5 scenes were excluded due to visible gain change artifacts. <textline bbox="80.832,292.490,399.240,304.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">5 scenes were excluded due to visible gain change artifacts. </textline>
+</normal_text>
+<normal_text bbox="49.248,185.098,380.833,201.058" id="22" size="15.96">104 Training scenes, 103 Validation scenes. <textline bbox="49.248,185.098,380.833,201.058" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">104 Training scenes, 103 Validation scenes. </textline>
+</normal_text>
+</normal_text><normal_text bbox="80.832,150.530,637.788,162.530" id="24" size="12.0">Tags included heavyclouds, cloudfree, shadows, lowsun, manyambig, falseclouds, and manyprovisionals. <textline bbox="80.832,150.530,637.788,162.530" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Tags included heavyclouds, cloudfree, shadows, lowsun, manyambig, falseclouds, and manyprovisionals. </textline>
+</normal_text>
+<normal_text bbox="80.832,118.850,221.280,130.850" id="25" size="12.0">set, for each latitude zone. <textline bbox="80.832,118.850,221.280,130.850" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">set, for each latitude zone. </textline>
+</normal_text>
+<normal_text bbox="49.248,78.512,638.890,94.472" id="27" size="15.96">Irish data set and the accompanying cloud masks are available for download. <textline bbox="49.248,78.512,638.890,94.472" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">Irish data set and the accompanying cloud masks are available for download. </textline>
+</normal_text>
+</normal_text><normal_text bbox="94.272,223.34,477.55,287.21">&#8226; One scene had a gain change but no visible artifacts; it was retained. &#8226; Based on 11 masks duplicated by all three operators. <normal_text bbox="94.272,275.210,477.550,287.210" id="9" size="12.0">&#8226; One scene had a gain change but no visible artifacts; it was retained. <textline bbox="94.272,275.210,477.550,287.210" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8226; One scene had a gain change but no visible artifacts; it was retained. </textline>
+</normal_text>
+<normal_text bbox="94.272,223.340,393.442,235.340" id="11" size="12.0">&#8226; Based on 11 masks duplicated by all three operators. <textline bbox="94.272,223.340,393.442,235.340" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">&#8226; Based on 11 masks duplicated by all three operators. </textline>
+</normal_text>
+</normal_text></enlisting><picture archetypal_index="4" bbox="0.0,451.68,720.12,533.28" caption="&#10;set.  Ireland is not represented. &#10;Polar North &#10;Boreal &#10;Mid-latitude North &#10;Subtropical North &#10;Tropical " combined_sources="['Image6.9.jpg', 'Image68.1363x176.bmp']" name="combined_0" src="combined_11_0.png" /></page>
+</pages>

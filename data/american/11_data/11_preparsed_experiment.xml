@@ -1,0 +1,514 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<textbox bbox="73.872,271.725,655.992,350.930" id="0" size="36.012">Government Enterprise Architecture  
+Framework (GEAF) Meeting <textline bbox="73.872,314.930,655.992,350.930" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="36.000">Government Enterprise Architecture  </textline>
+<textline bbox="134.950,271.725,585.070,307.749" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="36.024">Framework (GEAF) Meeting </textline>
+</textbox>
+<textbox bbox="137.950,107.668,586.266,231.178" id="1" size="15.96342857142857">Coordination with Other  
+Governance Subcommittee Goal 3 Tasks 
+Brand Niemann, US EPA, and Susan Turnbull, GSA, Emerging  
+Technology Subcommittee, October 27, 2003 
+and 
+OASIS eGOV Technical Committee Meeting: Registries &amp;  
+Repositories Workshop, October 30, 2003 <textline bbox="276.100,215.218,448.245,231.178" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Coordination with Other  </textline>
+<textline bbox="214.660,196.018,505.116,211.978" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Governance Subcommittee Goal 3 Tasks </textline>
+<textline bbox="137.950,176.818,586.266,192.778" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Brand Niemann, US EPA, and Susan Turnbull, GSA, Emerging  </textline>
+<textline bbox="199.900,161.458,520.026,177.418" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Technology Subcommittee, October 27, 2003 </textline>
+<textline bbox="346.680,142.258,373.314,158.218" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">and </textline>
+<textline bbox="156.430,123.053,567.778,139.037" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">OASIS eGOV Technical Committee Meeting: Registries &amp;  </textline>
+<textline bbox="211.180,107.668,508.754,123.628" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Repositories Workshop, October 30, 2003 </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="2" size="14.04">1 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<textbox bbox="268.180,447.662,451.695,491.702" id="0" size="44.04">Overview <textline bbox="268.180,447.662,451.695,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">Overview </textline>
+</textbox>
+<textbox bbox="43.200,383.983,663.261,411.967" id="1" size="27.984">&#8226; 1. CIO Council&#8217;s Architecture and Infrastructure  <textline bbox="43.200,383.983,663.261,411.967" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; 1. CIO Council&#8217;s Architecture and Infrastructure  </textline>
+</textbox>
+<textbox bbox="70.224,357.103,286.624,385.087" id="2" size="27.984">Committee (AIC). <textline bbox="70.224,357.103,286.624,385.087" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">Committee (AIC). </textline>
+</textbox>
+<textbox bbox="43.200,289.878,634.485,351.438" id="3" size="27.96">&#8226; 2. Governance Subcommittee. 
+&#8226; 3. Governance Subcommittee FY 2003 Work  <textline bbox="43.200,323.478,448.551,351.438" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 2. Governance Subcommittee. </textline>
+<textline bbox="43.200,289.878,634.485,317.838" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 3. Governance Subcommittee FY 2003 Work  </textline>
+</textbox>
+<textbox bbox="70.224,262.993,134.000,290.977" id="4" size="27.984">Plan. <textline bbox="70.224,262.993,134.000,290.977" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">Plan. </textline>
+</textbox>
+<textbox bbox="43.200,128.573,625.677,257.338" id="5" size="27.966">&#8226; 4. Governance Subcommittee, Goal 3 Tasks. 
+&#8226; 5. Goal 3 Task Deliverables. 
+&#8226; 6. Goal 3 Architecture 
+&#8226; 7. Collaboration Environment and Work on  <textline bbox="43.200,229.378,625.677,257.338" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 4. Governance Subcommittee, Goal 3 Tasks. </textline>
+<textline bbox="43.200,195.778,418.382,223.738" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 5. Goal 3 Task Deliverables. </textline>
+<textline bbox="43.200,162.178,339.619,190.138" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 6. Goal 3 Architecture </textline>
+<textline bbox="43.200,128.573,605.810,156.557" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; 7. Collaboration Environment and Work on  </textline>
+</textbox>
+<textbox bbox="70.224,101.668,525.021,129.628" id="6" size="27.96">Multiple Registries and Repositories. <textline bbox="70.224,101.668,525.021,129.628" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">Multiple Registries and Repositories. </textline>
+</textbox>
+<textbox bbox="43.200,68.072,327.009,96.032" id="7" size="27.96">&#8226; 8. Some Next Steps. <textline bbox="43.200,68.072,327.009,96.032" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; 8. Some Next Steps. </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="8" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">2 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
+<textbox bbox="65.712,426.078,665.272,514.038" id="0" size="39.96">1. CIO Council&#8217;s Architecture and  
+Infrastructure Committee (AIC) <textline bbox="65.712,474.078,665.272,514.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">1. CIO Council&#8217;s Architecture and  </textline>
+<textline bbox="87.552,426.078,632.327,466.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">Infrastructure Committee (AIC) </textline>
+</textbox>
+<textbox bbox="43.200,384.820,184.724,408.820" id="1" size="24.0">&#8226; Co-Chairs: <textline bbox="43.200,384.820,184.724,408.820" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Co-Chairs: </textline>
+</textbox>
+<textbox bbox="79.224,358.382,608.832,378.422" id="2" size="20.04">&#8211; John Gilligan, CIO, Air Force, and Kim Nelson, CIO, EPA. <textline bbox="79.224,358.382,608.832,378.422" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; John Gilligan, CIO, Air Force, and Kim Nelson, CIO, EPA. </textline>
+</textbox>
+<textbox bbox="43.200,326.710,311.592,350.710" id="3" size="24.0">&#8226; Three Subcommittees: <textline bbox="43.200,326.710,311.592,350.710" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Three Subcommittees: </textline>
+</textbox>
+<textbox bbox="79.224,257.097,632.760,320.342" id="4" size="20.048">&#8211; Governance: Policy guidance and assistance in design and  
+implementation of the Enterprise Architecture discipline and  
+practice. <textline bbox="79.224,300.302,630.696,320.342" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Governance: Policy guidance and assistance in design and  </textline>
+<textline bbox="101.780,278.702,632.760,298.742" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">implementation of the Enterprise Architecture discipline and  </textline>
+<textline bbox="101.780,257.097,177.602,277.161" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">practice. </textline>
+</textbox>
+<textbox bbox="115.220,233.270,397.010,251.270" id="5" size="18.0">&#8226; Robert Haycock, OMB, and TBA. <textline bbox="115.220,233.270,397.010,251.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; Robert Haycock, OMB, and TBA. </textline>
+</textbox>
+<textbox bbox="79.224,206.922,600.836,226.962" id="6" size="20.04">&#8211; Components: Identify, mature and facilitate use/reuse of  <textline bbox="79.224,206.922,600.836,226.962" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Components: Identify, mature and facilitate use/reuse of  </textline>
+</textbox>
+<textbox bbox="101.780,185.322,393.211,205.362" id="7" size="20.04">Component-based Architectures. <textline bbox="101.780,185.322,393.211,205.362" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">Component-based Architectures. </textline>
+</textbox>
+<textbox bbox="115.220,161.510,607.160,179.510" id="8" size="18.0">&#8226; Reynolds Cahoon, CIO, NARA, and Robert Haycock, OMB. <textline bbox="115.220,161.510,607.160,179.510" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; Reynolds Cahoon, CIO, NARA, and Robert Haycock, OMB. </textline>
+</textbox>
+<textbox bbox="79.224,135.157,670.394,155.221" id="9" size="20.064">&#8211; Emerging Technology: Identify technologies with the potential to  <textline bbox="79.224,135.157,670.394,155.221" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; Emerging Technology: Identify technologies with the potential to  </textline>
+</textbox>
+<textbox bbox="101.780,113.532,467.089,133.572" id="10" size="20.04">improve the value and quality of the FEA. <textline bbox="101.780,113.532,467.089,133.572" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">improve the value and quality of the FEA. </textline>
+</textbox>
+<textbox bbox="115.220,89.724,539.444,107.724" id="11" size="18.0">&#8226; Mark Day, DCIO, EPA, and John McManus, NASA. <textline bbox="115.220,89.724,539.444,107.724" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; Mark Day, DCIO, EPA, and John McManus, NASA. </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="12" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">3 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" rotate="0">
+<textbox bbox="68.592,447.662,651.285,491.702" id="0" size="44.04">2. Governance Subcommittee <textline bbox="68.592,447.662,651.285,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">2. Governance Subcommittee </textline>
+</textbox>
+<textbox bbox="43.200,387.700,551.424,411.700" id="1" size="24.0">&#8226; Vision: Institutionalize the Federal Enterprise  <textline bbox="43.200,387.700,551.424,411.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Vision: Institutionalize the Federal Enterprise  </textline>
+</textbox>
+<textbox bbox="70.224,364.655,204.999,388.679" id="2" size="24.024">Architecture. <textline bbox="70.224,364.655,204.999,388.679" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Architecture. </textline>
+</textbox>
+<textbox bbox="43.200,335.830,619.752,359.830" id="3" size="24.0">&#8226; Mission: Develop policy, direction, and guidance by  <textline bbox="43.200,335.830,619.752,359.830" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Mission: Develop policy, direction, and guidance by  </textline>
+</textbox>
+<textbox bbox="70.224,220.610,669.288,336.790" id="4" size="24.0048">which the FEA is a driver of business process  
+improvement, investment management, and technical  
+decisions, in order to institutionalize the FEA throughout  
+government. Assist in implementing the FEA and other  
+Enterprise Architectures throughout government. <textline bbox="70.224,312.790,559.728,336.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">which the FEA is a driver of business process  </textline>
+<textline bbox="70.224,289.750,646.512,313.750" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">improvement, investment management, and technical  </textline>
+<textline bbox="70.224,266.710,669.288,290.710" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">decisions, in order to institutionalize the FEA throughout  </textline>
+<textline bbox="70.224,243.665,654.584,267.689" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">government. Assist in implementing the FEA and other  </textline>
+<textline bbox="70.224,220.610,586.560,244.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Enterprise Architectures throughout government. </textline>
+</textbox>
+<textbox bbox="43.200,191.810,647.784,215.810" id="5" size="24.0">&#8226; Goal: Develop a set of FEA principles and accomplish  <textline bbox="43.200,191.810,647.784,215.810" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Goal: Develop a set of FEA principles and accomplish  </textline>
+</textbox>
+<textbox bbox="70.224,168.770,399.624,192.770" id="6" size="24.0">three activities (see next slide). <textline bbox="70.224,168.770,399.624,192.770" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">three activities (see next slide). </textline>
+</textbox>
+<textbox bbox="43.200,139.970,607.536,163.970" id="7" size="24.0">&#8226; Definition: The &#8220;range of business and information  <textline bbox="43.200,139.970,607.536,163.970" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Definition: The &#8220;range of business and information  </textline>
+</textbox>
+<textbox bbox="70.224,70.824,671.520,140.949" id="8" size="24.008">technology decision-making structures and processes  
+used to create, apply, and evolve the Federal Enterprise  
+Architecture (FEA).&#8221; <textline bbox="70.224,116.925,648.217,140.949" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">technology decision-making structures and processes  </textline>
+<textline bbox="70.224,93.864,671.520,117.864" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">used to create, apply, and evolve the Federal Enterprise  </textline>
+<textline bbox="70.224,70.824,282.288,94.824" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Architecture (FEA).&#8221; </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="9" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" rotate="0">
+<textbox bbox="64.632,426.078,666.390,514.038" id="0" size="39.96">3. Governance Subcommittee FY  
+2003 Work Plan <textline bbox="64.632,474.078,666.390,514.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">3. Governance Subcommittee FY  </textline>
+<textline bbox="218.140,426.078,501.936,466.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">2003 Work Plan </textline>
+</textbox>
+<textbox bbox="43.200,387.700,614.184,411.700" id="1" size="24.0">&#8226; Mission Statement/Task 1: Develop FEA Principles. <textline bbox="43.200,387.700,614.184,411.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Mission Statement/Task 1: Develop FEA Principles. </textline>
+</textbox>
+<textbox bbox="79.224,363.687,201.318,383.751" id="2" size="20.064">&#8211; Lead: TBA. <textline bbox="79.224,363.687,201.318,383.751" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; Lead: TBA. </textline>
+</textbox>
+<textbox bbox="43.200,334.870,630.504,358.870" id="3" size="24.0">&#8226; Goal 1. Integrate Enterprise Architectures (EAs) Into  <textline bbox="43.200,334.870,630.504,358.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Goal 1. Integrate Enterprise Architectures (EAs) Into  </textline>
+</textbox>
+<textbox bbox="70.224,287.822,663.181,335.830" id="4" size="22.02">Management Processes of Government. 
+&#8211; Gerry Stoopman, Department of Homeland Security, and Linda  <textline bbox="70.224,311.830,501.144,335.830" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Management Processes of Government. </textline>
+<textline bbox="79.224,287.822,663.181,307.862" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Gerry Stoopman, Department of Homeland Security, and Linda  </textline>
+</textbox>
+<textbox bbox="101.780,268.622,574.624,288.662" id="5" size="20.04">Ibrahim, Federal Aviation Agency (two of three tasks). <textline bbox="101.780,268.622,574.624,288.662" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">Ibrahim, Federal Aviation Agency (two of three tasks). </textline>
+</textbox>
+<textbox bbox="43.200,239.825,678.488,263.849" id="6" size="24.024">&#8226; Goal 2. Define the Alignment of Department/Agency EAs  <textline bbox="43.200,239.825,678.488,263.849" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">&#8226; Goal 2. Define the Alignment of Department/Agency EAs  </textline>
+</textbox>
+<textbox bbox="43.200,163.970,585.216,240.770" id="7" size="22.679999999999996">with the FEA. 
+&#8211; Roy Mabry, Department of Defense (all three tasks). 
+&#8226; Goal 3. Describe How the FEA will Facilitate the  <textline bbox="70.224,216.770,212.832,240.770" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">with the FEA. </textline>
+<textline bbox="79.224,192.762,562.159,212.802" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Roy Mabry, Department of Defense (all three tasks). </textline>
+<textline bbox="43.200,163.970,585.216,187.970" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Goal 3. Describe How the FEA will Facilitate the  </textline>
+</textbox>
+<textbox bbox="70.224,93.856,667.800,164.930" id="8" size="22.688">Connection of State and Local EAs to Federal Business  
+Lines and Agency Architectures (see next slide). 
+&#8211; Patrick Mullen, US AID, Arthur Graham, Department of  <textline bbox="70.224,140.930,667.800,164.930" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Connection of State and Local EAs to Federal Business  </textline>
+<textline bbox="70.224,117.885,581.190,141.909" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Lines and Agency Architectures (see next slide). </textline>
+<textline bbox="79.224,93.856,588.992,113.896" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Patrick Mullen, US AID, Arthur Graham, Department of  </textline>
+</textbox>
+<textbox bbox="101.780,74.656,468.051,94.696" id="9" size="20.04">Education, and Brand Niemann, US EPA. <textline bbox="101.780,74.656,468.051,94.696" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">Education, and Brand Niemann, US EPA. </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="10" size="14.04">5 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" rotate="0">
+<textbox bbox="43.200,414.820,673.117,486.782" id="0" size="28.02">4. Governance Subcommittee, Goal 3 Tasks 
+&#8226; 1. Government Enterprise Architecture Framework  <textline bbox="47.568,454.742,673.117,486.782" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">4. Governance Subcommittee, Goal 3 Tasks </textline>
+<textline bbox="43.200,414.820,611.832,438.820" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 1. Government Enterprise Architecture Framework  </textline>
+</textbox>
+<textbox bbox="70.224,388.900,158.208,412.900" id="1" size="24.0">(GEAF). <textline bbox="70.224,388.900,158.208,412.900" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">(GEAF). </textline>
+</textbox>
+<textbox bbox="43.200,325.510,639.864,381.190" id="2" size="24.0">&#8226; 2. Joint Architecture Integration Pilot (JAIP). 
+&#8226; 3. Joint Component Registry/Repository Pilot (JCRP). <textline bbox="43.200,357.190,534.480,381.190" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 2. Joint Architecture Integration Pilot (JAIP). </textline>
+<textline bbox="43.200,325.510,639.864,349.510" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 3. Joint Component Registry/Repository Pilot (JCRP). </textline>
+</textbox>
+<textbox bbox="79.224,299.102,660.355,319.142" id="3" size="20.04">&#8211; Use Component Subcommittee &#8220;Quick Win&#8221; Task Components. <textline bbox="79.224,299.102,660.355,319.142" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Use Component Subcommittee &#8220;Quick Win&#8221; Task Components. </textline>
+</textbox>
+<textbox bbox="43.200,267.430,640.968,291.430" id="4" size="24.0">&#8226; 4. Joint Government Data and Information Reference  <textline bbox="43.200,267.430,640.968,291.430" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 4. Joint Government Data and Information Reference  </textline>
+</textbox>
+<textbox bbox="70.224,191.270,626.534,265.529" id="5" size="20.688">Model (GDIRM). 
+&#8211; Note: Announced April 10th at FOSE 2003 by Bob Haycock: 
+&#8226; http://www.gcn.com/vol1_no1/daily-updates/21691-1.html <textline bbox="70.224,241.505,245.071,265.529" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Model (GDIRM). </textline>
+<textline bbox="79.224,215.082,626.534,235.813">&#8211; Note: Announced April 10th at FOSE 2003 by Bob Haycock: <text bbox="79.224,215.082,90.366,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211;</text>
+<text bbox="101.780,215.082,116.249,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">N</text>
+<text bbox="116.249,215.082,127.391,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">o</text>
+<text bbox="127.431,215.082,133.002,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">t</text>
+<text bbox="133.002,215.082,144.145,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">e</text>
+<text bbox="144.145,215.082,149.716,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">:</text>
+<text bbox="149.636,215.082,155.207,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="153.964,215.082,167.331,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">A</text>
+<text bbox="167.331,215.082,178.473,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="178.473,215.082,189.615,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="189.615,215.082,200.758,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">o</text>
+<text bbox="200.758,215.082,211.900,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">u</text>
+<text bbox="211.900,215.082,223.042,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">n</text>
+<text bbox="223.042,215.082,233.062,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">c</text>
+<text bbox="233.142,215.082,244.284,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">e</text>
+<text bbox="244.284,215.082,255.427,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">d</text>
+<text bbox="255.427,215.082,260.998,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="259.535,215.082,272.902,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">A</text>
+<text bbox="272.902,215.082,284.044,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">p</text>
+<text bbox="284.044,215.082,290.717,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">r</text>
+<text bbox="290.717,215.082,295.166,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">i</text>
+<text bbox="295.166,215.082,299.615,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">l</text>
+<text bbox="299.615,215.082,305.186,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="305.186,215.082,316.328,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">1</text>
+<text bbox="316.328,215.082,327.470,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">0</text>
+<text bbox="327.550,222.493,331.253,235.813" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="13.320">t</text>
+<text bbox="331.270,222.493,338.676,235.813" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="13.320">h</text>
+<text bbox="344.110,215.082,355.252,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">a</text>
+<text bbox="355.252,215.082,360.823,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">t</text>
+<text bbox="360.823,215.082,366.394,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="366.194,215.082,378.439,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">F</text>
+<text bbox="378.439,215.082,394.030,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">O</text>
+<text bbox="394.030,215.082,407.396,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">S</text>
+<text bbox="407.396,215.082,420.763,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">E</text>
+<text bbox="420.683,215.082,426.254,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="426.254,215.082,437.396,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">2</text>
+<text bbox="437.396,215.082,448.538,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">0</text>
+<text bbox="448.538,215.082,459.681,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">0</text>
+<text bbox="459.681,215.082,470.823,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">3</text>
+<text bbox="470.823,215.082,476.394,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="476.234,215.082,487.376,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">b</text>
+<text bbox="487.376,215.082,497.396,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">y</text>
+<text bbox="497.396,215.082,502.967,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="502.867,215.082,516.234,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">B</text>
+<text bbox="516.234,215.082,527.376,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">o</text>
+<text bbox="527.376,215.082,538.518,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">b</text>
+<text bbox="538.518,215.082,544.089,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040"> </text>
+<text bbox="544.029,215.082,558.498,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">H</text>
+<text bbox="558.498,215.082,569.640,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">a</text>
+<text bbox="569.680,215.082,579.700,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">y</text>
+<text bbox="579.700,215.082,589.720,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">c</text>
+<text bbox="589.720,215.082,600.862,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">o</text>
+<text bbox="600.862,215.082,610.882,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">c</text>
+<text bbox="610.943,215.082,620.963,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">k</text>
+<text bbox="620.963,215.082,626.534,235.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">:</text>
+</textline>
+<textline bbox="115.220,191.270,588.700,209.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; http://www.gcn.com/vol1_no1/daily-updates/21691-1.html </textline>
+</textbox>
+<textbox bbox="43.200,133.237,433.618,183.650" id="6" size="22.032">&#8226; 5. Enterprise Software Licensing. 
+&#8211; On hold because of GSA &#8220;Smart Buy&#8221; <textline bbox="43.200,159.650,422.088,183.650" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 5. Enterprise Software Licensing. </textline>
+<textline bbox="79.224,133.237,433.618,153.301" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">&#8211; On hold because of GSA &#8220;Smart Buy&#8221; </textline>
+</textbox>
+<textbox bbox="43.200,101.540,280.704,125.540" id="7" size="24.0">&#8226; 6. More Joint Pilots. <textline bbox="43.200,101.540,280.704,125.540" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; 6. More Joint Pilots. </textline>
+</textbox>
+<textbox bbox="61.224,16.952,639.423,71.312" id="8" size="15.96">Note: The focus of Goal 3 Tasks goes beyond FY 2005 budget needs to working  
+with states, the Data Reference Model (DRM), and the 6 priority lines of business  
+and enterprise software licensing. Tasks 1-4 are short-term (3/03-4/04). <textline bbox="61.224,55.352,631.890,71.312" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Note: The focus of Goal 3 Tasks goes beyond FY 2005 budget needs to working  </textline>
+<textline bbox="61.224,36.152,639.423,52.112" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">with states, the Data Reference Model (DRM), and the 6 priority lines of business  </textline>
+<textline bbox="61.224,16.952,564.470,32.912" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">and enterprise software licensing. Tasks 1-4 are short-term (3/03-4/04). </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="9" size="14.04">6 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">6 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" rotate="0">
+<textbox bbox="92.232,447.662,627.582,491.702" id="0" size="44.04">5. Goal 3 Task Deliverables <textline bbox="92.232,447.662,627.582,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">5. Goal 3 Task Deliverables </textline>
+</textbox>
+<textbox bbox="43.200,427.532,496.014,447.572" id="1" size="20.04">&#8226; Six deliverables in spite of several impediments: <textline bbox="43.200,427.532,496.014,447.572" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Six deliverables in spite of several impediments: </textline>
+</textbox>
+<textbox bbox="79.224,405.880,678.716,423.880" id="2" size="18.0">&#8211; Input to the Draft FEA Data and Information Reference Model (DRM) for  <textline bbox="79.224,405.880,678.716,423.880" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Input to the Draft FEA Data and Information Reference Model (DRM) for  </textline>
+</textbox>
+<textbox bbox="101.780,369.343,372.572,406.600" id="3" size="16.992">the past 10 months (18 revisions)! 
+&#8226; Posted at http://web-services.gov <textline bbox="101.780,388.600,372.572,406.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">the past 10 months (18 revisions)! </textline>
+<textline bbox="115.220,369.343,368.673,385.327" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">&#8226; Posted at http://web-services.gov </textline>
+</textbox>
+<textbox bbox="79.224,347.770,650.546,365.770" id="4" size="18.0">&#8211; IAC Business Line Integration and Federated Data Reference Model  <textline bbox="79.224,347.770,650.546,365.770" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; IAC Business Line Integration and Federated Data Reference Model  </textline>
+</textbox>
+<textbox bbox="101.780,330.490,285.578,348.490" id="5" size="18.0">White Paper produced: <textline bbox="101.780,330.490,285.578,348.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">White Paper produced: </textline>
+</textbox>
+<textbox bbox="115.220,311.238,120.806,327.198" id="6" size="15.96">&#8226; <textline bbox="115.220,311.238,120.806,327.198" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; </textline>
+</textbox>
+<textbox bbox="133.220,295.878,640.333,327.198" id="7" size="15.96">Included XML Web Services Working Group Pilot as Example Scenario  
+Using MOF Models and XML-Based Web Services. <textline bbox="133.220,311.238,640.333,327.198" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Included XML Web Services Working Group Pilot as Example Scenario  </textline>
+<textline bbox="133.220,295.878,496.663,311.838" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Using MOF Models and XML-Based Web Services. </textline>
+</textbox>
+<textbox bbox="79.224,274.330,613.370,292.330" id="8" size="18.0">&#8211; Contributed to Tasks 1-4 of the Components Subcommittee and  <textline bbox="79.224,274.330,613.370,292.330" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Contributed to Tasks 1-4 of the Components Subcommittee and  </textline>
+</textbox>
+<textbox bbox="101.780,239.765,632.366,275.050" id="9" size="18.012">Emerging Technology Life Cycle Task of the Emerging Technology  
+Subcommittee: <textline bbox="101.780,257.050,632.366,275.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Emerging Technology Life Cycle Task of the Emerging Technology  </textline>
+<textline bbox="101.780,239.765,221.622,257.789" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Subcommittee: </textline>
+</textbox>
+<textbox bbox="115.220,220.498,644.594,236.458" id="10" size="15.96">&#8226; Populating &#8220;Matrix Framework&#8221; (Eight stages of life cycle versus 5 basic  <textline bbox="115.220,220.498,644.594,236.458" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; Populating &#8220;Matrix Framework&#8221; (Eight stages of life cycle versus 5 basic  </textline>
+</textbox>
+<textbox bbox="133.220,205.138,420.404,221.098" id="11" size="15.96">types of components in the FEA SCRM). <textline bbox="133.220,205.138,420.404,221.098" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">types of components in the FEA SCRM). </textline>
+</textbox>
+<textbox bbox="115.220,185.938,388.516,201.898" id="12" size="15.96">&#8226; See http://componenttechnology.org <textline bbox="115.220,185.938,388.516,201.898" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; See http://componenttechnology.org </textline>
+</textbox>
+<textbox bbox="79.224,142.790,625.688,182.390" id="13" size="18.0">&#8211; Several pilots delivered to DHS, the Global Justice Programs, etc. 
+&#8211; Established a Collaboration Environment and Work on Multiple  <textline bbox="79.224,164.390,625.688,182.390" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Several pilots delivered to DHS, the Global Justice Programs, etc. </textline>
+<textline bbox="79.224,142.790,605.222,160.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Established a Collaboration Environment and Work on Multiple  </textline>
+</textbox>
+<textbox bbox="101.780,125.505,453.608,143.529" id="14" size="18.024">Registries and Repositories (see next slide). <textline bbox="101.780,125.505,453.608,143.529" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Registries and Repositories (see next slide). </textline>
+</textbox>
+<textbox bbox="79.224,103.880,612.116,121.880" id="15" size="18.0">&#8211; Working with major collaboration communities with authoritative  <textline bbox="79.224,103.880,612.116,121.880" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; Working with major collaboration communities with authoritative  </textline>
+</textbox>
+<textbox bbox="101.780,34.712,667.322,104.604" id="16" size="16.98">governance on sustainable intergovernmental exchange networks with  
+semantic interoperability and Services Oriented Architectures (SOA): 
+&#8226; Global, National Environmental Information Exchange Network, Health IT  
+Sharing Program, Intelligence Community Metadata Working Group, etc. <textline bbox="101.780,86.604,667.322,104.604" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">governance on sustainable intergovernmental exchange networks with  </textline>
+<textline bbox="101.780,69.324,647.774,87.324" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">semantic interoperability and Services Oriented Architectures (SOA): </textline>
+<textline bbox="115.220,50.072,654.553,66.032" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">&#8226; Global, National Environmental Information Exchange Network, Health IT  </textline>
+<textline bbox="133.220,34.712,646.797,50.672" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Sharing Program, Intelligence Community Metadata Working Group, etc. </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="17" size="14.04">7 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">7 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" rotate="0">
+<textbox bbox="148.150,447.662,571.859,491.702" id="0" size="44.04">6. Goal 3 Architecture <textline bbox="148.150,447.662,571.859,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">6. Goal 3 Architecture </textline>
+</textbox>
+<textbox bbox="43.200,383.983,397.385,411.967" id="1" size="27.984">&#8226; Three Basic Architectures: <textline bbox="43.200,383.983,397.385,411.967" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; Three Basic Architectures: </textline>
+</textbox>
+<textbox bbox="79.224,355.030,439.364,379.030" id="2" size="24.0">&#8211; Federal Enterprise Architecture: <textline bbox="79.224,355.030,439.364,379.030" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Federal Enterprise Architecture: </textline>
+</textbox>
+<textbox bbox="115.220,331.022,556.325,351.062" id="3" size="20.04">&#8226; A Set of Reference Models Backed by Law and  <textline bbox="115.220,331.022,556.325,351.062" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; A Set of Reference Models Backed by Law and  </textline>
+</textbox>
+<textbox bbox="133.220,311.822,311.195,331.862" id="4" size="20.04">Administrative Rule. <textline bbox="133.220,311.822,311.195,331.862" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">Administrative Rule. </textline>
+</textbox>
+<textbox bbox="79.224,261.430,613.604,308.170" id="5" size="21.0">&#8211; &#8220;Not a roadmap, but a guide to getting there&#8221;. (Gartner) 
+&#8211; National Association of State CIO&#8217;s Architecture  <textline bbox="151.220,290.170,607.160,308.170" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8211; &#8220;Not a roadmap, but a guide to getting there&#8221;. (Gartner) </textline>
+<textline bbox="79.224,261.430,613.604,285.430" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; National Association of State CIO&#8217;s Architecture  </textline>
+</textbox>
+<textbox bbox="115.220,214.362,675.703,234.402" id="6" size="20.04">&#8226; Business Architecture (TBD), IT Domains (10), and Temporal  <textline bbox="115.220,214.362,675.703,234.402" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Business Architecture (TBD), IT Domains (10), and Temporal  </textline>
+</textbox>
+<textbox bbox="133.220,195.162,579.431,215.202" id="7" size="20.04">Context (Emerging, Current, Twilight, and Sunset). <textline bbox="133.220,195.162,579.431,215.202" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">Context (Emerging, Current, Twilight, and Sunset). </textline>
+</textbox>
+<textbox bbox="101.780,238.385,176.350,262.409" id="8" size="24.024">Toolkit: <textline bbox="101.780,238.385,176.350,262.409" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Toolkit: </textline>
+</textbox>
+<textbox bbox="79.224,166.370,168.548,190.370" id="9" size="24.0">&#8211; Other: <textline bbox="79.224,166.370,168.548,190.370" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Other: </textline>
+</textbox>
+<textbox bbox="115.220,142.362,238.490,162.402" id="10" size="20.04">&#8226; Gartner EA: <textline bbox="115.220,142.362,238.490,162.402" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8226; Gartner EA: </textline>
+</textbox>
+<textbox bbox="151.220,120.705,399.206,138.729" id="11" size="18.024">&#8211; Business Relationships Grid: <textline bbox="151.220,120.705,399.206,138.729" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">&#8211; Business Relationships Grid: </textline>
+</textbox>
+<textbox bbox="187.220,64.524,678.632,117.080" id="12" size="18.0">&#187; Styles, Patterns, and Bricks Versus Seven Domains (Data,  
+Application, Integration, Point of Access, Security, Systems  
+Management, and Infrastructure). <textline bbox="187.220,99.080,676.094,117.080" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#187; Styles, Patterns, and Bricks Versus Seven Domains (Data,  </textline>
+<textline bbox="205.250,81.804,678.632,99.804" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Application, Integration, Point of Access, Security, Systems  </textline>
+<textline bbox="205.250,64.524,472.190,82.524" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Management, and Infrastructure). </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="13" size="14.04">8 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">8 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" rotate="0">
+<textbox bbox="148.150,447.662,571.859,491.702" id="0" size="44.04">6. Goal 3 Architecture <textline bbox="148.150,447.662,571.859,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">6. Goal 3 Architecture </textline>
+</textbox>
+<textbox bbox="43.200,358.382,502.608,408.820" id="1" size="22.02">&#8226; eGov requires multiple interfaces for the: 
+&#8211; Citizen, portfolio manager, developer, etc. <textline bbox="43.200,384.820,502.608,408.820" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; eGov requires multiple interfaces for the: </textline>
+<textline bbox="79.224,358.382,469.414,378.422" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Citizen, portfolio manager, developer, etc. </textline>
+</textbox>
+<textbox bbox="43.200,326.710,657.168,350.710" id="2" size="24.0">&#8226; To the Government Enterprise Architecture Framework  <textline bbox="43.200,326.710,657.168,350.710" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; To the Government Enterprise Architecture Framework  </textline>
+</textbox>
+<textbox bbox="70.224,274.382,666.167,324.790" id="3" size="22.02">(GEAF): 
+&#8211; Federal Enterprise Architecture plus the National Association of  <textline bbox="70.224,300.790,158.208,324.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">(GEAF): </textline>
+<textline bbox="79.224,274.382,666.167,294.422" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Federal Enterprise Architecture plus the National Association of  </textline>
+</textbox>
+<textbox bbox="101.780,252.777,415.601,272.841" id="4" size="20.064">State CIOs Architecture Toolkit, etc. <textline bbox="101.780,252.777,415.601,272.841" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.064">State CIOs Architecture Toolkit, etc. </textline>
+</textbox>
+<textbox bbox="43.200,221.090,614.712,245.090" id="5" size="24.0">&#8226; Which consists of multiple Reference Models (RM): <textline bbox="43.200,221.090,614.712,245.090" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Which consists of multiple Reference Models (RM): </textline>
+</textbox>
+<textbox bbox="79.224,194.682,668.531,214.722" id="6" size="20.04">&#8211; Performance, Business, Services, Technical, Data, Security, etc. <textline bbox="79.224,194.682,668.531,214.722" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Performance, Business, Services, Technical, Data, Security, etc. </textline>
+</textbox>
+<textbox bbox="43.200,163.010,589.416,187.010" id="7" size="24.0">&#8226; Which provide multiple views for implementing a  <textline bbox="43.200,163.010,589.416,187.010" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Which provide multiple views for implementing a  </textline>
+</textbox>
+<textbox bbox="70.224,110.652,632.740,161.109" id="8" size="22.032">Component-based Architecture (CBA): 
+&#8211; Requiring multiple registries/repositories to cover the matrix  <textline bbox="70.224,137.085,480.040,161.109" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Component-based Architecture (CBA): </textline>
+<textline bbox="79.224,110.652,632.740,130.692" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; Requiring multiple registries/repositories to cover the matrix  </textline>
+</textbox>
+<textbox bbox="101.780,67.456,670.322,109.096" id="9" size="20.04">framework of at least eight life-cycle stages and five basic types  
+of components. <textline bbox="101.780,89.056,670.322,109.096" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">framework of at least eight life-cycle stages and five basic types  </textline>
+<textline bbox="101.780,67.456,238.713,87.496" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">of components. </textline>
+</textbox>
+<textbox bbox="669.000,28.036,676.806,42.076" id="10" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">9 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" rotate="0">
+<textbox bbox="148.150,447.662,571.859,491.702" id="0" size="44.04">6. Goal 3 Architecture <textline bbox="148.150,447.662,571.859,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">6. Goal 3 Architecture </textline>
+</textbox>
+<textbox bbox="43.200,380.623,330.307,408.607" id="1" size="27.984">&#8226; Life Cycle Stages(1): <textline bbox="43.200,380.623,330.307,408.607" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; Life Cycle Stages(1): </textline>
+</textbox>
+<textbox bbox="373.270,380.623,629.011,408.607" id="2" size="27.984">&#8226; Basic Component  <textline bbox="373.270,380.623,629.011,408.607" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; Basic Component  </textline>
+</textbox>
+<textbox bbox="79.224,127.005,239.084,372.790" id="3" size="24.006">&#8211; Identification 
+&#8211; Subscription 
+&#8211; Stewardship 
+&#8211; Graduation 
+&#8211; Budgeting 
+&#8211; Acquisition 
+&#8211; Maintenance 
+&#8211; Retirement  <textline bbox="79.224,348.790,236.516,372.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Identification </textline>
+<textline bbox="79.224,317.110,233.684,341.110" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Subscription </textline>
+<textline bbox="79.224,285.430,233.684,309.430" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Stewardship </textline>
+<textline bbox="79.224,253.745,220.555,277.769" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">&#8211; Graduation </textline>
+<textline bbox="79.224,222.050,209.708,246.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Budgeting </textline>
+<textline bbox="79.224,190.370,217.676,214.370" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Acquisition </textline>
+<textline bbox="79.224,158.690,239.084,182.690" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Maintenance </textline>
+<textline bbox="79.224,127.005,225.840,151.029" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">&#8211; Retirement  </textline>
+</textbox>
+<textbox bbox="101.780,101.060,249.740,125.060" id="4" size="24.0">/Replacement <textline bbox="101.780,101.060,249.740,125.060" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">/Replacement </textline>
+</textbox>
+<textbox bbox="400.270,191.810,615.982,378.318" id="5" size="24.664">Types (2): 
+&#8211; Federated 
+&#8211; Business System 
+&#8211; Business 
+&#8211; Distributed 
+&#8211; Language Class <textline bbox="400.270,350.358,524.804,378.318" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">Types (2): </textline>
+<textline bbox="409.270,318.550,541.150,342.550" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Federated </textline>
+<textline bbox="409.270,286.870,615.982,310.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Business System </textline>
+<textline bbox="409.270,255.185,529.103,279.209" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">&#8211; Business </textline>
+<textline bbox="409.270,223.490,546.430,247.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Distributed </textline>
+<textline bbox="409.270,191.810,605.350,215.810" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8211; Language Class </textline>
+</textbox>
+<textbox bbox="25.200,54.916,630.556,68.956" id="6" size="14.04">(1) Managing the IT Innovation Life-Cycle: Proposed Stages/Schemas, Draft, May 27, 2003, with  <textline bbox="25.200,54.916,630.556,68.956" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">(1) Managing the IT Innovation Life-Cycle: Proposed Stages/Schemas, Draft, May 27, 2003, with  </textline>
+</textbox>
+<textbox bbox="25.200,21.316,471.533,52.156" id="7" size="14.04">minor edit on July 2, 2003 at http://xml.gov/draft/etLifeCycle.htm 
+(2) FEA Service Components Reference Model, http://www.feapmo.gov <textline bbox="52.200,38.116,446.429,52.156" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">minor edit on July 2, 2003 at http://xml.gov/draft/etLifeCycle.htm </textline>
+<textline bbox="25.200,21.316,471.533,35.356" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">(2) FEA Service Components Reference Model, http://www.feapmo.gov </textline>
+</textbox>
+<textbox bbox="661.200,28.036,676.806,42.076" id="8" size="14.04">10 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">10 </textline>
+</textbox>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" rotate="0">
+<textbox bbox="148.150,481.307,571.958,525.371" id="0" size="44.064">6. Goal 3 Architecture <textline bbox="148.150,481.307,571.958,525.371" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">6. Goal 3 Architecture </textline>
+</textbox>
+<textbox bbox="43.200,451.428,158.734,467.388" id="1" size="15.96">GRANULARITY <textline bbox="43.200,451.428,158.734,467.388" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">GRANULARITY </textline>
+</textbox>
+<textbox bbox="259.250,451.428,349.616,467.388" id="2" size="15.96">DEFINITION <textline bbox="259.250,451.428,349.616,467.388" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">DEFINITION </textline>
+</textbox>
+<textbox bbox="475.300,432.228,629.665,467.388" id="3" size="15.96">SCRM REFERENCE  
+MODEL FOCUS? <textline bbox="475.300,451.428,629.665,467.388" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">SCRM REFERENCE  </textline>
+<textline bbox="475.300,432.228,602.725,448.188" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">MODEL FOCUS? </textline>
+</textbox>
+<textbox bbox="43.200,405.828,203.119,421.788" id="4" size="15.96">Federated Component <textline bbox="43.200,405.828,203.119,421.788" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Federated Component </textline>
+</textbox>
+<textbox bbox="43.200,329.098,199.412,364.297" id="5" size="15.972000000000001">Business Component  
+System <textline bbox="43.200,348.313,199.412,364.297" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Business Component  </textline>
+<textline bbox="43.200,329.098,96.315,345.058" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">System </textline>
+</textbox>
+<textbox bbox="43.200,300.678,194.916,316.638" id="6" size="15.96">Business Component <textline bbox="43.200,300.678,194.916,316.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Business Component </textline>
+</textbox>
+<textbox bbox="43.200,168.148,206.551,184.108" id="7" size="15.96">Distributed Component <textline bbox="43.200,168.148,206.551,184.108" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Distributed Component </textline>
+</textbox>
+<textbox bbox="43.200,85.640,158.688,101.600" id="8" size="15.96">Language Class <textline bbox="43.200,85.640,158.688,101.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Language Class </textline>
+</textbox>
+<textbox bbox="259.250,376.968,445.392,422.928" id="9" size="9.96">A set of cooperating system-level  
+components federated to resolve the  
+business need of multiple end users often  
+belonging to different organizations. <textline bbox="259.250,412.968,408.197,422.928" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A set of cooperating system-level  </textline>
+<textline bbox="259.250,400.968,423.082,410.928" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">components federated to resolve the  </textline>
+<textline bbox="259.250,388.968,445.392,398.928" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">business need of multiple end users often  </textline>
+<textline bbox="259.250,376.968,416.279,386.928" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">belonging to different organizations. </textline>
+</textbox>
+<textbox bbox="259.250,331.438,456.823,365.418" id="10" size="9.968000000000002">A set of cooperating business components  
+assembled together to deliver a solution to a  
+business problem. <textline bbox="259.250,355.458,449.317,365.418" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A set of cooperating business components  </textline>
+<textline bbox="259.250,343.453,456.823,353.437" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">assembled together to deliver a solution to a  </textline>
+<textline bbox="259.250,331.438,340.095,341.398" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">business problem. </textline>
+</textbox>
+<textbox bbox="259.250,199.798,461.099,317.778" id="11" size="9.962400000000002">Represents the implementation of an  
+autonomous business concept or business  
+process. It consists of all the technology  
+elements (i.e., software, hardware, data)  
+necessary to express, implement, and deploy  
+a given business concept as an autonomous,  
+reusable element of a large information  
+system. It is a unifying concept across the  
+development lifecycle and the distribution  
+tiers. <textline bbox="259.250,307.818,424.307,317.778" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Represents the implementation of an  </textline>
+<textline bbox="259.250,295.818,449.815,305.778" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">autonomous business concept or business  </textline>
+<textline bbox="259.250,283.818,437.335,293.778" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">process. It consists of all the technology  </textline>
+<textline bbox="259.250,271.813,440.010,281.797" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">elements (i.e., software, hardware, data)  </textline>
+<textline bbox="259.250,259.798,461.099,269.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">necessary to express, implement, and deploy  </textline>
+<textline bbox="259.250,247.798,460.880,257.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a given business concept as an autonomous,  </textline>
+<textline bbox="259.250,235.798,434.496,245.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">reusable element of a large information  </textline>
+<textline bbox="259.250,223.798,445.950,233.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">system. It is a unifying concept across the  </textline>
+<textline bbox="259.250,211.798,443.590,221.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">development lifecycle and the distribution  </textline>
+<textline bbox="259.250,199.798,280.853,209.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">tiers. </textline>
+</textbox>
+<textbox bbox="259.250,115.268,456.458,185.248" id="12" size="9.964">The lowest level of component granularity. It  
+is a software element that can be called at  
+run-time with a clear interface and a clear  
+separation between interface and  
+implementation. It is autonomously  
+deployable. <textline bbox="259.250,175.288,456.458,185.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">The lowest level of component granularity. It  </textline>
+<textline bbox="259.250,163.288,447.454,173.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">is a software element that can be called at  </textline>
+<textline bbox="259.250,151.288,444.428,161.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">run-time with a clear interface and a clear  </textline>
+<textline bbox="259.250,139.288,408.720,149.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">separation between interface and  </textline>
+<textline bbox="259.250,127.283,414.970,137.267" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">implementation. It is autonomously  </textline>
+<textline bbox="259.250,115.268,309.668,125.228" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">deployable. </textline>
+</textbox>
+<textbox bbox="259.250,56.756,448.727,102.740" id="13" size="9.966000000000001">A class in an object-oriented programming  
+language to build distributed components.  
+This is NOT considered an SCRM  
+component. <textline bbox="259.250,92.780,448.727,102.740" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A class in an object-oriented programming  </textline>
+<textline bbox="259.250,80.780,446.010,90.740" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">language to build distributed components.  </textline>
+<textline bbox="259.250,68.775,411.816,78.759" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">This is NOT considered an SCRM  </textline>
+<textline bbox="259.250,56.756,311.460,66.716" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">component. </textline>
+</textbox>
+<textbox bbox="475.300,405.828,501.155,421.788" id="14" size="15.96">Yes <textline bbox="475.300,405.828,501.155,421.788" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Yes </textline>
+</textbox>
+<textbox bbox="475.300,348.313,501.178,364.297" id="15" size="15.984">Yes <textline bbox="475.300,348.313,501.178,364.297" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">Yes </textline>
+</textbox>
+<textbox bbox="475.300,300.678,501.155,316.638" id="16" size="15.96">Yes <textline bbox="475.300,300.678,501.155,316.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Yes </textline>
+</textbox>
+<textbox bbox="475.300,168.148,501.155,184.108" id="17" size="15.96">Yes <textline bbox="475.300,168.148,501.155,184.108" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Yes </textline>
+</textbox>
+<textbox bbox="475.300,85.640,495.694,101.600" id="18" size="15.96">No <textline bbox="475.300,85.640,495.694,101.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">No </textline>
+</textbox>
+<textbox bbox="662.280,28.036,676.802,42.076" id="19" size="14.04">11 <textline bbox="662.280,28.036,676.802,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">11 </textline>
+</textbox>
+<line bbox="252.000,49.650,252.000,475.120" linewidth="1" />
+<line bbox="468.000,49.650,468.000,475.120" linewidth="1" />
+<line bbox="34.875,428.400,685.120,428.400" linewidth="1" />
+<line bbox="34.875,370.900,685.120,370.900" linewidth="1" />
+<line bbox="34.875,323.270,685.120,323.270" linewidth="1" />
+<line bbox="34.875,190.770,685.120,190.770" linewidth="1" />
+<line bbox="34.875,108.270,685.120,108.270" linewidth="1" />
+<line bbox="36.000,49.650,36.000,475.120" linewidth="2" />
+<line bbox="684.000,49.650,684.000,475.120" linewidth="2" />
+<line bbox="34.875,474.000,685.120,474.000" linewidth="2" />
+<line bbox="34.875,50.775,685.120,50.775" linewidth="2" />
+</page>
+</pages>

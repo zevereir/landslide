@@ -1,0 +1,393 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<textbox bbox="257.860,489.584,462.087,517.568" id="0" size="27.984">Store Summary <textline bbox="257.860,489.584,462.087,517.568" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">Store Summary </textline>
+</textbox>
+<textbox bbox="55.992,402.880,88.728,414.880" id="1" size="12.0">Store <textline bbox="55.992,402.880,88.728,414.880" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Store </textline>
+</textbox>
+<textbox bbox="114.100,381.280,148.216,436.480" id="2" size="12.0">Avg  
+Init.  
+Lumi  
+(E30) <textline bbox="119.020,424.480,145.228,436.480" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Avg  </textline>
+<textline bbox="116.020,410.080,148.216,422.080" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Init.  </textline>
+<textline bbox="116.740,395.680,147.484,407.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Lumi  </textline>
+<textline bbox="114.100,381.280,145.000,393.280" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">(E30) </textline>
+</textbox>
+<textbox bbox="170.500,381.280,208.120,436.480" id="3" size="12.0">Avg  
+Deliv&#8217;d 
+Lumi 
+(nb-1) <textline bbox="178.900,424.480,205.108,436.480" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Avg  </textline>
+<textline bbox="170.500,410.080,208.120,422.080" colourspace="DeviceGray" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="12.000">Deliv&#8217;d </textline>
+<textline bbox="176.620,395.680,202.156,407.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Lumi </textline>
+<textline bbox="173.380,381.280,205.372,394.009">(nb-1) <text bbox="173.380,381.280,177.772,393.280" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">(</text>
+<text bbox="177.808,381.280,184.084,393.280" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">n</text>
+<text bbox="184.048,381.280,191.164,393.280" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">b</text>
+<text bbox="191.140,385.969,196.044,394.009" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="8.040">-</text>
+<text bbox="196.060,385.969,200.964,394.009" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="8.040">1</text>
+<text bbox="200.980,381.280,205.372,393.280" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">)</text>
+</textline>
+</textbox>
+<textbox bbox="225.360,395.680,258.384,422.080" id="4" size="12.0">Time  
+(hr) <textline bbox="225.360,410.080,258.384,422.080" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Time  </textline>
+<textline bbox="228.480,395.680,249.996,407.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">(hr) </textline>
+</textbox>
+<textbox bbox="285.140,395.680,350.912,422.080" id="5" size="12.0">How did it  
+end? <textline bbox="285.140,410.080,350.912,422.080" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">How did it  </textline>
+<textline bbox="301.940,395.680,328.760,407.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">end? </textline>
+</textbox>
+<textbox bbox="491.880,402.880,548.820,414.880" id="6" size="12.0">Comments <textline bbox="491.880,402.880,548.820,414.880" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Comments </textline>
+</textbox>
+<textbox bbox="57.672,338.050,86.952,350.050" id="7" size="12.0">6784 <textline bbox="57.672,338.050,86.952,350.050" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">6784 </textline>
+</textbox>
+<textbox bbox="114.340,338.050,144.688,350.050" id="8" size="12.0">216.7 <textline bbox="114.340,338.050,144.688,350.050" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">216.7 </textline>
+</textbox>
+<textbox bbox="175.780,338.050,203.140,350.050" id="9" size="12.0">7621 <textline bbox="175.780,338.050,203.140,350.050" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7621 </textline>
+</textbox>
+<textbox bbox="227.760,338.050,250.788,350.050" id="10" size="12.0">15.7 <textline bbox="227.760,338.050,250.788,350.050" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">15.7 </textline>
+</textbox>
+<textbox bbox="295.100,338.050,335.660,350.050" id="11" size="12.0">Normal <textline bbox="295.100,338.050,335.660,350.050" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Normal </textline>
+</textbox>
+<textbox bbox="391.560,330.850,652.512,357.250" id="12" size="12.0">Parsing LBSEQ flattop, 6,7,8, 25; move insert  
+synclite mirror backward; <textline bbox="391.560,345.250,652.512,357.250" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Parsing LBSEQ flattop, 6,7,8, 25; move insert  </textline>
+<textline bbox="448.560,330.850,591.996,342.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">synclite mirror backward; </textline>
+</textbox>
+<textbox bbox="57.672,294.850,86.952,306.850" id="13" size="12.0">6785 <textline bbox="57.672,294.850,86.952,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">6785 </textline>
+</textbox>
+<textbox bbox="113.380,294.850,145.648,306.850" id="14" size="12.0">267.7 <textline bbox="113.380,294.850,145.648,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">267.7 </textline>
+</textbox>
+<textbox bbox="176.620,294.850,202.060,306.850" id="15" size="12.0">7211 <textline bbox="176.620,294.850,202.060,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7211 </textline>
+</textbox>
+<textbox bbox="227.760,294.850,250.788,306.850" id="16" size="12.0">17.6 <textline bbox="227.760,294.850,250.788,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">17.6 </textline>
+</textbox>
+<textbox bbox="295.100,294.850,335.660,306.850" id="17" size="12.0">Normal <textline bbox="295.100,294.850,335.660,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Normal </textline>
+</textbox>
+<textbox bbox="441.720,294.850,598.944,306.850" id="18" size="12.0">Tunes low cause loss higher; <textline bbox="441.720,294.850,598.944,306.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Tunes low cause loss higher; </textline>
+</textbox>
+<textbox bbox="57.672,257.410,86.952,269.410" id="19" size="12.0">6786 <textline bbox="57.672,257.410,86.952,269.410" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">6786 </textline>
+</textbox>
+<textbox bbox="113.380,257.410,145.648,269.410" id="20" size="12.0">320.9 <textline bbox="113.380,257.410,145.648,269.410" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">320.9 </textline>
+</textbox>
+<textbox bbox="174.700,257.410,203.980,269.410" id="21" size="12.0">7855 <textline bbox="174.700,257.410,203.980,269.410" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7855 </textline>
+</textbox>
+<textbox bbox="227.760,257.410,250.788,269.410" id="22" size="12.0">15.4 <textline bbox="227.760,257.410,250.788,269.410" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">15.4 </textline>
+</textbox>
+<textbox bbox="295.100,257.410,335.660,269.410" id="23" size="12.0">Normal <textline bbox="295.100,257.410,335.660,269.410" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Normal </textline>
+</textbox>
+<textbox bbox="57.672,219.963,86.967,231.987" id="24" size="12.024">6787 <textline bbox="57.672,219.963,86.967,231.987" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">6787 </textline>
+</textbox>
+<textbox bbox="114.340,219.963,144.713,231.987" id="25" size="12.024">313.5 <textline bbox="114.340,219.963,144.713,231.987" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">313.5 </textline>
+</textbox>
+<textbox bbox="175.660,219.963,203.031,231.987" id="26" size="12.024">7021 <textline bbox="175.660,219.963,203.031,231.987" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">7021 </textline>
+</textbox>
+<textbox bbox="227.760,219.963,250.834,231.987" id="27" size="12.024">12.9 <textline bbox="227.760,219.963,250.834,231.987" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">12.9 </textline>
+</textbox>
+<textbox bbox="295.100,219.963,335.705,231.987" id="28" size="12.024">Normal <textline bbox="295.100,219.963,335.705,231.987" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">Normal </textline>
+</textbox>
+<textbox bbox="57.672,183.950,86.952,195.950" id="29" size="12.0">6789 <textline bbox="57.672,183.950,86.952,195.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">6789 </textline>
+</textbox>
+<textbox bbox="113.380,183.950,145.648,195.950" id="30" size="12.0">320.2 <textline bbox="113.380,183.950,145.648,195.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">320.2 </textline>
+</textbox>
+<textbox bbox="170.640,183.950,208.308,195.950" id="31" size="12.0">8631.2 <textline bbox="170.640,183.950,208.308,195.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">8631.2 </textline>
+</textbox>
+<textbox bbox="227.760,183.950,250.788,195.950" id="32" size="12.0">18.4 <textline bbox="227.760,183.950,250.788,195.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">18.4 </textline>
+</textbox>
+<textbox bbox="295.100,183.950,335.660,195.950" id="33" size="12.0">Normal <textline bbox="295.100,183.950,335.660,195.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Normal </textline>
+</textbox>
+<textbox bbox="57.672,140.750,86.952,152.750" id="34" size="12.0">6792 <textline bbox="57.672,140.750,86.952,152.750" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">6792 </textline>
+</textbox>
+<textbox bbox="114.340,140.750,144.688,152.750" id="35" size="12.0">314.4 <textline bbox="114.340,140.750,144.688,152.750" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">314.4 </textline>
+</textbox>
+<textbox bbox="174.860,140.750,204.140,152.750" id="36" size="12.0">2736 <textline bbox="174.860,140.750,204.140,152.750" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">2736 </textline>
+</textbox>
+<textbox bbox="230.470,140.750,248.098,152.750" id="37" size="12.0">3.4 <textline bbox="230.470,140.750,248.098,152.750" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">3.4 </textline>
+</textbox>
+<textbox bbox="294.020,140.750,336.704,152.750" id="38" size="12.0">Quench <textline bbox="294.020,140.750,336.704,152.750" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Quench </textline>
+</textbox>
+<textbox bbox="404.520,133.550,639.708,159.950" id="39" size="12.0">Parsing flattop, LBSEQ 12, 13, 14,15; PBJ  
+recalibration;  Power glitdh; <textline bbox="404.520,147.950,639.708,159.950" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Parsing flattop, LBSEQ 12, 13, 14,15; PBJ  </textline>
+<textline bbox="442.560,133.550,598.116,145.550" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">recalibration;  Power glitdh; </textline>
+</textbox>
+<textbox bbox="61.224,9.706,230.042,23.770" id="40" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</textbox>
+<textbox bbox="331.200,9.706,394.797,23.770" id="41" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</textbox>
+<textbox bbox="651.720,9.706,658.752,23.770" id="42" size="14.064">1 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">1 </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+<line bbox="96.750,50.000,96.750,451.120" linewidth="1" />
+<line bbox="162.380,50.000,162.380,451.120" linewidth="1" />
+<line bbox="216.380,50.000,216.380,451.120" linewidth="1" />
+<line bbox="262.130,50.000,262.130,451.120" linewidth="1" />
+<line bbox="368.630,50.000,368.630,451.120" linewidth="1" />
+<line bbox="46.875,370.800,673.120,370.800" linewidth="2" />
+<line bbox="46.875,320.400,673.120,320.400" linewidth="2" />
+<line bbox="46.875,284.400,673.120,284.400" linewidth="2" />
+<line bbox="46.875,245.520,673.120,245.520" linewidth="2" />
+<line bbox="46.875,209.520,673.120,209.520" linewidth="2" />
+<line bbox="46.875,173.520,673.120,173.520" linewidth="2" />
+<line bbox="46.875,123.120,673.120,123.120" linewidth="2" />
+<line bbox="46.875,87.125,673.120,87.125" linewidth="2" />
+<line bbox="48.000,50.000,48.000,451.120" linewidth="2" />
+<line bbox="672.000,50.000,672.000,451.120" linewidth="2" />
+<line bbox="46.875,450.000,673.120,450.000" linewidth="2" />
+<line bbox="46.875,51.125,673.120,51.125" linewidth="2" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<textbox bbox="280.780,481.022,415.545,513.086" id="0" size="32.064">Problems <textline bbox="280.780,481.022,415.545,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Problems </textline>
+</textbox>
+<textbox bbox="55.200,416.731,639.967,436.771" id="1" size="20.04">&#8226; Pbar closure problem for store 6786 due to lager shot to shot variations. <textline bbox="55.200,416.731,639.967,436.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Pbar closure problem for store 6786 due to lager shot to shot variations. </textline>
+</textbox>
+<textbox bbox="55.200,368.726,360.616,388.790" id="2" size="20.064">&#8226;Tunes low at collision for store 6786. <textline bbox="55.200,368.726,360.616,388.790" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226;Tunes low at collision for store 6786. </textline>
+</textbox>
+<textbox bbox="55.200,296.701,633.444,340.741" id="3" size="20.04">&#8226;Store 6779 Quenched at Seq 7; same signature as previous quenches at  
+C19/C21 <textline bbox="55.200,320.701,633.444,340.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;Store 6779 Quenched at Seq 7; same signature as previous quenches at  </textline>
+<textline bbox="55.200,296.701,127.685,316.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">C19/C21 </textline>
+</textbox>
+<textbox bbox="55.200,248.696,644.662,268.760" id="4" size="20.064">&#8226;MCR Power Outage resulted in flashover in dump cabinets at B3 and C2 <textline bbox="55.200,248.696,644.662,268.760" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226;MCR Power Outage resulted in flashover in dump cabinets at B3 and C2 </textline>
+</textbox>
+<textbox bbox="61.224,9.706,230.042,23.770" id="5" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</textbox>
+<textbox bbox="331.200,9.706,394.797,23.770" id="6" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</textbox>
+<textbox bbox="651.720,9.706,658.752,23.770" id="7" size="14.064">2 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">2 </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
+<textbox bbox="176.260,481.022,555.802,513.086" id="0" size="32.064">Studies/Work Completed <textline bbox="176.260,481.022,555.802,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Studies/Work Completed </textline>
+</textbox>
+<textbox bbox="49.200,242.696,656.756,430.771" id="1" size="20.045999999999996">&#8226;Aperture scan @ C18. 
+&#8226;Optimizing flattop: chromaticity, orbit, coupling. etc. 
+&#8226;Parsing LBSEQ 6,7,8, 25: Optimizing tunes, chromaticity, orbit, coupling.  
+&#8226;Move insert synclite mirror after pbar jacking. 
+&#8226;EOS study to see if Jacking affects protons; no affect seen 
+&#8226;A13 roughing pump replaced 
+&#8226;HD17 tripped on overcurrent ,replaced regulator 
+&#8226;460 card for B0Q2 replaced; bad clock decoding <textline bbox="49.200,410.731,234.897,430.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;Aperture scan @ C18. </textline>
+<textline bbox="49.200,386.731,480.768,406.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;Optimizing flattop: chromaticity, orbit, coupling. etc. </textline>
+<textline bbox="49.200,362.726,656.756,382.790" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226;Parsing LBSEQ 6,7,8, 25: Optimizing tunes, chromaticity, orbit, coupling.  </textline>
+<textline bbox="49.200,338.701,426.940,358.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;Move insert synclite mirror after pbar jacking. </textline>
+<textline bbox="49.200,314.701,521.228,334.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;EOS study to see if Jacking affects protons; no affect seen </textline>
+<textline bbox="49.200,290.701,291.550,310.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;A13 roughing pump replaced </textline>
+<textline bbox="49.200,266.701,444.435,286.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226;HD17 tripped on overcurrent ,replaced regulator </textline>
+<textline bbox="49.200,242.696,446.204,262.760" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226;460 card for B0Q2 replaced; bad clock decoding </textline>
+</textbox>
+<textbox bbox="61.224,9.706,230.042,23.770" id="2" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</textbox>
+<textbox bbox="331.200,9.706,394.797,23.770" id="3" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</textbox>
+<textbox bbox="651.720,9.706,658.752,23.770" id="4" size="14.064">3 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">3 </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" rotate="0">
+<textbox bbox="302.280,482.314,477.638,514.378" id="0" size="32.064">The Numbers <textline bbox="302.280,482.314,477.638,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">The Numbers </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" rotate="0">
+<textbox bbox="301.900,482.314,478.220,514.378" id="0" size="32.064">Weekly Lum. <textline bbox="301.900,482.314,478.220,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Weekly Lum. </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+<figure bbox="90.000,90.000,630.000,450.000" height="360" name="Image36" src="Image36.600x400.bmp" width="540">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" rotate="0">
+<textbox bbox="278.620,482.314,501.353,514.378" id="0" size="32.064">Lum. Vs. P&#215;Pbar <textline bbox="278.620,482.314,501.353,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Lum. Vs. P&#215;Pbar </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" rotate="0">
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" rotate="0">
+<textbox bbox="138.670,482.314,641.145,514.378" id="0" size="32.064">C0 Vacuum Activity after C19 Quench <textline bbox="138.670,482.314,641.145,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">C0 Vacuum Activity after C19 Quench </textline>
+</textbox>
+<textbox bbox="61.224,422.731,68.238,442.771" id="1" size="20.04">&#8226; <textline bbox="61.224,422.731,68.238,442.771" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+<figure bbox="114.000,14.640,660.000,468.000" height="453" name="Image46" src="Image46.654x543.bmp" width="546">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" rotate="0">
+<textbox bbox="122.350,467.941,664.484,529.539" id="0" size="27.972">Proton Lifetime at Flattop Before and after tune  
+change <textline bbox="122.350,501.555,664.484,529.539" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">Proton Lifetime at Flattop Before and after tune  </textline>
+<textline bbox="350.400,467.941,429.583,495.901" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">change </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+<figure bbox="68.400,52.680,618.000,462.000" height="409" name="Image50" src="Image50.648x546.bmp" width="549">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" rotate="0">
+<textbox bbox="191.260,482.314,588.533,514.378" id="0" size="32.064">Burnt Electronic Dump Switch <textline bbox="191.260,482.314,588.533,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Burnt Electronic Dump Switch </textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+<figure bbox="48.000,5.280,672.000,462.000" height="456" name="Image54" src="Image54.jpg" width="624">
+</figure>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" rotate="0">
+<textbox bbox="273.100,481.022,507.071,513.086" id="0" size="32.064">Study Requests <textline bbox="273.100,481.022,507.071,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Study Requests </textline>
+</textbox>
+<textbox bbox="61.224,364.302,647.180,441.949" id="1" size="20.048">&#8226; Bumper magnet abort gap clearing studies (150gev 2 hours ) 
+&#8226; Chromaticity Tracker (150gev 2 hours  Tan) 
+&#8226; Tune mult calibrations ( EOS 2 hours Ron) <textline bbox="61.224,421.909,647.180,441.949">&#8226; Bumper magnet abort gap clearing studies (150gev 2 hours ) <text bbox="61.224,421.909,68.979,441.949" colourspace="DeviceGray" font="BCDHEE+ComicSansMS" ncolour="0" size="20.040">&#8226;</text>
+<text bbox="88.224,421.909,100.849,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">B</text>
+<text bbox="100.849,421.909,111.270,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">u</text>
+<text bbox="111.270,421.909,126.841,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">m</text>
+<text bbox="126.841,421.909,137.562,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">p</text>
+<text bbox="137.562,421.909,148.544,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="148.464,421.909,158.083,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="158.083,421.909,164.075,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="164.075,421.909,179.646,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">m</text>
+<text bbox="179.646,421.909,189.907,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="189.907,421.909,200.548,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">g</text>
+<text bbox="200.548,421.909,211.029,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">n</text>
+<text bbox="211.029,421.909,222.011,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="221.911,421.909,231.350,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">t</text>
+<text bbox="231.350,421.909,237.342,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="237.342,421.909,247.602,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="247.602,421.909,259.486,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">b</text>
+<text bbox="259.486,421.909,270.027,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">o</text>
+<text bbox="270.027,421.909,279.646,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="279.646,421.909,289.085,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">t</text>
+<text bbox="289.085,421.909,295.077,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="294.997,421.909,305.638,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">g</text>
+<text bbox="305.638,421.909,315.898,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="315.898,421.909,326.620,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">p</text>
+<text bbox="326.560,421.909,332.552,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="332.552,421.909,342.852,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">c</text>
+<text bbox="342.852,421.909,348.343,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">l</text>
+<text bbox="348.343,421.909,359.325,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="359.325,421.909,369.586,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="369.525,421.909,379.145,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="379.145,421.909,384.756,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">i</text>
+<text bbox="384.756,421.909,395.237,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">n</text>
+<text bbox="395.237,421.909,405.878,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">g</text>
+<text bbox="405.878,421.909,411.870,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="411.990,421.909,421.750,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">s</text>
+<text bbox="421.750,421.909,431.189,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">t</text>
+<text bbox="431.189,421.909,441.609,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">u</text>
+<text bbox="441.609,421.909,453.373,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">d</text>
+<text bbox="453.373,421.909,458.984,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">i</text>
+<text bbox="458.984,421.909,469.966,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="469.966,421.909,479.725,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">s</text>
+<text bbox="479.725,421.909,485.717,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="485.557,421.909,492.892,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">(</text>
+<text bbox="492.892,421.909,501.910,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">1</text>
+<text bbox="501.910,421.909,514.134,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">5</text>
+<text bbox="514.134,421.909,526.359,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">0</text>
+<text bbox="526.359,421.909,537.000,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">g</text>
+<text bbox="537.000,421.909,547.982,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="547.982,421.909,557.721,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">v</text>
+<text bbox="557.721,421.909,563.713,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="563.893,421.909,576.118,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">2</text>
+<text bbox="576.118,421.909,582.110,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="582.110,421.909,593.693,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">h</text>
+<text bbox="593.693,421.909,604.234,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">o</text>
+<text bbox="604.234,421.909,614.655,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">u</text>
+<text bbox="614.655,421.909,624.274,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="624.274,421.909,634.033,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">s</text>
+<text bbox="634.033,421.909,640.025,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="639.845,421.909,647.180,441.949" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">)</text>
+</textline>
+<textline bbox="61.224,393.109,497.180,413.149">&#8226; Chromaticity Tracker (150gev 2 hours  Tan) <text bbox="61.224,393.109,68.979,413.149" colourspace="DeviceGray" font="BCDHEE+ComicSansMS" ncolour="0" size="20.040">&#8226;</text>
+<text bbox="88.224,393.109,100.308,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">C</text>
+<text bbox="100.308,393.109,111.891,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">h</text>
+<text bbox="111.891,393.109,121.510,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="121.510,393.109,132.051,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">o</text>
+<text bbox="132.051,393.109,147.623,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">m</text>
+<text bbox="147.623,393.109,157.883,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="157.883,393.109,167.322,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">t</text>
+<text bbox="167.322,393.109,172.933,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">i</text>
+<text bbox="172.933,393.109,183.234,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">c</text>
+<text bbox="183.234,393.109,188.845,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">i</text>
+<text bbox="188.785,393.109,198.224,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">t</text>
+<text bbox="198.224,393.109,208.664,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">y</text>
+<text bbox="208.584,393.109,214.576,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="214.215,393.109,227.843,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">T</text>
+<text bbox="227.843,393.109,237.462,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="237.462,393.109,247.722,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="247.722,393.109,258.023,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">c</text>
+<text bbox="258.023,393.109,268.845,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">k</text>
+<text bbox="268.845,393.109,279.826,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="279.726,393.109,289.345,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="289.345,393.109,295.337,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="295.337,393.109,302.672,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">(</text>
+<text bbox="302.672,393.109,311.690,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">1</text>
+<text bbox="311.690,393.109,323.914,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">5</text>
+<text bbox="323.914,393.109,336.139,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">0</text>
+<text bbox="336.139,393.109,346.780,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">g</text>
+<text bbox="346.780,393.109,357.762,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">e</text>
+<text bbox="357.762,393.109,367.501,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">v</text>
+<text bbox="367.501,393.109,373.493,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="373.554,393.109,385.778,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">2</text>
+<text bbox="385.778,393.109,391.770,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="391.770,393.109,403.353,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">h</text>
+<text bbox="403.353,393.109,413.894,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">o</text>
+<text bbox="413.894,393.109,424.315,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">u</text>
+<text bbox="424.315,393.109,433.934,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">r</text>
+<text bbox="433.934,393.109,443.694,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">s</text>
+<text bbox="443.694,393.109,449.685,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="449.505,393.109,455.497,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040"> </text>
+<text bbox="455.497,393.109,469.124,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">T</text>
+<text bbox="469.164,393.109,479.425,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">a</text>
+<text bbox="479.365,393.109,489.846,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">n</text>
+<text bbox="489.846,393.109,497.180,413.149" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040">)</text>
+</textline>
+<textline bbox="61.224,364.302,480.295,384.366">&#8226; Tune mult calibrations ( EOS 2 hours Ron) <text bbox="61.224,364.302,68.989,384.366" colourspace="DeviceGray" font="BCDHEE+ComicSansMS" ncolour="0" size="20.064">&#8226;</text>
+<text bbox="88.224,364.302,101.868,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">T</text>
+<text bbox="101.868,364.302,112.301,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">u</text>
+<text bbox="112.301,364.302,122.794,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">n</text>
+<text bbox="122.794,364.302,133.789,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">e</text>
+<text bbox="133.709,364.302,139.708,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="139.708,364.302,155.298,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">m</text>
+<text bbox="155.298,364.302,165.731,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">u</text>
+<text bbox="165.731,364.302,171.229,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">l</text>
+<text bbox="171.229,364.302,180.679,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">t</text>
+<text bbox="180.719,364.302,186.718,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="186.477,364.302,196.790,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">c</text>
+<text bbox="196.790,364.302,207.063,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">a</text>
+<text bbox="207.003,364.302,212.500,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">l</text>
+<text bbox="212.500,364.302,218.118,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">i</text>
+<text bbox="218.118,364.302,230.016,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">b</text>
+<text bbox="230.016,364.302,239.647,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">r</text>
+<text bbox="239.647,364.302,249.920,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">a</text>
+<text bbox="249.840,364.302,259.290,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">t</text>
+<text bbox="259.290,364.302,264.908,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">i</text>
+<text bbox="264.908,364.302,275.461,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">o</text>
+<text bbox="275.461,364.302,285.955,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">n</text>
+<text bbox="285.955,364.302,295.726,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">s</text>
+<text bbox="295.726,364.302,301.725,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="301.565,364.302,308.908,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">(</text>
+<text bbox="308.908,364.302,314.907,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="314.987,364.302,327.527,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">E</text>
+<text bbox="327.527,364.302,343.538,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">O</text>
+<text bbox="343.418,364.302,357.322,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">S</text>
+<text bbox="357.322,364.302,363.322,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="363.322,364.302,375.561,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">2</text>
+<text bbox="375.561,364.302,381.560,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="381.560,364.302,393.157,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">h</text>
+<text bbox="393.157,364.302,403.710,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">o</text>
+<text bbox="403.710,364.302,414.144,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">u</text>
+<text bbox="414.144,364.302,423.774,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">r</text>
+<text bbox="423.694,364.302,433.465,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">s</text>
+<text bbox="433.465,364.302,439.464,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064"> </text>
+<text bbox="439.304,364.302,451.904,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">R</text>
+<text bbox="451.904,364.302,462.458,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">o</text>
+<text bbox="462.458,364.302,472.951,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">n</text>
+<text bbox="472.951,364.302,480.295,384.366" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064">)</text>
+</textline>
+</textbox>
+<line bbox="54.060,461.940,666.060,461.940" linewidth="3" />
+<line bbox="54.060,35.940,666.060,35.940" linewidth="3" />
+</page>
+</pages>
