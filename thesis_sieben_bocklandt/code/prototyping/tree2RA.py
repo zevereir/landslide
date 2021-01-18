@@ -18,7 +18,7 @@ def tree2RA(tree,xml_file):
         background_indexes = [element for element in elements if element.tag=="background"]
         if len(background_indexes) > 0:
             background_counter += 1
-    if background_counter / amount_of_slides > 0.8:
+    if background_counter / max(1.0,amount_of_slides) > 0.8:
         one_background = True
     for page in tree.getroot():
         page_id=int(page.attrib.get("id"))
