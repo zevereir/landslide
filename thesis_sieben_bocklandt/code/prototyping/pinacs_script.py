@@ -15,7 +15,6 @@ import argparse
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data",default=None)
-    parser.add_argument("--exp-name",default="baseline")
     parser.add_argument("--archetypes",default="baseline")
     parser.add_argument("--master",default="thesis_sieben_bocklandt/code/prototyping/MasterTemplate.pptx")
     parser.add_argument("--force",action="store_true")
@@ -30,18 +29,23 @@ def main():
         beam_name="0"
     else:
         beam_name=str(beam)
-    name_output=args.exp_name+"_"+args.archetypes+"_"+str(args.cutoff)+"_"+beam_name+"_"+str(args.experiment)+"_"+str(args.equal_size)
+
     if beam!=None:
         beam=int(beam)
     if args.experiment_set=="all":
         categorized="_categorized.xml"
         preparsed="_preparsed.xml"
-    elif args.experiment_set=="five":
+        set_name="all"
+    elif args.experiment_set=="lessthanfive":
         categorized="_categorized_lessthanfive.xml"
         preparsed = "_preparsed_lessthanfive.xml"
-    else:
+        set_name="lessthanfive"
+    elif args.experiment_set=="morethanfive":
         categorized = "_categorized_morethanfive.xml"
         preparsed = "_preparsed_morethanfive.xml"
+        set_name="morethanfive"
+    name_output = set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(
+        args.equal_size)
     source = Path(args.data).resolve()
     force_override=args.force
     data=source.stem.replace("_data","")
