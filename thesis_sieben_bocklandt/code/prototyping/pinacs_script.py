@@ -21,7 +21,7 @@ def main():
     parser.add_argument("--cutoff",default=2)
     parser.add_argument("--equal-size",action="store_true")
     parser.add_argument("--beam-size",default=None)
-    parser.add_argument("--experiment-set",default="all")
+    parser.add_argument("--set",default="all")
     args = parser.parse_args()
 
     beam=args.beam_size
@@ -32,15 +32,15 @@ def main():
 
     if beam!=None:
         beam=int(beam)
-    if args.experiment_set=="all":
+    if args.set=="all":
         categorized="_categorized.xml"
         preparsed="_preparsed.xml"
         set_name="all"
-    elif args.experiment_set=="lessthanfive":
+    elif args.set=="lessthanfive":
         categorized="_categorized_lessthanfive.xml"
         preparsed = "_preparsed_lessthanfive.xml"
         set_name="lessthanfive"
-    elif args.experiment_set=="morethanfive":
+    elif args.set=="morethanfive":
         categorized = "_categorized_morethanfive.xml"
         preparsed = "_preparsed_morethanfive.xml"
         set_name="morethanfive"
