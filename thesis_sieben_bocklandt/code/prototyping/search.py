@@ -137,7 +137,7 @@ class BreadthSearcher(Searcher):
             for move in tqdm.tqdm(moves, desc="depth {}".format(depth)):
                 new_slide = apply(slide, move)
                 score, matches = best_matches(new_slide, archetypes, self.similarity)
-                heappush(scores, (-score, move, matches))
+                heappush(scores, (-score, matches, move))
             # perfect solution, stop
             if scores[0][0] == -1:
                 break
@@ -146,7 +146,7 @@ class BreadthSearcher(Searcher):
                 conditions = set()
                 bestscores = set()
                 while len(scores) > 0 and len(bestscores) < self.beam:
-                    d, move, _ = heappop(scores)
+                    d, _, move = heappop(scores)
                     bestscores.add(d)
                     conditions.add(move)
         # get top scores
@@ -511,7 +511,7 @@ if __name__ == "__main__":
         ]
 
     searcher = BreadthSearcher(
-        interchangable, max_depth=0, similarity=similarity_optimal, beam=2
+        interchangable, max_depth=1, similarity=similarity_optimal, beam=2
     )
     # searcher = GreedySearcher(
     #     interchangable, max_depth=2, similarity=similarity_optimal
