@@ -2,13 +2,13 @@ import sys
 import os
 from pathlib import Path
 import xml.etree.ElementTree as ET
-conf_path = os.getcwd()
-sys.path.append(conf_path)
-from code.tree2RA import tree2RA
-from code.RA2archetype import RA2archetype
-from code.archetypes2slides import archetypes2slides
-from code.work_with_scores import work_with_scores
-from code.ppt_pdf_similarity import ppt_pdf_similarity
+# conf_path = os.getcwd()
+# sys.path.append(conf_path)
+from tree2RA import tree2RA
+from RA2archetype import RA2archetype
+from archetypes2slides import archetypes2slides
+from work_with_scores import work_with_scores
+from ppt_pdf_similarity import ppt_pdf_similarity
 import argparse
 #python thesis_sieben_bocklandt/code/prototyping/pinacs_script.py --data thesis_sieben_bocklandt/Data/test/RA_data --archetypes learned --force --equal-size --exp-name learned --cutoff 2
 
