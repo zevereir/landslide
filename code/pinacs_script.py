@@ -4,11 +4,11 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 conf_path = os.getcwd()
 sys.path.append(conf_path)
-from thesis_sieben_bocklandt.code.prototyping.tree2RA import tree2RA
-from thesis_sieben_bocklandt.code.prototyping.RA2archetype import RA2archetype
-from thesis_sieben_bocklandt.code.prototyping.archetypes2slides import archetypes2slides
-from thesis_sieben_bocklandt.code.prototyping.work_with_scores import work_with_scores
-from thesis_sieben_bocklandt.code.prototyping.ppt_pdf_similarity import ppt_pdf_similarity
+from code.tree2RA import tree2RA
+from code.RA2archetype import RA2archetype
+from code.archetypes2slides import archetypes2slides
+from code.work_with_scores import work_with_scores
+from code.ppt_pdf_similarity import ppt_pdf_similarity
 import argparse
 #python thesis_sieben_bocklandt/code/prototyping/pinacs_script.py --data thesis_sieben_bocklandt/Data/test/RA_data --archetypes learned --force --equal-size --exp-name learned --cutoff 2
 
@@ -16,7 +16,6 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data",default=None)
     parser.add_argument("--archetypes",default="baseline")
-    parser.add_argument("--master",default="thesis_sieben_bocklandt/code/prototyping/MasterTemplate.pptx")
     parser.add_argument("--force",action="store_true")
     parser.add_argument("--cutoff",default=2)
     parser.add_argument("--equal-size",action="store_true")

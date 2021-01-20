@@ -1,4 +1,4 @@
-from thesis_sieben_bocklandt.code.prototyping.classes import *
+from code.classes import *
 RELATIONS={"b", "f", "m", "o", "s", "d", "eq", "di", "si", "oi", "mi", "fi", "bi"}
 
 NOT_OVERLAPPING={"b","bi","m","mi"}

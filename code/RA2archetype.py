@@ -1,10 +1,10 @@
 import itertools
 from functools import lru_cache
 import json
-from thesis_sieben_bocklandt.code.prototyping.classes import *
-from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
-import thesis_sieben_bocklandt.code.prototyping.globals as glob
-from thesis_sieben_bocklandt.code.prototyping.search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
+from code.classes import *
+from code.tree2RA import NOT_OVERLAPPING, OVERLAPPING
+import code.globals as glob
+from code.search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
 from datetime import datetime
 
 def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_name):
@@ -15,7 +15,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
     archs_to_use=[]
     master_archetypes = {}
     if arch_to_use=="baseline":
-        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/baseline.json') as json_file:
+        with open('code/archetypes/baseline.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             baseline_archeypes=arch_dict[str(i)]
@@ -28,7 +28,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                     master_archetypes[base_arch]={(i,-1)}
 
     elif arch_to_use=="learned":
-        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/learned.json') as json_file:
+        with open('code/archetypes/learned.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             arch = arch_dict[str(i)]
@@ -42,7 +42,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                     else:
                         master_archetypes[base_arch] = {(i, key)}
     elif arch_to_use=="masters":
-        with open('thesis_sieben_bocklandt/code/prototyping/archetypes/masters.json') as json_file:
+        with open('code/archetypes/masters.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             arch = arch_dict[str(i)]
