@@ -1,3 +1,7 @@
+import os
+import sys
+conf_path = os.getcwd()
+sys.path.append(conf_path)
 import thesis_sieben_bocklandt.code.prototyping.globals as glob
 from thesis_sieben_bocklandt.code.prototyping.RA2archetype import optimal_substitution
 import json
@@ -26,6 +30,8 @@ def main():
     for archetypes in archs_to_use:
         n2=archetypes[1]
         for archetype in archetypes[0]:
+            print(archetype)
+            # print(in_enc1, archetype, n1, n2)
             print(optimal_substitution(in_enc1,archetype,n1,n2,True, False))
 
 if __name__ == "__main__":

@@ -5,6 +5,7 @@ from thesis_sieben_bocklandt.code.prototyping.classes import *
 from thesis_sieben_bocklandt.code.prototyping.tree2RA import NOT_OVERLAPPING, OVERLAPPING
 import thesis_sieben_bocklandt.code.prototyping.globals as glob
 from datetime import datetime
+
 # TITLE_SLIDE=({"title+0","first_slide"},1)
 # TITLE_SINGLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1"},2)
 # TITLE_DOUBLE_CONTENT=({"title+0","middelboven+0","bi-y+0_1","overlapping-x+0_1","bi-y+0_2","overlapping-y+1_2","not_overlapping-x+1_2"},3)
@@ -105,7 +106,6 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
                     possibilities2[z].append((numbers,))
                 else:
                     possibilities2[z] = [(numbers,)]
-
     possible_combinations={}
     for i in possibilities.keys()&possibilities2.keys():
         val1=possibilities[i]
@@ -140,6 +140,7 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
                         possible_combinations[x].remove(mapping[i])
                 break;
     rest_pos=[]
+    # print(possible_combinations)
     for i in possible_combinations.keys():
         rest_pos.append(list(itertools.product({i},possible_combinations[i])))
     all_combinations=list(itertools.product(*rest_pos))
@@ -166,7 +167,7 @@ def get_full_mappings(enc1,enc2,n1,n2, equal):
 
 
 
-@lru_cache(maxsize=None, typed=False)
+@lru_cache(maxsize=2000000, typed=False)
 def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
     glob.numb_substitution+=1
     #enc1 is always the longest
@@ -214,7 +215,7 @@ def optimal_substitution(in_enc1,in_enc2,in_n1,in_n2, equal_size, subset):
                 else:
                     numbers = alphabet[int(i[-len(i) + len(z):])]
                     new_enc_1.add(i[:-len(i) + len(z)+1] + numbers)
-
+        # print(new_enc_1)
         for mapping in all_mappings:#get_mappings(title1,title2,n1,n2):
 
             if len(mapping)!=0:
@@ -574,6 +575,7 @@ def change_overlapping_full(all_changes,combo,new_RA, amount, archs, cutoff, equ
     #     combinations.append([(i,x) for x in range(0,9) if x!=positions.index(new_RA[i][:-2])])
     for i in binary_indices_to_change:
         combinations.append([(i,x) for x in range(0,7) if x!=relations.index(new_RA[i][:new_RA[i].index("+")-2])])
+    # print("combinations", combinations)
     best_simil=0
     best_arch=None
     best_change=None
@@ -632,7 +634,6 @@ def select_closest(RA_set,amount, archs, cutoff, equal_size,beam, large_search):
         possible_changes=list(set(itertools.combinations(range(0, max_amount_changes), amount_changes)))
         best_simil=0
         best_arch=None
-
         for changes_index in range(0,len(possible_changes)):
             changes=possible_changes[changes_index]
             all_changes = []
