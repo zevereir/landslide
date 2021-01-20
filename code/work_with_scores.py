@@ -62,7 +62,7 @@ def get_score_chart(scores,output_directory):
     plt.close(fig)
 
 def save_data(results, output_directory,name_output, force_override):
-    print(results)
+    
     # y_data=[i.internal_id for i in archetypes]
     # data = np.column_stack(([score[0] for score in scores], y_data))
     # header = "Score, Archetype-ID"

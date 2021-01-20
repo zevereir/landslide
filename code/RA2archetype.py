@@ -93,6 +93,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         responsivity=amount_placeholders/max(1,count_objects(slide))
         if responsivity<=0:
             best_archetype=11
+            responsivity=0
         responsivities.append(responsivity)
         archetypes.append(best_archetype)
         times.append((datetime.now()-start).total_seconds())
