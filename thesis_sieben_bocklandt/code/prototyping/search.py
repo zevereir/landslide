@@ -70,6 +70,7 @@ class Searcher(ABC):
         predicates: List[List[str]],
         similarity: Similarity = None,
         max_depth: int = 2,
+        **kwargs
     ):
         """
 
@@ -141,7 +142,7 @@ class BreadthSearcher(Searcher):
             if scores[0][0] == -1:
                 break
             # apply beam, get best scores
-            if self.beam > 0:
+            if depth < self.max_depth and self.beam > 0:
                 conditions = set()
                 bestscores = set()
                 while len(scores) > 0 and len(bestscores) < self.beam:
@@ -232,7 +233,7 @@ class GreedySearcher(Searcher):
             n_moves += len(moves_left)
         # extract results by popping best from heap
         results = [heappop(heap)]
-        while True:
+        while True and len(heap) > 0:
             result = heappop(heap)
             if result[0] == results[0][0]:
                 results.append(result)
@@ -250,6 +251,8 @@ class GreedySearcher(Searcher):
 
     def max_moves(self, slide: Slide) -> int:
         """Compute number of elements."""
+        if self.max_depth == 0:
+            return 0
         N = [len(self.pmap[p.name]) for p in slide if p.name in self.pmap]
         C = combinations(N, self.max_depth)
         return sum(prod(c) for c in C)
@@ -442,6 +445,10 @@ def functional_mappings(S: Dict[int, Set[int]]) -> List[Substitution]:
     return [{v: keys[i] for i, v in enumerate(c)} for c in product(*values)]
 
 
+def count_objects(slide: Slide) -> int:
+    return len({argument for predicate in slide for argument in predicate.arguments})
+
+
 interchangable = [
     ["b-x", "f-x", "m-x", "o-x", "s-x", "d-x", "eq-x"],
     ["b-y", "f-y", "m-y", "o-y", "s-y", "d-y", "eq-y"],
@@ -451,8 +458,14 @@ interchangable = [
 if __name__ == "__main__":
 
     import json
+    import argparse
+    from pathlib import Path
 
-    with open("learned.json") as f:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--equal", action="store_true")
+    args = parser.parse_args()
+
+    with open(Path(__file__).parent / "archetypes" / "learned.json") as f:
         learned = json.load(f)
 
     archetypes = list()
@@ -490,8 +503,15 @@ if __name__ == "__main__":
         }
     )
 
+    # prune
+    if args.equal:
+        n = count_objects(slide)
+        archetypes = [
+            archetype for archetype in archetypes if n == count_objects(archetype)
+        ]
+
     searcher = BreadthSearcher(
-        interchangable, max_depth=4, similarity=similarity_optimal, beam=2
+        interchangable, max_depth=0, similarity=similarity_optimal, beam=2
     )
     # searcher = GreedySearcher(
     #     interchangable, max_depth=2, similarity=similarity_optimal
