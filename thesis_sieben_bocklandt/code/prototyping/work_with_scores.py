@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 from pathlib import Path
-def work_with_scores(scores, archetypes,times, output_directory,name_output="responsive_scores.dat", make_images=True, force_override=False):
+def work_with_scores(results, output_directory,name_output="responsive_scores.dat", make_images=True, force_override=False):
     """Slaat de scores op in de jusite file en maakt er een plot van"""
-    save_data(scores,archetypes,times, output_directory, name_output, force_override)
-    if make_images:
-        get_score_chart(scores,output_directory)
+    save_data(results, output_directory, name_output, force_override)
+    # if make_images:
+    #     get_score_chart(scores,output_directory)
 
 def get_score_chart(scores,output_directory):
     x=range(1,len(scores)+1)
@@ -61,20 +61,18 @@ def get_score_chart(scores,output_directory):
     fig.savefig(output_directory + "\\responsieve_scores.png")
     plt.close(fig)
 
-def save_data(scores,archetypes,times, output_directory,name_output, force_override):
+def save_data(results, output_directory,name_output, force_override):
     # y_data=[i.internal_id for i in archetypes]
     # data = np.column_stack(([score[0] for score in scores], y_data))
     # header = "Score, Archetype-ID"
     # np.savetxt(output_directory+"\\scores.dat", data, header=header)
     if ".dat" not in name_output:
         name_output+=".dat"
-    y_data = [i.internal_id for i in archetypes]
-    data = np.column_stack(([score[1] for score in scores], y_data, times))
     header = "Responsive score, Archetype-ID, Computational time"
     output_directory.mkdir(exist_ok=True)
     if not (output_directory/name_output).is_file():
         Path.touch(output_directory/name_output)
-        np.savetxt(output_directory / name_output, data, header=header)
+        np.savetxt(output_directory / name_output, results, header=header)
     elif force_override:
-        np.savetxt(output_directory/name_output, data, header=header)
+        np.savetxt(output_directory/name_output, results, header=header)
 
