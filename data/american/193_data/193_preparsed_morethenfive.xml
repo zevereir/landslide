@@ -1,0 +1,366 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<normal_text archetypal_index="0" bbox="61.224,356.782,349.660,400.870" id="0" size="20.052">State of Washington 
+Department of Agriculture <textline bbox="61.224,380.806,282.891,400.870" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="0" size="20.064">State of Washington </textline>
+<textline bbox="61.224,356.782,349.660,376.822" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="0" size="20.040">Department of Agriculture </textline>
+</normal_text>
+<title archetypal_index="1" bbox="61.224,275.422,327.288,328.222" id="1" size="24.0">Human Resource 
+Management Report <textline bbox="61.224,304.222,284.856,328.222" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="0" size="24.000">Human Resource </textline>
+<textline bbox="61.224,275.422,327.288,299.422" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="0" size="24.000">Management Report </textline>
+</title>
+<normal_text archetypal_index="2" bbox="61.224,61.352,162.570,77.312" id="7" size="15.96">October 2007 <textline bbox="61.224,61.352,162.570,77.312" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="15.960">October 2007 </textline>
+</normal_text>
+<curve bbox="603.240,295.000,615.240,299.000" linewidth="2" pts="603.240,297.500,612.240,297.500,612.240,296.500,603.240,296.500,611.240,299.000,615.240,297.000,611.240,295.000" />
+<curve bbox="519.240,295.000,531.240,299.000" linewidth="2" pts="519.240,297.500,528.240,297.500,528.240,296.500,519.240,296.500,527.240,299.000,531.240,297.000,527.240,295.000" />
+<curve bbox="565.240,267.000,569.240,282.000" linewidth="2" pts="567.740,279.000,567.740,270.000,566.740,270.000,566.740,279.000,565.240,278.000,567.240,282.000,569.240,278.000,569.240,271.000,567.240,267.000,565.240,271.000" />
+<curve bbox="565.240,309.000,569.240,324.000" linewidth="2" pts="567.740,321.000,567.740,312.000,566.740,312.000,566.740,321.000,565.240,320.000,567.240,324.000,569.240,320.000,569.240,313.000,567.240,309.000,565.240,313.000" />
+<curve bbox="483.240,309.000,531.510,339.420" linewidth="2" pts="530.970,339.420,485.520,311.010,486.050,310.170,531.510,338.580,485.570,312.820,483.240,309.000,487.690,309.420" />
+<curve bbox="601.680,308.570,651.500,339.000" linewidth="2" pts="650.980,308.570,603.990,337.020,604.510,337.870,651.500,309.430,604.070,335.220,601.680,339.000,606.140,338.640" />
+<curve bbox="600.480,254.560,651.240,282.000" linewidth="2" pts="600.960,254.560,648.830,280.140,648.360,281.030,600.480,255.440,648.650,278.350,651.240,282.000,646.770,281.880" />
+<curve bbox="482.990,255.000,531.240,282.440" linewidth="2" pts="483.480,282.440,528.870,256.910,528.380,256.040,482.990,281.560,528.730,258.700,531.240,255.000,526.770,255.220" />
+<table archetypal_index="3" bbox="447.3,239.94,684.06,350.94" dimensions="2/3"><cell bbox="531.3,239.94,600.78,266.94"><tabletext bbox="545.900,241.508,586.278,263.468" id="6" size="9.96">Develop  
+Workforce <textline bbox="550.100,253.508,584.263,263.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Develop  </textline>
+<textline bbox="545.900,241.508,586.278,251.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Workforce </textline>
+</tabletext>
+</cell><cell bbox="615.3,281.94,684.06,308.94"><tabletext bbox="624.740,283.508,674.699,305.468" id="3" size="9.96">Reinforce  
+Performance <textline bbox="630.860,295.508,670.889,305.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Reinforce  </textline>
+<textline bbox="624.740,283.508,674.699,293.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Performance </textline>
+</tabletext>
+</cell><cell bbox="531.3,281.94,600.78,308.94"><tabletext bbox="545.810,283.508,586.188,305.468" id="5" size="9.96">Deploy  
+Workforce <textline bbox="552.410,295.508,582.001,305.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Deploy  </textline>
+<textline bbox="545.810,283.508,586.188,293.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Workforce </textline>
+</tabletext>
+</cell><cell bbox="532.14,323.94,601.74,350.94"><tabletext bbox="542.830,325.528,593.188,347.488" id="4" size="9.96">Plan &amp; Align  
+Workforce <textline bbox="542.830,337.528,593.188,347.488" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Plan &amp; Align  </textline>
+<textline bbox="546.670,325.528,587.048,335.488" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Workforce </textline>
+</tabletext>
+</cell><cell bbox="447.3,281.94,516.78,308.94"><tabletext bbox="461.780,283.508,502.158,305.468" id="2" size="9.96">Hire  
+Workforce <textline bbox="474.140,295.508,492.237,305.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Hire  </textline>
+<textline bbox="461.780,283.508,502.158,293.468" colourspace="DeviceGray" font="BCDFEE+ArialNarrow-Bold" ncolour="1" size="9.960">Workforce </textline>
+</tabletext>
+</cell></table></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[76.5515, 477.3225555555555, 226.40766666666667, 510.86255555555556]" rotate="0">
+<title archetypal_index="0" bbox="15.312,472.104,116.472,511.704" id="0" size="18.0">Deploy  
+Workforce <textline bbox="32.616,493.704,105.282,511.704" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="18.000">Deploy  </textline>
+<textline bbox="15.312,472.104,116.472,490.104" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="18.000">Workforce </textline>
+</title>
+<normal_text archetypal_index="1" bbox="307.540,487.507,539.062,501.571" id="19" size="14.064">Current Performance Expectations <textline bbox="307.540,487.507,539.062,501.571" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="14.064">Current Performance Expectations </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="591.840,524.588,676.769,534.548" id="20" size="9.96">Dept. of Agriculture <textline bbox="591.840,524.588,676.769,534.548" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Dept. of Agriculture </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="475.300,458.808,519.044,468.768" id="23" size="9.96">Analysis: <textline bbox="475.300,458.808,519.044,468.768" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Analysis: </textline>
+</normal_text>
+<slide_number bbox="695.280,8.492,700.818,18.452" id="34" size="9.96">9 <textline bbox="695.280,8.492,700.818,18.452" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">9 </textline>
+</slide_number>
+<enlisting archetypal_index="4" bbox="5.472,7.052,699.871,460.97">&#9642; This is up from 56.9% last reporting period. &#9642; In September of this year, WSDA implemented  &#9642; Our goal is to have 100% updated expectations  &#9642; WSDA&#8217;s Executive Management Team (EMT)  <normal_text bbox="475.300,440.568,678.009,450.578" id="24" size="9.96">&#9642; This is up from 56.9% last reporting period. <textline bbox="475.300,440.568,678.009,450.578">&#9642; This is up from 56.9% last reporting period. <text bbox="475.300,440.618,479.862,450.578" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="9.960">&#9642;</text>
+<text bbox="488.500,440.568,494.586,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">T</text>
+<text bbox="494.735,440.568,500.273,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">h</text>
+<text bbox="500.273,440.568,502.484,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="502.414,440.568,507.394,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="507.444,440.568,510.213,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="510.083,440.568,512.294,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="512.245,440.568,517.225,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="517.274,440.568,520.043,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="520.143,440.568,525.681,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">u</text>
+<text bbox="525.681,440.568,531.218,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="531.179,440.568,533.947,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="533.818,440.568,536.587,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">f</text>
+<text bbox="536.686,440.568,540.003,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="540.033,440.568,545.571,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="545.571,440.568,553.867,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="554.067,440.568,556.836,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="556.587,440.568,562.124,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">5</text>
+<text bbox="562.124,440.568,567.662,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">6</text>
+<text bbox="567.622,440.568,570.391,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">.</text>
+<text bbox="570.391,440.568,575.929,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">9</text>
+<text bbox="575.929,440.568,584.783,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">%</text>
+<text bbox="584.783,440.568,587.552,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="587.423,440.568,589.634,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">l</text>
+<text bbox="589.584,440.568,595.122,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="595.122,440.568,600.102,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="600.132,440.568,602.901,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="602.901,440.568,605.669,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="605.669,440.568,608.986,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="608.986,440.568,614.524,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="614.524,440.568,620.062,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="620.062,440.568,625.599,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="625.599,440.568,628.916,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="628.916,440.568,631.685,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="631.685,440.568,633.896,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="633.856,440.568,639.394,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="639.394,440.568,644.932,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">g</text>
+<text bbox="644.892,440.568,647.661,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="647.661,440.568,653.199,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="653.199,440.568,658.736,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="658.696,440.568,662.013,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="662.043,440.568,664.254,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="664.204,440.568,669.742,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="669.742,440.568,675.280,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">d</text>
+<text bbox="675.240,440.568,678.009,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">.</text>
+</textline>
+</normal_text>
+<normal_text bbox="475.300,422.568,697.670,432.578" id="25" size="9.96">&#9642; In September of this year, WSDA implemented  <textline bbox="475.300,422.568,697.670,432.578">&#9642; In September of this year, WSDA implemented  <text bbox="475.300,422.618,479.862,432.578" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="9.960">&#9642;</text>
+<text bbox="488.500,422.568,491.269,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">I</text>
+<text bbox="491.269,422.568,496.807,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="496.807,422.568,499.576,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="499.536,422.568,506.179,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">S</text>
+<text bbox="506.139,422.568,511.677,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="511.677,422.568,517.215,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="517.175,422.568,519.944,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="519.944,422.568,525.481,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="525.481,422.568,533.778,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="533.967,422.568,539.505,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">b</text>
+<text bbox="539.505,422.568,545.043,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="545.003,422.568,548.320,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="548.350,422.568,551.119,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="550.870,422.568,556.407,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="556.407,422.568,559.176,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">f</text>
+<text bbox="559.256,422.568,562.025,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="561.776,422.568,564.545,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="564.545,422.568,570.082,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">h</text>
+<text bbox="570.082,422.568,572.293,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="572.214,422.568,577.194,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="577.244,422.568,580.012,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="580.112,422.568,585.092,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">y</text>
+<text bbox="584.793,422.568,590.331,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="590.331,422.568,595.869,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="595.829,422.568,599.146,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="599.176,422.568,601.944,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">,</text>
+<text bbox="601.944,422.568,604.713,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="604.803,422.568,614.205,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">W</text>
+<text bbox="614.753,422.568,621.396,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">S</text>
+<text bbox="621.356,422.568,628.548,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">D</text>
+<text bbox="628.548,422.568,635.191,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A</text>
+<text bbox="635.161,422.568,637.930,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="637.681,422.568,639.892,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="639.842,422.568,648.139,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="648.348,422.568,653.886,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="653.886,422.568,656.097,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">l</text>
+<text bbox="656.027,422.568,661.565,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="661.565,422.568,669.862,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="670.061,422.568,675.599,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="675.599,422.568,681.136,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="681.097,422.568,683.865,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="683.865,422.568,689.403,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="689.403,422.568,694.941,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">d</text>
+<text bbox="694.901,422.568,697.670,432.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="475.300,368.568,699.871,378.578" id="27" size="9.96">&#9642; Our goal is to have 100% updated expectations  <textline bbox="475.300,368.568,699.871,378.578">&#9642; Our goal is to have 100% updated expectations  <text bbox="475.300,368.618,479.862,378.578" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="9.960">&#9642;</text>
+<text bbox="488.500,368.568,496.249,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">O</text>
+<text bbox="496.289,368.568,501.826,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">u</text>
+<text bbox="501.826,368.568,505.143,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="505.143,368.568,507.912,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="507.812,368.568,513.350,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">g</text>
+<text bbox="513.350,368.568,518.888,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="518.848,368.568,524.386,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="524.386,368.568,526.597,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">l</text>
+<text bbox="526.527,368.568,529.296,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="529.396,368.568,531.607,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="531.557,368.568,536.537,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="536.587,368.568,539.356,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="539.356,368.568,542.125,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="542.125,368.568,547.662,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="547.623,368.568,550.391,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="550.391,368.568,555.929,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">h</text>
+<text bbox="555.929,368.568,561.467,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="561.427,368.568,566.407,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">v</text>
+<text bbox="566.347,368.568,571.885,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="571.885,368.568,574.654,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="574.654,368.568,580.192,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">1</text>
+<text bbox="580.152,368.568,585.690,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="585.690,368.568,591.227,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="591.188,368.568,600.042,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">%</text>
+<text bbox="600.042,368.568,602.811,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="602.711,368.568,608.249,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">u</text>
+<text bbox="608.249,368.568,613.787,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="613.747,368.568,619.285,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">d</text>
+<text bbox="619.285,368.568,624.823,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="624.783,368.568,627.552,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="627.552,368.568,633.089,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="633.089,368.568,638.627,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">d</text>
+<text bbox="638.587,368.568,641.356,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="641.227,368.568,646.764,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="646.764,368.568,651.744,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">x</text>
+<text bbox="651.774,368.568,657.312,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="657.312,368.568,662.850,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="662.810,368.568,667.790,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">c</text>
+<text bbox="667.840,368.568,670.609,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="670.609,368.568,676.146,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="676.146,368.568,678.915,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="678.875,368.568,681.087,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="681.037,368.568,686.575,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="686.575,368.568,692.112,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="692.072,368.568,697.052,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="697.102,368.568,699.871,378.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="475.300,248.538,693.825,258.548" id="31" size="9.96">&#9642; WSDA&#8217;s Executive Management Team (EMT)  <textline bbox="475.300,248.538,693.825,258.548">&#9642; WSDA&#8217;s Executive Management Team (EMT)  <text bbox="475.300,248.588,479.862,258.548" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="9.960">&#9642;</text>
+<text bbox="488.500,248.538,497.902,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">W</text>
+<text bbox="498.331,248.538,504.974,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">S</text>
+<text bbox="504.934,248.538,512.125,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">D</text>
+<text bbox="512.125,248.538,518.768,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A</text>
+<text bbox="518.739,248.538,520.950,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">&#8217;</text>
+<text bbox="520.900,248.538,525.880,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">s</text>
+<text bbox="525.930,248.538,528.699,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="528.450,248.538,535.093,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">E</text>
+<text bbox="535.053,248.538,540.033,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">x</text>
+<text bbox="540.083,248.538,545.621,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="545.621,248.538,550.601,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">c</text>
+<text bbox="550.630,248.538,556.168,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">u</text>
+<text bbox="556.168,248.538,558.937,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="558.937,248.538,561.148,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="561.069,248.538,566.049,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">v</text>
+<text bbox="565.989,248.538,571.527,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="571.527,248.538,574.295,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="574.375,248.538,582.672,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">M</text>
+<text bbox="582.672,248.538,588.210,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="588.180,248.538,593.717,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="593.717,248.538,599.255,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="599.215,248.538,604.753,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">g</text>
+<text bbox="604.753,248.538,610.291,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="610.251,248.538,618.548,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="618.757,248.538,624.295,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="624.295,248.538,629.832,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="629.793,248.538,632.561,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="632.561,248.538,635.330,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="635.071,248.538,641.157,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">T</text>
+<text bbox="641.306,248.538,646.844,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="646.844,248.538,652.382,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="652.342,248.538,660.639,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="660.848,248.538,663.617,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="663.248,248.538,666.565,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">(</text>
+<text bbox="666.595,248.538,673.238,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">E</text>
+<text bbox="673.198,248.538,681.495,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">M</text>
+<text bbox="681.495,248.538,687.580,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">T</text>
+<text bbox="687.710,248.538,691.027,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">)</text>
+<text bbox="691.057,248.538,693.825,258.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="5.472,213.718,78.280,235.678" id="12" size="9.96">Performance  
+Measures  <textline bbox="5.472,225.718,78.280,235.678" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="9.960">Performance  </textline>
+<textline bbox="5.472,213.718,61.218,223.678" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="9.960">Measures  </textline>
+</normal_text>
+<normal_text bbox="5.472,171.378,121.685,205.338" id="13" size="9.96">Percent employees with  
+current performance  
+expectations <textline bbox="5.472,195.378,121.685,205.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="9.960">Percent employees with  </textline>
+<textline bbox="5.472,183.378,105.650,193.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="9.960">current performance  </textline>
+<textline bbox="5.472,171.378,66.387,181.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="9.960">expectations </textline>
+</normal_text>
+<normal_text bbox="5.472,129.358,122.225,163.338" id="14" size="9.968000000000002">Employee survey ratings  
+on &#8220;productive workplace&#8221;  
+questions <textline bbox="5.472,153.378,117.124,163.338" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Employee survey ratings  </textline>
+<textline bbox="5.472,141.373,122.225,151.357" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.984">on &#8220;productive workplace&#8221;  </textline>
+<textline bbox="5.472,129.358,47.991,139.318" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">questions </textline>
+</normal_text>
+<normal_text bbox="5.472,111.358,75.770,121.318" id="15" size="9.96">Overtime usage <textline bbox="5.472,111.358,75.770,121.318" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Overtime usage </textline>
+</normal_text>
+<normal_text bbox="5.472,93.356,80.680,103.316" id="16" size="9.96">Sick leave usage <textline bbox="5.472,93.356,80.680,103.316" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Sick leave usage </textline>
+</normal_text>
+<normal_text bbox="5.472,51.356,124.494,85.316" id="17" size="9.96">Non-disciplinary  
+grievances/appeals filed  
+and disposition (outcomes) <textline bbox="5.472,75.356,78.804,85.316" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Non-disciplinary  </textline>
+<textline bbox="5.472,63.356,114.753,73.316" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">grievances/appeals filed  </textline>
+<textline bbox="5.472,51.356,124.494,61.316" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">and disposition (outcomes) </textline>
+</normal_text>
+<normal_text bbox="5.472,33.356,69.644,43.316" id="18" size="9.96">Worker safety  <textline bbox="5.472,33.356,69.644,43.316" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Worker safety  </textline>
+</normal_text>
+<normal_text bbox="151.220,434.570,411.896,460.970" id="21" size="12.0">Percent employees with current performance  
+expectations = 58.6%* <textline bbox="151.220,448.970,411.896,460.970" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Percent employees with current performance  </textline>
+<textline bbox="151.220,434.570,276.884,446.570" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">expectations = 58.6%* </textline>
+</normal_text>
+<normal_text bbox="146.230,383.568,409.244,417.528" id="22" size="9.96">*Based on 296 of 505 reported employee count 
+with Expectations due.  Applies to employees in permanent  
+positions, both WMS &amp; GS <textline bbox="146.230,407.568,354.145,417.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">*Based on 296 of 505 reported employee count </textline>
+<textline bbox="146.230,395.568,409.244,405.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">with Expectations due.  Applies to employees in permanent  </textline>
+<textline bbox="146.230,383.568,263.947,393.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">positions, both WMS &amp; GS </textline>
+</normal_text>
+<normal_text bbox="488.500,386.568,689.772,420.528" id="26" size="9.96">an action plan for timely completion of  
+evaluations.  That plan included performance  
+expectations.  <textline bbox="488.500,410.568,658.208,420.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">an action plan for timely completion of  </textline>
+<textline bbox="488.500,398.568,689.772,408.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">evaluations.  That plan included performance  </textline>
+<textline bbox="488.500,386.568,549.913,396.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">expectations.  </textline>
+</normal_text>
+<normal_text bbox="488.500,356.538,564.644,366.498" id="28" size="9.96">by January 2008. <textline bbox="488.500,356.538,564.644,366.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">by January 2008. </textline>
+</normal_text>
+<normal_text bbox="475.300,320.778,539.532,330.738" id="29" size="9.96">Action Steps: <textline bbox="475.300,320.778,539.532,330.738" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Action Steps: </textline>
+</normal_text>
+<normal_text bbox="475.300,266.538,679.553,312.548" id="30" size="9.96">&#9642; In September of 2007, Director Loveland  
+distributed the action plan to all of WSDA,  
+reinforcing her commitment to 100% timely  
+evaluations. <textline bbox="475.300,302.538,670.001,312.548">&#9642; In September of 2007, Director Loveland  <text bbox="475.300,302.588,479.862,312.548" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="9.960">&#9642;</text>
+<text bbox="488.500,302.538,491.269,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">I</text>
+<text bbox="491.269,302.538,496.807,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="496.807,302.538,499.576,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="499.536,302.538,506.179,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">S</text>
+<text bbox="506.139,302.538,511.677,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="511.677,302.538,517.215,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">p</text>
+<text bbox="517.175,302.538,519.944,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="519.944,302.538,525.481,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="525.481,302.538,533.778,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">m</text>
+<text bbox="533.967,302.538,539.505,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">b</text>
+<text bbox="539.505,302.538,545.043,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="545.003,302.538,548.320,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="548.350,302.538,551.119,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="550.870,302.538,556.407,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="556.407,302.538,559.176,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">f</text>
+<text bbox="559.256,302.538,562.025,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="561.776,302.538,567.313,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">2</text>
+<text bbox="567.313,302.538,572.851,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="572.811,302.538,578.349,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="578.349,302.538,583.887,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">7</text>
+<text bbox="583.847,302.538,586.616,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">,</text>
+<text bbox="586.616,302.538,589.385,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="589.385,302.538,596.576,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">D</text>
+<text bbox="596.576,302.538,598.787,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">i</text>
+<text bbox="598.727,302.538,602.044,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="602.074,302.538,607.612,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="607.612,302.538,612.592,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">c</text>
+<text bbox="612.622,302.538,615.390,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">t</text>
+<text bbox="615.390,302.538,620.928,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="620.928,302.538,624.245,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">r</text>
+<text bbox="624.245,302.538,627.014,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="627.014,302.538,632.551,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">L</text>
+<text bbox="632.551,302.538,638.089,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">o</text>
+<text bbox="638.089,302.538,643.069,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">v</text>
+<text bbox="642.980,302.538,648.517,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">e</text>
+<text bbox="648.517,302.538,650.728,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">l</text>
+<text bbox="650.659,302.538,656.197,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">a</text>
+<text bbox="656.197,302.538,661.734,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
+<text bbox="661.694,302.538,667.232,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">d</text>
+<text bbox="667.232,302.538,670.001,312.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
+</textline>
+<textline bbox="488.500,290.538,674.792,300.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">distributed the action plan to all of WSDA,  </textline>
+<textline bbox="488.500,278.538,679.553,288.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">reinforcing her commitment to 100% timely  </textline>
+<textline bbox="488.500,266.538,541.408,276.498" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">evaluations. </textline>
+</normal_text>
+<normal_text bbox="488.500,236.518,598.219,246.478" id="32" size="9.96">will be tracking progress. <textline bbox="488.500,236.518,598.219,246.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">will be tracking progress. </textline>
+</normal_text>
+<normal_text bbox="145.220,7.052,211.783,27.812" id="33" size="9.96">Data as of 7/31/07 
+Source:  Agency <textline bbox="145.220,17.852,211.783,27.812" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="0" size="9.960">Data as of 7/31/07 </textline>
+<textline bbox="145.220,7.052,205.060,17.012" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="0" size="9.960">Source:  Agency </textline>
+</normal_text>
+<normal_text bbox="5.472,435.768,63.977,445.728" id="1" size="9.96">Outcomes: <textline bbox="5.472,435.768,63.977,445.728" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="9.960">Outcomes: </textline>
+</normal_text>
+<normal_text bbox="5.472,414.548,70.590,424.508" id="2" size="9.96">Staff know job  <textline bbox="5.472,414.548,70.590,424.508" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Staff know job  </textline>
+</normal_text>
+<normal_text bbox="5.472,397.748,119.912,407.708" id="3" size="9.96">expectations, how they&#8217;re  <textline bbox="5.472,397.748,119.912,407.708" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">expectations, how they&#8217;re  </textline>
+</normal_text>
+<normal_text bbox="5.472,380.943,111.562,390.927" id="4" size="9.984">doing, &amp; are supported.  <textline bbox="5.472,380.943,111.562,390.927" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.984">doing, &amp; are supported.  </textline>
+</normal_text>
+<normal_text bbox="5.472,364.128,115.440,374.088" id="5" size="9.96">Workplace is safe, gives  <textline bbox="5.472,364.128,115.440,374.088" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">Workplace is safe, gives  </textline>
+</normal_text>
+<normal_text bbox="5.472,347.328,104.883,357.288" id="6" size="9.96">capacity to perform, &amp;  <textline bbox="5.472,347.328,104.883,357.288" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">capacity to perform, &amp;  </textline>
+</normal_text>
+<normal_text bbox="5.472,330.528,86.696,340.488" id="7" size="9.96">fosters productive  <textline bbox="5.472,330.528,86.696,340.488" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">fosters productive  </textline>
+</normal_text>
+<normal_text bbox="5.472,313.728,117.263,323.688" id="8" size="9.96">relations. Employee time  <textline bbox="5.472,313.728,117.263,323.688" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">relations. Employee time  </textline>
+</normal_text>
+<normal_text bbox="5.472,296.928,86.068,306.888" id="9" size="9.96">and talent is used  <textline bbox="5.472,296.928,86.068,306.888" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">and talent is used  </textline>
+</normal_text>
+<normal_text bbox="5.472,280.128,124.305,290.088" id="10" size="9.96">effectively. Employees are  <textline bbox="5.472,280.128,124.305,290.088" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">effectively. Employees are  </textline>
+</normal_text>
+<normal_text bbox="5.472,263.328,51.447,273.288" id="11" size="9.96">motivated. <textline bbox="5.472,263.328,51.447,273.288" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">motivated. </textline>
+</normal_text>
+</enlisting></page>
+</pages>

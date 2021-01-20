@@ -1,0 +1,425 @@
+<pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="180.100,235.019,551.979,329.095" id="0" size="27.959999999999997">Section 508 and NASA 
+Presentation to GSFC Webmasters 
+November 27, 2001 <textline bbox="201.340,295.135,530.684,329.095" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 and NASA </textline>
+<textline bbox="180.100,265.039,551.979,289.999" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.960">Presentation to GSFC Webmasters </textline>
+<textline bbox="263.860,235.019,468.158,259.979" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.960">November 27, 2001 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="177.670,53.520,554.902,166.946" id="1" size="24.0">Bob Benedict 
+Office of the Chief Information Officer 
+NASA Headquarters 
+bob.benedict@hq.nasa.gov <textline bbox="300.340,142.946,431.716,166.946" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Bob Benedict </textline>
+<textline bbox="177.670,115.556,554.902,139.556" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Office of the Chief Information Officer </textline>
+<textline bbox="266.860,88.200,465.076,112.200" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">NASA Headquarters </textline>
+<textline bbox="235.900,53.520,496.108,77.520" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">bob.benedict@hq.nasa.gov </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="18.000,465.240,79.320,516.000" height="50" name="Image11" src="Image11.87x72.bmp" width="61">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[349.44, 457.165, 442.592, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="349.440,457.165,442.592,491.125" id="0" size="33.96">Topics <textline bbox="349.440,457.165,442.592,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Topics </textline>
+</title>
+<enlisting archetypal_index="1" bbox="97.224,170.930,690.800,416.980" id="1" size="30.004">&#8226; Section 508 background 
+&#8226; NASA and the Federal Section 508 community 
+&#8226; NASA Section 508 team 
+&#8226; Section 508 requirements for Web pages 
+&#8226; NASA Web requirements for Section 508 
+&#8226; Resources <textline bbox="97.224,386.980,415.910,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Section 508 background </textline>
+<textline bbox="97.224,343.750,690.800,373.750" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; NASA and the Federal Section 508 community </textline>
+<textline bbox="97.224,300.550,419.900,330.550" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; NASA Section 508 team </textline>
+<textline bbox="97.224,257.345,610.849,287.369" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.024">&#8226; Section 508 requirements for Web pages </textline>
+<textline bbox="97.224,214.130,622.220,244.130" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; NASA Web requirements for Section 508 </textline>
+<textline bbox="97.224,170.930,247.520,200.930" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Resources </textline>
+</enlisting>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="2" size="14.04">2 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">2 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.0.87x72.bmp" width="60">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[246.94666666666663, 457.165, 513.0686666666667, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="195.700,457.165,548.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="195.700,457.165,548.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="9" size="14.04">3 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">3 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.1.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,22.881,689.079,417.301">&#8226; The legal basis for Section 508 . . . &#8211; The Workforce Investment Act of 1998 amended Section  &#8211; When developing, procuring, maintaining, or using  &#8211; Above requirements must be met unless to do so would  508 of the Rehabilitation Act of 1973 &#8211; Members of the public with disabilities seeking information  
+or services from an agency must have access to and use of  
+information and data that is comparable to that for members  
+of the public without disabilities <normal_text bbox="97.224,389.341,513.283,417.301" id="1" size="27.96">&#8226; The legal basis for Section 508 . . . <textline bbox="97.224,389.341,513.283,417.301" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; The legal basis for Section 508 . . . </textline>
+</normal_text>
+<normal_text bbox="133.220,357.487,662.902,379.447" id="2" size="21.96">&#8211; The Workforce Investment Act of 1998 amended Section  <textline bbox="133.220,357.487,662.902,379.447" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">&#8211; The Workforce Investment Act of 1998 amended Section  </textline>
+</normal_text>
+<normal_text bbox="133.220,299.407,611.955,321.367" id="4" size="21.96">&#8211; When developing, procuring, maintaining, or using  <textline bbox="133.220,299.407,611.955,321.367" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">&#8211; When developing, procuring, maintaining, or using  </textline>
+</normal_text>
+<normal_text bbox="133.220,51.201,649.046,73.161" id="7" size="21.96">&#8211; Above requirements must be met unless to do so would  <textline bbox="133.220,51.201,649.046,73.161" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">&#8211; Above requirements must be met unless to do so would  </textline>
+</normal_text>
+<normal_text bbox="133.22,82.881,689.079,353.047">508 of the Rehabilitation Act of 1973 &#8211; Members of the public with disabilities seeking information  
+or services from an agency must have access to and use of  
+information and data that is comparable to that for members  
+of the public without disabilities <normal_text bbox="155.780,331.087,484.433,353.047" id="3" size="21.96">508 of the Rehabilitation Act of 1973 <textline bbox="155.780,331.087,484.433,353.047" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">508 of the Rehabilitation Act of 1973 </textline>
+</normal_text>
+<normal_text bbox="133.220,82.881,689.079,184.067" id="6" size="21.966">&#8211; Members of the public with disabilities seeking information  
+or services from an agency must have access to and use of  
+information and data that is comparable to that for members  
+of the public without disabilities <textline bbox="133.220,162.107,687.959,184.067" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">&#8211; Members of the public with disabilities seeking information  </textline>
+<textline bbox="155.780,135.701,673.437,157.685" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.984">or services from an agency must have access to and use of  </textline>
+<textline bbox="155.780,109.277,689.079,131.237" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">information and data that is comparable to that for members  </textline>
+<textline bbox="155.780,82.881,440.360,104.841" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">of the public without disabilities </textline>
+</normal_text>
+</normal_text><normal_text bbox="155.780,193.787,672.060,294.967" id="5" size="21.966">Electronic and Information Technology (EIT), Federal  
+agencies must ensure that Federal employees with  
+disabilities have access to and use of information and data  
+that is comparable to that for other employees <textline bbox="155.780,273.007,639.647,294.967" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">Electronic and Information Technology (EIT), Federal  </textline>
+<textline bbox="155.780,246.601,602.055,268.585" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.984">agencies must ensure that Federal employees with  </textline>
+<textline bbox="155.780,220.187,672.060,242.147" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">disabilities have access to and use of information and data  </textline>
+<textline bbox="155.780,193.787,559.361,215.747" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">that is comparable to that for other employees </textline>
+</normal_text>
+<normal_text bbox="155.780,22.881,376.149,44.841" id="8" size="21.96">cause an &#8220;undue burden&#8221; <textline bbox="155.780,22.881,376.149,44.841" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="21.960">cause an &#8220;undue burden&#8221; </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[233.3233333333333, 457.165, 542.6878333333334, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="6" size="14.04">4 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">4 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.2.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,137.661,688.58,416.98">&#8226; How the law was implemented at the Federal  &#8211; The Access Board EIT accessibility standards became  <normal_text bbox="97.224,386.980,674.450,416.980" id="1" size="30.0">&#8226; How the law was implemented at the Federal  <textline bbox="97.224,386.980,674.450,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; How the law was implemented at the Federal  </textline>
+</normal_text>
+<normal_text bbox="133.220,166.466,679.196,190.466" id="4" size="24.0">&#8211; The Access Board EIT accessibility standards became  <textline bbox="133.220,166.466,679.196,190.466" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; The Access Board EIT accessibility standards became  </textline>
+</normal_text>
+<normal_text bbox="124.220,316.246,599.804,380.950" id="2" size="27.0">level . . . 
+&#8211; The Architectural and Transportation Barriers  <textline bbox="124.220,350.950,227.690,380.950" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">level . . . </textline>
+<textline bbox="133.220,316.246,599.804,340.246" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; The Architectural and Transportation Barriers  </textline>
+</normal_text>
+<normal_text bbox="155.780,201.026,688.580,311.446" id="3" size="24.006">Compliance Board (Access Board) published final EIT  
+accessibility standards in the Federal Register,  
+following extensive public comment and debate, on  
+April 25, 2001 <textline bbox="155.780,287.446,688.580,311.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Compliance Board (Access Board) published final EIT  </textline>
+<textline bbox="155.780,258.641,605.750,282.665" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">accessibility standards in the Federal Register,  </textline>
+<textline bbox="155.780,229.826,657.500,253.826" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">following extensive public comment and debate, on  </textline>
+<textline bbox="155.780,201.026,296.396,225.026" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">April 25, 2001 </textline>
+</normal_text>
+<normal_text bbox="155.780,137.661,379.107,161.685" id="5" size="24.024">effective June 25, 2001 <textline bbox="155.780,137.661,379.107,161.685" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">effective June 25, 2001 </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[227.87399999999997, 457.1650000000001, 554.5355000000001, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="8" size="14.04">5 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">5 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.3.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,107.876,693.386,416.558">&#8226; Technology scope of Section 508 . . . &#8211; From a technology point of view, Section 508 includes  &#8211; Includes all Information Technology (IT) plus  &#8211; Excludes embedded IT such as controllers for HVAC  <normal_text bbox="97.224,384.494,598.414,416.558" id="1" size="32.064">&#8226; Technology scope of Section 508 . . . <textline bbox="97.224,384.494,598.414,416.558" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">&#8226; Technology scope of Section 508 . . . </textline>
+</normal_text>
+<normal_text bbox="133.220,349.846,687.116,373.846" id="2" size="24.0">&#8211; From a technology point of view, Section 508 includes  <textline bbox="133.220,349.846,687.116,373.846" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; From a technology point of view, Section 508 includes  </textline>
+</normal_text>
+<normal_text bbox="133.220,286.486,602.324,310.486" id="4" size="24.0">&#8211; Includes all Information Technology (IT) plus  <textline bbox="133.220,286.486,602.324,310.486" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Includes all Information Technology (IT) plus  </textline>
+</normal_text>
+<normal_text bbox="133.220,136.701,671.551,160.725" id="6" size="24.024">&#8211; Excludes embedded IT such as controllers for HVAC  <textline bbox="133.220,136.701,671.551,160.725" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Excludes embedded IT such as controllers for HVAC  </textline>
+</normal_text>
+<normal_text bbox="155.780,321.046,358.388,345.046" id="3" size="24.0">just about everything <textline bbox="155.780,321.046,358.388,345.046" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">just about everything </textline>
+</normal_text>
+<normal_text bbox="155.780,171.266,693.386,281.705" id="5" size="24.006">telecommunications products (e.g., telephones),  
+information kiosks and transaction machines, Web  
+sites, multimedia, and office equipment such as copiers  
+and fax machines <textline bbox="155.780,257.681,620.692,281.705" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">telecommunications products (e.g., telephones),  </textline>
+<textline bbox="155.780,228.866,649.320,252.866">information kiosks and transaction machines, Web  <text bbox="155.780,228.866,162.452,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="162.452,228.866,174.452,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="174.452,228.866,182.444,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">f</text>
+<text bbox="182.444,228.866,194.444,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="194.444,228.866,202.436,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="202.436,228.866,221.108,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="220.940,228.866,231.596,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="231.596,228.866,238.268,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="238.268,228.866,244.940,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="245.036,228.866,257.036,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="257.036,228.866,269.036,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="269.036,228.866,275.036,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="274.916,228.866,286.916,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">k</text>
+<text bbox="286.916,228.866,293.588,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="293.588,228.866,305.588,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="305.588,228.866,314.924,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="314.924,228.866,326.924,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">k</text>
+<text bbox="326.972,228.866,336.308,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="336.308,228.866,342.308,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="342.212,228.866,352.868,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="352.868,228.866,364.868,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="364.868,228.866,376.868,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">d</text>
+<text bbox="376.868,228.866,382.868,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="382.868,228.866,389.540,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="389.540,228.866,397.532,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="397.628,228.866,408.284,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="408.284,228.866,420.284,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="420.284,228.866,429.620,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="429.620,228.866,440.276,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="440.276,228.866,450.932,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="451.004,228.866,457.676,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="457.676,228.866,464.348,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="464.348,228.866,476.348,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="476.348,228.866,488.348,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="488.348,228.866,494.348,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="493.964,228.866,512.636,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="512.444,228.866,523.100,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="523.100,228.866,533.756,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="533.756,228.866,545.756,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">h</text>
+<text bbox="545.756,228.866,552.428,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="552.500,228.866,564.500,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="564.500,228.866,575.156,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="575.156,228.866,584.492,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="584.492,228.866,590.492,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">,</text>
+<text bbox="590.492,228.866,596.492,252.866" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="596.640,228.866,620.640,252.866" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">W</text>
+<text bbox="619.320,228.866,629.976,252.866" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">e</text>
+<text bbox="629.976,228.866,643.320,252.866" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">b</text>
+<text bbox="643.320,228.866,649.320,252.866" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="155.780,200.066,693.386,224.066">sites, multimedia, and office equipment such as copiers  <text bbox="155.780,200.066,165.116,224.066" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">s</text>
+<text bbox="165.116,200.066,171.788,224.066" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">i</text>
+<text bbox="171.788,200.066,179.780,224.066" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">t</text>
+<text bbox="179.876,200.066,190.532,224.066" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">e</text>
+<text bbox="190.532,200.066,199.868,224.066" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">s</text>
+<text bbox="199.970,200.066,205.970,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">,</text>
+<text bbox="205.970,200.066,211.970,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="211.850,200.066,230.522,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="230.330,200.066,242.330,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">u</text>
+<text bbox="242.330,200.066,249.002,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">l</text>
+<text bbox="249.002,200.066,255.674,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="255.746,200.066,262.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="262.418,200.066,281.090,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="280.946,200.066,291.602,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="291.602,200.066,303.602,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">d</text>
+<text bbox="303.602,200.066,310.274,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="310.274,200.066,320.930,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="321.002,200.066,327.002,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">,</text>
+<text bbox="327.002,200.066,333.002,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="332.762,200.066,343.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="343.418,200.066,355.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="355.418,200.066,367.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">d</text>
+<text bbox="367.418,200.066,373.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="373.418,200.066,385.418,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="385.418,200.066,393.410,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">f</text>
+<text bbox="392.882,200.066,400.874,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">f</text>
+<text bbox="400.874,200.066,407.546,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="407.546,200.066,418.202,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="418.202,200.066,428.858,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="428.858,200.066,434.858,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="434.858,200.066,445.514,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="445.514,200.066,457.514,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">q</text>
+<text bbox="457.514,200.066,469.514,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">u</text>
+<text bbox="469.514,200.066,476.186,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="476.258,200.066,488.258,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">p</text>
+<text bbox="488.258,200.066,506.930,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="506.738,200.066,517.394,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="517.394,200.066,529.394,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="529.394,200.066,536.066,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="536.066,200.066,542.066,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="541.898,200.066,551.234,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="551.234,200.066,563.234,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">u</text>
+<text bbox="563.234,200.066,573.890,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="573.890,200.066,585.890,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">h</text>
+<text bbox="585.890,200.066,591.890,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="591.890,200.066,602.546,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="602.594,200.066,611.930,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="611.930,200.066,617.930,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="617.930,200.066,628.586,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="628.586,200.066,640.586,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="640.586,200.066,652.586,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">p</text>
+<text bbox="652.586,200.066,659.258,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="659.330,200.066,669.986,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="669.986,200.066,677.978,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="677.978,200.066,687.314,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">s</text>
+<text bbox="687.386,200.066,693.386,224.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="155.780,171.266,323.588,195.266" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">and fax machines </textline>
+</normal_text>
+<normal_text bbox="155.780,107.876,413.324,131.876" id="7" size="24.0">and for medical equipment <textline bbox="155.780,107.876,413.324,131.876" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">and for medical equipment </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[225.14933333333332, 457.165, 560.4593333333333, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="5" size="14.04">6 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">6 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.4.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,100.196,654.474,404.999">&#8226; Section 508 technical standards for specific  technologies and products . . . 
+&#8211; Software applications and operating systems 
+&#8211; Web-based intranet and internet information and  &#8211; Telecommunications products 
+&#8211; Video and multimedia products 
+&#8211; Self contained, closed products 
+&#8211; Desktop and portable computers <normal_text bbox="97.224,374.975,654.474,404.999" id="1" size="30.024">&#8226; Section 508 technical standards for specific  <textline bbox="97.224,374.975,654.474,404.999" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.024">&#8226; Section 508 technical standards for specific  </textline>
+</normal_text>
+<normal_text bbox="124.220,267.286,626.306,366.910" id="2" size="26.0">technologies and products . . . 
+&#8211; Software applications and operating systems 
+&#8211; Web-based intranet and internet information and  <textline bbox="124.220,336.910,482.780,366.910" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">technologies and products . . . </textline>
+<textline bbox="133.220,301.846,583.052,325.846" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Software applications and operating systems </textline>
+<textline bbox="133.220,267.286,626.306,291.286" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Web-based intranet and internet information and  </textline>
+</normal_text>
+<normal_text bbox="133.220,100.196,466.748,227.906" id="4" size="24.006">&#8211; Telecommunications products 
+&#8211; Video and multimedia products 
+&#8211; Self contained, closed products 
+&#8211; Desktop and portable computers <textline bbox="133.220,203.906,443.612,227.906" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Telecommunications products </textline>
+<textline bbox="133.220,169.346,457.172,193.346" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Video and multimedia products </textline>
+<textline bbox="133.220,134.781,455.455,158.805" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Self contained, closed products </textline>
+<textline bbox="133.220,100.196,466.748,124.196" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Desktop and portable computers </textline>
+</normal_text>
+<normal_text bbox="155.780,238.481,271.816,262.505" id="3" size="24.024">applications <textline bbox="155.780,238.481,271.816,262.505" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">applications </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[223.59238095238092, 457.165, 563.8443809523809, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<enlisting archetypal_index="1" bbox="97.224,74.28,679.124,416.98" id="1" size="30.0">&#8226; Section 508 functional performance criteria  <textline bbox="97.224,386.980,655.250,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Section 508 functional performance criteria  </textline>
+<normal_text bbox="124.220,252.881,679.124,380.950" id="2" size="25.506">(six of these) . . . 
+&#8211; Covers technologies or components for which there is  
+no standard covered by the previous seven categories 
+&#8211; E.g., technology or product does not yet exist or was  <textline bbox="124.220,350.950,325.940,380.950" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">(six of these) . . . </textline>
+<textline bbox="133.220,316.246,679.124,340.246" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Covers technologies or components for which there is  </textline>
+<textline bbox="155.780,287.446,666.716,311.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">no standard covered by the previous seven categories </textline>
+<textline bbox="133.220,252.881,666.602,276.905" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; E.g., technology or product does not yet exist or was  </textline>
+</normal_text>
+<normal_text bbox="155.780,224.066,585.356,248.066" id="3" size="24.0">not contemplated by Access Board standards <textline bbox="155.780,224.066,585.356,248.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">not contemplated by Access Board standards </textline>
+</normal_text>
+<normal_text bbox="133.220,74.280,670.758,213.506" id="4" size="24.0048">&#8211; &#8220;(a) At least one mode of operation and information  
+retrieval that does not require user vision shall be  
+provided, or support for assistive technology used by  
+people who are blind or visually impaired shall be  
+provided&#8221; <textline bbox="133.220,189.506,659.780,213.506" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; &#8220;(a) At least one mode of operation and information  </textline>
+<textline bbox="155.780,160.706,634.244,184.706" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">retrieval that does not require user vision shall be  </textline>
+<textline bbox="155.780,131.901,670.758,155.925" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">provided, or support for assistive technology used by  </textline>
+<textline bbox="155.780,103.076,642.284,127.076" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">people who are blind or visually impaired shall be  </textline>
+<textline bbox="155.780,74.280,251.828,98.280" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">provided&#8221; </textline>
+</normal_text>
+</enlisting>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="5" size="14.04">7 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">7 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.5.87x72.bmp" width="60">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[222.6192857142857, 457.165, 565.9600357142857, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="6" size="14.04">8 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">8 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.6.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,74.28,683.348,416.98">&#8226; Section 508 information, documentation, and  &#8211; End-user shall have access to a description of the  <normal_text bbox="97.224,386.980,675.590,416.980" id="1" size="30.0">&#8226; Section 508 information, documentation, and  <textline bbox="97.224,386.980,675.590,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Section 508 information, documentation, and  </textline>
+</normal_text>
+<normal_text bbox="133.220,224.066,633.170,248.066" id="3" size="24.0">&#8211; End-user shall have access to a description of the  <textline bbox="133.220,224.066,633.170,248.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; End-user shall have access to a description of the  </textline>
+</normal_text>
+<normal_text bbox="124.220,258.641,676.872,380.950" id="2" size="25.506">support requirements . . . 
+&#8211; Product support documentation provided to end-users  
+shall be made available in alternate formats upon  
+request, at no additional charge <textline bbox="124.220,350.950,423.530,380.950" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">support requirements . . . </textline>
+<textline bbox="133.220,316.246,676.872,340.246" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Product support documentation provided to end-users  </textline>
+<textline bbox="155.780,287.446,632.012,311.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">shall be made available in alternate formats upon  </textline>
+<textline bbox="155.780,258.641,455.624,282.665" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">request, at no additional charge </textline>
+</normal_text>
+<normal_text bbox="155.780,137.661,683.348,219.266" id="4" size="24.008">accessibility and compatibility features of products in  
+alternate formats or alternate methods upon request, at  
+no additional charge <textline bbox="155.780,195.266,675.404,219.266" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">accessibility and compatibility features of products in  </textline>
+<textline bbox="155.780,166.466,683.348,190.466" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">alternate formats or alternate methods upon request, at  </textline>
+<textline bbox="155.780,137.661,351.095,161.685" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">no additional charge </textline>
+</normal_text>
+<normal_text bbox="133.220,74.280,669.044,127.076" id="5" size="24.0">&#8211; Support services for products shall accommodate the  
+communication needs of end-users with disabilities <textline bbox="133.220,103.076,669.044,127.076" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Support services for products shall accommodate the  </textline>
+<textline bbox="155.780,74.280,648.070,98.280" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">communication needs of end-users with disabilities </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[221.9705555555555, 457.1650000000001, 567.3704722222222, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="687.720,15.711,694.740,29.751" id="10" size="14.04">9 <textline bbox="687.720,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">9 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.7.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,30.12,700.124,428.98">&#8226; Organizational scope of Section 508 . . . &#8211; Applies to all Federal departments and agencies,  &#8211; Applies to contractors supplying products and services  &#8211; Does not apply to the states, though some are aligning  &#8211; Does not apply to private industry in general, e.g.,  <normal_text bbox="97.224,398.980,605.810,428.980" id="1" size="30.0">&#8226; Organizational scope of Section 508 . . . <textline bbox="97.224,398.980,605.810,428.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Organizational scope of Section 508 . . . </textline>
+</normal_text>
+<normal_text bbox="133.220,364.271,627.227,388.295" id="2" size="24.024">&#8211; Applies to all Federal departments and agencies,  <textline bbox="133.220,364.271,627.227,388.295" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Applies to all Federal departments and agencies,  </textline>
+</normal_text>
+<normal_text bbox="133.220,300.886,686.708,324.886" id="4" size="24.0">&#8211; Applies to contractors supplying products and services  <textline bbox="133.220,300.886,686.708,324.886" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Applies to contractors supplying products and services  </textline>
+</normal_text>
+<normal_text bbox="133.220,151.106,681.284,175.106" id="6" size="24.0">&#8211; Does not apply to the states, though some are aligning  <textline bbox="133.220,151.106,681.284,175.106" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Does not apply to the states, though some are aligning  </textline>
+</normal_text>
+<normal_text bbox="133.220,87.720,642.452,111.720" id="8" size="24.0">&#8211; Does not apply to private industry in general, e.g.,  <textline bbox="133.220,87.720,642.452,111.720" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Does not apply to private industry in general, e.g.,  </textline>
+</normal_text>
+<normal_text bbox="155.780,335.446,460.916,359.446" id="3" size="24.0">including the US Postal Service <textline bbox="155.780,335.446,460.916,359.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">including the US Postal Service </textline>
+</normal_text>
+<normal_text bbox="155.780,185.666,700.124,296.086" id="5" size="24.006">to Federal departments and agencies, unless the  
+contractor&#8217;s use of EIT is incidental to the product or  
+service (statutory requirement is on the departments and  
+agencies, not on the contractors) <textline bbox="155.780,272.086,617.684,296.086" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">to Federal departments and agencies, unless the  </textline>
+<textline bbox="155.780,243.281,670.086,267.305" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">contractor&#8217;s use of EIT is incidental to the product or  </textline>
+<textline bbox="155.780,214.466,700.124,238.466" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">service (statutory requirement is on the departments and  </textline>
+<textline bbox="155.780,185.666,466.946,209.666" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">agencies, not on the contractors) </textline>
+</normal_text>
+<normal_text bbox="155.780,122.301,418.098,146.325" id="7" size="24.024">their laws with Section 508 <textline bbox="155.780,122.301,418.098,146.325" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">their laws with Section 508 </textline>
+</normal_text>
+<normal_text bbox="155.780,30.120,683.780,82.920" id="9" size="24.0">www.microsoft.com and www.sun.com do not have to  
+be Section 508 compliant <textline bbox="155.780,58.920,683.780,82.920" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">www.microsoft.com and www.sun.com do not have to  </textline>
+<textline bbox="155.780,30.120,400.196,54.120" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">be Section 508 compliant </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[221.5164444444444, 457.1650000000001, 568.3577777777778, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="680.640,15.711,694.740,29.751" id="8" size="14.04">10 <textline bbox="680.640,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">10 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.8.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,133.341,698.852,416.98">&#8226; Exceptions &#8211; Certain systems related to national security and national  &#8211; EIT acquired by a contractor incidental to a contract 
+&#8211; Making compliant would cause a &#8220;fundamental  &#8211; Products located in spaces frequented only by service  <normal_text bbox="97.224,386.980,257.540,416.980" id="1" size="30.0">&#8226; Exceptions <textline bbox="97.224,386.980,257.540,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Exceptions </textline>
+</normal_text>
+<normal_text bbox="133.220,352.246,698.852,376.246" id="3" size="24.0">&#8211; Certain systems related to national security and national  <textline bbox="133.220,352.246,698.852,376.246" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Certain systems related to national security and national  </textline>
+</normal_text>
+<normal_text bbox="133.220,254.321,655.700,312.886" id="4" size="24.012">&#8211; EIT acquired by a contractor incidental to a contract 
+&#8211; Making compliant would cause a &#8220;fundamental  <textline bbox="133.220,288.886,655.700,312.886" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; EIT acquired by a contractor incidental to a contract </textline>
+<textline bbox="133.220,254.321,616.536,278.345" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Making compliant would cause a &#8220;fundamental  </textline>
+</normal_text>
+<normal_text bbox="133.220,190.946,675.332,214.946" id="6" size="24.0">&#8211; Products located in spaces frequented only by service  <textline bbox="133.220,190.946,675.332,214.946" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Products located in spaces frequented only by service  </textline>
+</normal_text>
+<normal_text bbox="155.780,323.446,229.076,347.446" id="2" size="24.0">defense <textline bbox="155.780,323.446,229.076,347.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">defense </textline>
+</normal_text>
+<normal_text bbox="155.780,225.506,377.300,249.506" id="5" size="24.0">alteration&#8221; to a product <textline bbox="155.780,225.506,377.300,249.506" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">alteration&#8221; to a product </textline>
+</normal_text>
+<normal_text bbox="155.780,133.341,622.268,186.146" id="7" size="24.012">personnel for maintenance, repair, or occasional  
+monitoring of equipment <textline bbox="155.780,162.146,622.268,186.146" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">personnel for maintenance, repair, or occasional  </textline>
+<textline bbox="155.780,133.341,395.443,157.365" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">monitoring of equipment </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[221.18618181818178, 457.1650000000001, 569.0758181818181, 491.125]" rotate="0">
+<title archetypal_index="0" bbox="219.700,457.165,572.307,491.125" id="0" size="33.96">Section 508 Background <textline bbox="219.700,457.165,572.307,491.125" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="33.960">Section 508 Background </textline>
+</title>
+<slide_number bbox="681.120,15.711,694.740,29.751" id="7" size="14.04">11 <textline bbox="681.120,15.711,694.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="18.000,472.440,78.000,522.000" height="49" name="Image11" src="Image11.9.87x72.bmp" width="60">
+</picture>
+<enlisting archetypal_index="2" bbox="97.224,46.92,689.545,416.98">&#8226; Section 508 enforcement provisions . . . &#8211; Agencies may be sued if their EIT purchases do not  &#8211; Also, media attention and audits by Office of Inspector  <normal_text bbox="97.224,386.980,602.030,416.980" id="1" size="30.0">&#8226; Section 508 enforcement provisions . . . <textline bbox="97.224,386.980,602.030,416.980" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.000">&#8226; Section 508 enforcement provisions . . . </textline>
+</normal_text>
+<normal_text bbox="133.220,352.246,657.672,376.246" id="2" size="24.0">&#8211; Agencies may be sued if their EIT purchases do not  <textline bbox="133.220,352.246,657.672,376.246" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Agencies may be sued if their EIT purchases do not  </textline>
+</normal_text>
+<normal_text bbox="133.220,133.341,689.545,157.365" id="5" size="24.024">&#8211; Also, media attention and audits by Office of Inspector  <textline bbox="133.220,133.341,689.545,157.365" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Also, media attention and audits by Office of Inspector  </textline>
+</normal_text>
+<normal_text bbox="155.780,294.646,686.492,347.446" id="3" size="24.0">comply with applicable Access Board standards unless  
+an exception has been documented <textline bbox="155.780,323.446,686.492,347.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">comply with applicable Access Board standards unless  </textline>
+<textline bbox="155.780,294.646,489.908,318.646" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">an exception has been documented </textline>
+</normal_text>
+<normal_text bbox="133.220,167.906,672.428,284.086" id="4" size="24.0">&#8211; Purchases situation applies to products and services 
+&#8211; Apparent enforcement loophole related to web pages  
+developed by civil service staff expected to be closed  
+by upcoming Executive Order/Memorandum <textline bbox="133.220,260.086,651.308,284.086" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Purchases situation applies to products and services </textline>
+<textline bbox="133.220,225.506,669.020,249.506" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Apparent enforcement loophole related to web pages  </textline>
+<textline bbox="155.780,196.706,672.428,220.706" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">developed by civil service staff expected to be closed  </textline>
+<textline bbox="155.780,167.906,588.020,191.906" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">by upcoming Executive Order/Memorandum </textline>
+</normal_text>
+<normal_text bbox="155.780,46.920,656.500,128.516" id="6" size="24.0">General, General Accounting Office, and other  
+oversight groups impose scrutiny on and re-enforce  
+accountability of agencies <textline bbox="155.780,104.516,610.820,128.516" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">General, General Accounting Office, and other  </textline>
+<textline bbox="155.780,75.720,656.500,99.720" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">oversight groups impose scrutiny on and re-enforce  </textline>
+<textline bbox="155.780,46.920,406.076,70.920" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">accountability of agencies </textline>
+</normal_text>
+</enlisting></page>
+</pages>
