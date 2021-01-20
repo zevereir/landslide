@@ -85,13 +85,13 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
             new_slide=apply(slide, moves)
             for solution in res[1]:
                 archetype=archs_to_use_per_slide[solution]
-                
+
                 placeholders = len(similarity_optimal(archetype,slide)[1])
                 if placeholders>amount_placeholders:
                     amount_placeholders=placeholders
                     best_archetype=list(master_archetypes[archetype])[0][0]
         responsivity=amount_placeholders/max(1,count_objects(slide))
-        if responsivity==0:
+        if responsivity<=0:
             best_archetype=11
         responsivities.append(responsivity)
         archetypes.append(best_archetype)
