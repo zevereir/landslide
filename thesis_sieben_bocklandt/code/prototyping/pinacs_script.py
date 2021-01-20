@@ -22,6 +22,7 @@ def main():
     parser.add_argument("--equal-size",action="store_true")
     parser.add_argument("--beam-size",default=None)
     parser.add_argument("--set",default="all")
+    parser.add_argument("--searcher",default="greedy")
     args = parser.parse_args()
 
     beam=args.beam_size
@@ -46,7 +47,7 @@ def main():
         categorized = "_categorized_morethanfive.xml"
         preparsed = "_preparsed_morethanfive.xml"
         set_name="morethanfive"
-    name_output = set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(
+    name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(
         args.equal_size)
     source = Path(args.data).resolve()
     force_override=args.force
@@ -57,7 +58,7 @@ def main():
     output = source
     if not (output / name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
-        results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam)
+        results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
         # scores = ppt_pdf_similarity(used_info, source / (data + preparsed), one_background)

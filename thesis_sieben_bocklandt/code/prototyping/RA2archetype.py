@@ -7,7 +7,7 @@ import thesis_sieben_bocklandt.code.prototyping.globals as glob
 from thesis_sieben_bocklandt.code.prototyping.search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
 from datetime import datetime
 
-def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
+def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_name):
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
@@ -63,7 +63,10 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam):
         ["b-y", "f-y", "m-y", "o-y", "s-y", "d-y", "eq-y"],
     ]
     archetypes=[]
-    searcher=GreedySearcher(interchangable,max_depth=cutoff, beam=beam)
+    if searcher_name=="greedy":
+        searcher=GreedySearcher(interchangable,max_depth=cutoff, beam=beam)
+    else:
+        searcher = BreadthSearcher(interchangable, max_depth=cutoff, beam=beam)
     for page in powerpoint.pages:
         start=datetime.now()
         slide=frozenset(Predicate.from_string_sieben(s) for s in page.RA)
