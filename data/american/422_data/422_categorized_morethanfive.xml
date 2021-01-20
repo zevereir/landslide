@@ -1,84 +1,338 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<title archetypal_index="0" bbox="65.592,388.982,654.243,485.827" id="0" size="44.052">Production, Harvesting, and  
-Sustainability of Woody Biomass <textline bbox="113.110,441.787,617.676,485.827" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Production, Harvesting, and  </textline>
-<textline bbox="65.592,388.982,654.243,433.046" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.064">Sustainability of Woody Biomass </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[293.86, 421.387, 426.112, 465.427]" rotate="0">
+<title archetypal_index="0" bbox="293.860,421.387,426.112,465.427" id="0" size="44.04">Outline <textline bbox="293.860,421.387,426.112,465.427" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Outline </textline>
 </title>
-<normal_text archetypal_index="1" bbox="187.420,188.723,532.491,204.683" id="1" size="15.96">Texas Cooperative Extension, Texas A&amp;M University <textline bbox="187.420,188.723,532.491,204.683" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Texas Cooperative Extension, Texas A&amp;M University </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="170.620,131.117,549.121,147.101" id="2" size="15.984">Warnell School of Forest Resources, University of Georgia <textline bbox="170.620,131.117,549.121,147.101" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.984">Warnell School of Forest Resources, University of Georgia </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="326.520,102.293,393.616,118.253" id="5" size="15.96">Tat Smith <textline bbox="326.520,102.293,393.616,118.253" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960">Tat Smith </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="225.340,73.497,494.362,89.457" id="6" size="15.96">Faculty of Forestry, University of Toronto <textline bbox="225.340,73.497,494.362,89.457" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="15.960">Faculty of Forestry, University of Toronto </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="267.460,15.744,452.428,42.144" id="7" size="12.0">Woody Biomass Outreach Training 
+<enlisting archetypal_index="1" bbox="61.224,226.331,353.984,375.271" id="1" size="27.96">&#8226; Introduction 
+&#8226; Forest Management 
+&#8226; Harvesting 
+&#8226; Low Impact Operations <textline bbox="61.224,347.311,226.738,375.271" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Introduction </textline>
+<textline bbox="61.224,306.991,311.009,334.951" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Forest Management </textline>
+<textline bbox="61.224,266.671,211.024,294.631" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Harvesting </textline>
+<textline bbox="61.224,226.331,353.984,254.291" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Low Impact Operations </textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="267.460,15.744,452.428,42.144" id="2" size="12.0">Woody Biomass Outreach Training 
 September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
 <textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
 </normal_text>
-<picture archetypal_index="6" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.jpg" width="145">
+<picture archetypal_index="3" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.0.jpg" width="145">
 </picture>
-<picture archetypal_index="7" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.81x73.bmp" width="81">
-</picture>
-<picture archetypal_index="8" bbox="120.000,266.040,225.960,372.000" height="105" name="Image16" src="Image16.jpg" width="105">
-</picture>
-<picture archetypal_index="9" bbox="282.000,261.480,418.680,372.000" caption="Darwin Foster &#10;Ben Jackson " height="110" name="Image18" src="Image18.jpg" width="136">
-</picture>
-<picture archetypal_index="10" bbox="474.000,264.000,576.000,366.000" height="102" name="Image20" src="Image20.198x198.bmp" width="102">
+<picture archetypal_index="4" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.0.81x73.bmp" width="81">
 </picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[166.946, 451.387, 547.0256666666668, 495.42699999999996]" rotate="0">
-<title archetypal_index="0" bbox="58.752,451.387,649.196,495.427" id="0" size="44.04">Planning for Sustainable Systems <textline bbox="58.752,451.387,649.196,495.427" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Planning for Sustainable Systems </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[275.14, 451.387, 444.85533333333336, 495.42699999999996]" rotate="0">
+<title archetypal_index="0" bbox="265.780,466.387,454.227,510.427" id="0" size="44.04">Objectives <textline bbox="265.780,466.387,454.227,510.427" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Objectives </textline>
 </title>
-<normal_text archetypal_index="1" bbox="139.220,299.050,249.092,317.050" id="1" size="18.0">Management <textline bbox="139.220,299.050,249.092,317.050" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.502, 0, 0)" size="18.000">Management </textline>
+<enlisting archetypal_index="1" bbox="55.2,154.883,652.051,417.301" id="1" size="27.96">&#8226; Describe the silvicultural practices appropriate for  <textline bbox="55.200,389.341,650.231,417.301" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Describe the silvicultural practices appropriate for  </textline>
+<normal_text bbox="55.200,311.143,594.830,383.671" id="2" size="29.46">biomass production in the southern forest 
+&#8226; Describe the biomass harvesting and pre- <textline bbox="82.224,355.711,545.773,383.671" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">biomass production in the southern forest </textline>
+<textline bbox="55.200,311.143,594.830,342.103" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.960">&#8226; Describe the biomass harvesting and pre- </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="337.270,281.050,429.736,299.050" id="2" size="18.0">Harvesting <textline bbox="337.270,281.050,429.736,299.050" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.502, 0, 0)" size="18.000">Harvesting </textline>
+<normal_text bbox="82.224,236.737,616.067,304.903" id="3" size="30.972">processing operations used in the southern  
+forest <textline bbox="82.224,273.943,616.067,304.903" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.960">processing operations used in the southern  </textline>
+<textline bbox="82.224,236.737,152.775,267.721" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.984">forest </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="115.220,89.004,360.218,107.004" id="3" size="18.0">Environmental sustainability <textline bbox="115.220,89.004,360.218,107.004" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.502, 0, 0)" size="18.000">Environmental sustainability </textline>
+<normal_text bbox="55.200,154.883,652.051,223.043" id="4" size="30.96">&#8226; Describe low-impact management operations  
+that enable sustainable biomass production <textline bbox="55.200,192.083,652.051,223.043" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.960">&#8226; Describe low-impact management operations  </textline>
+<textline bbox="82.224,154.883,614.303,185.843" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="30.960">that enable sustainable biomass production </textline>
 </normal_text>
-<picture archetypal_index="4" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.2.jpg" width="145">
-</picture>
-<picture archetypal_index="5" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.2.81x73.bmp" width="81">
-</picture>
-<picture archetypal_index="6" bbox="96.000,85.320,606.000,444.000" caption="Source: Martin Holmer &#10;Woody Biomass Outreach Training &#10;September 11-12, 2007 " height="358" name="Image33" src="Image33.jpg" width="510">
-</picture>
-<curve bbox="213.640,256.500,245.590,298.280" linewidth="2" pts="221.150,298.280,241.840,268.930,245.590,271.570,244.980,256.500,230.570,260.990,234.330,263.630,213.640,292.980" />
-<curve bbox="213.640,256.500,245.590,298.280" linewidth="0" pts="221.150,298.280,241.840,268.930,245.590,271.570,244.980,256.500,230.570,260.990,234.330,263.630,213.640,292.980" />
-<curve bbox="366.000,247.080,384.000,282.000" linewidth="2" pts="366.000,255.800,370.500,255.800,370.500,282.000,379.500,282.000,379.500,255.800,384.000,255.800,375.000,247.080" />
-<curve bbox="366.000,247.080,384.000,282.000" linewidth="0" pts="366.000,255.800,370.500,255.800,370.500,282.000,379.500,282.000,379.500,255.800,384.000,255.800,375.000,247.080" />
-<curve bbox="163.860,111.040,205.310,143.280" linewidth="0" pts="163.860,118.480,192.930,139.560,190.230,143.280,205.310,142.870,201.020,128.400,198.320,132.120,169.260,111.040" />
-<curve bbox="163.860,111.040,205.310,143.280" linewidth="0" pts="163.860,118.480,192.930,139.560,190.230,143.280,205.310,142.870,201.020,128.400,198.320,132.120,169.260,111.040" />
-</page>
-<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[161.37266666666667, 455.92033333333336, 555.3832857142858, 497.10319047619055]" rotate="0">
-<title archetypal_index="0" bbox="116.950,445.187,602.711,489.227" id="0" size="44.04">Sources of Woody Biomass <textline bbox="116.950,445.187,602.711,489.227" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Sources of Woody Biomass </textline>
-</title>
-<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="4" size="12.0">Woody Biomass Outreach Training 
+</enlisting>
+<normal_text archetypal_index="2" bbox="267.460,15.744,452.428,42.144" id="5" size="12.0">Woody Biomass Outreach Training 
 September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
 <textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
 </normal_text>
-<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.6.jpg" width="145">
+<picture archetypal_index="3" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.1.jpg" width="145">
 </picture>
-<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.6.81x73.bmp" width="81">
+<picture archetypal_index="4" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.1.81x73.bmp" width="81">
 </picture>
-<picture archetypal_index="4" bbox="342.000,162.000,678.000,408.000" height="246" name="Image45" src="Image45.jpg" width="336">
-</picture>
-<enlisting archetypal_index="5" bbox="49.704,172.516,332.952,401.055">&#8226; Logging residues 
-&#8226; Thinnings and other stand  
-improvement operations &#8226; Bioenergy plantations <normal_text bbox="49.704,319.416,332.952,401.055" id="1" size="24.008">&#8226; Logging residues 
-&#8226; Thinnings and other stand  
-improvement operations <textline bbox="49.704,377.031,242.998,401.055" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226; Logging residues </textline>
-<textline bbox="49.704,345.336,332.952,369.336" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Thinnings and other stand  </textline>
-<textline bbox="76.704,319.416,310.992,343.416" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">improvement operations </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[166.946, 451.387, 547.0256666666668, 495.42699999999996]" rotate="0">
+<title archetypal_index="0" bbox="200.500,150.653,519.372,190.637" id="0" size="39.984">Forest Management <textline bbox="200.500,150.653,519.372,190.637" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="39.984">Forest Management </textline>
+</title>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="1" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
 </normal_text>
-<normal_text bbox="49.704,172.516,287.952,196.516" id="3" size="24.0">&#8226; Bioenergy plantations <textline bbox="49.704,172.516,287.952,196.516" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Bioenergy plantations </textline>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.3.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.3.81x73.bmp" width="81">
+</picture>
+<picture archetypal_index="4" bbox="240.000,207.960,476.040,444.000" height="236" name="Image16" src="Image16.0.jpg" width="236">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[200.52759999999998, 457.0110000000001, 515.7218, 501.05100000000004]" rotate="0">
+<title archetypal_index="0" bbox="250.900,465.447,468.766,509.487" id="0" size="44.04">Introduction <textline bbox="250.900,465.447,468.766,509.487" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Introduction </textline>
+</title>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="5" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
 </normal_text>
-<normal_text bbox="49.704,204.196,325.545,311.736" id="2" size="24.006">&#8226; Underutilized species  
-&#8226; Stands severely damaged  
-by climatic events, fires,  
-insect or disease <textline bbox="49.704,287.736,290.280,311.736" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Underutilized species  </textline>
-<textline bbox="49.704,256.051,325.545,280.075" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226; Stands severely damaged  </textline>
-<textline bbox="76.704,230.116,318.048,254.116" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">by climatic events, fires,  </textline>
-<textline bbox="76.704,204.196,234.216,228.196" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">insect or disease </textline>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.4.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.4.81x73.bmp" width="81">
+</picture>
+<enlisting archetypal_index="4" bbox="32.712,157.931,695.97,414.421">&#8226; Largest potential is from residues or underutilized forest  &#8226; Currently constrained by lack of markets 
+&#8226; Relatively low-valued product 
+&#8226; Integrate production into silviculture and harvesting  <normal_text bbox="32.712,386.461,695.970,414.421" id="1" size="27.96">&#8226; Largest potential is from residues or underutilized forest  <textline bbox="32.712,386.461,695.970,414.421" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Largest potential is from residues or underutilized forest  </textline>
+</normal_text>
+<normal_text bbox="32.712,191.531,648.326,300.151" id="3" size="27.968">&#8226; Currently constrained by lack of markets 
+&#8226; Relatively low-valued product 
+&#8226; Integrate production into silviculture and harvesting  <textline bbox="32.712,272.191,516.914,300.151" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Currently constrained by lack of markets </textline>
+<textline bbox="32.712,231.865,399.992,259.849" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">&#8226; Relatively low-valued product </textline>
+<textline bbox="32.712,191.531,648.326,219.491" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Integrate production into silviculture and harvesting  </textline>
+</normal_text>
+<normal_text bbox="59.712,312.511,646.802,380.839" id="2" size="27.972">biomass 
+&#8211; Short-rotation bioenergy plantations more limited <textline bbox="59.712,352.855,151.360,380.839" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">biomass </textline>
+<textline bbox="68.712,312.511,646.802,340.471" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8211; Short-rotation bioenergy plantations more limited </textline>
+</normal_text>
+<normal_text bbox="59.712,157.931,159.054,185.891" id="4" size="27.96">practices <textline bbox="59.712,157.931,159.054,185.891" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">practices </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[179.14173333333332, 460.2136666666667, 536.4522000000001, 500.2536666666667]" rotate="0">
+<title archetypal_index="0" bbox="136.370,466.619,577.913,498.659" id="0" size="32.04">Forest Management for Bioenergy <textline bbox="136.370,466.619,577.913,498.659" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Forest Management for Bioenergy </textline>
+</title>
+<picture archetypal_index="1" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.5.jpg" width="145">
+</picture>
+<picture archetypal_index="2" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.5.81x73.bmp" width="81">
+</picture>
+<picture archetypal_index="3" bbox="108.000,98.760,607.920,450.000" caption="Source: Eija Alakangas, VTT Energy &#10;Woody Biomass Outreach Training &#10;September 11-12, 2007 " height="351" name="Image42" src="Image42.jpg" width="499">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[145.50231111111108, 449.16240000000005, 574.7354, 496.2248]" rotate="0">
+<title archetypal_index="0" bbox="85.872,428.404,643.188,507.604" id="0" size="36.0">Integrating Bioenergy Production into  
+Forest Management Objectives <textline bbox="85.872,471.604,643.188,507.604" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="36.000">Integrating Bioenergy Production into  </textline>
+<textline bbox="135.070,428.404,584.890,464.404" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="36.000">Forest Management Objectives </textline>
+</title>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="5" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.9.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.9.81x73.bmp" width="81">
+</picture>
+<enlisting archetypal_index="4" bbox="61.224,151.451,657.725,390.679">&#8226; Does bioenergy production assist another  &#8226; Integrate!  Evaluate the whole management  <normal_text bbox="61.224,362.695,557.656,390.679" id="1" size="27.984">&#8226; Does bioenergy production assist another  <textline bbox="61.224,362.695,557.656,390.679" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">&#8226; Does bioenergy production assist another  </textline>
+</normal_text>
+<normal_text bbox="61.224,181.691,581.718,209.651" id="3" size="27.96">&#8226; Integrate!  Evaluate the whole management  <textline bbox="61.224,181.691,581.718,209.651" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Integrate!  Evaluate the whole management  </textline>
+</normal_text>
+<normal_text bbox="88.224,218.546,657.725,360.391" id="2" size="25.5888">objective such as stand improvement for high- 
+value log production? 
+&#8211; Note: bioenergy production may help meet non-timber  
+goals such as fire protection, amenity values or wildlife  
+enhancement. <textline bbox="88.224,332.431,607.271,360.391" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">objective such as stand improvement for high- </textline>
+<textline bbox="88.224,302.191,332.287,330.151" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">value log production? </textline>
+<textline bbox="97.224,270.406,650.112,294.406">&#8211; Note: bioenergy production may help meet non-timber  <text bbox="97.224,270.406,109.224,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211;</text>
+<text bbox="119.780,270.406,135.788,294.406" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="24.000">N</text>
+<text bbox="135.788,270.406,147.788,294.406" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="24.000">o</text>
+<text bbox="147.788,270.406,154.460,294.406" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="24.000">t</text>
+<text bbox="154.460,270.406,165.116,294.406" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="24.000">e</text>
+<text bbox="165.116,270.406,173.108,294.406" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="24.000">:</text>
+<text bbox="179.060,270.406,191.060,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">b</text>
+<text bbox="191.060,270.406,197.732,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="197.732,270.406,209.732,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="209.732,270.406,220.388,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="220.388,270.406,232.388,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="232.388,270.406,243.044,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="243.116,270.406,251.108,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="250.676,270.406,262.676,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">g</text>
+<text bbox="262.676,270.406,274.676,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">y</text>
+<text bbox="274.676,270.406,280.676,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="280.436,270.406,292.436,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">p</text>
+<text bbox="292.436,270.406,300.428,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="300.428,270.406,312.428,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="312.428,270.406,324.428,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">d</text>
+<text bbox="324.428,270.406,336.428,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">u</text>
+<text bbox="336.428,270.406,347.084,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">c</text>
+<text bbox="347.132,270.406,353.804,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="353.804,270.406,360.476,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="360.548,270.406,372.548,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="372.548,270.406,384.548,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="384.548,270.406,390.548,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="390.308,270.406,408.980,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="408.812,270.406,419.468,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">a</text>
+<text bbox="419.468,270.406,431.468,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">y</text>
+<text bbox="431.468,270.406,437.468,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="437.468,270.406,449.468,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">h</text>
+<text bbox="449.468,270.406,460.124,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="460.124,270.406,466.796,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">l</text>
+<text bbox="466.868,270.406,478.868,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">p</text>
+<text bbox="478.868,270.406,484.868,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="484.748,270.406,503.420,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="503.252,270.406,513.908,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="513.908,270.406,524.564,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="524.564,270.406,531.236,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="531.308,270.406,537.308,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+<text bbox="537.308,270.406,549.308,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="549.308,270.406,561.308,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">o</text>
+<text bbox="561.308,270.406,573.308,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">n</text>
+<text bbox="573.460,270.406,581.452,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">-</text>
+<text bbox="581.520,270.406,588.192,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">t</text>
+<text bbox="588.192,270.406,594.864,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">i</text>
+<text bbox="594.936,270.406,613.608,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">m</text>
+<text bbox="613.416,270.406,625.416,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">b</text>
+<text bbox="625.416,270.406,636.072,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e</text>
+<text bbox="636.072,270.406,644.064,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">r</text>
+<text bbox="644.112,270.406,650.112,294.406" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="119.780,244.481,657.725,268.505" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">goals such as fire protection, amenity values or wildlife  </textline>
+<textline bbox="119.780,218.546,252.284,242.546" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">enhancement. </textline>
+</normal_text>
+<normal_text bbox="88.224,151.451,602.185,179.411" id="4" size="27.96">package, not just the biomass production part. <textline bbox="88.224,151.451,602.185,179.411" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">package, not just the biomass production part. </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[146.24334065934065, 446.21802197802197, 574.8648571428571, 493.94426373626374]" rotate="0">
+<title archetypal_index="0" bbox="120.190,409.099,607.647,479.539" id="0" size="32.04">Biomass Harvesting and Silvicultural  
+Implications <textline bbox="120.190,447.499,607.647,479.539" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Biomass Harvesting and Silvicultural  </textline>
+<textline bbox="279.820,409.099,440.084,441.139" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Implications </textline>
+</title>
+<normal_text archetypal_index="1" bbox="123.480,185.185,517.323,361.021" id="1" size="27.969600000000003">1. Timber harvesting residues 
+2. Small diameter woody biomass 
+3. Sanitation and salvage 
+4. Low value species 
+5. Short-rotation woody crops <textline bbox="123.480,333.061,469.014,361.021" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">1. Timber harvesting residues </textline>
+<textline bbox="123.480,296.095,517.323,324.079" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">2. Small diameter woody biomass </textline>
+<textline bbox="123.480,259.111,417.064,287.071" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">3. Sanitation and salvage </textline>
+<textline bbox="123.480,222.151,372.132,250.111" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">4. Low value species </textline>
+<textline bbox="123.480,185.185,473.340,213.169" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">5. Short-rotation woody crops </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="267.460,15.744,452.428,42.144" id="2" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
+</normal_text>
+<picture archetypal_index="3" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.13.jpg" width="145">
+</picture>
+<picture archetypal_index="4" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.13.81x73.bmp" width="81">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="16" mean_title="[150.3855619047619, 447.82881904761905, 570.6139428571428, 493.4635619047619]" rotate="0">
+<title archetypal_index="0" bbox="177.310,458.299,542.983,490.339" id="0" size="32.04">Timber Harvesting Residues <textline bbox="177.310,458.299,542.983,490.339" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Timber Harvesting Residues </textline>
+</title>
+<ref bbox="583.440,167.884,676.731,177.244" id="6" size="9.36">Source: Darwin Foster <textline bbox="583.440,167.884,676.731,177.244" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.360">Source: Darwin Foster </textline>
+</ref>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="7" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.14.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.14.81x73.bmp" width="81">
+</picture>
+<enlisting archetypal_index="4" bbox="43.2,170.066,340.176,438.916">&#8226; During a harvesting  &#8226; About 65% of total logging  <normal_text bbox="43.200,414.916,266.952,438.916" id="1" size="24.0">&#8226; During a harvesting  <textline bbox="43.200,414.916,266.952,438.916" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; During a harvesting  </textline>
+</normal_text>
+<normal_text bbox="43.200,305.446,340.176,329.446" id="3" size="24.0">&#8226; About 65% of total logging  <textline bbox="43.200,305.446,340.176,329.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; About 65% of total logging  </textline>
+</normal_text>
+<normal_text bbox="70.224,337.126,334.008,412.996" id="2" size="24.008">operation, often 25 to 45%  
+of the tree&#8217;s biomass is left  
+on site as residues. <textline bbox="70.224,388.996,332.568,412.996" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">operation, often 25 to 45%  </textline>
+<textline bbox="70.224,363.071,334.008,387.095" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">of the tree&#8217;s biomass is left  </textline>
+<textline bbox="70.224,337.126,250.224,361.126" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">on site as residues. </textline>
+</normal_text>
+<normal_text bbox="70.224,227.666,284.544,303.526" id="4" size="24.008">residues can easily be  
+recovered for use as  
+bioenergy <textline bbox="70.224,279.526,284.544,303.526" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">residues can easily be  </textline>
+<textline bbox="70.224,253.601,268.758,277.625" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">recovered for use as  </textline>
+<textline bbox="70.224,227.666,165.840,251.666" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">bioenergy </textline>
+</normal_text>
+<normal_text bbox="43.200,170.066,312.624,219.986" id="5" size="24.0">&#8226; This is about 20-40 tons  
+per acre, on a green basis <textline bbox="43.200,195.986,308.186,219.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; This is about 20-40 tons  </textline>
+<textline bbox="70.224,170.066,312.624,194.066" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">per acre, on a green basis </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="17" mean_title="[153.73611666666665, 448.82509166666665, 567.08895, 492.76049166666667]" rotate="0">
+<title archetypal_index="0" bbox="177.190,455.799,542.414,487.839" id="0" size="32.04">Timber Harvesting Residues <textline bbox="177.190,455.799,542.414,487.839" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Timber Harvesting Residues </textline>
+</title>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="3" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.15.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.15.81x73.bmp" width="81">
+</picture>
+<enlisting archetypal_index="4" bbox="37.2,163.106,680.074,420.661">&#8226; Easier when using even-aged silvicultural  
+prescriptions, for example clearcutting. 
+&#8211; Whole tree vs. log harvesting followed by residue collection 
+&#8211; Transpiration drying  &#8226; May be less feasible and profitable with uneven-aged  
+silvicultural systems, for example single-tree selection. 
+&#8211; Group selection is an intermediate option <normal_text bbox="37.200,298.966,674.448,420.661" id="1" size="25.986">&#8226; Easier when using even-aged silvicultural  
+prescriptions, for example clearcutting. 
+&#8211; Whole tree vs. log harvesting followed by residue collection 
+&#8211; Transpiration drying  <textline bbox="37.200,392.701,539.007,420.661" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Easier when using even-aged silvicultural  </textline>
+<textline bbox="64.224,362.455,503.013,390.439" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">prescriptions, for example clearcutting. </textline>
+<textline bbox="73.224,330.646,674.448,354.646" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Whole tree vs. log harvesting followed by residue collection </textline>
+<textline bbox="73.224,298.966,298.752,322.966" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Transpiration drying  </textline>
+</normal_text>
+<normal_text bbox="37.200,163.106,680.074,253.091" id="2" size="26.64">&#8226; May be less feasible and profitable with uneven-aged  
+silvicultural systems, for example single-tree selection. 
+&#8211; Group selection is an intermediate option <textline bbox="37.200,225.131,668.538,253.091" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; May be less feasible and profitable with uneven-aged  </textline>
+<textline bbox="64.224,194.891,680.074,222.851" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">silvicultural systems, for example single-tree selection. </textline>
+<textline bbox="73.224,163.106,491.904,187.106" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Group selection is an intermediate option </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="19" mean_title="[144.0436470588235, 451.12884313725493, 576.5180392156863, 492.50123529411763]" rotate="0">
+<title archetypal_index="0" bbox="70.632,450.054,648.906,482.118" id="0" size="32.064">Potential Disadvantages of Residue Removal <textline bbox="70.632,450.054,648.906,482.118" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Potential Disadvantages of Residue Removal </textline>
+</title>
+<normal_text archetypal_index="1" bbox="267.460,15.744,452.428,42.144" id="8" size="12.0">Woody Biomass Outreach Training 
+September 11-12, 2007 <textline bbox="267.460,30.144,452.428,42.144" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">Woody Biomass Outreach Training </textline>
+<textline bbox="297.460,15.744,422.544,27.744" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">September 11-12, 2007 </textline>
+</normal_text>
+<picture archetypal_index="2" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.17.jpg" width="145">
+</picture>
+<picture archetypal_index="3" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.17.81x73.bmp" width="81">
+</picture>
+<enlisting archetypal_index="4" bbox="61.224,124.085,630.86,411.319">&#8226; Removal of nutrients &#8211; Returning ash is often advocated.  
+&#8211; Retaining leaves and twigs reduces nutrient removals &#8226; Biological diversity &#8211; Can be affected by management  &#8226; Erosion and sedimentation &#8211; Site specific; minimize through planning etc &#8226; Damage to advanced regeneration <normal_text bbox="61.224,383.335,324.465,411.319" id="1" size="27.984">&#8226; Removal of nutrients <textline bbox="61.224,383.335,324.465,411.319" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">&#8226; Removal of nutrients </textline>
+</normal_text>
+<normal_text bbox="97.224,314.086,630.860,372.646" id="2" size="24.0">&#8211; Returning ash is often advocated.  
+&#8211; Retaining leaves and twigs reduces nutrient removals <textline bbox="97.224,348.646,446.204,372.646" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Returning ash is often advocated.  </textline>
+<textline bbox="97.224,314.086,630.860,338.086" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Retaining leaves and twigs reduces nutrient removals </textline>
+</normal_text>
+<normal_text bbox="61.224,273.871,309.499,301.831" id="3" size="27.96">&#8226; Biological diversity <textline bbox="61.224,273.871,309.499,301.831" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Biological diversity </textline>
+</normal_text>
+<normal_text bbox="97.224,239.201,434.110,263.225" id="4" size="24.024">&#8211; Can be affected by management  <textline bbox="97.224,239.201,434.110,263.225" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; Can be affected by management  </textline>
+</normal_text>
+<normal_text bbox="61.224,198.971,386.501,226.931" id="5" size="27.96">&#8226; Erosion and sedimentation <textline bbox="61.224,198.971,386.501,226.931" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Erosion and sedimentation </textline>
+</normal_text>
+<normal_text bbox="97.224,164.306,544.820,188.306" id="6" size="24.0">&#8211; Site specific; minimize through planning etc <textline bbox="97.224,164.306,544.820,188.306" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; Site specific; minimize through planning etc </textline>
+</normal_text>
+<normal_text bbox="61.224,124.085,469.366,152.069" id="7" size="27.984">&#8226; Damage to advanced regeneration <textline bbox="61.224,124.085,469.366,152.069" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">&#8226; Damage to advanced regeneration </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="26" mean_title="[153.04754666666665, 454.30997, 544.6932566666666, 491.11293000000006]" rotate="0">
+<title archetypal_index="0" bbox="279.460,464.299,440.429,496.339" id="0" size="32.04">Planted Pine <textline bbox="279.460,464.299,440.429,496.339" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Planted Pine </textline>
+</title>
+<picture archetypal_index="1" bbox="6.000,8.040,151.800,66.000" height="57" name="Image6" src="Image6.24.jpg" width="145">
+</picture>
+<picture archetypal_index="2" bbox="630.000,11.000,711.000,84.000" height="73" name="Image7" src="Image7.24.81x73.bmp" width="81">
+</picture>
+<picture archetypal_index="3" bbox="294.000,143.280,705.000,414.000" caption="Source: Darwin Foster &#10;Woody Biomass Outreach Training &#10;September 11-12, 2007 " height="270" name="Image100" src="Image100.jpg" width="411">
+</picture>
+<enlisting archetypal_index="4" bbox="21.336,139.671,272.976,414.286">&#8226; About 25% owned by  &#8226; Often intensively  &#8226; Will account for 1/4 of  
+the South&#8217;s forests by  
+2040. &#8226; Most plantations are  
+owned by industry or  
+TIMOs <normal_text bbox="21.336,223.196,264.312,247.196" id="3" size="24.0">&#8226; About 25% owned by  <textline bbox="21.336,223.196,264.312,247.196" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; About 25% owned by  </textline>
+</normal_text>
+<normal_text bbox="21.336,165.596,220.368,189.596" id="5" size="24.0">&#8226; Often intensively  <textline bbox="21.336,165.596,220.368,189.596" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Often intensively  </textline>
+</normal_text>
+<normal_text bbox="21.336,254.901,272.976,414.286">&#8226; Will account for 1/4 of  
+the South&#8217;s forests by  
+2040. &#8226; Most plantations are  
+owned by industry or  
+TIMOs <normal_text bbox="21.336,338.426,272.976,414.286" id="1" size="24.008">&#8226; Will account for 1/4 of  
+the South&#8217;s forests by  
+2040. <textline bbox="21.336,390.286,272.976,414.286" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Will account for 1/4 of  </textline>
+<textline bbox="48.336,364.361,261.693,388.385" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">the South&#8217;s forests by  </textline>
+<textline bbox="48.336,338.426,102.336,362.426" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">2040. </textline>
+</normal_text>
+<normal_text bbox="21.336,254.901,259.056,330.746" id="2" size="24.008">&#8226; Most plantations are  
+owned by industry or  
+TIMOs <textline bbox="21.336,306.746,250.224,330.746" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Most plantations are  </textline>
+<textline bbox="48.336,280.826,259.056,304.826" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">owned by industry or  </textline>
+<textline bbox="48.336,254.901,119.063,278.925" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">TIMOs </textline>
+</normal_text>
+</normal_text><normal_text bbox="48.336,197.276,109.680,221.276" id="4" size="24.0">NIPFs <textline bbox="48.336,197.276,109.680,221.276" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">NIPFs </textline>
+</normal_text>
+<normal_text bbox="48.336,139.671,134.846,163.695" id="6" size="24.024">managed <textline bbox="48.336,139.671,134.846,163.695" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">managed </textline>
 </normal_text>
 </enlisting></page>
 </pages>

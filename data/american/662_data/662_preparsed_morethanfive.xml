@@ -1,196 +1,242 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[135.44414285714285, 446.2858571428571, 582.4088928571427, 502.09978571428576]" rotate="0">
-<title archetypal_index="0" bbox="139.630,469.292,580.206,513.332" id="0" size="44.04">Vegetation Treatments <textline bbox="139.630,469.292,580.206,513.332" colourspace="Pattern" font="ArialMT" ncolour="0" size="44.040">Vegetation Treatments </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="120.790,377.640,615.068,456.879" id="0" size="36.012">Newly-Formed Redoximorphic  
+Features in Soils <textline bbox="120.790,420.855,615.068,456.879" colourspace="Pattern" font="ArialMT" ncolour="0" size="36.024">Newly-Formed Redoximorphic  </textline>
+<textline bbox="228.940,377.640,496.996,413.640" colourspace="Pattern" font="ArialMT" ncolour="0" size="36.000">Features in Soils </textline>
 </title>
-<enlisting archetypal_index="1" bbox="331.270,230.338,627.303,258.298" id="4" size="27.96">- oxidized rhyzospheres <textline bbox="331.270,230.338,627.303,258.298" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">- oxidized rhyzospheres </textline>
-</enlisting>
-<normal_text archetypal_index="2" bbox="355.270,17.004,682.168,35.004" id="6" size="18.0">Barnyard Grass (Echnichloa crusgalli L.)  <textline bbox="355.270,17.004,682.168,35.004" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Barnyard Grass (Echnichloa crusgalli L.)  </textline>
+<normal_text archetypal_index="1" bbox="214.660,228.760,511.270,294.760" id="1" size="30.0">Rosalynd S. Orr 
+University of Maryland <textline bbox="256.420,264.760,469.510,294.760" colourspace="Pattern" font="ArialMT" ncolour="0" size="30.000">Rosalynd S. Orr </textline>
+<textline bbox="214.660,228.760,511.270,258.760" colourspace="Pattern" font="ArialMT" ncolour="0" size="30.000">University of Maryland </textline>
 </normal_text>
-<picture archetypal_index="3" bbox="18.000,180.000,234.000,462.000" caption="Soft Rush (Juncus effusus L.) " height="282" name="Image50" src="Image50.jpg" width="216">
+<normal_text archetypal_index="2" bbox="175.030,31.464,563.544,145.637" id="2" size="24.006">9th Annual Wetlands and Watershed  
+Workshop 
+Atlantic City, New Jersey 
+October 24, 2006 <textline bbox="175.030,120.765,563.544,145.637">9th Annual Wetlands and Watershed  <text bbox="175.030,120.765,188.387,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">9</text>
+<text bbox="188.380,129.653,192.824,145.637" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">t</text>
+<text bbox="192.820,129.653,201.707,145.637" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.984">h</text>
+<text bbox="207.100,120.765,223.124,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">A</text>
+<text bbox="223.124,120.765,236.481,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">n</text>
+<text bbox="236.385,120.765,249.743,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">n</text>
+<text bbox="249.743,120.765,263.100,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">u</text>
+<text bbox="263.028,120.765,276.385,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">a</text>
+<text bbox="276.385,120.765,281.719,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">l</text>
+<text bbox="281.622,120.765,288.301,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024"> </text>
+<text bbox="288.565,120.765,311.244,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">W</text>
+<text bbox="310.764,120.765,324.121,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">e</text>
+<text bbox="324.121,120.765,330.800,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">t</text>
+<text bbox="330.800,120.765,336.133,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">l</text>
+<text bbox="336.133,120.765,349.490,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">a</text>
+<text bbox="349.394,120.765,362.751,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">n</text>
+<text bbox="362.751,120.765,376.109,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">d</text>
+<text bbox="376.037,120.765,388.049,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">s</text>
+<text bbox="388.049,120.765,394.727,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024"> </text>
+<text bbox="394.848,120.765,408.205,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">a</text>
+<text bbox="408.205,120.765,421.562,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">n</text>
+<text bbox="421.490,120.765,434.848,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">d</text>
+<text bbox="434.848,120.765,441.526,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024"> </text>
+<text bbox="441.622,120.765,464.301,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">W</text>
+<text bbox="463.460,120.765,476.817,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">a</text>
+<text bbox="476.817,120.765,483.496,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">t</text>
+<text bbox="483.496,120.765,496.853,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">e</text>
+<text bbox="496.853,120.765,504.853,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">r</text>
+<text bbox="504.853,120.765,516.865,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">s</text>
+<text bbox="516.865,120.765,530.223,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">h</text>
+<text bbox="530.223,120.765,543.580,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">e</text>
+<text bbox="543.508,120.765,556.865,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">d</text>
+<text bbox="556.865,120.765,563.544,144.789" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024"> </text>
+</textline>
+<textline bbox="312.240,94.824,419.808,118.824" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Workshop </textline>
+<textline bbox="234.220,63.144,497.812,87.144" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Atlantic City, New Jersey </textline>
+<textline bbox="273.340,31.464,458.644,55.464" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">October 24, 2006 </textline>
+</normal_text>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[72.072, 459.708, 647.776, 499.668]" rotate="0">
+<title archetypal_index="0" bbox="72.072,459.708,647.776,499.668" id="0" size="39.96">Redoximorphic Features in Soils <textline bbox="72.072,459.708,647.776,499.668" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">Redoximorphic Features in Soils </textline>
+</title>
+<picture archetypal_index="1" bbox="30.000,80.040,318.000,420.000" height="339" name="Image20" src="Image20.jpg" width="288">
 </picture>
-<picture archetypal_index="4" bbox="312.000,45.000,630.000,258.000" height="213" name="Image51" src="Image51.jpg" width="318">
-</picture>
-<enlisting archetypal_index="5" bbox="259.25,270.678,652.386,453.228">&#8226; Three vegetation treatments:  
-&#8226; 1) control, non-vegetated  
-&#8226; 2) Echnichloa crusgalli  &#8226; 3) Juncus Effusus (soft rush) <normal_text bbox="259.250,344.598,652.386,453.228" id="1" size="27.968">&#8226; Three vegetation treatments:  
-&#8226; 1) control, non-vegetated  
-&#8226; 2) Echnichloa crusgalli  <textline bbox="259.250,425.268,652.386,453.228" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Three vegetation treatments:  </textline>
-<textline bbox="259.250,384.943,605.849,412.927" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">&#8226; 1) control, non-vegetated  </textline>
-<textline bbox="259.250,344.598,574.378,372.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; 2) Echnichloa crusgalli  </textline>
+<enlisting archetypal_index="2" bbox="325.27,73.2,705.886,414.07">&#8226; Extended periods of saturation  
+can cause anaerobic conditions  
+to develop leading to the  
+formation of redoximorphic  
+features in the soil profile. &#8226; Features occurring in the upper  
+part of the soil profile may be  
+indicative of hydric soil  
+conditions. &#8226; Major criteria for developing field  
+indicators for identifying and  
+delineating hydric soils 
+&#8226; Morphological evidence  <normal_text bbox="325.270,297.890,695.117,414.070" id="1" size="24.0048">&#8226; Extended periods of saturation  
+can cause anaerobic conditions  
+to develop leading to the  
+formation of redoximorphic  
+features in the soil profile. <textline bbox="325.270,390.070,684.454,414.070" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8226; Extended periods of saturation  </textline>
+<textline bbox="352.270,367.025,695.117,391.049" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">can cause anaerobic conditions  </textline>
+<textline bbox="352.270,343.970,620.662,367.970" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">to develop leading to the  </textline>
+<textline bbox="352.270,320.930,642.766,344.930" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">formation of redoximorphic  </textline>
+<textline bbox="352.270,297.890,625.702,321.890" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">features in the soil profile. </textline>
 </normal_text>
-<normal_text bbox="259.250,270.678,642.097,298.638" id="3" size="27.96">&#8226; 3) Juncus Effusus (soft rush) <textline bbox="259.250,270.678,642.097,298.638" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; 3) Juncus Effusus (soft rush) </textline>
+<normal_text bbox="325.270,199.940,692.398,293.090" id="2" size="24.006">&#8226; Features occurring in the upper  
+part of the soil profile may be  
+indicative of hydric soil  
+conditions. <textline bbox="325.270,269.090,692.398,293.090" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8226; Features occurring in the upper  </textline>
+<textline bbox="352.270,246.045,667.032,270.069" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">part of the soil profile may be  </textline>
+<textline bbox="352.270,222.980,599.038,246.980" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">indicative of hydric soil  </textline>
+<textline bbox="352.270,199.940,466.870,223.940" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">conditions. </textline>
 </normal_text>
-<normal_text bbox="286.250,310.998,492.008,338.958" id="2" size="27.96">(barnyard grass) <textline bbox="286.250,310.998,492.008,338.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">(barnyard grass) </textline>
+<normal_text bbox="325.270,96.240,705.886,195.140" id="3" size="24.006">&#8226; Major criteria for developing field  
+indicators for identifying and  
+delineating hydric soils 
+&#8226; Morphological evidence  <textline bbox="325.270,171.140,705.886,195.140" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8226; Major criteria for developing field  </textline>
+<textline bbox="352.270,148.100,657.790,172.100" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">indicators for identifying and  </textline>
+<textline bbox="352.270,125.055,593.975,149.079" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">delineating hydric soils </textline>
+<textline bbox="325.270,96.240,611.134,120.240" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8226; Morphological evidence  </textline>
+</normal_text>
+<normal_text bbox="352.270,73.200,670.030,97.200" id="4" size="24.0">documenting wetland function <textline bbox="352.270,73.200,670.030,97.200" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">documenting wetland function </textline>
 </normal_text>
 </enlisting></page>
-<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[201.7918222222222, 448.92033333333336, 614.9495555555555, 504.1377333333334]" rotate="0">
-<normal_text archetypal_index="0" bbox="19.968,480.230,218.845,519.869" id="0" size="18.012">Assembled Mesocosm  
-Schematic <textline bbox="19.968,501.845,218.845,519.869" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="18.024">Assembled Mesocosm  </textline>
-<textline bbox="72.072,480.230,161.964,498.230" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="18.000">Schematic </textline>
-</normal_text>
-<title archetypal_index="1" bbox="523.300,458.235,687.433,521.532" id="2" size="18.688">8 week dry cycle: 
-reservoir drained,  
-core unsaturated <textline bbox="523.300,501.492,687.433,521.532" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="20.040">8 week dry cycle: </textline>
-<textline bbox="523.300,479.840,668.056,497.840" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">reservoir drained,  </textline>
-<textline bbox="523.300,458.235,658.156,476.259" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">core unsaturated </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[52.824000000000005, 355.44800000000004, 648.1179999999999, 509.24800000000005]" rotate="0">
+<title archetypal_index="0" bbox="43.200,303.318,648.289,514.038" id="0" size="31.968000000000004">Newly-Formed Redoximorphic  
+Features in Soils 
+&#8226; Quantity and nature of redoximorphic features  
+can be affected by soil texture, mineralogy,  
+temperature, organic carbon content, and  
+vegetation <textline bbox="91.152,474.078,639.793,514.038" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">Newly-Formed Redoximorphic  </textline>
+<textline bbox="211.060,426.078,508.762,466.038" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">Features in Soils </textline>
+<textline bbox="43.200,383.983,648.289,411.967" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">&#8226; Quantity and nature of redoximorphic features  </textline>
+<textline bbox="70.224,357.103,608.104,385.087" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">can be affected by soil texture, mineralogy,  </textline>
+<textline bbox="70.224,330.198,592.237,358.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">temperature, organic carbon content, and  </textline>
+<textline bbox="70.224,303.318,199.539,331.278" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">vegetation </textline>
 </title>
-<normal_text archetypal_index="2" bbox="107.470,288.242,150.980,335.882" id="4" size="14.04">40 cm  
-soil  
-core <textline bbox="107.470,321.842,150.980,335.882" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">40 cm  </textline>
-<textline bbox="107.470,305.042,135.578,319.082" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">soil  </textline>
-<textline bbox="107.470,288.242,137.094,302.282" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">core </textline>
+<enlisting archetypal_index="1" bbox="43.2,76.584,670.548,297.678">&#8226; Limited knowledge exists regarding the rate of  &#8226; Problem settings: &#8211; recently deposited, exposed, or saturated soil  &#8211; disturbed areas where hydrology has been altered or  &#8211; wetland restoration or wetland construction projects <normal_text bbox="43.200,269.718,649.835,297.678" id="1" size="27.96">&#8226; Limited knowledge exists regarding the rate of  <textline bbox="43.200,269.718,649.835,297.678" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Limited knowledge exists regarding the rate of  </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="259.250,209.030,288.266,227.030" id="6" size="18.0">cap <textline bbox="259.250,209.030,288.266,227.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">cap </textline>
+<normal_text bbox="43.200,209.218,286.690,237.178" id="3" size="27.96">&#8226; Problem settings: <textline bbox="43.200,209.218,286.690,237.178" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Problem settings: </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="271.250,167.030,320.138,185.030" id="7" size="18.0">tubing <textline bbox="271.250,167.030,320.138,185.030" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">tubing </textline>
+<normal_text bbox="79.224,180.290,591.380,204.290" id="4" size="24.0">&#8211; recently deposited, exposed, or saturated soil  <textline bbox="79.224,180.290,591.380,204.290" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; recently deposited, exposed, or saturated soil  </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="439.270,350.642,532.819,431.912" id="8" size="14.044799999999999">Water level at  
-soil surface  
-(equates with  
-level in  
-reservoir) <textline bbox="439.270,417.872,532.819,431.912" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">Water level at  </textline>
-<textline bbox="439.270,401.072,520.885,415.112" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">soil surface  </textline>
-<textline bbox="439.270,384.272,532.566,398.312" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">(equates with  </textline>
-<textline bbox="439.270,367.467,490.575,381.531" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.064">level in  </textline>
-<textline bbox="439.270,350.642,504.022,364.682" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">reservoir) </textline>
+<normal_text bbox="79.224,128.445,670.548,152.469" id="6" size="24.024">&#8211; disturbed areas where hydrology has been altered or  <textline bbox="79.224,128.445,670.548,152.469" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">&#8211; disturbed areas where hydrology has been altered or  </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="427.270,173.508,505.362,189.468" id="9" size="15.96">Drain hole <textline bbox="427.270,173.508,505.362,189.468" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">Drain hole </textline>
+<normal_text bbox="79.224,76.584,648.956,100.584" id="8" size="24.0">&#8211; wetland restoration or wetland construction projects <textline bbox="79.224,76.584,648.956,100.584" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; wetland restoration or wetland construction projects </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="632.060,159.667,709.378,240.912" id="10" size="14.044799999999999">Water level  
-below soil  
-core,  
-oxidizing  
-cycle  <textline bbox="632.060,226.872,709.378,240.912" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">Water level  </textline>
-<textline bbox="632.060,210.072,703.467,224.112" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">below soil  </textline>
-<textline bbox="632.060,193.272,669.533,207.312" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">core,  </textline>
-<textline bbox="632.060,176.472,696.658,190.512" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">oxidizing  </textline>
-<textline bbox="632.060,159.667,670.638,173.731" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.064">cycle  </textline>
+<normal_text bbox="70.224,242.833,509.685,270.817" id="2" size="27.984">redoximorphic feature development <textline bbox="70.224,242.833,509.685,270.817" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">redoximorphic feature development </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="20.208,20.244,135.768,146.270" id="11" size="18.0">40 cm x 15  
-cm soil core,  
-extracted with  
-PVC sleeve  
-(50 cm in  
-length) <textline bbox="20.208,128.270,113.142,146.270" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">40 cm x 15  </textline>
-<textline bbox="20.208,106.670,126.102,124.670" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">cm soil core,  </textline>
-<textline bbox="20.208,85.068,135.768,103.068" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">extracted with  </textline>
-<textline bbox="20.208,63.444,119.064,81.444" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">PVC sleeve  </textline>
-<textline bbox="20.208,41.844,99.102,59.844" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">(50 cm in  </textline>
-<textline bbox="20.208,20.244,75.054,38.244" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">length) </textline>
+<normal_text bbox="101.780,157.250,435.092,181.250" id="5" size="24.0">materials such as in floodplains <textline bbox="101.780,157.250,435.092,181.250" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">materials such as in floodplains </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="156.240,21.228,234.198,125.630" id="12" size="18.0">Sleeved  
-soil core,  
-PVC cap  
-sealed to  
-bottom <textline bbox="156.240,107.630,226.098,125.630" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Sleeved  </textline>
-<textline bbox="156.240,86.028,233.190,104.028" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">soil core,  </textline>
-<textline bbox="156.240,64.428,232.218,82.428" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">PVC cap  </textline>
-<textline bbox="156.240,42.828,234.198,60.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">sealed to  </textline>
-<textline bbox="156.240,21.228,211.230,39.228" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">bottom </textline>
-</normal_text>
-<normal_text archetypal_index="10" bbox="313.250,18.996,450.932,145.020" id="13" size="18.004">Water reservoir /  
-tubing attached,  
-filled to level of  
-soil surface (10  
-cm below top of  
-sleeve) <textline bbox="313.250,127.020,450.932,145.020" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Water reservoir /  </textline>
-<textline bbox="313.250,105.420,446.432,123.420" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">tubing attached,  </textline>
-<textline bbox="313.250,83.815,437.562,101.839" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">filled to level of  </textline>
-<textline bbox="313.250,62.196,440.510,80.196" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">soil surface (10  </textline>
-<textline bbox="313.250,40.596,444.452,58.596" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">cm below top of  </textline>
-<textline bbox="313.250,18.996,371.210,36.996" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">sleeve) </textline>
-</normal_text>
-<normal_text archetypal_index="11" bbox="493.300,18.703,589.150,101.508" id="14" size="18.006">Reservoir  
-lowered, all  
-free water  
-drained <textline bbox="493.300,83.508,575.128,101.508" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">Reservoir  </textline>
-<textline bbox="493.300,61.908,589.150,79.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">lowered, all  </textline>
-<textline bbox="493.300,40.308,577.864,58.308" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">free water  </textline>
-<textline bbox="493.300,18.703,553.122,36.727" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">drained </textline>
-</normal_text>
-<curve bbox="312.000,156.000,372.000,378.000" linewidth="0" pts="372.000,198.000,353.000,177.000,334.000,156.000,324.000,186.000,314.000,216.000,313.000,347.000,312.000,378.000" />
-<curve bbox="324.000,156.000,384.000,378.000" linewidth="0" pts="384.000,198.000,365.000,177.000,346.000,156.000,336.000,186.000,326.000,216.000,325.000,347.000,324.000,378.000" />
-<curve bbox="330.000,407.530,348.000,438.000" linewidth="0" pts="330.750,407.800,330.700,408.860,330.680,409.930,330.680,411.000,330.680,424.780,334.410,435.960,339.000,435.960,343.590,435.960,347.320,424.780,347.320,411.000,347.320,409.930,347.290,408.860,347.250,407.800,347.920,407.530,347.970,408.680,348.000,409.840,348.000,411.000,348.000,425.910,343.970,438.000,339.000,438.000,334.030,438.000,330.000,425.910,330.000,411.000,330.000,409.840,330.020,408.680,330.070,407.530" />
-<curve bbox="330.000,407.530,348.000,438.000" linewidth="0" pts="330.750,407.800,330.700,408.860,330.680,409.930,330.680,411.000,330.680,424.780,334.410,435.960,339.000,435.960,343.590,435.960,347.320,424.780,347.320,411.000,347.320,409.930,347.290,408.860,347.250,407.800,347.920,407.530,347.970,408.680,348.000,409.840,348.000,411.000,348.000,425.910,343.970,438.000,339.000,438.000,334.030,438.000,330.000,425.910,330.000,411.000,330.000,409.840,330.020,408.680,330.070,407.530" />
-<curve bbox="342.000,222.000,408.000,435.310" linewidth="0" pts="342.000,435.310,342.000,430.510,356.770,426.620,375.000,426.620,393.230,426.620,408.000,430.510,408.000,435.310,408.000,230.690,408.000,225.890,393.230,222.000,375.000,222.000,356.770,222.000,342.000,225.890,342.000,230.690" />
-<curve bbox="342.000,426.620,408.000,444.000" linewidth="0" pts="342.000,435.310,342.000,440.110,356.770,444.000,375.000,444.000,393.230,444.000,408.000,440.110,408.000,435.310,408.000,430.510,393.230,426.620,375.000,426.620,356.770,426.620,342.000,430.510,342.000,435.310" />
-<curve bbox="342.000,222.000,408.000,444.000" linewidth="0" pts="408.000,435.310,408.000,430.510,393.230,426.620,375.000,426.620,356.770,426.620,342.000,430.510,342.000,435.310,342.000,440.110,356.770,444.000,375.000,444.000,393.230,444.000,408.000,440.110,408.000,435.310,408.000,230.690,408.000,225.890,393.230,222.000,375.000,222.000,356.770,222.000,342.000,225.890,342.000,230.690,342.000,435.310" />
-<curve bbox="336.000,204.000,414.000,246.000" linewidth="0" pts="414.000,246.000,414.000,225.000,414.000,213.400,396.540,204.000,375.000,204.000,353.460,204.000,336.000,213.400,336.000,225.000,336.000,246.000" />
-<curve bbox="336.000,204.000,414.000,246.000" linewidth="0" pts="414.000,246.000,414.000,225.000,414.000,213.400,396.540,204.000,375.000,204.000,353.460,204.000,336.000,213.400,336.000,225.000,336.000,246.000" />
-<curve bbox="348.000,426.000,402.000,438.000" linewidth="0" pts="348.000,432.000,348.000,435.310,360.090,438.000,375.000,438.000,389.910,438.000,402.000,435.310,402.000,432.000,402.000,428.690,389.910,426.000,375.000,426.000,360.090,426.000,348.000,428.690,348.000,432.000" />
-<curve bbox="348.000,426.000,402.000,438.000" linewidth="0" pts="348.000,432.000,348.000,435.310,360.090,438.000,375.000,438.000,389.910,438.000,402.000,435.310,402.000,432.000,402.000,428.690,389.910,426.000,375.000,426.000,360.090,426.000,348.000,428.690,348.000,432.000" />
-<curve bbox="300.000,342.000,336.000,408.000" linewidth="0" pts="305.790,408.000,330.210,408.000,333.410,408.000,336.000,393.230,336.000,375.000,336.000,356.770,333.410,342.000,330.210,342.000,305.790,342.000,302.590,342.000,300.000,356.770,300.000,375.000,300.000,393.230,302.590,408.000,305.790,408.000" />
-<curve bbox="300.000,342.000,336.000,408.000" linewidth="0" pts="305.790,408.000,330.210,408.000,333.410,408.000,336.000,393.230,336.000,375.000,336.000,356.770,333.410,342.000,330.210,342.000,305.790,342.000,302.590,342.000,300.000,356.770,300.000,375.000,300.000,393.230,302.590,408.000,305.790,408.000" />
-<rect bbox="306.000,408.000,330.000,420.000" linewidth="0" />
-<rect bbox="306.000,408.000,330.000,420.000" linewidth="0" />
-<curve bbox="510.200,46.361,679.430,198.760" linewidth="0" pts="566.400,198.760,538.300,195.240,510.200,191.720,529.040,166.320,547.880,140.920,654.610,64.962,679.430,46.361" />
-<curve bbox="517.080,56.191,686.310,208.590" linewidth="0" pts="573.280,208.590,545.180,205.070,517.080,201.550,535.920,176.150,554.760,150.750,661.490,74.791,686.310,56.191" />
-<curve bbox="644.550,21.448,716.280,84.546" linewidth="3" pts="700.440,24.068,714.450,44.069,716.280,46.689,705.670,57.288,690.740,67.742,675.810,78.195,662.220,84.546,660.390,81.926,646.380,61.925,644.550,59.305,655.160,48.706,670.090,38.252,685.020,27.798,698.610,21.448,700.440,24.068" />
-<curve bbox="644.550,21.448,716.280,84.546" linewidth="0" pts="700.440,24.068,714.450,44.069,716.280,46.689,705.670,57.288,690.740,67.742,675.810,78.195,662.220,84.546,660.390,81.926,646.380,61.925,644.550,59.305,655.160,48.706,670.090,38.252,685.020,27.798,698.610,21.448,700.440,24.068" />
-<curve bbox="540.000,222.000,606.000,435.310" linewidth="3" pts="540.000,435.310,540.000,430.510,554.770,426.620,573.000,426.620,591.230,426.620,606.000,430.510,606.000,435.310,606.000,230.690,606.000,225.890,591.230,222.000,573.000,222.000,554.770,222.000,540.000,225.890,540.000,230.690" />
-<curve bbox="540.000,426.620,606.000,444.000" linewidth="3" pts="540.000,435.310,540.000,440.110,554.770,444.000,573.000,444.000,591.230,444.000,606.000,440.110,606.000,435.310,606.000,430.510,591.230,426.620,573.000,426.620,554.770,426.620,540.000,430.510,540.000,435.310" />
-<curve bbox="540.000,222.000,606.000,444.000" linewidth="0" pts="606.000,435.310,606.000,430.510,591.230,426.620,573.000,426.620,554.770,426.620,540.000,430.510,540.000,435.310,540.000,440.110,554.770,444.000,573.000,444.000,591.230,444.000,606.000,440.110,606.000,435.310,606.000,230.690,606.000,225.890,591.230,222.000,573.000,222.000,554.770,222.000,540.000,225.890,540.000,230.690,540.000,435.310" />
-<curve bbox="534.000,204.000,612.000,246.000" linewidth="0" pts="612.000,246.000,612.000,225.000,612.000,213.400,594.540,204.000,573.000,204.000,551.460,204.000,534.000,213.400,534.000,225.000,534.000,246.000" />
-<curve bbox="534.000,204.000,612.000,246.000" linewidth="0" pts="612.000,246.000,612.000,225.000,612.000,213.400,594.540,204.000,573.000,204.000,551.460,204.000,534.000,213.400,534.000,225.000,534.000,246.000" />
-<curve bbox="546.000,426.000,600.000,438.000" linewidth="0" pts="546.000,432.000,546.000,435.310,558.090,438.000,573.000,438.000,587.910,438.000,600.000,435.310,600.000,432.000,600.000,428.690,587.910,426.000,573.000,426.000,558.090,426.000,546.000,428.690,546.000,432.000" />
-<curve bbox="546.000,426.000,600.000,438.000" linewidth="0" pts="546.000,432.000,546.000,435.310,558.090,438.000,573.000,438.000,587.910,438.000,600.000,435.310,600.000,432.000,600.000,428.690,587.910,426.000,573.000,426.000,558.090,426.000,546.000,428.690,546.000,432.000" />
-<curve bbox="408.000,405.000,438.000,411.000" linewidth="3" pts="438.000,407.500,413.000,407.500,413.000,408.500,438.000,408.500,414.000,405.000,408.000,408.000,414.000,411.000" />
-<rect bbox="300.060,452.700,486.060,529.380" linewidth="2" />
-<curve bbox="307.200,502.140,466.800,504.300" linewidth="2" pts="307.200,504.300,347.100,504.300,387.000,504.300,426.900,504.300,466.800,504.300,466.800,502.140,426.900,502.140,387.000,502.140,347.100,502.140,307.200,502.140" />
-<curve bbox="222.000,228.000,258.000,438.000" linewidth="0" pts="222.000,438.000,231.940,438.000,240.000,430.170,240.000,420.500,240.000,352.770,240.000,343.110,248.060,335.270,258.000,335.270,248.060,335.270,240.000,327.440,240.000,317.770,240.000,245.500,240.000,235.840,231.940,228.000,222.000,228.000" />
-<curve bbox="150.000,222.000,216.000,435.310" linewidth="0" pts="150.000,435.310,150.000,430.510,164.770,426.620,183.000,426.620,201.230,426.620,216.000,430.510,216.000,435.310,216.000,230.690,216.000,225.890,201.230,222.000,183.000,222.000,164.770,222.000,150.000,225.890,150.000,230.690" />
-<curve bbox="150.000,426.620,216.000,444.000" linewidth="0" pts="150.000,435.310,150.000,440.110,164.770,444.000,183.000,444.000,201.230,444.000,216.000,440.110,216.000,435.310,216.000,430.510,201.230,426.620,183.000,426.620,164.770,426.620,150.000,430.510,150.000,435.310" />
-<curve bbox="150.000,222.000,216.000,444.000" linewidth="0" pts="216.000,435.310,216.000,430.510,201.230,426.620,183.000,426.620,164.770,426.620,150.000,430.510,150.000,435.310,150.000,440.110,164.770,444.000,183.000,444.000,201.230,444.000,216.000,440.110,216.000,435.310,216.000,230.690,216.000,225.890,201.230,222.000,183.000,222.000,164.770,222.000,150.000,225.890,150.000,230.690,150.000,435.310" />
-<curve bbox="144.000,168.000,222.000,210.000" linewidth="0" pts="222.000,210.000,222.000,189.000,222.000,177.400,204.540,168.000,183.000,168.000,161.460,168.000,144.000,177.400,144.000,189.000,144.000,210.000" />
-<curve bbox="144.000,168.000,222.000,210.000" linewidth="0" pts="222.000,210.000,222.000,189.000,222.000,177.400,204.540,168.000,183.000,168.000,161.460,168.000,144.000,177.400,144.000,189.000,144.000,210.000" />
-<curve bbox="156.000,426.000,210.000,438.000" linewidth="0" pts="156.000,432.000,156.000,435.310,168.090,438.000,183.000,438.000,197.910,438.000,210.000,435.310,210.000,432.000,210.000,428.690,197.910,426.000,183.000,426.000,168.090,426.000,156.000,428.690,156.000,432.000" />
-<curve bbox="156.000,426.000,210.000,438.000" linewidth="0" pts="156.000,432.000,156.000,435.310,168.090,438.000,183.000,438.000,197.910,438.000,210.000,435.310,210.000,432.000,210.000,428.690,197.910,426.000,183.000,426.000,168.090,426.000,156.000,428.690,156.000,432.000" />
-<curve bbox="152.690,185.940,159.440,251.940" linewidth="0" pts="157.180,185.940,157.190,246.320,154.940,246.320,154.930,185.940,159.440,245.190,156.060,251.940,152.690,245.190" />
-<curve bbox="206.680,185.940,213.430,251.940" linewidth="0" pts="211.180,185.940,211.180,246.320,208.940,246.320,208.930,185.940,213.430,245.190,210.060,251.940,206.680,245.190" />
-<curve bbox="42.000,222.000,102.000,406.060" linewidth="0" pts="42.000,406.060,42.000,401.680,55.431,398.120,72.000,398.120,88.569,398.120,102.000,401.680,102.000,406.060,102.000,229.940,102.000,225.550,88.569,222.000,72.000,222.000,55.431,222.000,42.000,225.550,42.000,229.940" />
-<curve bbox="42.000,398.120,102.000,414.000" linewidth="0" pts="42.000,406.060,42.000,410.450,55.431,414.000,72.000,414.000,88.569,414.000,102.000,410.450,102.000,406.060,102.000,401.680,88.569,398.120,72.000,398.120,55.431,398.120,42.000,401.680,42.000,406.060" />
-<curve bbox="42.000,222.000,102.000,414.000" linewidth="0" pts="102.000,406.060,102.000,401.680,88.569,398.120,72.000,398.120,55.431,398.120,42.000,401.680,42.000,406.060,42.000,410.450,55.431,414.000,72.000,414.000,88.569,414.000,102.000,410.450,102.000,406.060,102.000,229.940,102.000,225.550,88.569,222.000,72.000,222.000,55.431,222.000,42.000,225.550,42.000,229.940,42.000,406.060" />
-<rect bbox="13.020,13.980,139.020,153.180" linewidth="2" />
-<rect bbox="149.100,14.940,251.100,132.540" linewidth="2" />
-<curve bbox="102.060,404.940,174.060,410.940" linewidth="2" pts="102.060,408.690,169.060,408.690,169.060,407.190,102.060,407.190,168.060,410.940,174.060,407.940,168.060,404.940" />
-<curve bbox="72.060,218.940,174.060,224.940" linewidth="2" pts="72.060,222.690,169.060,222.690,169.060,221.190,72.060,221.190,168.060,224.940,174.060,221.940,168.060,218.940" />
-<rect bbox="306.060,12.660,456.060,151.980" linewidth="2" />
-<curve bbox="390.000,185.550,426.220,204.000" linewidth="2" pts="425.780,185.550,394.250,201.320,394.700,202.210,426.220,186.450,394.020,198.630,390.000,204.000,396.710,204.000" />
-<curve bbox="266.640,378.000,318.000,431.390" linewidth="2" pts="267.360,431.390,314.890,381.950,314.170,381.260,266.640,430.690,316.000,384.400,318.000,378.000,311.680,380.250" />
-<rect bbox="516.060,451.980,708.060,528.660" linewidth="2" />
-<curve bbox="523.200,501.390,680.640,503.550" linewidth="2" pts="523.200,503.550,562.560,503.550,601.920,503.550,641.280,503.550,680.640,503.550,680.640,501.390,641.280,501.390,601.920,501.390,562.560,501.390,523.200,501.390" />
-<curve bbox="67.560,167.940,76.560,209.940" linewidth="2" pts="73.560,167.940,73.560,202.440,70.560,202.440,70.560,167.940,76.560,200.940,72.060,209.940,67.560,200.940" />
-<curve bbox="181.560,143.940,190.560,161.940" linewidth="2" pts="187.560,143.940,187.560,154.440,184.560,154.440,184.560,143.940,190.560,152.940,186.060,161.940,181.560,152.940" />
-<curve bbox="379.560,161.940,388.560,179.940" linewidth="2" pts="385.560,161.940,385.560,172.440,382.560,172.440,382.560,161.940,388.560,170.940,384.060,179.940,379.560,170.940" />
-<curve bbox="123.000,342.000,129.000,408.000" linewidth="2" pts="126.500,342.000,126.500,403.000,125.500,403.000,125.500,342.000,129.000,402.000,126.000,408.000,123.000,402.000" />
-<curve bbox="123.000,222.000,129.000,282.000" linewidth="2" pts="126.500,282.000,126.500,227.000,125.500,227.000,125.500,282.000,129.000,228.000,126.000,222.000,123.000,228.000" />
-<rect bbox="486.060,12.420,600.060,108.420" linewidth="2" />
-<curve bbox="536.120,110.730,567.060,135.900" linewidth="2" pts="538.000,110.730,562.140,130.040,560.270,132.390,536.120,113.070,562.840,126.760,567.060,135.900,557.220,133.790" />
-<curve bbox="222.000,191.610,264.200,210.460" linewidth="2" pts="263.800,210.460,226.400,194.430,226.790,193.510,264.200,209.540,226.330,197.120,222.000,192.000,228.700,191.610" />
-<rect bbox="12.060,473.940,222.060,526.740" linewidth="2" />
-<curve bbox="492.060,495.960,510.060,504.960" linewidth="2" pts="492.060,498.960,502.560,498.960,502.560,501.960,492.060,501.960,501.060,495.960,510.060,500.460,501.060,504.960" />
-<curve bbox="241.620,497.400,277.620,506.400" linewidth="2" pts="241.620,500.400,270.120,500.400,270.120,503.400,241.620,503.400,268.620,497.400,277.620,501.900,268.620,506.400" />
-<curve bbox="299.610,185.690,324.000,216.000" linewidth="1" pts="300.390,185.690,321.270,211.780,320.490,212.410,299.610,186.310,322.590,209.440,324.000,216.000,317.910,213.190" />
-<curve bbox="609.780,212.520,627.840,221.520" linewidth="1" pts="627.720,218.880,617.210,218.460,617.330,215.460,627.840,215.880,618.590,221.520,609.780,216.660,618.950,212.520" />
-<enlisting archetypal_index="12" bbox="232.25,294.242,482.21,522.282">8 week wet cycle: 
-water table at or near  
-soil surface 50 cm   
-PVC  
-sleeve <normal_text bbox="307.250,458.990,482.210,522.282" id="1" size="18.68">8 week wet cycle: 
-water table at or near  
-soil surface <textline bbox="307.250,502.242,473.573,522.282" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="20.040">8 week wet cycle: </textline>
-<textline bbox="307.250,480.590,482.210,498.590" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">water table at or near  </textline>
-<textline bbox="307.250,458.990,398.240,476.990" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">soil surface </textline>
-</normal_text>
-<normal_text bbox="259.250,294.242,306.593,341.882" id="5" size="14.04">50 cm   
-PVC  
-sleeve <textline bbox="259.250,327.842,306.593,341.882" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">50 cm   </textline>
-<textline bbox="259.250,311.042,291.949,325.082" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">PVC  </textline>
-<textline bbox="259.250,294.242,302.086,308.282" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="14.040">sleeve </textline>
-</normal_text>
-<normal_text bbox="232.250,435.228,300.272,470.388" id="3" size="15.96">Water  
-reservoir <textline bbox="232.250,454.428,280.481,470.388" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">Water  </textline>
-<textline bbox="232.250,435.228,300.272,451.188" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">reservoir </textline>
+<normal_text bbox="101.780,105.380,492.788,129.380" id="7" size="24.0">where fill materials have been added <textline bbox="101.780,105.380,492.788,129.380" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">where fill materials have been added </textline>
 </normal_text>
 </enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[92.62700000000001, 401.555, 617.8285, 500.4750000000001]" rotate="0">
+<title archetypal_index="0" bbox="132.430,447.662,587.539,491.702" id="0" size="44.04">Experimental Approach <textline bbox="132.430,447.662,587.539,491.702" colourspace="Pattern" font="ArialMT" ncolour="0" size="44.040">Experimental Approach </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,68.072,668.288,411.967">&#8226; In set time cycles, dissect cores and described  &#8226; Collect undisturbed soil cores from soils lacking  
+redoximorphic features in the upper part and  
+establish as experimental mesocosms &#8226; Expose soil mesocosms to saturated conditions  
+for varying lengths of time in both greenhouse  
+and field settings &#8226; Utilize three soil series and two wetland plant  
+species to evaluate effects of differing soil  
+properties and vegetation on redoximorphic  
+feature development  <normal_text bbox="43.200,94.948,655.539,122.908" id="4" size="27.96">&#8226; In set time cycles, dissect cores and described  <textline bbox="43.200,94.948,655.539,122.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; In set time cycles, dissect cores and described  </textline>
+</normal_text>
+<normal_text bbox="43.2,128.573,668.288,411.967">&#8226; Collect undisturbed soil cores from soils lacking  
+redoximorphic features in the upper part and  
+establish as experimental mesocosms &#8226; Expose soil mesocosms to saturated conditions  
+for varying lengths of time in both greenhouse  
+and field settings &#8226; Utilize three soil series and two wetland plant  
+species to evaluate effects of differing soil  
+properties and vegetation on redoximorphic  
+feature development  <normal_text bbox="43.200,330.198,666.843,411.967" id="1" size="27.976">&#8226; Collect undisturbed soil cores from soils lacking  
+redoximorphic features in the upper part and  
+establish as experimental mesocosms <textline bbox="43.200,383.983,666.843,411.967" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">&#8226; Collect undisturbed soil cores from soils lacking  </textline>
+<textline bbox="70.224,357.103,629.652,385.087" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">redoximorphic features in the upper part and  </textline>
+<textline bbox="70.224,330.198,543.699,358.158" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">establish as experimental mesocosms </textline>
+</normal_text>
+<normal_text bbox="43.200,242.833,668.288,324.558" id="2" size="27.968">&#8226; Expose soil mesocosms to saturated conditions  
+for varying lengths of time in both greenhouse  
+and field settings <textline bbox="43.200,296.598,668.288,324.558" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Expose soil mesocosms to saturated conditions  </textline>
+<textline bbox="70.224,269.718,646.563,297.678" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">for varying lengths of time in both greenhouse  </textline>
+<textline bbox="70.224,242.833,280.580,270.817" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">and field settings </textline>
+</normal_text>
+<normal_text bbox="43.200,128.573,637.225,237.178" id="3" size="27.966">&#8226; Utilize three soil series and two wetland plant  
+species to evaluate effects of differing soil  
+properties and vegetation on redoximorphic  
+feature development  <textline bbox="43.200,209.218,637.225,237.178" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Utilize three soil series and two wetland plant  </textline>
+<textline bbox="70.224,182.338,595.648,210.298" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">species to evaluate effects of differing soil  </textline>
+<textline bbox="70.224,155.458,617.178,183.418" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">properties and vegetation on redoximorphic  </textline>
+<textline bbox="70.224,128.573,333.553,156.557" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.984">feature development  </textline>
+</normal_text>
+</normal_text><normal_text bbox="70.224,68.072,567.971,96.032" id="5" size="27.96">all newly-formed redoximorphic features <textline bbox="70.224,68.072,567.971,96.032" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">all newly-formed redoximorphic features </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[66.73140000000001, 423.46579999999994, 647.4943, 500.4494000000001]" rotate="0">
+<title archetypal_index="0" bbox="27.888,456.332,691.993,500.411" id="0" size="20.052">Geographic Extent of the Codorus Soil Series 
+FINE-LOAMY, MIXED, ACTIVE, MESIC FLUVAQUENTIC DYSTRUDEPTS <textline bbox="143.350,480.347,576.552,500.411" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="20.064">Geographic Extent of the Codorus Soil Series </textline>
+<textline bbox="27.888,456.332,691.993,476.372" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">FINE-LOAMY, MIXED, ACTIVE, MESIC FLUVAQUENTIC DYSTRUDEPTS </textline>
+</title>
+<background archetypal_index="1" bbox="0.000,30.000,720.000,504.000" height="474" name="Image33" src="Image33.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[160.8076, 431.53119999999996, 555.3228666666666, 497.53360000000004]" rotate="0">
+<normal_text archetypal_index="0" bbox="18.048,456.332,701.913,500.411" id="0" size="20.052">Geographic Extent of the Downer Soil Series 
+COARSE-LOAMY, SILICEOUS, SEMIACTIVE, MESIC TYPIC HAPLUDULTS <textline bbox="147.910,480.347,572.083,500.411" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="20.064">Geographic Extent of the Downer Soil Series </textline>
+<textline bbox="18.048,456.332,701.913,476.372" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">COARSE-LOAMY, SILICEOUS, SEMIACTIVE, MESIC TYPIC HAPLUDULTS </textline>
+</normal_text>
+<title archetypal_index="1" bbox="348.960,447.662,370.980,491.702" id="1" size="44.04">c <textline bbox="348.960,447.662,370.980,491.702" colourspace="Pattern" font="ArialMT" ncolour="0" size="44.040">c </textline>
+</title>
+<background archetypal_index="2" bbox="0.000,32.880,720.000,486.000" height="453" name="Image40" src="Image40.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[134.04885714285714, 438.6171428571428, 583.1431904761904, 498.3557142857143]" rotate="0">
+<title archetypal_index="0" bbox="67.152,456.332,652.694,500.411" id="0" size="20.052">Geographic Extent of the Matapeake Soil Series 
+FINE-SILTY, MIXED, SEMIACTIVE, MESIC TYPIC HAPLUDULTS <textline bbox="133.390,480.347,586.515,500.411" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="20.064">Geographic Extent of the Matapeake Soil Series </textline>
+<textline bbox="67.152,456.332,652.694,476.372" colourspace="Pattern" font="ArialMT" ncolour="0" size="20.040">FINE-SILTY, MIXED, SEMIACTIVE, MESIC TYPIC HAPLUDULTS </textline>
+</title>
+<background archetypal_index="1" bbox="0.000,31.920,720.720,492.000" height="460" name="Image45" src="Image45.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[121.41477777777777, 446.59166666666664, 596.8286944444444, 499.78916666666674]" rotate="0">
+<title archetypal_index="0" bbox="72.312,447.662,647.298,491.702" id="0" size="44.04">Collection of Soil Mesocosms <textline bbox="72.312,447.662,647.298,491.702" colourspace="Pattern" font="ArialMT" ncolour="(1, 1, 0)" size="44.040">Collection of Soil Mesocosms </textline>
+</title>
+<background archetypal_index="1" bbox="0.000,0.000,720.000,539.880" height="539" name="Image56" src="Image56.jpg" width="720">
+</background>
+<picture archetypal_index="2" bbox="122.400,57.600,597.600,414.000" height="356" name="Image57" src="Image57.jpg" width="475">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[177.00639999999999, 449.1308181818182, 624.1716363636364, 501.57414545454554]" rotate="0">
+<title archetypal_index="0" bbox="65.472,450.078,665.671,490.038" id="0" size="39.96">Greenhouse Experimental Design <textline bbox="65.472,450.078,665.671,490.038" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">Greenhouse Experimental Design </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,63.864,657.98,429.948">&#8226; Randomized Block Design &#8211; Three soil series 
+&#8211; Three vegetation treatments (including control) 
+&#8211; Each treatment combination replicated 
+&#8211; Total of 108 mesocosms &#8226; Time Series &#8211; 6 16 week hydrologic cycles in the greenhouse (8  &#8211; At the end of each cycle, a sampling set of 18 cores  <normal_text bbox="43.200,401.988,398.866,429.948" id="1" size="27.96">&#8226; Randomized Block Design <textline bbox="43.200,401.988,398.866,429.948" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Randomized Block Design </textline>
+</normal_text>
+<normal_text bbox="79.224,286.630,598.244,397.079" id="2" size="24.006">&#8211; Three soil series 
+&#8211; Three vegetation treatments (including control) 
+&#8211; Each treatment combination replicated 
+&#8211; Total of 108 mesocosms <textline bbox="79.224,373.055,277.804,397.079" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">&#8211; Three soil series </textline>
+<textline bbox="79.224,344.230,598.244,368.230" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; Three vegetation treatments (including control) </textline>
+<textline bbox="79.224,315.430,511.292,339.430" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; Each treatment combination replicated </textline>
+<textline bbox="79.224,286.630,360.500,310.630" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; Total of 108 mesocosms </textline>
+</normal_text>
+<normal_text bbox="43.200,219.538,218.608,247.498" id="3" size="27.96">&#8226; Time Series <textline bbox="43.200,219.538,218.608,247.498" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">&#8226; Time Series </textline>
+</normal_text>
+<normal_text bbox="79.224,190.610,634.388,214.610" id="4" size="24.0">&#8211; 6 16 week hydrologic cycles in the greenhouse (8  <textline bbox="79.224,190.610,634.388,214.610" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; 6 16 week hydrologic cycles in the greenhouse (8  </textline>
+</normal_text>
+<normal_text bbox="79.224,109.940,657.980,133.940" id="6" size="24.0">&#8211; At the end of each cycle, a sampling set of 18 cores  <textline bbox="79.224,109.940,657.980,133.940" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">&#8211; At the end of each cycle, a sampling set of 18 cores  </textline>
+</normal_text>
+<normal_text bbox="101.780,167.570,547.052,191.570" id="5" size="24.0">weeks of saturation, 8 weeks of oxidation) <textline bbox="101.780,167.570,547.052,191.570" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">weeks of saturation, 8 weeks of oxidation) </textline>
+</normal_text>
+<normal_text bbox="101.780,63.864,600.868,110.904" id="7" size="24.0">was removed, dissected, and all newly-formed  
+redoximorphic features were documented <textline bbox="101.780,86.904,600.868,110.904" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">was removed, dissected, and all newly-formed  </textline>
+<textline bbox="101.780,63.864,543.452,87.864" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">redoximorphic features were documented </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[177.00639999999999, 449.1308181818182, 624.1716363636364, 501.57414545454554]" rotate="0">
+<background archetypal_index="0" bbox="0.000,0.000,720.000,540.000" height="540" name="Image74" src="Image74.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="13" mean_title="[188.82199999999997, 448.77234848484846, 632.823696969697, 498.47512121212134]" rotate="0">
+<title archetypal_index="0" bbox="247.900,446.980,676.084,482.980" id="0" size="36.0">Typical Iron concentrations <textline bbox="247.900,446.980,676.084,482.980" colourspace="Pattern" font="ArialMT" ncolour="(1, 1, 0)" size="36.000">Typical Iron concentrations </textline>
+</title>
+<curve bbox="143.600,304.430,552.060,439.370" linewidth="0" pts="144.520,439.370,545.390,309.680,544.460,306.820,143.600,436.510,544.880,312.990,552.060,305.940,542.110,304.430" />
+<curve bbox="113.040,161.940,384.060,415.040" linewidth="0" pts="115.080,415.040,379.600,168.150,377.550,165.960,113.040,412.840,380.550,171.370,384.060,161.940,374.410,164.790" />
+<picture archetypal_index="1" bbox="42.0,12.0,702.0,522.0" caption="" combined_sources="['Image79.jpg', 'Image80.jpg']" name="combined_0" src="combined_13_0.png" /></page>
 </pages>

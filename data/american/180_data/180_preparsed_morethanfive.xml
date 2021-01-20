@@ -1,160 +1,325 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="29" mean_title="[43.15618115942029, 435.6057463768116, 661.2103550724638, 509.14117028985515]" rotate="0">
-<title archetypal_index="0" bbox="120.670,440.140,599.396,521.779" id="0" size="24.008">Cohort Memberships by Race and Gender 
-2001, 2002, 2003, and 2004 Cohorts 
-All Students <textline bbox="120.670,497.755,599.396,521.779" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Cohort Memberships by Race and Gender </textline>
-<textline bbox="159.190,468.940,561.334,492.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">2001, 2002, 2003, and 2004 Cohorts </textline>
-<textline bbox="290.140,440.140,430.180,464.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">All Students </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="133.750,187.122,556.214,328.750" id="0" size="30.996000000000002">Graduation Rates: 
+Students Who Started 9th Grade 
+In 2001, 2002, 2003, and 2004 
+Supplemental Packet <textline bbox="188.980,292.750,500.956,328.750" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000">Graduation Rates: </textline>
+<textline bbox="133.750,259.033,556.214,288.099">Students Who Started 9th Grade <text bbox="133.750,259.033,152.415,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">S</text>
+<text bbox="152.415,259.033,161.734,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="161.734,259.033,178.832,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">u</text>
+<text bbox="178.832,259.033,195.930,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="195.791,259.033,211.350,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="211.350,259.033,228.448,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="228.448,259.033,237.767,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="237.767,259.033,253.326,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">s</text>
+<text bbox="253.326,259.033,261.105,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="261.525,259.033,287.942,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">W</text>
+<text bbox="287.942,259.033,305.040,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">h</text>
+<text bbox="305.040,259.033,322.138,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">o</text>
+<text bbox="321.998,259.033,329.778,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="329.778,259.033,348.443,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">S</text>
+<text bbox="348.443,259.033,357.762,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="357.762,259.033,373.321,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">a</text>
+<text bbox="373.321,259.033,384.207,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">r</text>
+<text bbox="384.207,259.033,393.525,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="393.609,259.033,409.169,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="409.169,259.033,426.267,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="426.267,259.033,434.046,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="434.130,259.033,449.689,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">9</text>
+<text bbox="449.900,269.379,456.134,288.099" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.720">t</text>
+<text bbox="456.140,269.379,467.578,288.099" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.720">h</text>
+<text bbox="475.340,259.033,497.112,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">G</text>
+<text bbox="497.112,259.033,507.997,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">r</text>
+<text bbox="507.997,259.033,523.556,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">a</text>
+<text bbox="523.556,259.033,540.655,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="540.655,259.033,556.214,287.017" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+</textline>
+<textline bbox="151.630,225.418,537.897,253.378" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">In 2001, 2002, 2003, and 2004 </textline>
+<textline bbox="184.300,187.122,505.789,219.162" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">Supplemental Packet </textline>
 </title>
-<normal_text archetypal_index="1" bbox="7.200,392.912,259.625,406.952" id="1" size="14.04">American Indian/ Alaskan Native Female <textline bbox="7.200,392.912,259.625,406.952" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">American Indian/ Alaskan Native Female </textline>
-</normal_text>
-<slide_number bbox="433.030,392.912,594.117,427.308" id="2" size="15.0">2002 
-448                        439     <textline bbox="433.030,411.348,468.544,427.308" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">2002 </textline>
-<textline bbox="439.270,392.912,594.117,406.952" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">448                        439     </textline>
-</slide_number>
-<slide_number bbox="545.020,411.348,580.534,427.308" id="3" size="15.96">2003 <textline bbox="545.020,411.348,580.534,427.308" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">2003 </textline>
-</slide_number>
-<slide_number bbox="659.760,392.912,695.274,427.308" id="4" size="15.0">2004 
-428 <textline bbox="659.760,411.348,695.274,427.308" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">2004 </textline>
-<textline bbox="666.960,392.912,690.366,406.952" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">428 </textline>
-</slide_number>
-<normal_text archetypal_index="2" bbox="7.200,355.922,243.297,369.962" id="5" size="14.04">American Indian/ Alaskan Native Male <textline bbox="7.200,355.922,243.297,369.962" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">American Indian/ Alaskan Native Male </textline>
-</normal_text>
-<slide_number bbox="310.850,355.922,341.752,369.962" id="6" size="14.04">480   <textline bbox="310.850,355.922,341.752,369.962" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">480   </textline>
-</slide_number>
-<slide_number bbox="439.270,355.922,691.049,369.962" id="7" size="14.04">471                        463                       473 <textline bbox="439.270,355.922,691.049,369.962" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">471                        463                       473 </textline>
-</slide_number>
-<slide_number bbox="303.050,392.912,338.564,427.308" id="8" size="15.0">2001 
-456 <textline bbox="303.050,411.348,338.564,427.308" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">2001 </textline>
-<textline bbox="310.850,392.912,334.256,406.952" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">456 </textline>
-</slide_number>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="25" size="14.04">29 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">29 </textline>
-</slide_number>
-<enlisting archetypal_index="3" bbox="7.2,63.556,462.162,333.002">6,853  7,419 18,423 59,095 61,851 20,003                     20,713 20,360 17,330    <normal_text bbox="299.090,318.962,338.163,333.002" id="9" size="14.04">6,853  <textline bbox="299.090,318.962,338.163,333.002" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">6,853  </textline>
-</normal_text>
-<normal_text bbox="299.090,282.002,334.260,296.042" id="10" size="14.04">7,419 <textline bbox="299.090,282.002,334.260,296.042" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">7,419 </textline>
-</normal_text>
-<normal_text bbox="295.250,134.142,338.212,148.182" id="11" size="14.04">18,423 <textline bbox="295.250,134.142,338.212,148.182" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">18,423 </textline>
-</normal_text>
-<normal_text bbox="295.250,97.152,338.212,111.192" id="12" size="14.04">59,095 <textline bbox="295.250,97.152,338.212,111.192" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">59,095 </textline>
-</normal_text>
-<normal_text bbox="295.250,63.556,338.212,77.596" id="13" size="14.04">61,851 <textline bbox="295.250,63.556,338.212,77.596" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">61,851 </textline>
-</normal_text>
-<normal_text bbox="295.250,245.037,462.162,259.101" id="17" size="14.064">20,003                     20,713 <textline bbox="295.250,245.037,462.162,259.101" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.064">20,003                     20,713 </textline>
-</normal_text>
-<normal_text bbox="295.250,208.062,338.212,222.102" id="19" size="14.04">20,360 <textline bbox="295.250,208.062,338.212,222.102" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">20,360 </textline>
-</normal_text>
-<normal_text bbox="295.250,171.102,349.529,185.142" id="34" size="14.04">17,330    <textline bbox="295.250,171.102,349.529,185.142" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">17,330    </textline>
-</normal_text>
-<normal_text bbox="7.200,63.556,77.133,77.596" id="32" size="14.04">White Male <textline bbox="7.200,63.556,77.133,77.596" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">White Male </textline>
-</normal_text>
-<normal_text bbox="7.200,171.102,111.335,185.142" id="33" size="14.04">Hispanic Female <textline bbox="7.200,171.102,111.335,185.142" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Hispanic Female </textline>
-</normal_text>
-<normal_text bbox="7.200,318.962,92.760,333.002" id="26" size="14.04">Asian Female <textline bbox="7.200,318.962,92.760,333.002" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Asian Female </textline>
-</normal_text>
-<normal_text bbox="7.200,282.002,76.431,296.042" id="27" size="14.04">Asian Male <textline bbox="7.200,282.002,76.431,296.042" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Asian Male </textline>
-</normal_text>
-<normal_text bbox="7.200,245.037,92.048,259.101" id="28" size="14.064">Black Female <textline bbox="7.200,245.037,92.048,259.101" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.064">Black Female </textline>
-</normal_text>
-<normal_text bbox="7.200,208.062,75.701,222.102" id="29" size="14.04">Black Male <textline bbox="7.200,208.062,75.701,222.102" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Black Male </textline>
-</normal_text>
-<normal_text bbox="7.200,134.142,95.006,148.182" id="30" size="14.04">Hispanic Male <textline bbox="7.200,134.142,95.006,148.182" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Hispanic Male </textline>
-</normal_text>
-<normal_text bbox="7.200,97.152,93.462,111.192" id="31" size="14.04">White Female <textline bbox="7.200,97.152,93.462,111.192" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">White Female </textline>
-</normal_text>
-</enlisting><enlisting archetypal_index="4" bbox="417.67,63.556,689.147,333.002">7,240  7,842                     7,839                    8,279 20,181                   20,461                  21,215 18,672                   19,101                  20,430 58,800                   59,082                  60,015 62,050 18,195                   18,870                  20,068 <normal_text bbox="425.350,318.962,464.423,333.002" id="14" size="14.04">7,240  <textline bbox="425.350,318.962,464.423,333.002" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">7,240  </textline>
-</normal_text>
-<normal_text bbox="425.350,282.002,689.007,296.042" id="16" size="14.04">7,842                     7,839                    8,279 <textline bbox="425.350,282.002,689.007,296.042" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">7,842                     7,839                    8,279 </textline>
-</normal_text>
-<normal_text bbox="417.670,208.062,689.147,222.102" id="20" size="14.04">20,181                   20,461                  21,215 <textline bbox="417.670,208.062,689.147,222.102" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">20,181                   20,461                  21,215 </textline>
-</normal_text>
-<normal_text bbox="417.670,134.142,689.147,148.182" id="21" size="14.04">18,672                   19,101                  20,430 <textline bbox="417.670,134.142,689.147,148.182" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">18,672                   19,101                  20,430 </textline>
-</normal_text>
-<normal_text bbox="417.670,97.152,689.147,111.192" id="22" size="14.04">58,800                   59,082                  60,015 <textline bbox="417.670,97.152,689.147,111.192" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">58,800                   59,082                  60,015 </textline>
-</normal_text>
-<normal_text bbox="417.670,63.556,460.632,77.596" id="23" size="14.04">62,050 <textline bbox="417.670,63.556,460.632,77.596" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">62,050 </textline>
-</normal_text>
-<normal_text bbox="417.670,171.102,689.147,185.142" id="35" size="14.04">18,195                   18,870                  20,068 <textline bbox="417.670,171.102,689.147,185.142" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">18,195                   18,870                  20,068 </textline>
-</normal_text>
-</enlisting><enlisting archetypal_index="5" bbox="534.58,63.556,689.973,333.002">7,250                    7,573 21,063                  21,375 62,140                  63,545 <normal_text bbox="542.380,318.962,689.884,333.002" id="15" size="14.04">7,250                    7,573 <textline bbox="542.380,318.962,689.884,333.002" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">7,250                    7,573 </textline>
-</normal_text>
-<normal_text bbox="534.580,245.037,689.973,259.101" id="18" size="14.064">21,063                  21,375 <textline bbox="534.580,245.037,689.973,259.101" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.064">21,063                  21,375 </textline>
-</normal_text>
-<normal_text bbox="534.580,63.556,689.876,77.596" id="24" size="14.04">62,140                  63,545 <textline bbox="534.580,63.556,689.876,77.596" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">62,140                  63,545 </textline>
-</normal_text>
-</enlisting></page>
-<page bbox="0.000,0.000,720.000,540.000" id="37" mean_title="[42.41922983870967, 425.9760806451614, 676.8045665322581, 505.93200201612905]" rotate="0">
-<title archetypal_index="0" bbox="22.464,437.450,690.529,516.689" id="0" size="36.012">Graduation rates through August 2008  
-show an increase over June. <textline bbox="22.464,480.665,690.529,516.689" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.024">Graduation rates through August 2008  </textline>
-<textline bbox="22.464,437.450,512.424,473.450" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000">show an increase over June. </textline>
+<picture archetypal_index="1" bbox="522.000,362.040,687.960,528.000" height="165" name="Image9" src="Image9.jpg" width="165">
+</picture>
+<picture archetypal_index="2" bbox="510.000,27.000,698.040,162.000" height="135" name="Image10" src="Image10.jpg" width="188">
+</picture>
+<picture archetypal_index="3" bbox="18.000,364.800,254.040,522.000" height="157" name="Image11" src="Image11.jpg" width="236">
+</picture>
+<picture archetypal_index="4" bbox="24.000,20.880,236.040,162.000" height="141" name="Image12" src="Image12.jpg" width="212">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[31.2, 413.268, 695.15, 508.467]" rotate="0">
+<title archetypal_index="0" bbox="31.200,413.268,695.150,508.467" id="0" size="27.968">Statewide, 73.6% of students in the 2004 Total  
+Cohort graduated by August 2008, while 13.6% of  
+those students were still enrolled. <textline bbox="31.200,480.483,649.430,508.467">Statewide, 73.6% of students in the 2004 Total  <text bbox="31.200,480.483,49.865,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">S</text>
+<text bbox="49.865,480.483,59.184,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="59.184,480.483,74.743,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">a</text>
+<text bbox="74.743,480.483,84.062,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="84.062,480.483,99.621,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="99.705,480.483,121.476,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">w</text>
+<text bbox="121.476,480.483,129.256,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">i</text>
+<text bbox="129.256,480.483,146.354,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="146.270,480.483,161.829,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="161.900,480.483,169.680,508.467" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">,</text>
+<text bbox="169.700,480.483,177.480,508.467" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984"> </text>
+<text bbox="177.620,480.483,193.179,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">7</text>
+<text bbox="193.179,480.483,208.738,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">3</text>
+<text bbox="208.850,480.483,216.630,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">.</text>
+<text bbox="216.630,480.483,232.189,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">6</text>
+<text bbox="232.357,480.483,257.234,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">%</text>
+<text bbox="256.507,480.483,264.286,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="264.874,480.483,281.972,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">o</text>
+<text bbox="281.972,480.483,291.291,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">f</text>
+<text bbox="291.291,480.483,299.071,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="299.071,480.483,314.630,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">s</text>
+<text bbox="314.686,480.483,324.004,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="324.004,480.483,341.103,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">u</text>
+<text bbox="341.103,480.483,358.201,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="358.201,480.483,373.760,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="373.760,480.483,390.858,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="390.858,480.483,400.177,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="400.177,480.483,415.736,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">s</text>
+<text bbox="415.820,480.483,423.599,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="423.963,480.483,431.743,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">i</text>
+<text bbox="431.743,480.483,448.841,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="448.841,480.483,456.620,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="456.620,480.483,465.939,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="465.939,480.483,483.037,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">h</text>
+<text bbox="483.037,480.483,498.596,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="498.596,480.483,506.376,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="506.460,480.483,522.019,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">2</text>
+<text bbox="522.019,480.483,537.578,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">0</text>
+<text bbox="537.690,480.483,553.249,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">0</text>
+<text bbox="553.249,480.483,568.808,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">4</text>
+<text bbox="568.920,480.483,576.700,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="576.812,480.483,593.910,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">T</text>
+<text bbox="591.839,480.483,608.937,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">o</text>
+<text bbox="608.937,480.483,618.256,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="618.256,480.483,633.815,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">a</text>
+<text bbox="633.815,480.483,641.595,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">l</text>
+<text bbox="641.651,480.483,649.430,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+</textline>
+<textline bbox="31.200,446.868,695.150,474.828" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">Cohort graduated by August 2008, while 13.6% of  </textline>
+<textline bbox="31.200,413.268,482.726,441.228" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">those students were still enrolled. </textline>
 </title>
-<normal_text archetypal_index="1" bbox="33.768,367.475,684.990,407.080" id="1" size="18.012">Percentage of Students Who Started 9th Grade in 2004 and Graduating with  
-Regents or Local Diploma After 4 Years through June and August 2008 <textline bbox="33.768,389.080,684.990,407.080" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Percentage of Students Who Started 9th Grade in 2004 and Graduating with  </textline>
-<textline bbox="54.912,367.475,659.223,385.499" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.024">Regents or Local Diploma After 4 Years through June and August 2008 </textline>
+<normal_text archetypal_index="1" bbox="42.480,31.764,173.538,71.364" id="1" size="18.0">All Students in  
+Public Schools <textline bbox="42.480,53.364,173.538,71.364" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">All Students in  </textline>
+<textline bbox="42.480,31.764,171.576,49.764" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Public Schools </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="14.928,342.190,139.224,354.190" id="2" size="12.0">Solid colors: Females <textline bbox="14.928,342.190,139.224,354.190" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">Solid colors: Females </textline>
+<normal_text archetypal_index="2" bbox="509.760,87.035,690.531,131.082" id="2" size="20.052">2004 Total Cohort  
+Students = 223,726 <textline bbox="516.360,111.042,689.405,131.082" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">2004 Total Cohort  </textline>
+<textline bbox="509.760,87.035,690.531,107.099" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.064">Students = 223,726 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="36.408,320.590,117.972,332.590" id="3" size="12.0">Stripes: Males <textline bbox="36.408,320.590,117.972,332.590" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">Stripes: Males </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="109.220,17.004,246.086,35.004" id="9" size="18.0">Red &#8211; June 2008 <textline bbox="109.220,17.004,246.086,35.004" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="18.000">Red &#8211; June 2008 </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="427.270,17.004,588.190,35.004" id="10" size="18.0">Blue &#8211; August  2008 <textline bbox="427.270,17.004,588.190,35.004" colourspace="DeviceGray" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Blue &#8211; August  2008 </textline>
-</normal_text>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="11" size="14.04">37 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">37 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="3" size="14.04">22 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">22 </textline>
 </slide_number>
-<rect bbox="281.210,367.440,390.770,369.360" linewidth="0" />
-<curve bbox="468.890,367.440,659.090,369.360" linewidth="0" pts="468.890,369.360,563.990,369.360,659.090,369.360,659.090,367.440,563.990,367.440,468.890,367.440" />
-<table archetypal_index="6" bbox="192.0,124.8,642.0,156.0" dimensions="2/1"><cell bbox="192.0,124.8,259.92,144.0"><tabletext bbox="213.580,128.518,238.450,138.478" id="5" size="9.96">Asian <textline bbox="213.580,128.518,238.450,138.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Asian </textline>
-</tabletext>
-</cell><cell bbox="576.0,136.8,642.0,156.0"><tabletext bbox="596.210,140.518,622.026,150.478" id="8" size="9.96">White <textline bbox="596.210,140.518,622.026,150.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">White </textline>
-</tabletext>
-</cell></table><table archetypal_index="7" bbox="54.0,106.8,642.0,156.0" dimensions="2/1"><cell bbox="54.0,106.8,132.0,150.0"><tabletext bbox="62.592,110.488,123.308,144.478" id="4" size="9.968000000000002">American  
-Indian /  
-Alaska Native <textline bbox="71.832,134.518,116.811,144.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">American  </textline>
-<textline bbox="76.752,122.513,112.045,132.497" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">Indian /  </textline>
-<textline bbox="62.592,110.488,123.308,120.448" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Alaska Native </textline>
-</tabletext>
-</cell><cell bbox="576.0,136.8,642.0,156.0" /></table><table archetypal_index="8" bbox="318.0,100.8,642.0,156.0" dimensions="3/1"><cell bbox="444.0,100.8,515.04,120.0"><tabletext bbox="460.460,104.488,498.547,114.448" id="7" size="9.96">Hispanic <textline bbox="460.460,104.488,498.547,114.448" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Hispanic </textline>
-</tabletext>
-</cell><cell bbox="318.0,100.8,378.0,120.0"><tabletext bbox="335.760,104.488,360.052,114.448" id="6" size="9.96">Black <textline bbox="335.760,104.488,360.052,114.448" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Black </textline>
-</tabletext>
-</cell><cell bbox="576.0,136.8,642.0,156.0" /></table></page>
-<page bbox="0.000,0.000,720.000,540.000" id="48" mean_title="[37.85766097560975, 414.1749487804879, 684.5691487804878, 506.5342829268293]" rotate="0">
-<title archetypal_index="0" bbox="19.200,424.068,701.807,519.267" id="0" size="27.968">Although 4-year graduation rates for students with  
-disabilities have not improved, more students are  
-remaining in school and fewer are dropping out. <textline bbox="19.200,491.283,701.807,519.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">Although 4-year graduation rates for students with  </textline>
-<textline bbox="19.200,457.668,687.053,485.628" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">disabilities have not improved, more students are  </textline>
-<textline bbox="19.200,424.068,660.127,452.028" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">remaining in school and fewer are dropping out. </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[35.2, 394.06466666666665, 655.7493333333333, 512.3883333333333]" rotate="0">
+<title archetypal_index="0" bbox="37.200,384.463,636.049,514.349" id="0" size="27.972">For students who entered 9th grade in 2004,  
+graduation rates were higher in August 2008  
+than in June 2008- translating to 6,077 more  
+students graduating statewide. <textline bbox="37.200,485.283,623.319,514.349">For students who entered 9th grade in 2004,  <text bbox="37.200,485.283,54.298,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">F</text>
+<text bbox="54.298,485.283,71.396,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">o</text>
+<text bbox="71.285,485.283,82.170,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">r</text>
+<text bbox="82.170,485.283,89.950,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="90.090,485.283,105.649,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">s</text>
+<text bbox="105.649,485.283,114.968,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="114.968,485.283,132.066,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">u</text>
+<text bbox="132.066,485.283,149.164,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="149.164,485.283,164.723,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="164.723,485.283,181.821,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="181.821,485.283,191.140,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="191.140,485.283,206.699,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">s</text>
+<text bbox="206.699,485.283,214.479,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="214.730,485.283,236.502,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">w</text>
+<text bbox="236.502,485.283,253.600,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">h</text>
+<text bbox="253.516,485.283,270.615,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">o</text>
+<text bbox="270.615,485.283,278.394,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="278.394,485.283,293.953,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="294.037,485.283,311.135,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="311.135,485.283,320.454,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">t</text>
+<text bbox="320.454,485.283,336.013,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="336.013,485.283,346.899,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">r</text>
+<text bbox="346.899,485.283,362.458,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="362.542,485.283,379.640,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="379.640,485.283,387.420,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="387.588,485.283,403.147,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">9</text>
+<text bbox="403.390,495.629,409.624,514.349" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.720">t</text>
+<text bbox="409.630,495.629,421.068,514.349" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.720">h</text>
+<text bbox="428.830,485.283,445.928,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">g</text>
+<text bbox="445.928,485.283,456.814,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">r</text>
+<text bbox="456.814,485.283,472.373,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">a</text>
+<text bbox="472.373,485.283,489.471,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">d</text>
+<text bbox="489.471,485.283,505.030,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">e</text>
+<text bbox="505.030,485.283,512.810,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="512.922,485.283,520.701,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">i</text>
+<text bbox="520.701,485.283,537.800,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">n</text>
+<text bbox="537.800,485.283,545.579,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+<text bbox="545.439,485.283,560.998,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">2</text>
+<text bbox="560.998,485.283,576.558,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">0</text>
+<text bbox="576.558,485.283,592.117,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">0</text>
+<text bbox="592.201,485.283,607.760,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">4</text>
+<text bbox="607.760,485.283,615.539,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">,</text>
+<text bbox="615.539,485.283,623.319,513.267" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984"> </text>
+</textline>
+<textline bbox="37.200,451.668,636.049,479.628" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">graduation rates were higher in August 2008  </textline>
+<textline bbox="37.200,418.068,629.081,446.028" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.960">than in June 2008- translating to 6,077 more  </textline>
+<textline bbox="37.200,384.463,449.824,412.447" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="27.984">students graduating statewide. </textline>
 </title>
-<normal_text archetypal_index="1" bbox="229.250,373.423,503.983,389.407" id="1" size="15.984">Results After 4 Years, Through June <textline bbox="229.250,373.423,503.983,389.407" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="15.984">Results After 4 Years, Through June </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="55.200,297.700,97.860,306.700" id="2" size="9.0">GED 1.9% <textline bbox="55.200,297.700,97.860,306.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">GED 1.9% </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="199.250,309.700,241.793,318.700" id="3" size="9.0">GED 1.3% <textline bbox="199.250,309.700,241.793,318.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">GED 1.3% </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="343.270,309.700,385.813,318.700" id="4" size="9.0">GED 1.4% <textline bbox="343.270,309.700,385.813,318.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">GED 1.4% </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="487.300,309.700,529.843,318.700" id="5" size="9.0">GED 1.7% <textline bbox="487.300,309.700,529.843,318.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">GED 1.7% </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="511.300,102.140,624.772,114.140" id="6" size="12.0">Cohort Membership <textline bbox="511.300,102.140,624.772,114.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">Cohort Membership </textline>
-</normal_text>
-<slide_number bbox="511.300,80.544,537.880,92.544" id="7" size="12.0">2001 <textline bbox="511.300,80.544,537.880,92.544" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">2001 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">33 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">33 </textline>
 </slide_number>
-<slide_number bbox="511.300,58.944,537.880,70.944" id="9" size="12.0">2002 <textline bbox="511.300,58.944,537.880,70.944" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">2002 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[35.2, 394.06466666666665, 655.7493333333333, 512.3883333333333]" rotate="0">
+<title archetypal_index="0" bbox="49.272,336.438,682.678,376.398" id="0" size="39.96">Statewide Achievement Gap Data <textline bbox="49.272,336.438,682.678,376.398" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="39.960">Statewide Achievement Gap Data </textline>
+</title>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4 </textline>
 </slide_number>
-<slide_number bbox="511.300,37.344,537.880,49.344" id="11" size="12.0">2003 <textline bbox="511.300,37.344,537.880,49.344" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">2003 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[37.304, 416.20233333333334, 665.8606666666666, 516.1836666666667]" rotate="0">
+<title archetypal_index="0" bbox="39.408,438.340,675.972,519.979" id="0" size="24.008">Achievement Gap Between English Language Learners  
+and All Students Graduating with Regents or Local  
+Diploma After 4 Years <textline bbox="39.408,495.955,675.972,519.979" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Achievement Gap Between English Language Learners  </textline>
+<textline bbox="64.752,467.140,649.800,491.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">and All Students Graduating with Regents or Local  </textline>
+<textline bbox="230.740,438.340,477.364,462.340" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">Diploma After 4 Years </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.368,405.880,683.626,423.880" id="1" size="18.0">Percentage Point Difference for June Graduates plus August Graduates 2008 <textline bbox="25.368,405.880,683.626,423.880" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Percentage Point Difference for June Graduates plus August Graduates 2008 </textline>
+</normal_text>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="2" size="14.04">55 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">55 </textline>
 </slide_number>
-<slide_number bbox="511.300,15.744,537.880,27.744" id="13" size="12.0">2004 <textline bbox="511.300,15.744,537.880,27.744" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">2004 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[33.1056, 425.0574, 674.6476, 517.7018]" rotate="0">
+<title archetypal_index="0" bbox="26.808,438.340,687.828,519.979" id="0" size="24.008">Achievement Gap Between Students with Disabilities and  
+All Students Graduating with Regents or Local Diploma  
+After 4 Years <textline bbox="26.808,495.955,687.828,519.979" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Achievement Gap Between Students with Disabilities and  </textline>
+<textline bbox="38.208,467.140,676.872,491.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">All Students Graduating with Regents or Local Diploma  </textline>
+<textline bbox="280.900,438.340,427.204,462.340" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">After 4 Years </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.368,405.880,683.626,423.880" id="1" size="18.0">Percentage Point Difference for June Graduates plus August Graduates 2008 <textline bbox="25.368,405.880,683.626,423.880" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Percentage Point Difference for June Graduates plus August Graduates 2008 </textline>
+</normal_text>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="2" size="14.04">66 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">66 </textline>
 </slide_number>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="15" size="14.04">4848 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4848 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[27.4064, 427.90759999999995, 682.4444, 514.6035333333333]" rotate="0">
+<title archetypal_index="0" bbox="16.008,433.608,698.038,508.407" id="0" size="21.968">Achievement Gap in Percentage Between English Language  
+Learners / Students with Disabilities and All NYS Public Students  
+Graduating with Regents or Local Diploma After 4 Years  <textline bbox="39.288,486.423,675.131,508.407" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.984">Achievement Gap in Percentage Between English Language  </textline>
+<textline bbox="16.008,460.008,698.038,481.968">Learners / Students with Disabilities and All NYS Public Students  <text bbox="16.008,460.008,29.426,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">L</text>
+<text bbox="29.426,460.008,41.635,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">e</text>
+<text bbox="41.635,460.008,53.845,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">a</text>
+<text bbox="53.911,460.008,62.453,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">r</text>
+<text bbox="62.453,460.008,75.871,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">n</text>
+<text bbox="75.871,460.008,88.081,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">e</text>
+<text bbox="88.081,460.008,96.623,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">r</text>
+<text bbox="96.623,460.008,108.833,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">s</text>
+<text bbox="108.833,460.008,114.938,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="115.092,460.008,121.196,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">/</text>
+<text bbox="121.196,460.008,127.301,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="127.301,460.008,141.949,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">S</text>
+<text bbox="141.949,460.008,149.261,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="149.261,460.008,162.679,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">u</text>
+<text bbox="162.679,460.008,176.096,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">d</text>
+<text bbox="176.140,460.008,188.350,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">e</text>
+<text bbox="188.350,460.008,201.768,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">n</text>
+<text bbox="201.768,460.008,209.080,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="209.080,460.008,221.290,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">s</text>
+<text bbox="221.356,460.008,227.461,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="227.812,460.008,244.897,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">w</text>
+<text bbox="245.073,460.008,251.178,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="251.178,460.008,258.490,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="258.490,460.008,271.908,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">h</text>
+<text bbox="271.908,460.008,278.013,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="278.013,460.008,293.868,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">D</text>
+<text bbox="293.802,460.008,299.907,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="299.907,460.008,312.117,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">s</text>
+<text bbox="312.117,460.008,324.326,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">a</text>
+<text bbox="324.370,460.008,337.788,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">b</text>
+<text bbox="337.788,460.008,343.893,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="343.893,460.008,349.998,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">l</text>
+<text bbox="349.998,460.008,356.103,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="356.146,460.008,363.459,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="363.459,460.008,369.564,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="369.564,460.008,381.774,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">e</text>
+<text bbox="381.774,460.008,393.984,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">s</text>
+<text bbox="394.049,460.008,400.154,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="400.396,460.008,412.606,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">a</text>
+<text bbox="412.606,460.008,426.023,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">n</text>
+<text bbox="426.023,460.008,439.441,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">d</text>
+<text bbox="439.485,460.008,445.590,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="444.997,460.008,460.852,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">A</text>
+<text bbox="460.852,460.008,466.957,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">l</text>
+<text bbox="466.957,460.008,473.061,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">l</text>
+<text bbox="473.061,460.008,479.166,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="479.540,460.412,494.009,480.452" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">N</text>
+<text bbox="494.009,460.412,507.376,480.452" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">Y</text>
+<text bbox="507.376,460.412,520.742,480.452" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">S</text>
+<text bbox="525.740,460.008,540.387,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">P</text>
+<text bbox="540.387,460.008,553.805,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">u</text>
+<text bbox="553.805,460.008,567.222,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">b</text>
+<text bbox="567.222,460.008,573.327,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">l</text>
+<text bbox="573.327,460.008,579.432,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">i</text>
+<text bbox="579.476,460.008,591.686,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">c</text>
+<text bbox="591.686,460.008,597.791,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+<text bbox="597.944,460.008,612.592,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">S</text>
+<text bbox="612.592,460.008,619.904,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="619.904,460.008,633.322,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">u</text>
+<text bbox="633.322,460.008,646.740,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">d</text>
+<text bbox="646.740,460.008,658.949,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">e</text>
+<text bbox="658.993,460.008,672.411,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">n</text>
+<text bbox="672.411,460.008,679.724,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">t</text>
+<text bbox="679.724,460.008,691.933,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">s</text>
+<text bbox="691.933,460.008,698.038,481.968" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960"> </text>
+</textline>
+<textline bbox="61.272,433.608,652.413,455.568" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="21.960">Graduating with Regents or Local Diploma After 4 Years  </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.368,401.080,683.626,419.080" id="1" size="18.0">Percentage Point Difference for June Graduates plus August Graduates 2008 <textline bbox="25.368,401.080,683.626,419.080" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Percentage Point Difference for June Graduates plus August Graduates 2008 </textline>
+</normal_text>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="2" size="14.04">77 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">77 </textline>
 </slide_number>
-<enlisting archetypal_index="7" bbox="558.58,15.744,595.444,92.544">28,906 26,678 28,390 31,252 <normal_text bbox="558.580,80.544,595.444,92.544" id="8" size="12.0">28,906 <textline bbox="558.580,80.544,595.444,92.544" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">28,906 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[25.006857142857143, 427.4597142857142, 686.146, 512.7108095238095]" rotate="0">
+<title archetypal_index="0" bbox="19.008,426.340,695.400,507.979" id="0" size="24.008">Achievement Gap in Percentage Between Black and White  
+and Hispanic and White Students Graduating with Regents  
+or Local Diploma After 4 Years  <textline bbox="21.888,483.955,692.734,507.979" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Achievement Gap in Percentage Between Black and White  </textline>
+<textline bbox="19.008,455.140,695.400,479.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">and Hispanic and White Students Graduating with Regents  </textline>
+<textline bbox="180.700,426.340,533.956,450.340" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">or Local Diploma After 4 Years  </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.368,393.880,683.626,411.880" id="1" size="18.0">Percentage Point Difference for June Graduates plus August Graduates 2008 <textline bbox="25.368,393.880,683.626,411.880" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Percentage Point Difference for June Graduates plus August Graduates 2008 </textline>
 </normal_text>
-<normal_text bbox="558.580,58.944,595.444,70.944" id="10" size="12.0">26,678 <textline bbox="558.580,58.944,595.444,70.944" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">26,678 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="2" size="14.04">88 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">88 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[25.006857142857143, 427.4597142857142, 686.146, 512.7108095238095]" rotate="0">
+<title archetypal_index="0" bbox="80.112,336.438,639.792,376.398" id="0" size="39.96">NYC and Big Four Cities Data <textline bbox="80.112,336.438,639.792,376.398" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="39.960">NYC and Big Four Cities Data </textline>
+</title>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">9 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[26.147142857142857, 435.8797857142857, 682.8675000000001, 513.0278571428571]" rotate="0">
+<title archetypal_index="0" bbox="29.568,461.140,673.032,513.979" id="0" size="24.012">Percentage of NYC and Big Four Cities&#8217; Students  
+Graduating with Regents or Local Diploma After 4 Years  <textline bbox="69.432,489.955,633.155,513.979" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Percentage of NYC and Big Four Cities&#8217; Students  </textline>
+<textline bbox="29.568,461.140,673.032,485.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">Graduating with Regents or Local Diploma After 4 Years  </textline>
+</title>
+<normal_text archetypal_index="1" bbox="110.350,428.680,585.496,446.680" id="1" size="18.0">Results of June Graduates plus August Graduates 2008 <textline bbox="110.350,428.680,585.496,446.680" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">Results of June Graduates plus August Graduates 2008 </textline>
 </normal_text>
-<normal_text bbox="558.580,37.344,595.444,49.344" id="12" size="12.0">28,390 <textline bbox="558.580,37.344,595.444,49.344" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">28,390 </textline>
+<normal_text archetypal_index="2" bbox="243.940,326.538,442.722,348.498" id="2" size="9.96">* Big 4 Cities include: Buffalo, Rochester,  
+Syracuse, and Yonkers <textline bbox="243.940,338.538,442.722,348.498" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="9.960">* Big 4 Cities include: Buffalo, Rochester,  </textline>
+<textline bbox="287.260,326.538,396.641,336.498" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="9.960">Syracuse, and Yonkers </textline>
 </normal_text>
-<normal_text bbox="558.580,15.744,595.444,27.744" id="14" size="12.0">31,252 <textline bbox="558.580,15.744,595.444,27.744" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="12.000">31,252 </textline>
+<slide_number bbox="661.200,28.036,676.806,42.076" id="3" size="14.04">1010 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1010 </textline>
+</slide_number>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[29.366, 430.81138888888887, 683.5298333333334, 514.5725555555556]" rotate="0">
+<title archetypal_index="0" bbox="40.632,413.072,685.848,519.979" id="0" size="21.516">Gap Between the Percentage of NYC/ Big Four Cities&#8217;  
+and NYS Total Public Students Graduating with Regents  
+or Local Diploma After 4 Years 
+Percentage Point Difference Results of June Graduates 2004 plus August Graduates 2008 <textline bbox="56.712,495.955,669.973,519.979" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.024">Gap Between the Percentage of NYC/ Big Four Cities&#8217;  </textline>
+<textline bbox="40.632,467.140,685.848,491.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">and NYS Total Public Students Graduating with Regents  </textline>
+<textline bbox="186.700,438.340,533.284,462.340" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="24.000">or Local Diploma After 4 Years </textline>
+<textline bbox="63.312,413.072,656.571,427.112" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">Percentage Point Difference Results of June Graduates 2004 plus August Graduates 2008 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="411.960,362.563,610.742,384.528" id="1" size="9.972000000000001">* Big 4 Cities include: Buffalo, Rochester,  
+Syracuse, and Yonkers <textline bbox="411.960,374.568,610.742,384.528" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="9.960">* Big 4 Cities include: Buffalo, Rochester,  </textline>
+<textline bbox="455.300,362.563,564.745,372.547" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="9.984">Syracuse, and Yonkers </textline>
 </normal_text>
-</enlisting></page>
+<slide_number bbox="662.280,28.036,676.802,42.076" id="2" size="14.04">1111 <textline bbox="662.280,28.036,676.802,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1111 </textline>
+</slide_number>
+<curve bbox="63.292,413.160,249.770,414.600" linewidth="0" pts="63.292,414.600,156.530,414.600,249.770,414.600,249.770,413.160,156.530,413.160,63.292,413.160" />
+</page>
 </pages>

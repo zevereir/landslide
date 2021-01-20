@@ -1,197 +1,925 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="20" mean_title="[145.9553216374269, 441.94768421052635, 469.5655555555556, 492.76817543859653]" rotate="0">
-<title archetypal_index="0" bbox="120.220,399.580,635.154,512.620" id="0" size="34.0">Example- Refer to page 1 of the  
-contract 
-THIS CONTRACT, between   <textline bbox="120.220,473.620,635.154,512.620" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="39.000">Example- Refer to page 1 of the  </textline>
-<textline bbox="120.220,426.820,253.483,465.820" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="39.000">contract </textline>
-<textline bbox="126.700,399.580,416.404,423.580" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">THIS CONTRACT, between   </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="228.000,399.629,655.624,442.589" id="0" size="42.96">FY 2012 LHD Contracts <textline bbox="228.000,399.629,655.624,442.589" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">FY 2012 LHD Contracts </textline>
 </title>
-<normal_text archetypal_index="1" bbox="126.700,341.470,365.252,365.470" id="1" size="24.0">(Health Department) <textline bbox="126.700,341.470,365.252,365.470">(Health Department) <text bbox="126.700,341.470,134.452,365.470" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(1, 0, 0)" size="24.000">(</text>
-<text bbox="134.500,341.470,154.492,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">H</text>
-<text bbox="154.540,341.470,167.788,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">e</text>
-<text bbox="167.788,341.470,180.532,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">a</text>
-<text bbox="180.532,341.470,187.036,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">l</text>
-<text bbox="187.036,341.470,196.780,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">t</text>
-<text bbox="196.708,341.470,210.700,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">h</text>
-<text bbox="210.748,341.470,217.420,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000"> </text>
-<text bbox="217.420,341.470,236.668,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">D</text>
-<text bbox="236.572,341.470,249.820,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">e</text>
-<text bbox="249.820,341.470,263.812,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">p</text>
-<text bbox="263.812,341.470,276.556,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">a</text>
-<text bbox="276.556,341.470,287.308,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">r</text>
-<text bbox="287.860,341.470,297.604,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">t</text>
-<text bbox="297.604,341.470,320.596,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">m</text>
-<text bbox="320.596,341.470,333.844,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">e</text>
-<text bbox="333.844,341.470,347.836,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">n</text>
-<text bbox="347.908,341.470,357.652,365.470" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">t</text>
-<text bbox="357.500,341.470,365.252,365.470" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(1, 0, 0)" size="24.000">)</text>
-</textline>
+<normal_text archetypal_index="1" bbox="274.680,273.311,536.082,353.389" id="1" size="20.048">Presented by: 
+Tammy Page  
+Local Health Operations Branch <textline bbox="350.540,333.325,460.290,353.389" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="20.064">Presented by: </textline>
+<textline bbox="355.820,303.311,460.629,323.351" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="20.040">Tammy Page  </textline>
+<textline bbox="274.680,273.311,536.082,293.351" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="20.040">Local Health Operations Branch </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="126.700,231.290,269.112,284.350" id="2" size="24.0">and 
-(Contractor) <textline bbox="126.700,260.350,161.188,284.350" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">and </textline>
-<textline bbox="126.700,231.290,269.112,255.290">(Contractor) <text bbox="126.700,231.290,134.452,255.290" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(1, 0, 0)" size="24.000">(</text>
-<text bbox="134.500,231.290,153.004,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">C</text>
-<text bbox="153.004,231.290,167.260,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">o</text>
-<text bbox="167.260,231.290,181.252,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">n</text>
-<text bbox="181.348,231.290,191.092,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">t</text>
-<text bbox="191.092,231.290,201.844,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">r</text>
-<text bbox="201.844,231.290,214.588,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">a</text>
-<text bbox="214.588,231.290,226.588,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">c</text>
-<text bbox="226.588,231.290,236.332,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">t</text>
-<text bbox="236.332,231.290,250.588,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">o</text>
-<text bbox="250.588,231.290,261.340,255.290" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">r</text>
-<text bbox="261.360,231.290,269.112,255.290" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(1, 0, 0)" size="24.000">)</text>
-</textline>
+<normal_text archetypal_index="2" bbox="280.800,183.291,529.937,233.369" id="2" size="20.052">Ron Horseman 
+Local Health Personnel Branch <textline bbox="343.700,213.305,467.294,233.369" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="20.064">Ron Horseman </textline>
+<textline bbox="280.800,183.291,529.937,203.331" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="20.040">Local Health Personnel Branch </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="408.290,318.430,624.530,394.558" id="3" size="24.008">Health Department  
-Address 
-City, State, Zip Code   <textline bbox="408.290,370.534,605.815,394.558" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.024">Health Department  </textline>
-<textline bbox="412.490,341.470,491.666,365.470" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">Address </textline>
-<textline bbox="410.930,318.430,624.530,342.430" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">City, State, Zip Code   </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="414.890,202.250,628.538,284.350" id="4" size="24.0">Contractor's Name 
-Address 
-City,  State,  Zip Code <textline bbox="414.890,260.350,605.426,284.350" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">Contractor's Name </textline>
-<textline bbox="419.210,231.290,498.386,255.290" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">Address </textline>
-<textline bbox="414.890,202.250,628.538,226.250" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">City,  State,  Zip Code </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="126.700,144.170,687.388,168.170" id="5" size="24.0">is effective {date } and ends {No later than June 30}, 2012. <textline bbox="126.700,144.170,687.388,168.170" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="24.000">is effective {date } and ends {No later than June 30}, 2012. </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="126.700,57.024,686.548,110.064" id="6" size="24.0">USE THE TITLES &#8220;Health Department&#8221; and  
-&#8220;Contractor&#8221; THROUGHOUT THE CONTRACT. <textline bbox="149.040,86.064,652.344,110.064" colourspace="Pattern" font="BCDIEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">USE THE TITLES &#8220;Health Department&#8221; and  </textline>
-<textline bbox="126.700,57.024,686.548,81.024" colourspace="Pattern" font="BCDIEE+GillSansMT-Bold" ncolour="(1, 0, 0)" size="24.000">&#8220;Contractor&#8221; THROUGHOUT THE CONTRACT. </textline>
-</normal_text>
-<slide_number bbox="690.310,9.618,702.322,21.642" id="7" size="12.024">20 <textline bbox="690.310,9.618,702.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">20 </textline>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="3" size="12.024">1 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">1 </textline>
 </slide_number>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.18.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.jpg" width="720">
 </background>
 <curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
 <curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
 <curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
 <curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
 <curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
-<picture archetypal_index="7" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.18.391x390.bmp', 'Image11.18.253x252.bmp']" name="combined_0" src="combined_20_0.png" /></page>
-<page bbox="0.000,0.000,720.000,540.000" id="21" mean_title="[143.3817894736842, 442.5398157894737, 449.22020000000003, 492.5742578947369]" rotate="0">
-<title archetypal_index="0" bbox="120.220,447.869,266.112,490.829" id="0" size="42.96">Example <textline bbox="120.220,447.869,266.112,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Example </textline>
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="2" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="0" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="91.080,429.000,96.120,434.160" linewidth="1" pts="91.080,431.580,91.080,433.000,92.208,434.160,93.600,434.160,94.992,434.160,96.120,433.000,96.120,431.580,96.120,430.160,94.992,429.000,93.600,429.000,92.208,429.000,91.080,430.160,91.080,431.580" />
+<picture archetypal_index="3" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.391x390.bmp', 'Image11.253x252.bmp']" name="combined_0" src="combined_1_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[314.76, 346.624, 456.528, 386.608]" rotate="0">
+<title archetypal_index="0" bbox="314.760,346.624,456.528,386.608" id="0" size="39.984">CH-53M <textline bbox="314.760,346.624,456.528,386.608" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="39.984">CH-53M </textline>
 </title>
-<normal_text archetypal_index="1" bbox="149.040,215.019,400.458,411.048" id="1" size="27.968000000000004">Dr. Smith agrees to  
-furnish the ABC 
-Health  
-Department copies  
-of the prenatal office  
-visit records. <textline bbox="149.040,383.064,392.972,411.048">Dr. Smith agrees to  <text bbox="149.040,383.064,171.483,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">D</text>
-<text bbox="171.483,383.064,184.020,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">r</text>
-<text bbox="181.194,383.064,188.777,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">.</text>
-<text bbox="186.007,383.064,193.786,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984"> </text>
-<text bbox="193.786,383.064,210.689,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">S</text>
-<text bbox="210.689,383.064,237.497,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">m</text>
-<text bbox="237.497,383.064,245.081,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">i</text>
-<text bbox="245.081,383.064,256.443,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">t</text>
-<text bbox="256.443,383.064,272.757,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">h</text>
-<text bbox="280.700,383.064,292.649,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">a</text>
-<text bbox="292.649,383.064,304.598,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">g</text>
-<text bbox="304.458,383.064,315.540,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">r</text>
-<text bbox="314.896,383.064,328.301,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">e</text>
-<text bbox="328.301,383.064,341.705,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">e</text>
-<text bbox="341.705,383.064,352.479,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">s</text>
-<text bbox="352.535,383.064,360.314,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984"> </text>
-<text bbox="360.426,383.064,369.745,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">t</text>
-<text bbox="369.745,383.064,385.192,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">o</text>
-<text bbox="385.192,383.064,392.972,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984"> </text>
-</textline>
-<textline bbox="149.040,349.439,341.210,377.399">furnish the ABC <text bbox="149.040,349.439,156.030,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">f</text>
-<text bbox="156.030,349.439,170.010,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">u</text>
-<text bbox="170.010,349.439,181.082,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">r</text>
-<text bbox="181.082,349.439,195.062,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">n</text>
-<text bbox="195.062,349.439,201.185,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">i</text>
-<text bbox="201.185,349.439,211.950,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">s</text>
-<text bbox="212.006,349.439,225.986,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">h</text>
-<text bbox="225.986,349.439,233.759,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960"> </text>
-<text bbox="233.759,349.439,243.069,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">t</text>
-<text bbox="243.069,349.439,257.049,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">h</text>
-<text bbox="257.049,349.439,270.442,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">e</text>
-<text bbox="270.526,349.439,278.299,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960"> </text>
-<text bbox="278.300,349.439,300.137,377.399" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">A</text>
-<text bbox="300.137,349.439,319.653,377.399" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">B</text>
-<text bbox="319.653,349.439,341.210,377.399" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">C</text>
-</textline>
-<textline bbox="149.040,315.839,245.698,343.799" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">Health  </textline>
-<textline bbox="149.040,282.239,400.458,310.199">Department copies  <text bbox="149.040,282.239,171.464,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">D</text>
-<text bbox="171.464,282.239,186.898,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">e</text>
-<text bbox="186.898,282.239,203.199,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">p</text>
-<text bbox="203.199,282.239,218.045,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">a</text>
-<text bbox="218.129,282.239,230.655,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">r</text>
-<text bbox="231.186,282.239,242.538,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">t</text>
-<text bbox="242.538,282.239,269.324,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">m</text>
-<text bbox="269.324,282.239,284.758,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">e</text>
-<text bbox="284.758,282.239,301.059,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">n</text>
-<text bbox="301.114,282.239,312.466,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">t</text>
-<text bbox="320.660,282.239,332.906,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">c</text>
-<text bbox="332.906,282.239,348.340,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">o</text>
-<text bbox="348.340,282.239,362.320,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">p</text>
-<text bbox="362.404,282.239,368.528,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">i</text>
-<text bbox="368.528,282.239,381.920,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">e</text>
-<text bbox="381.920,282.239,392.685,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">s</text>
-<text bbox="392.685,282.239,400.458,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960"> </text>
-</textline>
-<textline bbox="149.040,248.634,392.025,276.618" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">of the prenatal office  </textline>
-<textline bbox="149.040,215.019,294.656,242.979" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">visit records. </textline>
+<normal_text archetypal_index="1" bbox="122.140,206.285,678.598,295.931" id="1" size="38.052">Local Health Department 
+Independent Contractor Agreement <textline bbox="191.980,257.891,586.303,295.931" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="38.040">Local Health Department </textline>
+<textline bbox="122.140,206.285,678.598,244.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="38.064">Independent Contractor Agreement </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="451.580,215.019,703.008,411.048" id="2" size="27.968000000000004">The Contractor 
-agrees to furnish the  
-Health  
-Department copies  
-of the prenatal office  
-visit records. <textline bbox="451.580,383.064,651.463,411.048">The Contractor <text bbox="451.580,383.064,468.482,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">T</text>
-<text bbox="468.482,383.064,482.474,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">h</text>
-<text bbox="482.474,383.064,495.879,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">e</text>
-<text bbox="495.963,383.064,503.742,411.048" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984"> </text>
-<text bbox="503.540,383.064,525.116,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">C</text>
-<text bbox="525.116,383.064,541.738,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">o</text>
-<text bbox="541.738,383.064,558.053,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">n</text>
-<text bbox="558.053,383.064,569.414,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">t</text>
-<text bbox="569.414,383.064,581.951,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">r</text>
-<text bbox="581.951,383.064,596.811,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">a</text>
-<text bbox="596.867,383.064,610.859,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">c</text>
-<text bbox="610.859,383.064,622.220,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">t</text>
-<text bbox="622.304,383.064,638.927,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">o</text>
-<text bbox="638.927,383.064,651.463,411.048" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.984">r</text>
-</textline>
-<textline bbox="451.580,349.439,693.126,377.399" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">agrees to furnish the  </textline>
-<textline bbox="451.580,315.839,548.238,343.799" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">Health  </textline>
-<textline bbox="451.580,282.239,703.008,310.199">Department copies  <text bbox="451.580,282.239,474.004,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">D</text>
-<text bbox="474.004,282.239,489.438,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">e</text>
-<text bbox="489.438,282.239,505.739,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">p</text>
-<text bbox="505.739,282.239,520.585,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">a</text>
-<text bbox="520.669,282.239,533.195,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">r</text>
-<text bbox="533.726,282.239,545.078,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">t</text>
-<text bbox="545.078,282.239,571.864,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">m</text>
-<text bbox="571.864,282.239,587.298,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">e</text>
-<text bbox="587.298,282.239,603.599,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">n</text>
-<text bbox="603.654,282.239,615.006,310.199" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="27.960">t</text>
-<text bbox="623.210,282.239,635.456,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">c</text>
-<text bbox="635.456,282.239,650.890,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">o</text>
-<text bbox="650.890,282.239,664.870,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">p</text>
-<text bbox="664.954,282.239,671.078,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">i</text>
-<text bbox="671.078,282.239,684.470,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">e</text>
-<text bbox="684.470,282.239,695.235,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">s</text>
-<text bbox="695.235,282.239,703.008,310.199" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960"> </text>
-</textline>
-<textline bbox="451.580,248.634,694.565,276.618" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.984">of the prenatal office  </textline>
-<textline bbox="451.580,215.019,597.196,242.979" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="27.960">visit records. </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="164.520,121.414,338.850,161.398" id="3" size="39.984">WRONG <textline bbox="164.520,121.414,338.850,161.398" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="39.984">WRONG </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="494.780,121.414,629.726,161.398" id="4" size="39.984">RIGHT <textline bbox="494.780,121.414,629.726,161.398" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="39.984">RIGHT </textline>
-</normal_text>
-<slide_number bbox="690.310,9.618,702.322,21.642" id="5" size="12.024">21 <textline bbox="690.310,9.618,702.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">21 </textline>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="2" size="12.024">2 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">2 </textline>
 </slide_number>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.19.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.0.jpg" width="720">
 </background>
 <curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
 <curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
 <curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
 <curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
 <curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
-<picture archetypal_index="5" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.19.391x390.bmp', 'Image11.19.253x252.bmp']" name="combined_0" src="combined_21_0.png" /></page>
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="2" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="0" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="91.080,429.000,96.120,434.160" linewidth="1" pts="91.080,431.580,91.080,433.000,92.208,434.160,93.600,434.160,94.992,434.160,96.120,433.000,96.120,431.580,96.120,430.160,94.992,429.000,93.600,429.000,92.208,429.000,91.080,430.160,91.080,431.580" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.0.391x390.bmp', 'Image11.0.253x252.bmp']" name="combined_0" src="combined_2_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[185.0666666666667, 400.088, 491.75066666666663, 470.616]" rotate="0">
+<title archetypal_index="0" bbox="120.220,426.820,509.362,512.620" id="0" size="39.0">CH-53M 
+Most common problems <textline bbox="120.220,473.620,258.459,512.620" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="39.000">CH-53M </textline>
+<textline bbox="120.220,426.820,509.362,465.820" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="39.000">Most common problems </textline>
+</title>
+<enlisting archetypal_index="1" bbox="126.700,25.415,582.573,368.301" id="1" size="25.563">&#61591; Third Party Billing (TPB) language 
+&#61591; Wording 
+&#61591; Payment amount 
+&#61591; Multiple Contracts 
+&#61591; Billing issues onsite/offsite 
+&#61591; Provider numbers 
+&#61591; KWCSP requirements 
+&#61591; 260 and 205 provider numbers <textline bbox="126.700,336.261,582.573,368.301">&#61591; Third Party Billing (TPB) language <text bbox="126.700,338.390,140.860,363.950" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,336.261,168.392,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">T</text>
+<text bbox="168.392,336.261,184.412,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">h</text>
+<text bbox="184.412,336.261,191.429,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="191.429,336.261,204.117,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="203.764,336.261,220.105,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="220.105,336.261,229.012,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="228.852,336.261,245.192,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="245.192,336.261,258.873,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="258.873,336.261,271.561,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="272.138,336.261,282.807,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="282.807,336.261,296.841,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">y</text>
+<text bbox="296.841,336.261,305.748,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="305.491,336.261,323.530,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">B</text>
+<text bbox="323.530,336.261,330.547,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="330.547,336.261,337.563,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="337.563,336.261,344.580,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="344.708,336.261,351.725,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="351.725,336.261,367.745,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="367.841,336.261,381.522,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="381.522,336.261,390.429,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="390.045,336.261,400.394,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">(</text>
+<text bbox="400.394,336.261,419.746,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">T</text>
+<text bbox="419.746,336.261,436.086,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="436.086,336.261,454.125,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">B</text>
+<text bbox="453.997,336.261,464.346,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">)</text>
+<text bbox="464.346,336.261,473.253,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="473.253,336.261,480.270,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="480.366,336.261,494.047,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="494.047,336.261,510.067,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="510.067,336.261,523.748,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="523.748,336.261,539.768,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="539.864,336.261,553.545,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="553.545,336.261,567.226,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="567.226,336.261,582.573,368.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+</textline>
+<textline bbox="126.700,291.861,262.526,323.901">&#61591; Wording <text bbox="126.700,293.990,140.860,319.550" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,291.861,182.426,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">W</text>
+<text bbox="179.510,291.861,197.196,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="197.196,291.861,209.884,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="209.403,291.861,225.744,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="225.744,291.861,232.761,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="232.761,291.861,248.781,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="248.845,291.861,262.526,323.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+</textline>
+<textline bbox="126.700,247.455,366.081,279.519">&#61591; Payment amount <text bbox="126.700,249.585,140.874,275.169" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.584">&#61591;</text>
+<text bbox="149.040,247.455,165.393,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">P</text>
+<text bbox="165.393,247.455,179.084,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="177.705,247.455,191.749,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">y</text>
+<text bbox="191.749,247.455,216.471,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">m</text>
+<text bbox="216.471,247.455,231.829,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="231.829,247.455,247.861,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="247.861,247.455,258.539,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+<text bbox="258.539,247.455,267.452,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="267.228,247.455,280.919,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="280.919,247.455,305.641,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">m</text>
+<text bbox="305.641,247.455,323.340,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">o</text>
+<text bbox="323.340,247.455,339.372,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">u</text>
+<text bbox="339.372,247.455,355.404,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="355.404,247.455,366.081,279.519" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+</textline>
+<textline bbox="126.700,203.041,392.352,235.081">&#61591; Multiple Contracts <text bbox="126.700,205.170,140.860,230.730" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,203.041,174.063,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">M</text>
+<text bbox="174.063,203.041,190.083,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="190.083,203.041,197.100,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="197.100,203.041,207.769,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="207.769,203.041,214.786,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="214.882,203.041,230.902,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="230.902,203.041,237.919,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="238.015,203.041,253.362,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="253.362,203.041,262.269,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="261.885,203.041,284.569,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="284.569,203.041,302.255,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="302.255,203.041,318.275,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="318.275,203.041,328.945,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="328.945,203.041,341.632,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="341.632,203.041,355.314,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="355.314,203.041,369.347,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="369.347,203.041,380.016,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="380.016,203.041,392.352,235.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+<textline bbox="126.700,158.641,485.076,190.681">&#61591; Billing issues onsite/offsite <text bbox="126.700,160.770,140.860,186.330" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,158.641,167.079,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">B</text>
+<text bbox="167.079,158.641,174.095,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="174.095,158.641,181.112,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="181.112,158.641,188.129,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="188.257,158.641,195.274,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="195.274,158.641,211.294,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="211.390,158.641,225.071,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="224.943,158.641,233.850,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="233.465,158.641,240.482,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="240.482,158.641,252.818,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="252.818,158.641,265.153,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="265.249,158.641,281.269,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="281.269,158.641,296.616,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="296.616,158.641,308.952,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="309.016,158.641,317.923,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="317.763,158.641,335.449,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="335.449,158.641,351.469,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="351.469,158.641,363.804,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="363.804,158.641,370.821,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="370.885,158.641,381.554,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="381.554,158.641,396.901,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="396.901,158.641,405.905,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">/</text>
+<text bbox="405.905,158.641,423.591,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="423.591,158.641,431.601,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">f</text>
+<text bbox="431.601,158.641,439.611,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">f</text>
+<text bbox="439.611,158.641,451.946,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="451.946,158.641,458.963,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="459.059,158.641,469.728,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="469.728,158.641,485.076,190.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+</textline>
+<textline bbox="126.700,114.211,381.714,146.251">&#61591; Provider numbers <text bbox="126.700,116.340,140.860,141.900" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,114.211,165.380,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="165.380,114.211,178.068,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="177.235,114.211,194.921,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="194.505,114.211,208.538,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="208.538,114.211,215.555,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="215.555,114.211,231.895,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="231.895,114.211,247.243,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="247.243,114.211,259.930,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="259.930,114.211,268.838,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="268.838,114.211,284.858,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="284.505,114.211,300.525,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="300.525,114.211,325.228,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">m</text>
+<text bbox="325.228,114.211,341.248,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">b</text>
+<text bbox="341.344,114.211,356.691,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="356.691,114.211,369.379,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="369.379,114.211,381.714,146.251" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+<textline bbox="126.700,69.815,438.906,101.855">&#61591; KWCSP requirements <text bbox="126.700,71.944,140.860,97.504" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,69.815,170.058,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">K</text>
+<text bbox="170.058,69.815,203.444,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">W</text>
+<text bbox="203.444,69.815,226.128,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="226.128,69.815,240.803,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="240.803,69.815,257.143,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="257.047,69.815,265.954,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="265.954,69.815,278.642,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="278.033,69.815,293.380,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="293.380,69.815,309.400,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">q</text>
+<text bbox="309.400,69.815,325.420,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="325.516,69.815,332.533,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="332.533,69.815,345.221,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="344.612,69.815,359.959,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="359.959,69.815,384.662,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">m</text>
+<text bbox="384.662,69.815,400.009,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="400.009,69.815,416.029,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="416.029,69.815,426.699,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="426.570,69.815,438.906,101.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+<textline bbox="126.700,25.415,549.989,57.455">&#61591; 260 and 205 provider numbers <text bbox="126.700,27.544,140.860,53.104" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,25.415,165.060,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">2</text>
+<text bbox="165.060,25.415,181.080,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">6</text>
+<text bbox="181.176,25.415,197.196,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">0</text>
+<text bbox="197.196,25.415,206.103,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="205.911,25.415,219.592,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="219.592,25.415,235.612,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="235.612,25.415,251.952,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="251.952,25.415,260.860,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="260.763,25.415,276.783,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">2</text>
+<text bbox="276.783,25.415,292.803,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">0</text>
+<text bbox="292.900,25.415,308.920,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">5</text>
+<text bbox="308.920,25.415,317.827,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="317.634,25.415,333.654,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="333.654,25.415,346.342,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="345.605,25.415,363.291,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="362.875,25.415,376.908,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="376.908,25.415,383.925,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="383.925,25.415,400.266,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="400.266,25.415,415.613,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="415.613,25.415,428.301,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="428.301,25.415,437.208,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="437.048,25.415,453.068,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="452.779,25.415,468.799,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="468.799,25.415,493.502,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">m</text>
+<text bbox="493.502,25.415,509.522,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">b</text>
+<text bbox="509.618,25.415,524.965,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="524.965,25.415,537.653,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="537.653,25.415,549.989,57.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+</enlisting>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="2" size="12.024">3 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">3 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.1.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.1.391x390.bmp', 'Image11.1.253x252.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[152.64333333333335, 423.9785, 512.1288333333333, 480.7225]" rotate="0">
+<title archetypal_index="0" bbox="120.220,447.869,532.507,490.829" id="0" size="42.96">Contract Requirements <textline bbox="120.220,447.869,532.507,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Contract Requirements </textline>
+</title>
+<enlisting archetypal_index="1" bbox="126.700,87.815,457.239,386.301" id="1" size="25.56342857142857">&#61591; Service Type 
+&#61591; Contract Description 
+&#61591; Provider Credentials 
+&#61591; Scope of Work 
+&#61591; CH-55 
+&#61591; Compensation/Payment 
+&#61591; Billing Procedures <textline bbox="126.700,354.261,308.631,386.301">&#61591; Service Type <text bbox="126.700,356.390,140.860,381.950" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,354.261,163.714,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="163.714,354.261,179.061,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="179.061,354.261,191.749,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="192.678,354.261,206.712,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="206.712,354.261,213.729,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="213.729,354.261,227.762,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="227.762,354.261,243.109,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="243.109,354.261,252.017,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="247.883,354.261,267.236,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">T</text>
+<text bbox="263.231,354.261,277.264,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">y</text>
+<text bbox="277.264,354.261,293.284,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="293.284,354.261,308.631,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+</textline>
+<textline bbox="126.700,309.861,428.653,341.901">&#61591; Contract Description <text bbox="126.700,311.990,140.860,337.550" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,309.861,171.724,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="171.724,309.861,189.410,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="189.410,309.861,205.430,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="205.430,309.861,216.100,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="216.100,309.861,228.788,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="228.788,309.861,242.469,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="242.469,309.861,256.502,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="256.502,309.861,267.171,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="267.171,309.861,276.079,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="275.630,309.861,299.660,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">D</text>
+<text bbox="299.660,309.861,315.007,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="315.007,309.861,327.343,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="327.343,309.861,341.376,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="341.376,309.861,354.064,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="354.064,309.861,361.081,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="361.145,309.861,377.165,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="377.165,309.861,387.834,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="387.834,309.861,394.851,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="394.947,309.861,412.633,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="412.633,309.861,428.653,341.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+</textline>
+<textline bbox="126.700,265.461,417.439,297.501">&#61591; Provider Credentials <text bbox="126.700,267.590,140.860,293.150" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,265.461,165.380,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="165.380,265.461,178.068,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="177.235,265.461,194.921,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="194.505,265.461,208.538,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="208.538,265.461,215.555,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="215.555,265.461,231.895,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="231.895,265.461,247.243,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="247.243,265.461,259.930,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="259.930,265.461,268.838,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="268.838,265.461,291.522,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="291.522,265.461,304.210,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="303.569,265.461,318.916,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="318.916,265.461,335.256,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="335.256,265.461,350.604,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="350.604,265.461,366.624,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="366.624,265.461,377.293,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="377.293,265.461,384.310,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="384.406,265.461,398.087,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="398.087,265.461,405.104,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="405.104,265.461,417.439,297.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+<textline bbox="126.700,221.041,342.209,253.081">&#61591; Scope of Work <text bbox="126.700,223.170,140.860,248.730" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,221.041,163.714,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="163.714,221.041,177.748,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="177.748,221.041,195.434,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="195.434,221.041,211.454,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="211.454,221.041,226.801,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="226.801,221.041,235.708,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="235.548,221.041,253.234,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="253.234,221.041,261.244,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">f</text>
+<text bbox="261.244,221.041,270.151,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="266.018,221.041,299.404,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">W</text>
+<text bbox="296.488,221.041,314.174,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="314.174,221.041,326.862,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="326.862,221.041,342.209,253.081" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">k</text>
+</textline>
+<textline bbox="126.700,176.641,237.540,208.681">&#61591; CH-55 <text bbox="126.700,178.770,140.860,204.330" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,176.641,171.724,208.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="171.720,176.641,195.077,208.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">H</text>
+<text bbox="195.120,176.641,205.469,208.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">-</text>
+<text bbox="205.440,176.641,221.460,208.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">5</text>
+<text bbox="221.520,176.641,237.540,208.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">5</text>
+</textline>
+<textline bbox="126.700,132.235,457.239,164.299">&#61591; Compensation/Payment <text bbox="126.700,134.365,140.874,159.949" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.584">&#61591;</text>
+<text bbox="149.040,132.235,171.741,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">C</text>
+<text bbox="171.741,132.235,189.441,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">o</text>
+<text bbox="189.441,132.235,214.162,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">m</text>
+<text bbox="214.162,132.235,230.194,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">p</text>
+<text bbox="230.194,132.235,245.553,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="245.553,132.235,261.585,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="261.585,132.235,273.929,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">s</text>
+<text bbox="273.929,132.235,287.621,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="287.621,132.235,298.298,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+<text bbox="298.298,132.235,305.320,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="305.320,132.235,323.019,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">o</text>
+<text bbox="322.923,132.235,338.955,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="338.955,132.235,347.965,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">/</text>
+<text bbox="347.965,132.235,364.318,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">P</text>
+<text bbox="364.189,132.235,377.881,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="376.534,132.235,390.578,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">y</text>
+<text bbox="390.578,132.235,415.299,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">m</text>
+<text bbox="415.171,132.235,430.530,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="430.530,132.235,446.562,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="446.562,132.235,457.239,164.299" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+</textline>
+<textline bbox="126.700,87.815,380.913,119.855">&#61591; Billing Procedures <text bbox="126.700,89.944,140.860,115.504" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,87.815,167.079,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">B</text>
+<text bbox="167.079,87.815,174.095,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="174.095,87.815,181.112,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="181.112,87.815,188.129,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="188.257,87.815,195.274,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="195.274,87.815,211.294,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="211.390,87.815,225.071,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="224.943,87.815,233.850,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="233.465,87.815,249.806,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="249.806,87.815,262.494,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="261.661,87.815,279.347,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="279.347,87.815,293.380,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="293.380,87.815,308.727,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="308.727,87.815,325.068,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="325.068,87.815,341.088,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="341.088,87.815,353.776,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="353.231,87.815,368.578,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="368.578,87.815,380.913,119.855" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+</textline>
+</enlisting>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="2" size="12.024">4 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">4 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.2.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.2.391x390.bmp', 'Image11.2.253x252.bmp']" name="combined_0" src="combined_4_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[139.674, 433.5347, 441.1477, 484.76509999999996]" rotate="0">
+<title archetypal_index="0" bbox="120.220,447.869,334.676,490.829" id="0" size="42.96">Service Type <textline bbox="120.220,447.869,334.676,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Service Type </textline>
+</title>
+<enlisting archetypal_index="1" bbox="126.700,73.415,598.361,416.349" id="1" size="26.379">Examples include, but not limited to: 
+&#61591; APRN Services, 
+&#61591; Radiological Services, 
+&#61591; Lab Services, 
+&#61591; Interpreter, 
+&#61591; Physician Services,  
+&#61591; Administrative Services and 
+&#61591; Cancer, Family Planning, Prenatal <textline bbox="126.700,384.285,598.361,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">Examples include, but not limited to: </textline>
+<textline bbox="126.700,339.861,353.519,371.901">&#61591; APRN Services, <text bbox="126.700,341.990,140.860,367.550" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,339.861,170.411,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">A</text>
+<text bbox="170.411,339.861,186.751,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="186.751,339.861,206.103,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">R</text>
+<text bbox="206.103,339.861,231.126,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">N</text>
+<text bbox="230.998,339.861,239.905,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="239.905,339.861,254.580,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="254.580,339.861,269.927,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="269.927,339.861,282.615,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="283.640,339.861,297.674,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="297.674,339.861,304.690,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="304.690,339.861,318.724,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="318.724,339.861,334.071,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="334.071,339.861,346.406,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="346.503,339.861,353.519,371.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+</textline>
+<textline bbox="126.700,295.461,425.289,327.501">&#61591; Radiological Services, <text bbox="126.700,297.590,140.860,323.150" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,295.461,168.392,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">R</text>
+<text bbox="168.392,295.461,182.073,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="182.073,295.461,198.414,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="198.414,295.461,205.430,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="205.430,295.461,223.116,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="223.116,295.461,230.133,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="230.133,295.461,247.819,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="247.819,295.461,261.500,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="261.500,295.461,268.517,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="268.517,295.461,282.551,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="282.551,295.461,296.232,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="296.232,295.461,303.249,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="303.249,295.461,312.156,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="311.771,295.461,326.445,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="326.445,295.461,341.793,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="341.793,295.461,354.480,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="355.410,295.461,369.443,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="369.443,295.461,376.460,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="376.460,295.461,390.493,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="390.493,295.461,405.841,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="405.841,295.461,418.176,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="418.272,295.461,425.289,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+</textline>
+<textline bbox="126.700,251.055,316.767,283.119">&#61591; Lab Services, <text bbox="126.700,253.185,140.874,278.769" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.584">&#61591;</text>
+<text bbox="149.040,251.055,164.751,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">L</text>
+<text bbox="164.751,251.055,178.443,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="178.443,251.055,194.475,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">b</text>
+<text bbox="194.475,251.055,203.388,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="203.292,251.055,217.978,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">S</text>
+<text bbox="217.978,251.055,233.336,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="233.336,251.055,246.034,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">r</text>
+<text bbox="246.931,251.055,260.975,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">v</text>
+<text bbox="260.975,251.055,267.997,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="267.997,251.055,282.041,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">c</text>
+<text bbox="282.041,251.055,297.400,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="297.400,251.055,309.745,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">s</text>
+<text bbox="309.745,251.055,316.767,283.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">,</text>
+</textline>
+<textline bbox="126.700,206.641,297.706,238.681">&#61591; Interpreter, <text bbox="126.700,208.770,140.860,234.330" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,206.641,157.050,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">I</text>
+<text bbox="157.050,206.641,173.070,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="173.070,206.641,183.739,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="183.803,206.641,199.151,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="199.151,206.641,211.838,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="211.838,206.641,227.858,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="227.922,206.641,240.610,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="239.937,206.641,255.285,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="255.285,206.641,265.954,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="265.954,206.641,281.301,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="281.301,206.641,293.989,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="290.689,206.641,297.706,238.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+</textline>
+<textline bbox="126.700,162.241,392.352,194.281">&#61591; Physician Services,  <text bbox="126.700,164.370,140.860,189.930" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,162.241,165.380,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="165.380,162.241,181.400,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">h</text>
+<text bbox="180.375,162.241,194.409,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">y</text>
+<text bbox="194.409,162.241,206.744,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="206.744,162.241,213.761,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="213.761,162.241,227.794,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="227.858,162.241,234.875,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="234.875,162.241,248.556,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="248.556,162.241,264.576,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="264.576,162.241,273.483,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="273.099,162.241,287.773,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">S</text>
+<text bbox="287.773,162.241,303.120,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="303.120,162.241,315.808,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="316.737,162.241,330.771,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="330.771,162.241,337.788,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="337.788,162.241,351.821,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="351.821,162.241,367.168,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="367.168,162.241,379.504,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="379.600,162.241,386.617,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+<text bbox="383.445,162.241,392.352,194.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+</textline>
+<textline bbox="126.700,117.835,507.163,149.899">&#61591; Administrative Services and <text bbox="126.700,119.965,140.874,145.549" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.584">&#61591;</text>
+<text bbox="149.040,117.835,170.427,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">A</text>
+<text bbox="170.427,117.835,186.779,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">d</text>
+<text bbox="186.779,117.835,211.501,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">m</text>
+<text bbox="211.501,117.835,218.523,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="218.523,117.835,234.555,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="234.555,117.835,241.577,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="241.641,117.835,253.985,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">s</text>
+<text bbox="253.985,117.835,264.663,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+<text bbox="264.663,117.835,277.360,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">r</text>
+<text bbox="277.360,117.835,291.051,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="291.051,117.835,301.729,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+<text bbox="301.729,117.835,308.751,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="308.590,117.835,322.634,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">v</text>
+<text bbox="321.897,117.835,337.256,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="337.256,117.835,346.169,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="345.913,117.835,360.598,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">S</text>
+<text bbox="360.598,117.835,375.957,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="375.957,117.835,388.654,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">r</text>
+<text bbox="389.552,117.835,403.596,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">v</text>
+<text bbox="403.596,117.835,410.618,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="410.618,117.835,424.662,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">c</text>
+<text bbox="424.662,117.835,440.021,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="440.021,117.835,452.365,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">s</text>
+<text bbox="452.365,117.835,461.279,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="461.087,117.835,474.778,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">a</text>
+<text bbox="474.778,117.835,490.810,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">n</text>
+<text bbox="490.810,117.835,507.163,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">d</text>
+</textline>
+<textline bbox="126.700,73.415,565.720,105.455">&#61591; Cancer, Family Planning, Prenatal <text bbox="126.700,75.544,140.860,101.104" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,73.415,171.724,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="171.724,73.415,185.405,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="185.405,73.415,201.425,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="201.425,73.415,215.459,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="215.459,73.415,230.806,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="230.806,73.415,243.494,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="240.354,73.415,247.371,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+<text bbox="244.199,73.415,253.106,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="252.721,73.415,267.748,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">F</text>
+<text bbox="267.748,73.415,281.429,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="281.429,73.415,306.132,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">m</text>
+<text bbox="306.132,73.415,313.149,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="313.149,73.415,320.166,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="319.909,73.415,333.943,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">y</text>
+<text bbox="333.943,73.415,342.850,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="342.594,73.415,358.934,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="358.934,73.415,365.951,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="365.951,73.415,379.632,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="379.632,73.415,395.652,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="395.716,73.415,411.736,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="411.736,73.415,418.753,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="418.849,73.415,434.869,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="434.869,73.415,448.550,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">g</text>
+<text bbox="448.550,73.415,455.567,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">,</text>
+<text bbox="452.331,73.415,461.238,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="460.853,73.415,477.194,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="477.194,73.415,489.882,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="489.305,73.415,504.652,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="504.652,73.415,520.672,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="520.672,73.415,534.353,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="534.353,73.415,545.022,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="545.022,73.415,558.703,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="558.703,73.415,565.720,105.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+</textline>
+</enlisting>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="2" size="12.024">5 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">5 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.3.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.3.391x390.bmp', 'Image11.3.253x252.bmp']" name="combined_0" src="combined_5_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[133.18933333333334, 438.3128, 459.4001333333333, 486.7864]" rotate="0">
+<title archetypal_index="0" bbox="120.220,447.869,495.905,490.829" id="0" size="42.96">Contract Description <textline bbox="120.220,447.869,495.905,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Contract Description </textline>
+</title>
+<normal_text archetypal_index="1" bbox="149.040,345.861,670.379,416.349" id="1" size="32.052">A detailed description of the services is  
+required. <textline bbox="149.040,384.285,670.379,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">A detailed description of the services is  </textline>
+<textline bbox="149.040,345.861,266.435,377.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">required. </textline>
+</normal_text>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="2" size="12.024">6 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">6 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.4.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.4.391x390.bmp', 'Image11.4.253x252.bmp']" name="combined_0" src="combined_6_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[129.48380952380953, 441.0431428571428, 465.30095238095237, 487.9414285714286]" rotate="0">
+<title archetypal_index="0" bbox="120.220,447.869,480.053,490.829" id="0" size="42.96">Provider Credentials <textline bbox="120.220,447.869,480.053,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Provider Credentials </textline>
+</title>
+<normal_text archetypal_index="1" bbox="149.040,384.285,265.048,416.349" id="1" size="32.064">Example: <textline bbox="149.040,384.285,265.048,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">Example: </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="149.040,180.241,691.157,327.501" id="2" size="32.046">Dr. Jones is a licensed physician in the  
+state of Kentucky.  Credentials will be  
+kept on file and updated on a yearly basis  
+or as changes arise. <textline bbox="149.040,295.461,642.232,327.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">Dr. Jones is a licensed physician in the  </textline>
+<textline bbox="149.040,257.055,644.782,289.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">state of Kentucky.  Credentials will be  </textline>
+<textline bbox="149.040,218.641,691.157,250.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">kept on file and updated on a yearly basis  </textline>
+<textline bbox="149.040,180.241,401.611,212.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">or as changes arise. </textline>
+</normal_text>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="3" size="12.024">7 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">7 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.5.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="3" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.5.391x390.bmp', 'Image11.5.253x252.bmp']" name="combined_0" src="combined_7_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[133.16785714285714, 442.74960714285714, 414.67571428571426, 488.66332142857146]" rotate="0">
+<title archetypal_index="0" bbox="144.220,447.869,262.800,490.829" id="0" size="42.96">CH-55 <textline bbox="144.220,447.869,262.800,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">CH-55 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="149.040,269.061,682.634,416.349" id="1" size="32.046">Attach Medicaid Statement of  
+Authorization (CH-55) for each medical  
+provider under contract that the LHD is  
+billing Medicaid for services provided. <textline bbox="149.040,384.285,542.786,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">Attach Medicaid Statement of  </textline>
+<textline bbox="149.040,345.861,677.673,377.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">Authorization (CH-55) for each medical  </textline>
+<textline bbox="149.040,307.461,682.634,339.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">provider under contract that the LHD is  </textline>
+<textline bbox="149.040,269.061,636.144,301.101" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">billing Medicaid for services provided. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="149.040,141.835,696.180,212.281" id="2" size="32.052">For example, a physician performing  
+services on-site would complete a CH-55. <textline bbox="149.040,180.241,622.559,212.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">For example, a physician performing  </textline>
+<textline bbox="149.040,141.835,696.180,173.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">services on-site would complete a CH-55. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="126.700,53.015,683.715,85.055" id="3" size="32.04">AR, Volume 1, Financial Management,  pg 17 <textline bbox="126.700,53.015,683.715,85.055" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">AR, Volume 1, Financial Management,  pg 17 </textline>
+</normal_text>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="4" size="12.024">8 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">8 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.6.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="4" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.6.391x390.bmp', 'Image11.6.253x252.bmp']" name="combined_0" src="combined_8_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[135.6238888888889, 443.88725, 380.92555555555555, 489.1445833333334]" rotate="0">
+<title archetypal_index="0" bbox="144.220,447.869,262.800,490.829" id="0" size="42.96">CH-55 <textline bbox="144.220,447.869,262.800,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">CH-55 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="149.040,269.061,687.504,416.349" id="1" size="32.046">AFM strongly recommends if the  
+Contractor is a Medicaid provider, that  
+the Contractor bill for the services done  
+at their site.  (OFF-SITE) <textline bbox="149.040,384.285,628.084,416.349">AFM strongly recommends if the  <text bbox="149.040,384.285,170.427,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">A</text>
+<text bbox="170.427,384.285,185.465,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">F</text>
+<text bbox="185.465,384.285,210.507,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">M</text>
+<text bbox="210.346,384.285,219.260,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="219.240,384.285,232.931,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">s</text>
+<text bbox="232.931,384.285,245.949,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">t</text>
+<text bbox="245.949,384.285,260.314,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">r</text>
+<text bbox="259.448,384.285,278.494,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">o</text>
+<text bbox="278.494,384.285,297.188,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">n</text>
+<text bbox="297.188,384.285,314.566,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">g</text>
+<text bbox="314.566,384.285,323.256,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">l</text>
+<text bbox="322.935,384.285,339.288,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">y</text>
+<text bbox="339.288,384.285,348.201,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064"> </text>
+<text bbox="348.009,384.285,362.374,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">r</text>
+<text bbox="361.797,384.285,379.496,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">e</text>
+<text bbox="379.496,384.285,395.528,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">c</text>
+<text bbox="395.528,384.285,414.574,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">o</text>
+<text bbox="414.574,384.285,445.291,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">m</text>
+<text bbox="445.291,384.285,476.009,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">m</text>
+<text bbox="476.009,384.285,493.708,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">e</text>
+<text bbox="493.708,384.285,512.401,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">n</text>
+<text bbox="512.273,384.285,530.966,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">d</text>
+<text bbox="530.966,384.285,544.658,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064">s</text>
+<text bbox="544.561,384.285,553.475,416.349" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="0" size="32.064"> </text>
+<text bbox="553.150,384.285,560.172,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">i</text>
+<text bbox="560.172,384.285,568.188,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">f</text>
+<text bbox="568.188,384.285,577.102,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+<text bbox="577.102,384.285,587.779,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">t</text>
+<text bbox="587.779,384.285,603.811,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">h</text>
+<text bbox="603.811,384.285,619.170,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">e</text>
+<text bbox="619.170,384.285,628.084,416.349" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064"> </text>
+</textline>
+<textline bbox="149.040,345.861,660.174,377.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">Contractor is a Medicaid provider, that  </textline>
+<textline bbox="149.040,307.461,687.504,339.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">the Contractor bill for the services done  </textline>
+<textline bbox="149.040,269.061,465.745,301.101" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">at their site.  (OFF-SITE) </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="149.040,91.415,636.648,212.281" id="2" size="32.048">If the Contractor bills Medicaid, the  
+CH-55 does not need to be included  
+with the agreement.   <textline bbox="149.040,180.241,618.234,212.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">If the Contractor bills Medicaid, the  </textline>
+<textline bbox="149.040,135.835,636.648,167.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">CH-55 does not need to be included  </textline>
+<textline bbox="149.040,91.415,423.591,123.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">with the agreement.   </textline>
+</normal_text>
+<slide_number bbox="693.310,9.618,699.322,21.642" id="3" size="12.024">9 <textline bbox="693.310,9.618,699.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">9 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.7.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="219.200,387.720,553.040,389.280" linewidth="2" pts="219.200,389.280,330.480,389.280,441.760,389.280,553.040,389.280,553.040,387.720,441.760,387.720,330.480,387.720,219.200,387.720" />
+<picture archetypal_index="3" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.7.391x390.bmp', 'Image11.7.253x252.bmp']" name="combined_0" src="combined_9_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[135.6238888888889, 443.88725, 380.92555555555555, 489.1445833333334]" rotate="0">
+<normal_text archetypal_index="0" bbox="119.980,300.971,674.342,442.589" id="0" size="30.275999999999996">CH-55 
+For those LHDs who contract to bill Medicaid on  
+behalf of a Contractor,  the CH-55 is required and  
+shall be attached to the CH-53M.  <textline bbox="119.980,399.629,238.564,442.589" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">CH-55 </textline>
+<textline bbox="122.140,363.391,652.288,389.431" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">For those LHDs who contract to bill Medicaid on  </textline>
+<textline bbox="122.140,332.185,674.342,358.249">behalf of a Contractor,  the CH-55 is required and  <text bbox="122.140,332.185,135.172,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">b</text>
+<text bbox="135.172,332.185,147.657,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">e</text>
+<text bbox="147.657,332.185,160.689,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">h</text>
+<text bbox="160.767,332.185,171.896,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">a</text>
+<text bbox="171.896,332.185,177.604,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">l</text>
+<text bbox="177.656,332.185,184.172,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">f</text>
+<text bbox="184.172,332.185,191.418,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="191.210,332.185,205.597,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">o</text>
+<text bbox="205.597,332.185,212.113,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">f</text>
+<text bbox="212.113,332.185,219.359,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="219.359,332.185,230.488,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">a</text>
+<text bbox="230.488,332.185,237.734,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="237.734,332.185,256.187,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">C</text>
+<text bbox="256.187,332.185,270.574,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">o</text>
+<text bbox="270.574,332.185,283.606,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">n</text>
+<text bbox="283.711,332.185,292.390,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">t</text>
+<text bbox="292.390,332.185,302.711,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">r</text>
+<text bbox="302.711,332.185,313.841,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">a</text>
+<text bbox="313.841,332.185,325.257,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">c</text>
+<text bbox="325.257,332.185,333.936,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">t</text>
+<text bbox="333.754,332.185,348.141,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">o</text>
+<text bbox="348.141,332.185,358.462,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">r</text>
+<text bbox="355.830,332.185,361.538,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">,</text>
+<text bbox="358.958,332.185,366.203,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="365.917,332.185,373.162,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="373.162,332.185,381.842,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">t</text>
+<text bbox="381.764,332.185,394.796,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">h</text>
+<text bbox="394.796,332.185,407.280,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">e</text>
+<text bbox="407.280,332.185,414.526,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="414.526,332.185,432.979,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">C</text>
+<text bbox="432.979,332.185,451.980,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">H</text>
+<text bbox="452.060,332.185,460.479,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">-</text>
+<text bbox="460.460,332.185,473.492,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">5</text>
+<text bbox="473.564,332.185,486.596,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">5</text>
+<text bbox="486.668,332.185,493.914,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="493.610,332.185,500.673,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">i</text>
+<text bbox="500.673,332.185,511.803,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">s</text>
+<text bbox="511.803,332.185,519.048,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="519.048,332.185,530.725,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">r</text>
+<text bbox="530.204,332.185,544.591,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">e</text>
+<text bbox="544.591,332.185,559.786,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">q</text>
+<text bbox="559.786,332.185,574.982,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">u</text>
+<text bbox="575.060,332.185,582.123,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">i</text>
+<text bbox="582.019,332.185,593.696,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">r</text>
+<text bbox="593.174,332.185,607.562,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">e</text>
+<text bbox="607.562,332.185,622.757,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">d</text>
+<text bbox="622.757,332.185,630.003,358.249" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+<text bbox="629.590,332.185,640.719,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">a</text>
+<text bbox="640.719,332.185,653.751,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">n</text>
+<text bbox="653.803,332.185,667.096,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">d</text>
+<text bbox="667.096,332.185,674.342,358.249" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064"> </text>
+</textline>
+<textline bbox="122.140,300.971,487.373,327.011">shall be attached to the CH-53M.  <text bbox="122.140,300.971,133.259,327.011" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">s</text>
+<text bbox="133.259,300.971,148.440,327.011" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">h</text>
+<text bbox="148.519,300.971,162.346,327.011" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">a</text>
+<text bbox="162.346,300.971,169.403,327.011" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">l</text>
+<text bbox="169.403,300.971,176.459,327.011" colourspace="Pattern" font="BCDGEE+GillSansMT-Bold" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">l</text>
+<text bbox="183.340,300.971,196.360,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">b</text>
+<text bbox="196.360,300.971,208.833,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">e</text>
+<text bbox="208.833,300.971,216.072,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040"> </text>
+<text bbox="216.072,300.971,227.191,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">a</text>
+<text bbox="227.191,300.971,235.863,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">t</text>
+<text bbox="235.863,300.971,244.534,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">t</text>
+<text bbox="244.534,300.971,255.653,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">a</text>
+<text bbox="255.653,300.971,267.059,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">c</text>
+<text bbox="267.059,300.971,280.079,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">h</text>
+<text bbox="280.157,300.971,292.630,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">e</text>
+<text bbox="292.630,300.971,305.910,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">d</text>
+<text bbox="305.910,300.971,313.149,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040"> </text>
+<text bbox="313.045,300.971,321.717,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">t</text>
+<text bbox="321.717,300.971,336.091,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">o</text>
+<text bbox="336.091,300.971,343.330,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040"> </text>
+<text bbox="343.330,300.971,352.001,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">t</text>
+<text bbox="352.001,300.971,365.021,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">h</text>
+<text bbox="365.021,300.971,377.494,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">e</text>
+<text bbox="377.494,300.971,384.733,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040"> </text>
+<text bbox="384.733,300.971,403.170,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">C</text>
+<text bbox="403.170,300.971,422.153,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">H</text>
+<text bbox="422.180,300.971,430.591,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">-</text>
+<text bbox="430.580,300.971,443.600,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">5</text>
+<text bbox="443.600,300.971,456.620,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">3</text>
+<text bbox="456.724,300.971,477.061,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">M</text>
+<text bbox="477.061,300.971,482.764,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">.</text>
+<text bbox="480.134,300.971,487.373,327.011" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040"> </text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="122.140,70.523,672.521,252.611" id="1" size="26.043999999999997">When the Contractor signs the CH-55, they are  
+allowing the LHD to bill Medicaid for the services  
+they provide.   This authorization from the  
+Contractor should help prevent duplicate payments  
+due to the health department and provider both  
+billing Medicaid for the same services. <textline bbox="122.140,226.571,637.763,252.611" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">When the Contractor signs the CH-55, they are  </textline>
+<textline bbox="122.140,195.351,653.955,221.391" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">allowing the LHD to bill Medicaid for the services  </textline>
+<textline bbox="122.140,164.151,574.507,190.191" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">they provide.   This authorization from the  </textline>
+<textline bbox="122.140,132.951,672.521,158.991" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">Contractor should help prevent duplicate payments  </textline>
+<textline bbox="122.140,101.745,639.927,127.809" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.064">due to the health department and provider both  </textline>
+<textline bbox="122.140,70.523,520.500,96.563" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.196, 0.0549, 0.0157)" size="26.040">billing Medicaid for the same services. </textline>
+</normal_text>
+<slide_number bbox="690.310,9.618,702.322,21.642" id="2" size="12.024">10 <textline bbox="690.310,9.618,702.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">10 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.8.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="2" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="72.660,412.020,89.220,428.580" linewidth="0" pts="72.660,420.300,72.660,424.870,76.367,428.580,80.940,428.580,85.513,428.580,89.220,424.870,89.220,420.300,89.220,415.730,85.513,412.020,80.940,412.020,76.367,412.020,72.660,415.730,72.660,420.300" />
+<curve bbox="91.080,429.000,96.120,434.160" linewidth="1" pts="91.080,431.580,91.080,433.000,92.208,434.160,93.600,434.160,94.992,434.160,96.120,433.000,96.120,431.580,96.120,430.160,94.992,429.000,93.600,429.000,92.208,429.000,91.080,430.160,91.080,431.580" />
+<picture archetypal_index="2" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.8.391x390.bmp', 'Image11.8.253x252.bmp']" name="combined_0" src="combined_10_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[132.54311111111113, 444.68359999999996, 420.5728444444444, 489.4814666666667]" rotate="0">
+<title archetypal_index="0" bbox="120.220,447.869,579.162,490.829" id="0" size="42.96">Provider to bill third party <textline bbox="120.220,447.869,579.162,490.829" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.341, 0.137, 0.0784)" size="42.960">Provider to bill third party </textline>
+</title>
+<normal_text archetypal_index="1" bbox="126.700,354.261,668.793,418.611" id="1" size="22.799999999999997">If the LHD contracts with a Provider to be the third party biller: 
+&#61591; This includes patients that are provided  <textline bbox="126.700,398.571,647.820,418.611" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="20.040">If the LHD contracts with a Provider to be the third party biller: </textline>
+<textline bbox="126.700,354.261,668.793,386.301">&#61591; This includes patients that are provided  <text bbox="126.700,356.390,140.860,381.950" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,354.261,168.392,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">T</text>
+<text bbox="168.392,354.261,184.412,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">h</text>
+<text bbox="184.412,354.261,191.429,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="191.429,354.261,203.764,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="203.860,354.261,212.768,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="212.607,354.261,219.624,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="219.624,354.261,235.644,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="235.740,354.261,249.774,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="249.774,354.261,256.791,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="256.791,354.261,272.811,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">u</text>
+<text bbox="272.907,354.261,289.247,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="289.247,354.261,304.594,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="304.594,354.261,316.930,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="316.930,354.261,325.837,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="325.580,354.261,341.600,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="341.600,354.261,355.281,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="355.281,354.261,365.951,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="365.951,354.261,372.968,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="373.064,354.261,388.411,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="388.411,354.261,404.431,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="404.431,354.261,415.100,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="415.100,354.261,427.436,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="427.500,354.261,436.407,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="436.022,354.261,446.692,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="446.692,354.261,462.712,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">h</text>
+<text bbox="462.712,354.261,476.393,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="476.393,354.261,487.062,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="487.062,354.261,495.969,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="495.777,354.261,509.458,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">a</text>
+<text bbox="509.458,354.261,522.146,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="521.569,354.261,536.916,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="536.916,354.261,545.823,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="545.567,354.261,561.587,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">p</text>
+<text bbox="561.587,354.261,574.275,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="573.538,354.261,591.224,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="590.808,354.261,604.841,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">v</text>
+<text bbox="604.841,354.261,611.858,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="611.858,354.261,628.198,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="628.198,354.261,643.545,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="643.545,354.261,659.886,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="659.886,354.261,668.793,386.301" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="149.040,200.641,624.097,347.901" id="2" size="32.046">services by the Contractor at the  
+contractor site, who have insurance,  
+Medicaid, Medicare, etc. (with the  
+exception of Lab services). <textline bbox="149.040,315.861,592.313,347.901" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">services by the Contractor at the  </textline>
+<textline bbox="149.040,277.461,624.097,309.501" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">contractor site, who have insurance,  </textline>
+<textline bbox="149.040,239.055,588.670,271.119" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">Medicaid, Medicare, etc. (with the  </textline>
+<textline bbox="149.040,200.641,496.225,232.681" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">exception of Lab services). </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="126.700,41.015,651.107,188.281" id="3" size="30.425999999999995">&#61591; For CPT codes not listed on the DPH  
+Medicaid Preventive Fee Schedule, the  
+LHD will not receive payment from  
+Medicaid. <textline bbox="126.700,156.241,651.107,188.281">&#61591; For CPT codes not listed on the DPH  <text bbox="126.700,158.370,140.860,183.930" colourspace="Pattern" font="BCDFEE+Wingdings2" ncolour="(0.22, 0.569, 0.655)" size="25.560">&#61591;</text>
+<text bbox="149.040,156.241,164.067,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">F</text>
+<text bbox="163.554,156.241,181.240,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="181.240,156.241,193.928,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">r</text>
+<text bbox="193.928,156.241,202.835,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="202.675,156.241,225.359,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">C</text>
+<text bbox="225.359,156.241,241.700,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="241.700,156.241,261.052,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">T</text>
+<text bbox="261.052,156.241,269.959,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="269.959,156.241,283.992,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">c</text>
+<text bbox="283.992,156.241,301.679,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="301.550,156.241,317.891,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="317.891,156.241,333.238,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="333.238,156.241,345.573,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="345.573,156.241,354.480,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="354.545,156.241,370.565,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="370.565,156.241,388.251,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="388.251,156.241,398.920,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="398.920,156.241,407.827,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="407.571,156.241,414.588,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">l</text>
+<text bbox="414.588,156.241,421.604,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">i</text>
+<text bbox="421.700,156.241,434.036,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">s</text>
+<text bbox="434.036,156.241,444.705,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="444.705,156.241,460.052,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="460.052,156.241,476.393,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">d</text>
+<text bbox="476.393,156.241,485.300,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="485.172,156.241,502.858,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">o</text>
+<text bbox="502.858,156.241,518.878,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">n</text>
+<text bbox="518.878,156.241,527.785,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="527.657,156.241,538.326,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">t</text>
+<text bbox="538.326,156.241,554.346,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">h</text>
+<text bbox="554.346,156.241,569.693,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">e</text>
+<text bbox="569.693,156.241,578.600,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+<text bbox="578.600,156.241,602.630,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">D</text>
+<text bbox="602.630,156.241,618.971,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">P</text>
+<text bbox="618.843,156.241,642.200,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">H</text>
+<text bbox="642.200,156.241,651.107,188.281" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040"> </text>
+</textline>
+<textline bbox="149.040,117.835,648.918,149.899" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.064">Medicaid Preventive Fee Schedule, the  </textline>
+<textline bbox="149.040,79.415,617.369,111.455" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">LHD will not receive payment from  </textline>
+<textline bbox="149.040,41.015,270.856,73.055" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="0" size="32.040">Medicaid. </textline>
+</normal_text>
+<slide_number bbox="690.310,9.618,702.322,21.642" id="4" size="12.024">11 <textline bbox="690.310,9.618,702.322,21.642" colourspace="Pattern" font="BCDEEE+GillSansMT" ncolour="(0.71, 0.655, 0.533)" size="12.024">11 </textline>
+</slide_number>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.9.jpg" width="720">
+</background>
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="0.260,475.200,64.800,539.700" linewidth="0" pts="64.800,539.700,64.800,504.080,35.922,475.200,0.300,475.200,0.287,475.200,0.273,475.200,0.260,475.200,0.300,539.700" />
+<curve bbox="13.200,404.280,147.360,538.320" linewidth="2" pts="13.200,471.300,13.200,508.310,43.233,538.320,80.280,538.320,117.330,538.320,147.360,508.310,147.360,471.300,147.360,434.290,117.330,404.280,80.280,404.280,43.233,404.280,13.200,434.290,13.200,471.300" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="2" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<curve bbox="9.125,364.320,108.310,462.710" linewidth="0" pts="24.080,441.160,39.036,459.900,66.669,462.710,85.799,447.440,104.930,432.170,108.310,404.600,93.359,385.870,78.403,367.130,50.771,364.320,31.640,379.580,12.509,394.850,9.125,422.420,24.080,441.160,32.110,434.750,20.694,420.450,23.352,399.340,38.049,387.610,52.745,375.880,73.913,377.970,85.329,392.270,96.746,406.580,94.087,427.680,79.391,439.410,64.694,451.140,43.526,449.050,32.110,434.750" />
+<picture archetypal_index="4" bbox="9.96,367.26,150.42,539.52" caption="" combined_sources="['Image9.9.391x390.bmp', 'Image11.9.253x252.bmp']" name="combined_0" src="combined_11_0.png" /></page>
 </pages>

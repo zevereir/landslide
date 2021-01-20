@@ -1,143 +1,329 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[173.19466666666668, 457.79333333333335, 639.5633333333334, 488.43333333333334]" rotate="0">
-<title archetypal_index="0" bbox="214.180,475.788,635.579,503.748" id="0" size="27.96">The pre-NWP forecast accuracy <textline bbox="214.180,475.788,635.579,503.748" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.960">The pre-NWP forecast accuracy </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="91.224,421.804,647.532,457.804" id="0" size="36.0">Some ideas related to the use of EPS <textline bbox="91.224,421.804,647.532,457.804" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="36.000">Some ideas related to the use of EPS </textline>
 </title>
-<normal_text archetypal_index="1" bbox="560.060,428.200,659.960,446.200" id="1" size="18.0">persistence <textline bbox="560.060,428.200,659.960,446.200" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.6, 0)" size="18.000">persistence </textline>
+<normal_text archetypal_index="1" bbox="91.224,124.085,691.369,286.489" id="2" size="27.969600000000003">1. D+6 forecast worse today than 1954? 
+2. EPS charts a la the Bergen School                 
+3. Systematic errors are not only biases 
+4. Why might a better model yield higher RMSE? 
+5. Appendices <textline bbox="91.224,258.505,568.052,286.489" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.984">1. D+6 forecast worse today than 1954? </textline>
+<textline bbox="91.224,224.891,644.843,252.851" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.960">2. EPS charts a la the Bergen School                 </textline>
+<textline bbox="91.224,191.291,565.241,219.251" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.960">3. Systematic errors are not only biases </textline>
+<textline bbox="91.224,157.691,691.369,185.651" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.960">4. Why might a better model yield higher RMSE? </textline>
+<textline bbox="91.224,124.085,265.601,152.069" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.984">5. Appendices </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="576.550,332.170,695.584,350.170" id="2" size="18.0">meteorologist <textline bbox="576.550,332.170,695.584,350.170" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.6, 0)" size="18.000">meteorologist </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="277.250,405.916,319.850,429.916" id="3" size="24.0">A&#61654;2 <textline bbox="277.250,405.916,319.850,429.916">A&#61654;2 <text bbox="277.250,405.916,294.578,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">A</text>
-<text bbox="294.530,405.916,307.706,429.916" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0.502, 0)" size="24.000">&#61654;</text>
-<text bbox="307.850,405.916,319.850,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">2</text>
-</textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="283.250,322.006,300.578,346.006" id="4" size="24.0">A <textline bbox="283.250,322.006,300.578,346.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">A </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="34.200,192.281,246.544,455.131" id="5" size="20.04436363636363">A schematic illustration  
-of the increase of RMSE  
-with forecast time.  The  
-pre-NWP forecaster  
-started from a  
-persistence forecast  
-which he skillfully  
-extrapolated into the  
-future, converging  
-towards climate for  
-longer ranges <textline bbox="34.200,435.091,241.313,455.131" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">A schematic illustration  </textline>
-<textline bbox="34.200,408.331,246.544,428.371" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">of the increase of RMSE  </textline>
-<textline bbox="34.200,384.331,239.871,404.371" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">with forecast time.  The  </textline>
-<textline bbox="34.200,360.326,209.972,380.390" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.064">pre-NWP forecaster  </textline>
-<textline bbox="34.200,336.301,160.813,356.341" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">started from a  </textline>
-<textline bbox="34.200,312.301,206.083,332.341" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">persistence forecast  </textline>
-<textline bbox="34.200,288.301,194.801,308.341" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">which he skillfully  </textline>
-<textline bbox="34.200,264.301,216.744,284.341" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">extrapolated into the  </textline>
-<textline bbox="34.200,240.296,196.819,260.360" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.064">future, converging  </textline>
-<textline bbox="34.200,216.281,205.342,236.321" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">towards climate for  </textline>
-<textline bbox="34.200,192.281,150.091,212.321" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="20.040">longer ranges </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="61.224,27.711,124.811,41.751" id="9" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
-</normal_text>
-<slide_number bbox="651.720,27.711,658.740,41.751" id="11" size="14.04">3 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">3 </textline>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="5" size="14.04">1 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">1 </textline>
 </slide_number>
-<picture archetypal_index="7" bbox="232.680,92.400,687.720,504.000" caption="&#8226; &#10;The time unit can be anything from hours to days depending on  &#10;the parameter (hours for clouds, days for temperature) &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="411" name="Image39" src="Image39.576x481.bmp" width="455">
+<picture archetypal_index="2" bbox="68.880,396.420,672.300,475.920" caption="Anders Persson, SMHI, Norrkoping " height="79" name="Image11" src="Image11.1677x221.bmp" width="603">
+</picture>
+<picture archetypal_index="3" bbox="148.200,332.460,550.140,385.800" height="53" name="Image13" src="Image13.1117x149.bmp" width="401">
+</picture>
+<picture archetypal_index="4" bbox="75.12,104.34,710.94,300.72" caption="&#10;11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " combined_sources="['Image15.154x160.bmp', 'Image17.1328x173.bmp', 'Image19.154x160.bmp', 'Image21.1541x173.bmp', 'Image23.154x160.bmp', 'Image25.1320x173.bmp', 'Image27.154x160.bmp', 'Image29.1670x173.bmp', 'Image31.154x160.bmp', 'Image33.487x173.bmp']" name="combined_0" src="combined_1_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[91.224, 421.804, 647.532, 457.804]" rotate="0">
+<title archetypal_index="0" bbox="91.224,421.804,647.532,457.804" id="0" size="36.0">Some ideas related to the use of EPS <textline bbox="91.224,421.804,647.532,457.804" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="36.000">Some ideas related to the use of EPS </textline>
+</title>
+<normal_text archetypal_index="1" bbox="91.224,124.085,691.369,286.489" id="2" size="27.969600000000003">1. D+6 forecast worse today than 1954? 
+2. EPS charts a la the Bergen School                 
+3. Systematic errors are not only biases 
+4. Why might a better model yield higher RMSE? 
+5. Appendices <textline bbox="91.224,258.505,568.052,286.489" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.984">1. D+6 forecast worse today than 1954? </textline>
+<textline bbox="91.224,224.891,644.843,252.851" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.960">2. EPS charts a la the Bergen School                 </textline>
+<textline bbox="91.224,191.291,565.241,219.251" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.960">3. Systematic errors are not only biases </textline>
+<textline bbox="91.224,157.691,691.369,185.651" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.960">4. Why might a better model yield higher RMSE? </textline>
+<textline bbox="91.224,124.085,265.601,152.069" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.984">5. Appendices </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="5" size="14.04">2 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">2 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="68.880,396.420,672.300,475.920" caption="Anders Persson, SMHI, Norrkoping " height="79" name="Image11" src="Image11.0.1677x221.bmp" width="603">
+</picture>
+<picture archetypal_index="3" bbox="148.200,332.460,550.140,385.800" height="53" name="Image13" src="Image13.0.1117x149.bmp" width="401">
+</picture>
+<picture archetypal_index="4" bbox="75.12,104.34,710.94,300.72" caption="&#10;11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " combined_sources="['Image15.0.154x160.bmp', 'Image17.0.1328x173.bmp', 'Image19.0.154x160.bmp', 'Image21.0.1541x173.bmp', 'Image23.0.154x160.bmp', 'Image25.0.1320x173.bmp', 'Image27.0.154x160.bmp', 'Image29.0.1670x173.bmp', 'Image31.0.154x160.bmp', 'Image33.0.487x173.bmp']" name="combined_0" src="combined_2_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[139.41685714285714, 385.6411904761905, 579.3775238095238, 497.82690476190476]" rotate="0">
+<title archetypal_index="0" bbox="145.220,195.266,452.750,508.516" id="0" size="54.0096">But almost as  
+important as  
+forecast skill  
+is forecast  
+consistency <textline bbox="145.220,454.516,452.750,508.516" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.4, 0.6, 0)" size="54.000">But almost as  </textline>
+<textline bbox="145.220,389.711,427.333,443.735" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.4, 0.6, 0)" size="54.024">important as  </textline>
+<textline bbox="145.220,324.886,436.172,378.886" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.4, 0.6, 0)" size="54.000">forecast skill  </textline>
+<textline bbox="145.220,260.081,379.252,314.105" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.4, 0.6, 0)" size="54.024">is forecast  </textline>
+<textline bbox="145.220,195.266,397.184,249.266" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.4, 0.6, 0)" size="54.000">consistency </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,27.711,124.811,41.751" id="1" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="302.380,15.672,421.000,42.072" id="2" size="12.0">Anders Persson SMHI  
+NCEP 18 June 2004 <textline bbox="302.380,30.072,421.000,42.072" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">Anders Persson SMHI  </textline>
+<textline bbox="309.220,15.672,411.112,27.672" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">NCEP 18 June 2004 </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="3" size="14.04">7 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">7 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="111.84,157.86,489.3,535.56" caption="" combined_sources="['Image75.1049x330.bmp', 'Image77.978x330.bmp', 'Image79.1003x330.bmp', 'Image81.845x330.bmp', 'Image83.895x330.bmp']" name="combined_0" src="combined_7_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[151.83764285714284, 408.16614285714286, 600.7428928571428, 499.2954285714286]" rotate="0">
+<enlisting archetypal_index="0" bbox="29.328,460.036,620.592,484.036" id="0" size="24.0">&#8226; The 24 h jumpiness for T511 and the T255 ensemble mean <textline bbox="29.328,460.036,620.592,484.036">&#8226; The 24 h jumpiness for T511 and the T255 ensemble mean <text bbox="29.328,460.036,37.728,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">&#8226;</text>
+<text bbox="56.328,460.036,70.992,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">T</text>
+<text bbox="70.992,460.036,82.992,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">h</text>
+<text bbox="82.992,460.036,93.648,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">e</text>
+<text bbox="93.648,460.036,99.648,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="99.528,460.036,111.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">2</text>
+<text bbox="111.528,460.036,123.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">4</text>
+<text bbox="123.528,460.036,129.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="129.528,460.036,141.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">h</text>
+<text bbox="141.528,460.036,147.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="147.528,460.036,154.200,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">j</text>
+<text bbox="154.200,460.036,166.200,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">u</text>
+<text bbox="166.200,460.036,184.872,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">m</text>
+<text bbox="184.728,460.036,196.728,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">p</text>
+<text bbox="196.728,460.036,203.400,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">i</text>
+<text bbox="203.400,460.036,215.400,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">n</text>
+<text bbox="215.400,460.036,226.056,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">e</text>
+<text bbox="226.056,460.036,235.392,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">s</text>
+<text bbox="235.464,460.036,244.800,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">s</text>
+<text bbox="244.800,460.036,250.800,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="250.800,460.036,258.792,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">f</text>
+<text bbox="258.792,460.036,270.792,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">o</text>
+<text bbox="270.792,460.036,278.784,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">r</text>
+<text bbox="278.784,460.036,284.784,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="284.500,460.036,299.164,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.8, 0)" size="24.000">T</text>
+<text bbox="299.164,460.036,311.164,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.8, 0)" size="24.000">5</text>
+<text bbox="311.164,460.036,323.164,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.8, 0)" size="24.000">1</text>
+<text bbox="322.300,460.036,334.300,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.8, 0)" size="24.000">1</text>
+<text bbox="340.200,460.036,350.856,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">a</text>
+<text bbox="350.856,460.036,362.856,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">n</text>
+<text bbox="362.856,460.036,374.856,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">d</text>
+<text bbox="374.856,460.036,380.856,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="380.856,460.036,387.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">t</text>
+<text bbox="387.528,460.036,399.528,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">h</text>
+<text bbox="399.528,460.036,410.184,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000">e</text>
+<text bbox="410.256,460.036,416.256,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="24.000"> </text>
+<text bbox="415.680,460.036,430.344,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">T</text>
+<text bbox="430.344,460.036,442.344,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">2</text>
+<text bbox="442.344,460.036,454.344,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">5</text>
+<text bbox="454.344,460.036,466.344,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">5</text>
+<text bbox="466.344,460.036,472.344,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000"> </text>
+<text bbox="472.344,460.036,483.000,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">e</text>
+<text bbox="483.000,460.036,495.000,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">n</text>
+<text bbox="495.000,460.036,504.336,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">s</text>
+<text bbox="504.336,460.036,514.992,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">e</text>
+<text bbox="514.992,460.036,533.664,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">m</text>
+<text bbox="533.520,460.036,545.520,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">b</text>
+<text bbox="545.520,460.036,552.192,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">l</text>
+<text bbox="552.192,460.036,562.848,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">e</text>
+<text bbox="562.848,460.036,568.848,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000"> </text>
+<text bbox="568.848,460.036,587.520,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">m</text>
+<text bbox="587.280,460.036,597.936,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">e</text>
+<text bbox="597.936,460.036,608.592,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">a</text>
+<text bbox="608.592,460.036,620.592,484.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 0, 0.4)" size="24.000">n</text>
+</textline>
+</enlisting>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="9" size="14.04">9 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">9 </textline>
+</slide_number>
+<picture archetypal_index="1" bbox="83.160,78.240,627.960,450.000" caption="11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="371" name="Image92" src="Image92.656x413.bmp" width="544">
+</picture>
+<enlisting archetypal_index="2" bbox="123.48,160.682,247.017,384.671">&#8226; &#8226; <normal_text bbox="123.480,366.647,129.788,384.671" id="1" size="18.024">&#8226; <textline bbox="123.480,366.647,129.788,384.671" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="18.024">&#8226; </textline>
+</normal_text>
+<normal_text bbox="134.590,180.602,140.890,198.602" id="4" size="18.0">&#8226; <textline bbox="134.590,180.602,140.890,198.602" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="18.000">&#8226; </textline>
+</normal_text>
+<normal_text bbox="161.620,160.682,218.590,178.682" id="6" size="18.0">Sweden <textline bbox="161.620,160.682,218.590,178.682" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Sweden </textline>
+</normal_text>
+<normal_text bbox="177.480,366.647,247.017,384.671" id="2" size="18.024">Southern  <textline bbox="177.480,366.647,247.017,384.671" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.024">Southern  </textline>
+</normal_text>
+<normal_text bbox="150.480,346.702,207.450,364.702" id="3" size="18.0">Sweden <textline bbox="150.480,346.702,207.450,364.702" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Sweden </textline>
+</normal_text>
+<normal_text bbox="188.620,180.602,246.238,198.602" id="5" size="18.0">Central  <textline bbox="188.620,180.602,246.238,198.602" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="18.000">Central  </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[138.36794444444445, 411.19677777777775, 611.1404722222222, 490.07511111111114]" rotate="0">
+<title archetypal_index="0" bbox="91.224,421.804,647.532,457.804" id="0" size="36.0">Some ideas related to the use of EPS <textline bbox="91.224,421.804,647.532,457.804" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="36.000">Some ideas related to the use of EPS </textline>
+</title>
+<normal_text archetypal_index="1" bbox="91.224,124.085,691.369,286.489" id="2" size="27.969600000000003">1. D+6 forecast worse today than 1954? 
+2. EPS charts a la the Bergen School                 
+3. Systematic errors are not only biases 
+4. Why might a better model yield higher RMSE? 
+5. Appendices <textline bbox="91.224,258.505,568.052,286.489" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.984">1. D+6 forecast worse today than 1954? </textline>
+<textline bbox="91.224,224.891,644.843,252.851" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="27.960">2. EPS charts a la the Bergen School                 </textline>
+<textline bbox="91.224,191.291,565.241,219.251" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.960">3. Systematic errors are not only biases </textline>
+<textline bbox="91.224,157.691,691.369,185.651" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.960">4. Why might a better model yield higher RMSE? </textline>
+<textline bbox="91.224,124.085,265.601,152.069" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0.8, 1)" size="27.984">5. Appendices </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="5" size="14.04">10 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">10 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="68.880,396.420,672.300,475.920" caption="Anders Persson, SMHI, Norrkoping " height="79" name="Image11" src="Image11.1.1677x221.bmp" width="603">
+</picture>
+<picture archetypal_index="3" bbox="148.200,332.460,550.140,385.800" height="53" name="Image13" src="Image13.1.1117x149.bmp" width="401">
+</picture>
+<picture archetypal_index="4" bbox="75.12,104.34,710.94,300.72" caption="&#10;11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " combined_sources="['Image15.1.154x160.bmp', 'Image17.1.1328x173.bmp', 'Image19.1.154x160.bmp', 'Image21.1.1541x173.bmp', 'Image23.1.154x160.bmp', 'Image25.1.1320x173.bmp', 'Image27.1.154x160.bmp', 'Image29.1.1670x173.bmp', 'Image31.1.154x160.bmp', 'Image33.1.487x173.bmp']" name="combined_0" src="combined_10_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[122.11355555555555, 396.73962222222224, 541.5333777777778, 492.3202888888889]" rotate="0">
+<title archetypal_index="0" bbox="57.096,338.911,263.105,501.301" id="0" size="27.964800000000004">The EPS contains  
+a lot of  
+information,  
+spread out in  
+several locations <textline bbox="57.096,473.341,263.105,501.301" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">The EPS contains  </textline>
+<textline bbox="57.096,439.741,143.353,467.701" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">a lot of  </textline>
+<textline bbox="57.096,406.141,203.215,434.101" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">information,  </textline>
+<textline bbox="57.096,372.535,208.545,400.519" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">spread out in  </textline>
+<textline bbox="57.096,338.911,244.344,366.871" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.960">several locations </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,27.711,124.811,41.751" id="2" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="645.120,27.711,658.740,41.751" id="4" size="14.04">11 <textline bbox="645.120,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="39.72,80.64,605.16,516.0" caption="&#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 &#10;One solution is to  &#10;create &#8221;synoptic&#8221;  &#10;EPS maps in the  &#10;old Bergen School &#10;tradition: combine &#10;several parameters &#10;in the same map! " combined_sources="['Image97.490x304.bmp', 'Image100.477x306.bmp', 'Image101.675x173.bmp', 'Image103.342x173.bmp', 'Image105.509x173.bmp', 'Image107.524x173.bmp', 'Image109.623x173.bmp']" name="combined_0" src="combined_11_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[117.3350909090909, 405.1935090909091, 560.9258545454545, 492.99587272727274]" rotate="0">
+<title archetypal_index="0" bbox="95.832,443.236,648.192,496.036" id="0" size="24.0">Probability of strong winds, precipitation and anomalous  
+(850 hPa) temperatures 6 February 2001 D+5 <textline bbox="95.832,472.036,648.192,496.036" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Probability of strong winds, precipitation and anomalous  </textline>
+<textline bbox="95.832,443.236,533.664,467.236" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">(850 hPa) temperatures 6 February 2001 D+5 </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,27.711,124.811,41.751" id="1" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="3" size="14.04">12 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">12 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="102.000,46.800,655.320,438.000" caption="Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="391" name="Image113" src="Image113.1366x966.bmp" width="553">
 </picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[145.43233333333333, 456.6426666666667, 640.3526666666667, 487.9826666666666]" rotate="0">
-<title archetypal_index="0" bbox="117.670,455.492,641.142,487.532" id="0" size="32.04">NWP more accurate - but also less <textline bbox="117.670,455.492,641.142,487.532" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="32.040">NWP more accurate - but also less </textline>
-</title>
-<normal_text archetypal_index="1" bbox="560.060,428.200,659.960,446.200" id="1" size="18.0">persistence <textline bbox="560.060,428.200,659.960,446.200" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.6, 0)" size="18.000">persistence </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="522.430,395.080,673.720,413.080" id="2" size="18.0">world&#8217;s best NWP <textline bbox="522.430,395.080,673.720,413.080" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.153, 0.624)" size="18.000">world&#8217;s best NWP </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="550.060,335.050,669.094,353.050" id="3" size="18.0">meteorologist <textline bbox="550.060,335.050,669.094,353.050" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.6, 0)" size="18.000">meteorologist </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="277.250,405.916,319.850,429.916" id="4" size="24.0">A&#61654;2 <textline bbox="277.250,405.916,319.850,429.916">A&#61654;2 <text bbox="277.250,405.916,294.578,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">A</text>
-<text bbox="294.530,405.916,307.706,429.916" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0.502, 0)" size="24.000">&#61654;</text>
-<text bbox="307.850,405.916,319.850,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">2</text>
+<page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[102.47628205128204, 419.71808974358976, 583.7014102564102, 495.8575512820513]" rotate="0">
+<title archetypal_index="0" bbox="40.464,464.731,628.973,508.810" id="0" size="20.052">Probabilities that the 850 hPa temperature anomalies are  &gt;- 4 K or &gt; + 4  
+K <textline bbox="40.464,488.746,628.973,508.810">Probabilities that the 850 hPa temperature anomalies are  &gt;- 4 K or &gt; + 4  <text bbox="40.464,488.746,51.620,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">P</text>
+<text bbox="51.620,488.746,58.301,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">r</text>
+<text bbox="58.301,488.746,68.333,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">o</text>
+<text bbox="68.413,488.746,78.445,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">b</text>
+<text bbox="78.445,488.746,87.354,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="87.354,488.746,97.386,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">b</text>
+<text bbox="97.426,488.746,103.003,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">i</text>
+<text bbox="103.003,488.746,108.581,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">l</text>
+<text bbox="108.461,488.746,114.039,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">i</text>
+<text bbox="113.858,488.746,119.436,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="119.436,488.746,125.014,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">i</text>
+<text bbox="124.893,488.746,133.802,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="133.802,488.746,141.607,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">s</text>
+<text bbox="141.607,488.746,146.623,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="146.141,488.746,151.719,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="151.719,488.746,161.751,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">h</text>
+<text bbox="161.751,488.746,170.659,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="170.659,488.746,176.237,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="176.137,488.746,181.153,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="181.052,488.746,186.630,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="186.630,488.746,196.662,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">h</text>
+<text bbox="196.662,488.746,205.571,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="205.571,488.746,210.587,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="210.446,488.746,220.478,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">8</text>
+<text bbox="220.478,488.746,230.510,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">5</text>
+<text bbox="230.590,488.746,240.622,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">0</text>
+<text bbox="240.622,488.746,245.638,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="245.358,488.746,255.390,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">h</text>
+<text bbox="255.390,488.746,266.545,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">P</text>
+<text bbox="266.545,488.746,275.454,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="275.454,488.746,280.470,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="280.389,488.746,285.967,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="285.967,488.746,294.876,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="294.795,488.746,310.405,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">m</text>
+<text bbox="310.164,488.746,320.196,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">p</text>
+<text bbox="320.196,488.746,329.105,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="329.105,488.746,335.786,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">r</text>
+<text bbox="335.786,488.746,344.694,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="344.694,488.746,350.272,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">t</text>
+<text bbox="350.272,488.746,360.304,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">u</text>
+<text bbox="360.304,488.746,366.986,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">r</text>
+<text bbox="366.986,488.746,375.894,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="375.894,488.746,380.910,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="380.609,488.746,389.517,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="389.517,488.746,399.549,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">n</text>
+<text bbox="399.549,488.746,409.581,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">o</text>
+<text bbox="409.622,488.746,425.231,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">m</text>
+<text bbox="424.991,488.746,433.899,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="433.899,488.746,439.477,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">l</text>
+<text bbox="439.397,488.746,444.974,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">i</text>
+<text bbox="444.974,488.746,453.883,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="453.802,488.746,461.607,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">s</text>
+<text bbox="461.607,488.746,466.623,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="466.523,488.746,475.431,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">a</text>
+<text bbox="475.431,488.746,482.113,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">r</text>
+<text bbox="482.113,488.746,491.021,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">e</text>
+<text bbox="491.021,488.746,496.037,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="495.917,488.746,500.933,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="501.100,488.746,512.536,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="20.064">&gt;</text>
+<text bbox="512.500,488.746,519.181,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="20.064">-</text>
+<text bbox="524.020,488.746,534.052,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="20.064">4</text>
+<text bbox="534.112,488.746,539.128,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="20.064"> </text>
+<text bbox="539.048,488.746,554.658,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="20.064">K</text>
+<text bbox="559.560,488.746,569.592,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">o</text>
+<text bbox="569.640,488.746,576.321,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">r</text>
+<text bbox="576.369,488.746,581.385,508.810" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064"> </text>
+<text bbox="581.160,488.746,592.596,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064">&gt;</text>
+<text bbox="592.596,488.746,597.612,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064"> </text>
+<text bbox="597.612,488.746,609.049,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064">+</text>
+<text bbox="609.049,488.746,614.065,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064"> </text>
+<text bbox="613.925,488.746,623.957,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064">4</text>
+<text bbox="623.957,488.746,628.973,508.810" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.064"> </text>
 </textline>
+<textline bbox="40.464,464.731,56.055,484.771" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0.4)" size="20.040">K </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,27.711,124.811,41.751" id="2" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="283.250,322.006,300.578,346.006" id="5" size="24.0">A <textline bbox="283.250,322.006,300.578,346.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">A </textline>
+<normal_text archetypal_index="2" bbox="302.380,15.672,421.000,42.072" id="3" size="12.0">Anders Persson SMHI  
+NCEP 18 June 2004 <textline bbox="302.380,30.072,421.000,42.072" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">Anders Persson SMHI  </textline>
+<textline bbox="309.220,15.672,411.112,27.672" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.2, 0.2, 0.8)" size="12.000">NCEP 18 June 2004 </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="50.832,215.147,240.193,448.357" id="6" size="21.965333333333337">A good NWP model  
-is able to simulate  
-all atmospheric  
-scales throughout  
-the forecast. It has  
-the same variance  
-as the observations  
-and the persistence  
-forecasts, which  <textline bbox="50.832,426.397,240.193,448.357" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">A good NWP model  </textline>
-<textline bbox="50.832,399.997,224.272,421.957" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">is able to simulate  </textline>
-<textline bbox="50.832,373.591,201.027,395.575" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.984">all atmospheric  </textline>
-<textline bbox="50.832,347.167,221.483,369.127" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">scales throughout  </textline>
-<textline bbox="50.832,320.767,229.367,342.727" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">the forecast. It has  </textline>
-<textline bbox="50.832,294.367,224.909,316.327" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">the same variance  </textline>
-<textline bbox="50.832,267.967,234.659,289.927" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">as the observations  </textline>
-<textline bbox="50.832,241.561,235.761,263.545" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.984">and the persistence  </textline>
-<textline bbox="50.832,215.147,206.001,237.107" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">forecasts, which  </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="95.832,188.747,238.726,210.707" id="7" size="21.96">yields an error  <textline bbox="95.832,188.747,238.726,210.707" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">yields an error  </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="50.832,109.517,201.060,184.307" id="8" size="21.968">saturation level  
-41% above the  
-climate <textline bbox="50.832,162.347,201.060,184.307" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">saturation level  </textline>
-<textline bbox="50.832,135.941,195.597,157.925" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.984">41% above the  </textline>
-<textline bbox="50.832,109.517,119.128,131.477" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0, 1)" size="21.960">climate </textline>
-</normal_text>
-<normal_text archetypal_index="9" bbox="61.224,27.711,124.811,41.751" id="9" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
-</normal_text>
-<slide_number bbox="651.720,27.711,658.740,41.751" id="11" size="14.04">4 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">4 </textline>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="4" size="14.04">14 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">14 </textline>
 </slide_number>
-<picture archetypal_index="10" bbox="238.080,96.120,675.600,498.000" caption="Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="401" name="Image56" src="Image56.573x486.bmp" width="437">
+<rect bbox="54.000,12.000,204.000,48.000" linewidth="0" />
+<rect bbox="516.000,12.000,666.000,48.000" linewidth="0" />
+<rect bbox="246.000,12.000,474.000,48.000" linewidth="0" />
+<rect bbox="33.240,460.800,640.560,516.000" linewidth="0" />
+<picture archetypal_index="3" bbox="18.000,186.240,654.000,486.000" caption="&#8230;and combine them with the ensemble mean  &#10;map... " height="299" name="Image118" src="Image118.666x314.bmp" width="636">
+</picture>
+<rect bbox="324.000,185.280,342.000,480.000" linewidth="0" />
+<rect bbox="88.680,150.000,604.080,186.000" linewidth="0" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[102.47628205128204, 419.71808974358976, 583.7014102564102, 495.8575512820513]" rotate="0">
+<enlisting archetypal_index="0" bbox="140.110,454.036,496.294,478.036" id="0" size="24.0">&#8230;500 hPa 6 February 2001 +120 h <textline bbox="140.110,454.036,496.294,478.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.6, 0.4, 0.2)" size="24.000">&#8230;500 hPa 6 February 2001 +120 h </textline>
+</enlisting>
+<normal_text archetypal_index="1" bbox="61.224,27.711,124.811,41.751" id="1" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="3" size="14.04">15 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">15 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="121.560,124.920,598.560,415.080" caption="Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="290" name="Image121" src="Image121.636x387.bmp" width="476">
 </picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[160.5474, 459.78240000000005, 622.9928, 491.40239999999994]" rotate="0">
-<title archetypal_index="0" bbox="183.220,464.492,596.953,496.532" id="0" size="32.04">The art of good forecasting <textline bbox="183.220,464.492,596.953,496.532" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="32.040">The art of good forecasting </textline>
-</title>
-<normal_text archetypal_index="1" bbox="560.060,428.200,659.960,446.200" id="1" size="18.0">persistence <textline bbox="560.060,428.200,659.960,446.200" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.6, 0)" size="18.000">persistence </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="16" mean_title="[102.47628205128204, 419.71808974358976, 583.7014102564102, 495.8575512820513]" rotate="0">
+<normal_text archetypal_index="0" bbox="62.592,461.236,569.424,514.075" id="0" size="24.012">&#8230;850 hPa temperature anomalies overlaid the  
+ensemble  mean 500 hPa 6 February 2001 + 120 h <textline bbox="62.592,490.051,544.610,514.075" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.6, 0.4, 0.2)" size="24.024">&#8230;850 hPa temperature anomalies overlaid the  </textline>
+<textline bbox="62.592,461.236,569.424,485.236" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.6, 0.4, 0.2)" size="24.000">ensemble  mean 500 hPa 6 February 2001 + 120 h </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="522.430,395.080,673.720,413.080" id="2" size="18.0">world&#8217;s best NWP <textline bbox="522.430,395.080,673.720,413.080" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0, 0.153, 0.624)" size="18.000">world&#8217;s best NWP </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="550.060,335.050,669.094,353.050" id="3" size="18.0">meteorologist <textline bbox="550.060,335.050,669.094,353.050" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0.6, 0)" size="18.000">meteorologist </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="533.420,265.450,613.484,305.050" id="4" size="18.0">modified  
-forecast <textline bbox="533.420,287.050,613.484,305.050" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0, 0.4)" size="18.000">modified  </textline>
-<textline bbox="533.420,265.450,603.260,283.450" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(1, 0, 0.4)" size="18.000">forecast </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="277.250,405.916,319.850,429.916" id="5" size="24.0">A&#61654;2 <textline bbox="277.250,405.916,319.850,429.916">A&#61654;2 <text bbox="277.250,405.916,294.578,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">A</text>
-<text bbox="294.530,405.916,307.706,429.916" colourspace="DeviceGray" font="SymbolMT" ncolour="(0, 0.502, 0)" size="24.000">&#61654;</text>
-<text bbox="307.850,405.916,319.850,429.916" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.502, 0)" size="24.000">2</text>
-</textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="283.250,322.006,300.578,346.006" id="6" size="24.0">A <textline bbox="283.250,322.006,300.578,346.006" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000">A </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="48.552,383.131,204.603,430.171" id="7" size="20.04">The way out of the  
-dilemma: <textline bbox="48.552,410.131,204.603,430.171" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">The way out of the  </textline>
-<textline bbox="50.832,383.131,126.002,403.171" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">dilemma: </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="50.832,205.481,228.827,345.541" id="8" size="20.043999999999997">Combine the high  
-accuracy of NWP in  
-the short range with a  
-filtering of the non- 
-predictable scales for  
-longer ranges <textline bbox="50.832,325.501,199.128,345.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">Combine the high  </textline>
-<textline bbox="50.832,301.501,217.805,321.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">accuracy of NWP in  </textline>
-<textline bbox="50.832,277.501,228.827,297.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">the short range with a  </textline>
-<textline bbox="50.832,253.496,207.901,273.560" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.064">filtering of the non- </textline>
-<textline bbox="50.832,229.481,225.541,249.521" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">predictable scales for  </textline>
-<textline bbox="50.832,205.481,159.188,225.521" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">longer ranges </textline>
-</normal_text>
-<normal_text archetypal_index="9" bbox="50.832,99.851,232.575,167.921" id="9" size="20.048">This can be done both  
-with and without the  
-EPS <textline bbox="50.832,147.881,232.575,167.921" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">This can be done both  </textline>
-<textline bbox="50.832,123.876,220.734,143.940" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.064">with and without the  </textline>
-<textline bbox="50.832,99.851,85.361,119.891" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="20.040">EPS </textline>
-</normal_text>
-<normal_text archetypal_index="10" bbox="61.224,27.711,124.811,41.751" id="10" size="14.04">11/30/2020 <textline bbox="61.224,27.711,124.811,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">11/30/2020 </textline>
-</normal_text>
-<slide_number bbox="651.720,27.711,658.740,41.751" id="12" size="14.04">5 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">5 </textline>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="3" size="14.04">16 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">16 </textline>
 </slide_number>
-<picture archetypal_index="11" bbox="238.080,86.160,702.240,510.000" caption="Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="423" name="Image64" src="Image64.592x499.bmp" width="464">
+<picture archetypal_index="1" bbox="83.160,74.760,659.160,462.000" caption="11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " height="387" name="Image97" src="Image97.0.490x304.bmp" width="576">
 </picture>
 </page>
+<page bbox="0.000,0.000,720.000,540.000" id="17" mean_title="[103.11824175824177, 423.9349340659341, 586.0849230769231, 496.7401868131869]" rotate="0">
+<title archetypal_index="0" bbox="106.970,449.236,600.386,502.036" id="0" size="24.0">The same for gale force winds and precipitation  
+according to EPS from 6 February 2001 + 120 h <textline bbox="106.970,478.036,600.386,502.036" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.6, 0.4, 0.2)" size="24.000">The same for gale force winds and precipitation  </textline>
+<textline bbox="106.970,449.236,596.546,473.236" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0.6, 0.4, 0.2)" size="24.000">according to EPS from 6 February 2001 + 120 h </textline>
+</title>
+<normal_text archetypal_index="1" bbox="137.980,222.055,296.118,250.039" id="1" size="27.984">Vind &gt; 15m/s <textline bbox="137.980,222.055,296.118,250.039" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0.6, 0)" size="27.984">Vind &gt; 15m/s </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="463.300,227.153,621.405,250.193" id="2" size="23.04">Nbd &gt;5 mm/24 t <textline bbox="463.300,227.153,621.405,250.193">Nbd &gt;5 mm/24 t <text bbox="463.300,227.153,479.935,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">N</text>
+<text bbox="479.935,227.153,492.745,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">b</text>
+<text bbox="492.791,227.153,505.601,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">d</text>
+<text bbox="505.601,227.153,511.361,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040"> </text>
+<text bbox="511.154,227.153,524.287,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">&gt;</text>
+<text bbox="524.287,227.153,535.807,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">5</text>
+<text bbox="535.807,227.153,541.567,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040"> </text>
+<text bbox="541.567,227.153,560.759,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">m</text>
+<text bbox="560.759,227.153,579.952,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">m</text>
+<text bbox="579.952,227.153,586.357,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">/</text>
+<text bbox="586.264,227.153,597.784,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">2</text>
+<text bbox="597.784,227.153,609.304,250.193" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.6, 0)" size="23.040">4</text>
+<text bbox="615.000,227.153,621.405,250.193" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0)" size="23.040">t</text>
+</textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="5" size="14.04">17 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">17 </textline>
+</slide_number>
+<rect bbox="54.000,12.000,204.000,48.000" linewidth="0" />
+<rect bbox="516.000,12.000,666.000,48.000" linewidth="0" />
+<rect bbox="246.000,12.000,474.000,48.000" linewidth="0" />
+<rect bbox="130.800,217.920,304.560,258.720" linewidth="0" />
+<rect bbox="456.000,223.080,630.000,258.000" linewidth="0" />
+<rect bbox="99.720,445.200,642.480,510.000" linewidth="0" />
+<picture archetypal_index="3" bbox="49.92,69.0,668.28,450.0" caption="&#10;11/30/2020 &#10;Anders Persson SMHI  &#10;NCEP 18 June 2004 " combined_sources="['Image126.329x311.bmp', 'Image127.312x295.bmp']" name="combined_0" src="combined_17_0.png" /></page>
 </pages>

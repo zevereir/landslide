@@ -1,241 +1,728 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[41.866666666666674, 422.77777777777777, 443.7640555555555, 480.00400000000013]" rotate="0">
-<title archetypal_index="0" bbox="37.200,376.626,614.314,480.004" id="0" size="41.232">Recommendations 
-&#8226; Integrate Monitoring with Assessments <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
-<textline bbox="37.200,376.626,614.314,415.050">&#8226; Integrate Monitoring with Assessments <text bbox="37.200,376.626,54.683,415.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.424">&#8226;</text>
-<text bbox="64.224,377.943,76.184,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">I</text>
-<text bbox="76.184,377.943,94.076,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="94.076,377.943,104.785,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="104.657,377.943,121.522,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="121.522,377.943,139.254,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">g</text>
-<text bbox="139.254,377.943,150.797,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">r</text>
-<text bbox="150.252,377.943,167.085,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="167.085,377.943,177.795,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="177.795,377.943,194.660,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="194.660,377.943,204.696,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="204.696,377.943,229.418,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">M</text>
-<text bbox="229.418,377.943,246.828,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">o</text>
-<text bbox="246.732,377.943,264.624,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="264.624,377.943,271.967,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">i</text>
-<text bbox="271.967,377.943,282.676,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="282.676,377.943,300.087,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">o</text>
-<text bbox="300.087,377.943,311.630,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">r</text>
-<text bbox="311.630,377.943,318.972,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">i</text>
-<text bbox="318.972,377.943,336.864,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="336.864,377.943,354.596,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">g</text>
-<text bbox="354.596,377.943,364.632,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="364.632,377.943,388.423,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">w</text>
-<text bbox="388.423,377.943,395.766,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">i</text>
-<text bbox="395.766,377.943,406.475,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="406.475,377.943,424.367,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">h</text>
-<text bbox="424.367,377.943,434.403,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="434.403,377.943,453.641,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">A</text>
-<text bbox="453.641,377.943,467.942,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-<text bbox="467.942,377.943,482.242,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-<text bbox="482.242,377.943,499.108,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="499.108,377.943,513.409,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-<text bbox="513.409,377.943,527.709,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-<text bbox="527.709,377.943,554.643,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">m</text>
-<text bbox="554.547,377.943,571.412,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="571.412,377.943,589.304,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="589.304,377.943,600.013,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="600.013,377.943,614.314,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-</textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="78.792,273.438,653.722,409.447" id="0" size="39.967999999999996">Critical Evaluation of Waterbody  
+Assessment Processes 
+WERF Project 04-WEM-4 <textline bbox="78.792,369.463,653.722,409.447" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="39.984">Critical Evaluation of Waterbody  </textline>
+<textline bbox="164.350,321.438,555.758,361.398" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="39.960">Assessment Processes </textline>
+<textline bbox="142.870,273.438,577.198,313.398" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="39.960">WERF Project 04-WEM-4 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="193.540,283.450,309.568,323.050" id="1" size="18.0">Allocate State  
-Resources <textline bbox="193.540,305.050,309.568,323.050" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Allocate State  </textline>
-<textline bbox="206.140,283.450,291.982,301.450" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Resources </textline>
+<normal_text archetypal_index="1" bbox="322.510,212.062,598.699,240.022" id="1" size="27.96">WERF:  Jane Casteline <textline bbox="322.510,212.062,598.699,240.022" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">WERF:  Jane Casteline </textline>
 </normal_text>
-<enlisting archetypal_index="2" bbox="443.420,229.430,551.594,355.450" id="2" size="18.004">&#8226; Accuracy in  
-listing 
-&#8226;Accuracy in  
-diagnosis of  
-cause &amp;  
-trending <textline bbox="443.420,337.450,551.594,355.450" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226; Accuracy in  </textline>
-<textline bbox="472.100,315.850,518.036,333.850" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">listing </textline>
-<textline bbox="445.460,294.250,549.548,312.250" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226;Accuracy in  </textline>
-<textline bbox="447.020,272.650,548.018,290.650" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">diagnosis of  </textline>
-<textline bbox="462.500,251.045,532.559,269.069" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.024">cause &amp;  </textline>
-<textline bbox="462.620,229.430,527.510,247.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">trending </textline>
-</enlisting>
-<normal_text archetypal_index="3" bbox="88.992,52.404,191.880,200.030" id="3" size="18.0">Develop  
-Biological  
-Monitoring  
-and  
-Assessment  
-Program  
-Stressors <textline bbox="105.070,182.030,175.828,200.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Develop  </textline>
-<textline bbox="99.672,160.430,181.338,178.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Biological  </textline>
-<textline bbox="96.072,138.830,184.848,156.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Monitoring  </textline>
-<textline bbox="123.070,117.200,157.954,135.200" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">and  </textline>
-<textline bbox="88.992,95.604,191.880,113.604" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Assessment  </textline>
-<textline bbox="103.510,74.004,177.436,92.004" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Program  </textline>
-<textline bbox="100.030,52.404,175.990,70.404" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Stressors </textline>
+<normal_text archetypal_index="2" bbox="151.460,138.137,598.672,166.121" id="2" size="27.984">Brown and Caldwell: Lindsay Griffith <textline bbox="151.460,138.137,598.672,166.121" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.984">Brown and Caldwell: Lindsay Griffith </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="328.200,95.604,433.878,135.200" id="4" size="18.0">Biocriteria  
-Development <textline bbox="341.160,117.200,426.012,135.200" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Biocriteria  </textline>
-<textline bbox="328.200,95.604,433.878,113.604" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Development </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="577.130,95.604,678.458,135.200" id="5" size="18.0">Accuracy in  
-Use Support <textline bbox="580.610,117.200,678.458,135.200" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Accuracy in  </textline>
-<textline bbox="577.130,95.604,676.922,113.604" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Use Support </textline>
-</normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.9.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.jpg" width="720">
 </background>
-<rect bbox="180.000,222.000,318.000,366.000" linewidth="0" />
-<rect bbox="177.750,219.750,320.250,368.250" linewidth="0" />
-<rect bbox="180.450,222.450,317.550,365.550" linewidth="0" />
-<rect bbox="181.350,223.350,316.650,364.650" linewidth="0" />
-<rect bbox="182.250,224.250,315.750,363.750" linewidth="0" />
-<curve bbox="348.000,259.440,406.560,300.000" linewidth="0" pts="348.000,300.000,391.910,300.000,406.560,279.720,391.910,259.440,348.000,259.440,362.650,279.720" />
-<curve bbox="348.000,259.440,406.560,300.000" linewidth="0" pts="348.000,300.000,391.910,300.000,406.560,279.720,391.910,259.440,348.000,259.440,362.650,279.720" />
-<rect bbox="426.000,222.000,564.000,366.000" linewidth="0" />
-<rect bbox="423.750,219.750,566.250,368.250" linewidth="0" />
-<rect bbox="426.450,222.450,563.550,365.550" linewidth="0" />
-<rect bbox="427.350,223.350,562.650,364.650" linewidth="0" />
-<rect bbox="428.250,224.250,561.750,363.750" linewidth="0" />
-<rect bbox="72.000,30.000,204.000,204.000" linewidth="0" />
-<rect bbox="69.750,27.750,206.250,206.250" linewidth="0" />
-<rect bbox="72.450,30.450,203.550,203.550" linewidth="0" />
-<rect bbox="73.350,31.350,202.650,202.650" linewidth="0" />
-<rect bbox="74.250,32.250,201.750,201.750" linewidth="0" />
-<curve bbox="240.000,89.040,288.240,138.000" linewidth="0" pts="240.000,138.000,276.180,138.000,288.240,113.520,276.180,89.040,240.000,89.040,252.060,113.520" />
-<curve bbox="240.000,89.040,288.240,138.000" linewidth="0" pts="240.000,138.000,276.180,138.000,288.240,113.520,276.180,89.040,240.000,89.040,252.060,113.520" />
-<rect bbox="318.000,30.000,444.000,204.000" linewidth="0" />
-<rect bbox="315.750,27.750,446.250,206.250" linewidth="0" />
-<rect bbox="318.450,30.450,443.550,203.550" linewidth="0" />
-<rect bbox="319.350,31.350,442.650,202.650" linewidth="0" />
-<rect bbox="320.250,32.250,441.750,201.750" linewidth="0" />
-<curve bbox="486.000,89.040,534.240,138.000" linewidth="0" pts="486.000,138.000,522.180,138.000,534.240,113.520,522.180,89.040,486.000,89.040,498.060,113.520" />
-<curve bbox="486.000,89.040,534.240,138.000" linewidth="0" pts="486.000,138.000,522.180,138.000,534.240,113.520,522.180,89.040,486.000,89.040,498.060,113.520" />
-<rect bbox="564.000,30.000,690.000,204.000" linewidth="0" />
-<rect bbox="561.750,27.750,692.250,206.250" linewidth="0" />
-<rect bbox="564.450,30.450,689.550,203.550" linewidth="0" />
-<rect bbox="565.350,31.350,688.650,202.650" linewidth="0" />
-<rect bbox="566.250,32.250,687.750,201.750" linewidth="0" />
+<picture archetypal_index="3" bbox="528.000,0.000,702.720,102.000" height="102" name="Image30" src="Image30.113x66.bmp" width="174">
+</picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[42.13333333333334, 413.54742222222217, 484.8326444444444, 480.0040000000001]" rotate="0">
-<title archetypal_index="0" bbox="43.200,376.626,649.107,480.004" id="0" size="41.232">Recommendations 
-&#8226; Develop standardized data extrapolation  <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
-<textline bbox="43.200,376.626,649.107,415.050">&#8226; Develop standardized data extrapolation  <text bbox="43.200,376.626,60.683,415.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.424">&#8226;</text>
-<text bbox="70.224,377.943,91.963,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">D</text>
-<text bbox="91.963,377.943,108.829,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="108.829,377.943,124.797,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">v</text>
-<text bbox="124.572,377.943,141.438,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="141.438,377.943,148.781,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">l</text>
-<text bbox="148.781,377.943,166.192,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">o</text>
-<text bbox="166.192,377.943,183.923,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">p</text>
-<text bbox="183.923,377.943,193.959,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="193.959,377.943,208.260,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">s</text>
-<text bbox="208.260,377.943,218.969,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="218.969,377.943,235.802,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="235.706,377.943,253.598,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="253.598,377.943,271.329,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">d</text>
-<text bbox="271.329,377.943,288.163,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="288.163,377.943,299.706,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">r</text>
-<text bbox="299.546,377.943,317.277,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">d</text>
-<text bbox="317.277,377.943,324.620,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">i</text>
-<text bbox="324.620,377.943,338.856,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">z</text>
-<text bbox="338.856,377.943,355.722,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="355.722,377.943,373.453,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">d</text>
-<text bbox="373.453,377.943,383.489,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="383.297,377.943,401.028,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">d</text>
-<text bbox="401.028,377.943,417.862,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="417.862,377.943,428.571,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="428.571,377.943,445.405,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="445.405,377.943,455.441,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-<text bbox="455.313,377.943,472.178,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">e</text>
-<text bbox="472.178,377.943,488.050,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">x</text>
-<text bbox="488.050,377.943,498.759,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="498.759,377.943,510.302,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">r</text>
-<text bbox="509.661,377.943,526.495,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="526.495,377.943,544.226,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">p</text>
-<text bbox="544.226,377.943,561.637,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">o</text>
-<text bbox="561.637,377.943,568.980,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">l</text>
-<text bbox="568.980,377.943,585.813,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">a</text>
-<text bbox="585.813,377.943,596.522,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">t</text>
-<text bbox="596.426,377.943,603.769,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">i</text>
-<text bbox="603.769,377.943,621.180,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">o</text>
-<text bbox="621.180,377.943,639.071,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064">n</text>
-<text bbox="639.071,377.943,649.107,410.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.064"> </text>
-</textline>
-</title>
-<normal_text archetypal_index="1" bbox="70.224,339.518,222.478,371.558" id="1" size="32.04">techniques <textline bbox="70.224,339.518,222.478,371.558" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">techniques </textline>
-</normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.10.jpg" width="720">
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.0.jpg" width="720">
 </background>
-<rect bbox="367.200,213.240,376.320,220.800" linewidth="0" />
-<rect bbox="18.000,18.000,150.000,138.000" linewidth="0" />
-<rect bbox="18.450,18.450,149.550,137.550" linewidth="0" />
-<rect bbox="19.350,19.350,148.650,136.650" linewidth="0" />
-<rect bbox="20.250,20.250,147.750,135.750" linewidth="0" />
-<curve bbox="156.000,62.280,192.000,102.000" linewidth="0" pts="156.000,102.000,183.000,102.000,192.000,82.140,183.000,62.280,156.000,62.280,165.000,82.140" />
-<curve bbox="156.000,62.280,192.000,102.000" linewidth="0" pts="156.000,102.000,183.000,102.000,192.000,82.140,183.000,62.280,156.000,62.280,165.000,82.140" />
-<rect bbox="198.000,18.000,330.000,138.000" linewidth="0" />
-<rect bbox="198.450,18.450,329.550,137.550" linewidth="0" />
-<rect bbox="199.350,19.350,328.650,136.650" linewidth="0" />
-<rect bbox="200.250,20.250,327.750,135.750" linewidth="0" />
-<curve bbox="336.000,62.280,372.000,102.000" linewidth="0" pts="336.000,102.000,363.000,102.000,372.000,82.140,363.000,62.280,336.000,62.280,345.000,82.140" />
-<curve bbox="336.000,62.280,372.000,102.000" linewidth="0" pts="336.000,102.000,363.000,102.000,372.000,82.140,363.000,62.280,336.000,62.280,345.000,82.140" />
-<rect bbox="378.000,18.000,510.000,138.000" linewidth="0" />
-<rect bbox="378.450,18.450,509.550,137.550" linewidth="0" />
-<rect bbox="379.350,19.350,508.650,136.650" linewidth="0" />
-<rect bbox="380.250,20.250,507.750,135.750" linewidth="0" />
-<curve bbox="516.000,62.280,552.000,102.000" linewidth="0" pts="516.000,102.000,543.000,102.000,552.000,82.140,543.000,62.280,516.000,62.280,525.000,82.140" />
-<curve bbox="516.000,62.280,552.000,102.000" linewidth="0" pts="516.000,102.000,543.000,102.000,552.000,82.140,543.000,62.280,516.000,62.280,525.000,82.140" />
-<rect bbox="558.000,18.000,690.000,138.000" linewidth="0" />
-<rect bbox="558.450,18.450,689.550,137.550" linewidth="0" />
-<rect bbox="559.350,19.350,688.650,136.650" linewidth="0" />
-<rect bbox="560.250,20.250,687.750,135.750" linewidth="0" />
-<rect bbox="174.000,168.000,306.000,318.000" linewidth="0" />
-<rect bbox="174.450,168.450,305.550,317.550" linewidth="0" />
-<rect bbox="175.350,169.350,304.650,316.650" linewidth="0" />
-<rect bbox="176.250,170.250,303.750,315.750" linewidth="0" />
-<curve bbox="342.000,209.760,397.920,252.000" linewidth="0" pts="342.000,252.000,383.950,252.000,397.920,230.880,383.950,209.760,342.000,209.760,355.970,230.880" />
-<curve bbox="342.000,209.760,397.920,252.000" linewidth="0" pts="342.000,252.000,383.950,252.000,397.920,230.880,383.950,209.760,342.000,209.760,355.970,230.880" />
-<rect bbox="420.000,168.000,552.000,318.000" linewidth="0" />
-<rect bbox="420.450,168.450,551.550,317.550" linewidth="0" />
-<rect bbox="421.350,169.350,550.650,316.650" linewidth="0" />
-<rect bbox="422.250,170.250,549.750,315.750" linewidth="0" />
-<table archetypal_index="2" bbox="15.75,15.75,554.25,320.25" dimensions="3/1"><cell bbox="15.75,15.75,152.25,140.25"><tabletext bbox="29.928,45.804,142.932,128.600" id="4" size="18.0">Use Flow- 
-Reference  
-Water Quality  
-Data <textline bbox="43.728,110.600,124.264,128.600" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Use Flow- </textline>
-<textline bbox="42.528,89.004,130.566,107.004" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Reference  </textline>
-<textline bbox="29.928,67.404,142.932,85.404" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Water Quality  </textline>
-<textline bbox="64.992,45.804,102.918,63.804" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Data </textline>
-</tabletext>
-</cell><cell bbox="171.75,165.75,308.25,320.25"><tabletext bbox="187.180,221.630,297.916,282.850" id="2" size="18.008">Standardized  
-Assessment  
-Units <textline bbox="187.180,264.850,297.916,282.850" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Standardized  </textline>
-<textline bbox="191.020,243.245,293.919,261.269" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.024">Assessment  </textline>
-<textline bbox="219.580,221.630,260.494,239.630" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Units </textline>
-</tabletext>
-</cell><cell bbox="417.75,165.75,554.25,320.25"><tabletext bbox="435.600,189.230,541.656,293.650" id="3" size="18.0">&#8226; Consistent  
-and  
-Transparent  
-Identification  
-of Waters <textline bbox="438.000,275.650,539.102,293.650" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226; Consistent  </textline>
-<textline bbox="471.140,254.050,506.024,272.050" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">and  </textline>
-<textline bbox="437.880,232.430,539.364,250.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Transparent  </textline>
-<textline bbox="435.600,210.830,541.656,228.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Identification  </textline>
-<textline bbox="447.860,189.230,524.180,207.230" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">of Waters </textline>
-</tabletext>
-</cell></table><table archetypal_index="3" bbox="171.75,15.75,554.25,320.25" dimensions="3/1"><cell bbox="195.75,15.75,332.25,140.25"><tabletext bbox="206.020,45.804,326.944,107.004" id="5" size="18.0">More Accurate  
-Temporal  
-Extrapolation <textline bbox="206.020,89.004,326.944,107.004" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">More Accurate  </textline>
-<textline bbox="227.020,67.404,305.986,85.404" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Temporal  </textline>
-<textline bbox="211.660,45.804,316.348,63.804" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Extrapolation </textline>
-</tabletext>
-</cell><cell bbox="171.75,165.75,308.25,320.25" /><cell bbox="417.75,165.75,554.25,320.25" /></table><table archetypal_index="4" bbox="171.75,15.75,554.25,320.25" dimensions="3/1"><cell bbox="375.75,15.75,512.25,140.25"><tabletext bbox="387.120,45.804,506.046,107.004" id="6" size="18.0">Accurate  
-Diagnosis and  
-Trending <textline bbox="408.600,89.004,484.524,107.004" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Accurate  </textline>
-<textline bbox="387.120,67.404,506.046,85.404" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Diagnosis and  </textline>
-<textline bbox="408.960,45.804,479.250,63.804" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Trending </textline>
-</tabletext>
-</cell><cell bbox="171.75,165.75,308.25,320.25" /><cell bbox="417.75,165.75,554.25,320.25" /></table><table archetypal_index="5" bbox="171.75,15.75,692.25,320.25" dimensions="1/3"><cell bbox="555.75,15.75,692.25,140.25"><tabletext bbox="574.130,56.604,675.458,96.204" id="7" size="18.0">Accuracy in  
-Use Support <textline bbox="577.610,78.204,675.458,96.204" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Accuracy in  </textline>
-<textline bbox="574.130,56.604,673.922,74.604" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Use Support </textline>
-</tabletext>
-</cell><cell bbox="171.75,165.75,308.25,320.25" /><cell bbox="417.75,165.75,554.25,320.25" /></table></page>
+<picture archetypal_index="0" bbox="348.000,203.760,708.000,456.000" height="252" name="Image58" src="Image58.jpg" width="360">
+</picture>
+<enlisting archetypal_index="1" bbox="31.2,135.013,309.614,502.328">Project  
+Objectives 
+&#8226; Review current  
+assessment  
+methodologies 
+&#8226; Identify best  
+approaches &#8226; Provide  <normal_text bbox="31.200,211.818,279.634,502.328" id="0" size="36.12685714285714">Project  
+Objectives 
+&#8226; Review current  
+assessment  
+methodologies 
+&#8226; Identify best  
+approaches <textline bbox="43.200,462.368,177.825,502.328" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="39.960">Project  </textline>
+<textline bbox="43.200,414.368,225.218,454.328" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="39.960">Objectives </textline>
+<textline bbox="31.200,356.466,279.634,394.890">&#8226; Review current  <text bbox="31.200,356.466,48.683,394.890" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.424">&#8226;</text>
+<text bbox="58.200,357.783,78.112,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">R</text>
+<text bbox="77.535,357.783,94.400,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">e</text>
+<text bbox="94.400,357.783,110.368,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">v</text>
+<text bbox="110.368,357.783,117.711,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">i</text>
+<text bbox="117.711,357.783,134.576,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">e</text>
+<text bbox="134.705,357.783,158.496,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">w</text>
+<text bbox="158.496,357.783,168.532,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064"> </text>
+<text bbox="168.532,357.783,183.314,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">c</text>
+<text bbox="183.314,357.783,201.205,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">u</text>
+<text bbox="201.205,357.783,212.748,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">r</text>
+<text bbox="212.748,357.783,224.292,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">r</text>
+<text bbox="224.131,357.783,240.997,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">e</text>
+<text bbox="240.997,357.783,258.889,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">n</text>
+<text bbox="258.889,357.783,269.598,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">t</text>
+<text bbox="269.598,357.783,279.634,389.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064"> </text>
+</textline>
+<textline bbox="58.200,323.198,231.568,355.238" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">assessment  </textline>
+<textline bbox="58.200,288.638,264.281,320.678" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">methodologies </textline>
+<textline bbox="31.200,245.076,246.223,283.500">&#8226; Identify best  <text bbox="31.200,245.076,48.683,283.500" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.424">&#8226;</text>
+<text bbox="58.200,246.393,70.160,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">I</text>
+<text bbox="69.871,246.393,87.603,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">d</text>
+<text bbox="87.603,246.393,104.468,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">e</text>
+<text bbox="104.565,246.393,122.456,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">n</text>
+<text bbox="122.456,246.393,133.166,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">t</text>
+<text bbox="133.166,246.393,140.508,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">i</text>
+<text bbox="140.604,246.393,150.801,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">f</text>
+<text bbox="150.480,246.393,166.448,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">y</text>
+<text bbox="166.448,246.393,176.484,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064"> </text>
+<text bbox="176.484,246.393,194.215,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">b</text>
+<text bbox="194.312,246.393,211.177,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">e</text>
+<text bbox="211.177,246.393,225.478,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">s</text>
+<text bbox="225.478,246.393,236.187,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">t</text>
+<text bbox="236.187,246.393,246.223,278.457" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064"> </text>
+</textline>
+<textline bbox="58.200,211.818,220.130,243.858" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">approaches </textline>
+</normal_text>
+<normal_text bbox="31.200,168.261,172.423,206.661" id="1" size="38.4">&#8226; Provide  <textline bbox="31.200,168.261,172.423,206.661">&#8226; Provide  <text bbox="31.200,168.261,48.672,206.661" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
+<text bbox="58.200,169.578,75.854,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">P</text>
+<text bbox="75.854,169.578,87.388,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">r</text>
+<text bbox="87.292,169.578,104.690,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">o</text>
+<text bbox="104.466,169.578,120.422,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">v</text>
+<text bbox="120.422,169.578,127.759,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">i</text>
+<text bbox="127.759,169.578,145.477,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">d</text>
+<text bbox="145.541,169.578,162.394,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">e</text>
+<text bbox="162.394,169.578,172.423,201.618" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="58.200,135.013,309.614,167.077" id="2" size="32.064">recommendations <textline bbox="58.200,135.013,309.614,167.077" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.064">recommendations </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
+<title archetypal_index="0" bbox="25.200,289.634,239.014,439.323" id="0" size="44.048">Critical  
+Evaluation  
+Matrix <textline bbox="25.200,395.259,169.774,439.323" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.064">Critical  </textline>
+<textline bbox="25.200,342.434,239.014,386.474" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Evaluation  </textline>
+<textline bbox="25.200,289.634,144.725,333.674" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Matrix </textline>
+</title>
+<curvetext bbox="372.840,442.852,559.179,473.692" id="1" size="14.04">Integrated Report, 303d/305b  
+Documents <textline bbox="372.840,459.652,559.179,473.692" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Integrated Report, 303d/305b  </textline>
+<textline bbox="428.520,442.852,499.478,456.892" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Documents </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="430.730,384.000,505.394,396.000" id="2" size="12.0">Questionnaire <textline bbox="430.730,384.000,505.394,396.000" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="12.000">Questionnaire </textline>
+</normal_text>
+<curvetext bbox="400.510,317.712,531.587,331.752" id="3" size="14.04">Telephone Interviews <textline bbox="400.510,317.712,531.587,331.752" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Telephone Interviews </textline>
+</curvetext>
+<normal_text archetypal_index="2" bbox="409.970,223.662,525.926,254.502" id="4" size="14.04">Critical Evaluation  
+Matrix <textline bbox="409.970,240.462,525.926,254.502" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Critical Evaluation  </textline>
+<textline bbox="447.050,223.662,485.253,237.702" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Matrix </textline>
+</normal_text>
+<curvetext bbox="372.550,141.652,575.465,172.531" id="5" size="14.052">To States for Quality Assurance/  
+Changes for 2006 <textline bbox="372.550,158.467,575.465,172.531" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.064">To States for Quality Assurance/  </textline>
+<textline bbox="416.470,141.652,527.807,155.692" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Changes for 2006 </textline>
+</curvetext>
+<normal_text archetypal_index="3" bbox="419.500,59.860,526.808,90.743" id="6" size="14.052">Revised Critical  
+Evaluation Matrix <textline bbox="424.420,76.679,525.625,90.743" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.064">Revised Critical  </textline>
+<textline bbox="419.500,59.860,526.808,73.900" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="14.040">Evaluation Matrix </textline>
+</normal_text>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.1.jpg" width="720">
+</background>
+<rect bbox="397.320,208.080,532.320,268.920" linewidth="0" />
+<rect bbox="395.070,205.830,534.570,271.170" linewidth="0" />
+<rect bbox="397.770,208.530,531.870,268.470" linewidth="0" />
+<rect bbox="398.670,209.430,530.970,267.570" linewidth="0" />
+<rect bbox="399.570,210.330,530.070,266.670" linewidth="0" />
+<curve bbox="303.960,425.640,624.000,493.080" linewidth="0" pts="303.960,459.360,303.960,477.980,375.600,493.080,463.980,493.080,552.360,493.080,624.000,477.980,624.000,459.360,624.000,440.740,552.360,425.640,463.980,425.640,375.600,425.640,303.960,440.740,303.960,459.360" />
+<curve bbox="301.700,423.390,626.260,495.330" linewidth="0" pts="301.730,459.090,301.700,459.270,301.700,459.450,301.730,459.630,301.940,461.360,301.960,461.530,302.000,461.690,302.050,461.850,302.670,463.570,302.720,463.710,302.780,463.850,302.860,463.970,303.880,465.660,303.940,465.760,304.010,465.860,304.090,465.950,305.490,467.610,307.480,469.450,309.810,471.190,312.480,472.870,315.480,474.470,318.790,476.020,322.420,477.510,326.350,478.960,330.590,480.350,335.110,481.690,339.920,482.980,345.000,484.220,350.340,485.400,355.940,486.530,361.790,487.590,367.870,488.600,374.180,489.550,380.710,490.430,387.430,491.240,394.360,491.990,401.480,492.670,408.770,493.270,416.240,493.810,423.860,494.260,431.620,494.640,439.530,494.940,447.560,495.160,463.960,495.330,480.370,495.160,488.410,494.940,496.310,494.650,504.080,494.260,511.700,493.810,519.160,493.280,526.450,492.670,533.570,492.000,540.500,491.240,547.230,490.430,553.750,489.550,560.060,488.610,566.140,487.600,571.980,486.530,577.580,485.410,582.910,484.230,587.990,483.000,592.790,481.710,597.310,480.370,601.540,478.980,605.460,477.550,609.080,476.060,612.370,474.520,615.350,472.940,618.000,471.300,620.300,469.600,622.270,467.820,623.870,465.950,623.950,465.860,624.020,465.760,624.080,465.660,625.100,463.970,625.180,463.850,625.240,463.710,625.290,463.570,625.910,461.850,625.960,461.690,626.000,461.530,626.020,461.360,626.230,459.630,626.260,459.450,626.260,459.270,626.230,459.090,626.020,457.360,626.000,457.190,625.960,457.030,625.910,456.870,625.290,455.150,625.240,455.010,625.180,454.870,625.100,454.750,624.080,453.060,624.020,452.960,623.950,452.860,623.870,452.770,622.470,451.110,620.480,449.270,618.150,447.530,615.480,445.850,612.480,444.250,609.170,442.700,605.540,441.210,601.610,439.760,597.370,438.370,592.850,437.030,588.040,435.740,582.960,434.500,577.620,433.310,572.020,432.190,566.180,431.120,560.090,430.120,553.780,429.170,547.260,428.290,540.530,427.470,533.600,426.730,526.480,426.050,519.190,425.450,511.730,424.910,504.110,424.450,496.340,424.080,488.430,423.780,480.410,423.560,464.000,423.390,447.600,423.560,439.550,423.780,431.650,424.070,423.880,424.450,416.260,424.910,408.800,425.440,401.510,426.050,394.390,426.720,387.460,427.470,380.730,428.290,374.210,429.170,367.910,430.110,361.830,431.120,355.980,432.190,350.390,433.300,345.040,434.490,339.970,435.720,335.170,437.010,330.650,438.350,326.430,439.730,322.500,441.180,318.890,442.650,315.580,444.200,312.610,445.780,309.960,447.420,307.660,449.120,305.690,450.900,304.090,452.770,304.010,452.860,303.940,452.960,303.880,453.060,302.860,454.750,302.780,454.870,302.720,455.010,302.670,455.150,302.050,456.870,302.000,457.030,301.960,457.190,301.940,457.360,304.610,457.730,305.190,456.100,306.170,454.490,307.510,452.900,309.270,451.290,311.390,449.710,313.880,448.160,316.730,446.640,319.910,445.150,323.430,443.710,327.270,442.300,331.420,440.940,335.870,439.620,340.610,438.350,345.630,437.130,350.920,435.950,356.470,434.840,362.270,433.780,368.310,432.780,374.570,431.850,381.060,430.970,387.750,430.150,394.650,429.410,401.730,428.740,408.990,428.140,416.430,427.600,424.010,427.150,431.750,426.770,439.620,426.480,447.630,426.260,463.980,426.090,480.330,426.260,488.330,426.480,496.210,426.770,503.940,427.150,511.540,427.600,518.960,428.140,526.220,428.740,533.310,429.410,540.200,430.150,546.900,430.970,553.380,431.850,559.650,432.780,565.690,433.780,571.490,434.840,577.030,435.950,582.320,437.120,587.340,438.340,592.080,439.620,596.530,440.930,600.680,442.290,604.520,443.700,608.030,445.140,611.210,446.630,614.050,448.150,616.540,449.690,618.660,451.260,620.410,452.860,621.790,454.490,622.770,456.100,623.350,457.730,623.550,459.360,623.350,460.990,622.770,462.620,621.790,464.230,620.450,465.820,618.690,467.430,616.570,469.010,614.080,470.560,611.230,472.080,608.050,473.560,604.530,475.010,600.690,476.420,596.540,477.780,592.090,479.100,587.350,480.370,582.330,481.590,577.040,482.760,571.490,483.880,565.700,484.930,559.660,485.940,553.390,486.870,546.910,487.750,540.210,488.560,533.310,489.310,526.230,489.980,518.970,490.580,511.540,491.120,503.950,491.570,496.210,491.950,488.340,492.240,480.340,492.460,463.980,492.630,447.630,492.460,439.630,492.240,431.750,491.950,424.020,491.570,416.430,491.120,409.000,490.580,401.740,489.980,394.650,489.310,387.760,488.560,381.070,487.750,374.580,486.870,368.320,485.940,362.280,484.930,356.470,483.880,350.920,482.760,345.640,481.600,340.620,480.380,335.880,479.100,331.430,477.790,327.280,476.420,323.440,475.020,319.930,473.570,316.750,472.090,313.910,470.570,311.420,469.030,309.300,467.460,307.550,465.860,306.170,464.230,305.190,462.620,304.610,460.990,304.410,459.360,305.320,459.360,305.490,460.780,306.010,462.230,306.900,463.710,308.240,465.280,309.910,466.790,311.960,468.300,314.390,469.810,317.170,471.290,320.310,472.750,323.790,474.180,327.590,475.570,331.710,476.930,336.140,478.240,340.850,479.510,345.850,480.720,351.120,481.880,356.650,483.000,362.440,484.050,368.460,485.050,374.710,485.980,381.190,486.860,387.870,487.670,394.750,488.420,401.820,489.090,409.070,489.690,416.500,490.220,424.070,490.670,431.800,491.050,439.660,491.340,447.660,491.560,463.990,491.730,480.330,491.560,488.310,491.340,496.180,491.050,503.900,490.670,511.490,490.220,518.900,489.690,526.160,489.090,533.230,488.410,540.110,487.670,546.800,486.860,553.270,485.980,559.530,485.050,565.550,484.050,571.330,482.990,576.870,481.880,582.140,480.710,587.140,479.500,591.860,478.230,596.290,476.920,600.410,475.560,604.220,474.160,607.710,472.730,610.850,471.260,613.650,469.760,616.090,468.240,618.160,466.710,619.840,465.160,621.060,463.710,621.950,462.230,622.470,460.780,622.640,459.360,622.470,457.940,621.950,456.490,621.060,455.010,619.720,453.440,618.050,451.930,616.000,450.420,613.570,448.910,610.790,447.430,607.650,445.960,604.180,444.540,600.370,443.140,596.250,441.790,591.820,440.480,587.110,439.210,582.110,438.000,576.840,436.830,571.310,435.720,565.530,434.660,559.510,433.670,553.250,432.740,546.780,431.860,540.090,431.050,533.210,430.300,526.140,429.630,518.890,429.030,511.470,428.500,503.890,428.050,496.160,427.670,488.300,427.380,480.310,427.160,463.970,426.990,447.640,427.160,439.650,427.380,431.780,427.670,424.060,428.050,416.480,428.500,409.060,429.030,401.800,429.630,394.730,430.310,387.850,431.050,381.170,431.860,374.690,432.740,368.440,433.670,362.420,434.670,356.630,435.730,351.090,436.830,345.830,438.010,340.820,439.220,336.100,440.490,331.670,441.800,327.550,443.150,323.740,444.550,320.250,445.980,317.110,447.460,314.310,448.960,311.870,450.480,309.800,452.010,308.120,453.560,306.900,455.010,306.010,456.490,305.490,457.940,306.370,458.150,306.830,456.880,307.640,455.540,308.720,454.230,310.340,452.740,312.340,451.240,314.730,449.750,317.490,448.270,320.590,446.820,324.050,445.400,327.830,444.010,331.930,442.660,336.340,441.360,341.030,440.100,346.020,438.880,351.270,437.720,356.790,436.610,362.560,435.550,368.580,434.560,374.810,433.630,381.280,432.760,387.950,431.940,394.820,431.200,401.880,430.530,409.120,429.930,416.540,429.400,424.100,428.940,431.810,428.570,439.670,428.280,447.650,428.060,463.960,427.890,480.280,428.060,488.260,428.280,496.120,428.570,503.830,428.940,511.410,429.400,518.810,429.930,526.050,430.530,533.110,431.200,539.980,431.940,546.660,432.750,553.120,433.630,559.360,434.560,565.360,435.550,571.130,436.610,576.640,437.710,581.900,438.870,586.880,440.080,591.570,441.340,595.970,442.640,600.060,443.980,603.830,445.370,607.270,446.770,610.360,448.220,613.100,449.680,615.470,451.140,617.440,452.590,619.030,454.020,620.320,455.540,621.130,456.880,621.590,458.150,621.730,459.360,621.590,460.570,621.130,461.840,620.320,463.180,619.240,464.490,617.620,465.980,615.620,467.480,613.230,468.970,610.470,470.450,607.360,471.900,603.910,473.320,600.130,474.710,596.030,476.060,591.620,477.360,586.930,478.620,581.940,479.840,576.690,481.000,571.170,482.110,565.400,483.160,559.390,484.160,553.150,485.090,546.690,485.960,540.010,486.770,533.140,487.520,526.080,488.190,518.840,488.790,511.430,489.320,503.860,489.770,496.150,490.150,488.290,490.440,480.320,490.660,464.000,490.830,447.680,490.660,439.700,490.440,431.840,490.150,424.120,489.770,416.560,489.320,409.150,488.790,401.910,488.190,394.850,487.520,387.980,486.770,381.310,485.970,374.850,485.090,368.610,484.160,362.600,483.160,356.830,482.110,351.310,481.010,346.060,479.850,341.080,478.640,336.390,477.380,331.990,476.080,327.900,474.730,324.130,473.350,320.690,471.940,317.600,470.500,314.860,469.040,312.490,467.580,310.520,466.130,308.930,464.700,307.640,463.180,306.830,461.840,306.370,460.570,306.230,459.360" />
+<curve bbox="395.040,400.200,435.000,427.200" linewidth="0" pts="395.040,427.200,407.690,422.700,420.350,418.200,427.010,413.700,433.670,409.200,435.000,404.700,435.000,400.200" />
+<curve bbox="497.520,400.200,529.560,427.200" linewidth="0" pts="529.560,427.200,519.410,422.700,509.270,418.200,503.930,413.700,498.590,409.200,497.520,404.700,497.520,400.200" />
+<curve bbox="465.730,361.800,471.720,374.180" linewidth="2" pts="468.980,374.180,469.270,366.820,468.270,366.780,467.980,374.140,471.720,367.910,468.960,361.800,465.730,367.680" />
+<curve bbox="306.000,292.080,626.040,359.640" linewidth="2" pts="306.000,325.860,306.000,344.520,377.640,359.640,466.020,359.640,554.400,359.640,626.040,344.520,626.040,325.860,626.040,307.200,554.400,292.080,466.020,292.080,377.640,292.080,306.000,307.200,306.000,325.860" />
+<curve bbox="303.740,289.830,628.300,361.890" linewidth="2" pts="303.770,325.590,303.740,325.770,303.740,325.950,303.770,326.130,303.980,327.870,304.000,328.040,304.040,328.200,304.090,328.360,304.710,330.070,304.760,330.210,304.820,330.340,304.900,330.470,305.920,332.170,305.980,332.270,306.050,332.360,306.120,332.450,307.530,334.120,309.530,335.960,311.850,337.710,314.520,339.380,317.510,340.990,320.830,342.540,324.450,344.040,328.390,345.490,332.630,346.880,337.150,348.230,341.960,349.520,347.040,350.760,352.380,351.940,357.980,353.070,363.830,354.140,369.910,355.150,376.220,356.100,382.750,356.980,389.470,357.790,396.400,358.550,403.520,359.220,410.810,359.830,418.280,360.360,425.890,360.820,433.660,361.200,441.570,361.500,449.600,361.720,466.000,361.890,482.410,361.720,490.450,361.500,498.360,361.200,506.120,360.820,513.740,360.360,521.200,359.840,528.490,359.230,535.610,358.550,542.540,357.800,549.270,356.980,555.790,356.100,562.100,355.150,568.180,354.140,574.020,353.080,579.620,351.950,584.960,350.770,590.030,349.530,594.830,348.250,599.350,346.900,603.580,345.510,607.500,344.080,611.120,342.580,614.410,341.050,617.390,339.450,620.040,337.810,622.340,336.100,624.300,334.340,625.920,332.450,625.990,332.360,626.060,332.270,626.120,332.170,627.140,330.470,627.220,330.340,627.280,330.210,627.330,330.070,627.950,328.360,628.000,328.200,628.040,328.040,628.060,327.870,628.270,326.130,628.300,325.950,628.300,325.770,628.270,325.590,628.060,323.850,628.040,323.680,628.000,323.520,627.950,323.360,627.330,321.640,627.280,321.500,627.220,321.370,627.140,321.240,626.120,319.550,626.060,319.450,625.990,319.360,625.920,319.270,624.510,317.600,622.520,315.750,620.190,314.010,617.520,312.330,614.520,310.730,611.210,309.170,607.580,307.680,603.650,306.230,599.410,304.840,594.890,303.490,590.080,302.200,585.000,300.960,579.660,299.780,574.060,298.650,568.220,297.580,562.130,296.570,555.820,295.620,549.300,294.740,542.560,293.930,535.640,293.170,528.520,292.500,521.230,291.890,513.770,291.350,506.140,290.900,498.380,290.520,490.470,290.220,482.450,290.000,466.040,289.830,449.640,290.000,441.590,290.220,433.690,290.510,425.920,290.900,418.310,291.350,410.840,291.880,403.550,292.490,396.430,293.170,389.500,293.920,382.780,294.740,376.250,295.620,369.950,296.570,363.870,297.570,358.020,298.640,352.420,299.770,347.090,300.950,342.010,302.190,337.210,303.470,332.690,304.820,328.470,306.200,324.540,307.650,320.920,309.130,317.620,310.670,314.650,312.260,312.000,313.900,309.700,315.610,307.730,317.390,306.120,319.270,306.050,319.350,305.980,319.450,305.920,319.550,304.900,321.240,304.820,321.370,304.760,321.500,304.710,321.640,304.090,323.360,304.040,323.520,304.000,323.680,303.980,323.850,306.650,324.220,307.230,322.600,308.210,320.980,309.550,319.380,311.310,317.780,313.430,316.190,315.920,314.640,318.770,313.120,321.950,311.630,325.470,310.180,329.310,308.770,333.460,307.410,337.910,306.080,342.650,304.810,347.670,303.580,352.960,302.410,358.510,301.300,364.310,300.230,370.350,299.240,376.610,298.290,383.100,297.420,389.790,296.610,396.690,295.860,403.770,295.180,411.030,294.580,418.470,294.040,426.050,293.590,433.790,293.210,441.660,292.920,449.670,292.700,466.020,292.530,482.370,292.700,490.370,292.920,498.250,293.210,505.980,293.590,513.580,294.040,521.000,294.580,528.260,295.180,535.350,295.860,542.240,296.610,548.940,297.420,555.420,298.290,561.690,299.240,567.730,300.230,573.530,301.300,579.080,302.410,584.360,303.580,589.380,304.810,594.120,306.080,598.570,307.400,602.720,308.760,606.560,310.170,610.070,311.620,613.250,313.110,616.090,314.620,618.580,316.170,620.700,317.750,622.450,319.340,623.830,320.980,624.810,322.600,625.390,324.220,625.590,325.860,625.390,327.500,624.810,329.120,623.830,330.740,622.490,332.340,620.730,333.940,618.610,335.520,616.110,337.070,613.270,338.600,610.090,340.080,606.570,341.540,602.730,342.950,598.580,344.310,594.130,345.640,589.390,346.910,584.370,348.130,579.080,349.310,573.530,350.420,567.740,351.480,561.700,352.480,555.430,353.430,548.950,354.300,542.250,355.110,535.350,355.860,528.270,356.540,521.010,357.140,513.580,357.670,505.990,358.130,498.250,358.500,490.380,358.800,482.380,359.020,466.020,359.190,449.670,359.020,441.670,358.800,433.790,358.500,426.060,358.130,418.470,357.670,411.040,357.140,403.780,356.540,396.690,355.860,389.800,355.110,383.110,354.300,376.620,353.430,370.360,352.480,364.320,351.480,358.510,350.420,352.970,349.310,347.680,348.130,342.660,346.910,337.920,345.640,333.470,344.320,329.320,342.950,325.480,341.550,321.970,340.090,318.790,338.610,315.950,337.090,313.460,335.540,311.340,333.960,309.590,332.380,308.210,330.740,307.230,329.120,306.650,327.500,306.450,325.860,307.360,325.860,307.530,327.290,308.050,328.730,308.950,330.220,310.280,331.800,311.950,333.300,314.000,334.820,316.430,336.320,319.220,337.820,322.350,339.280,325.830,340.720,329.630,342.100,333.750,343.460,338.180,344.780,342.890,346.040,347.890,347.260,353.160,348.430,358.690,349.540,364.480,350.590,370.500,351.600,376.750,352.540,383.230,353.410,389.910,354.220,396.790,354.970,403.860,355.640,411.110,356.250,418.530,356.770,426.110,357.230,433.840,357.600,441.700,357.900,449.700,358.120,466.030,358.290,482.370,358.120,490.350,357.900,498.220,357.600,505.940,357.230,513.530,356.770,520.940,356.250,528.190,355.640,535.270,354.970,542.150,354.220,548.840,353.410,555.310,352.530,561.560,351.590,567.590,350.590,573.370,349.540,578.910,348.420,584.170,347.250,589.180,346.040,593.900,344.770,598.330,343.450,602.450,342.090,606.260,340.690,609.740,339.250,612.890,337.780,615.690,336.280,618.130,334.760,620.190,333.220,621.880,331.670,623.090,330.220,623.990,328.730,624.510,327.290,624.680,325.860,624.510,324.430,623.990,322.990,623.090,321.500,621.760,319.920,620.090,318.410,618.040,316.890,615.610,315.390,612.830,313.900,609.690,312.440,606.210,311.010,602.410,309.610,598.290,308.260,593.860,306.940,589.150,305.680,584.150,304.450,578.880,303.290,573.350,302.180,567.570,301.120,561.550,300.120,555.290,299.180,548.820,298.310,542.130,297.500,535.250,296.750,528.180,296.080,520.930,295.470,513.510,294.940,505.930,294.490,498.200,294.110,490.340,293.820,482.350,293.600,466.010,293.430,449.680,293.600,441.690,293.820,433.820,294.110,426.100,294.490,418.520,294.940,411.100,295.470,403.840,296.080,396.770,296.750,389.890,297.500,383.210,298.310,376.730,299.190,370.480,300.130,364.460,301.120,358.670,302.180,353.130,303.300,347.860,304.460,342.860,305.680,338.140,306.950,333.710,308.270,329.590,309.620,325.780,311.020,322.290,312.460,319.150,313.940,316.350,315.430,313.910,316.960,311.850,318.500,310.160,320.050,308.950,321.500,308.050,322.990,307.530,324.430,308.410,324.640,308.870,323.370,309.680,322.030,310.760,320.710,312.380,319.220,314.380,317.720,316.770,316.230,319.530,314.750,322.640,313.290,326.090,311.870,329.870,310.480,333.970,309.130,338.380,307.820,343.070,306.560,348.060,305.340,353.310,304.180,358.830,303.070,364.600,302.010,370.620,301.020,376.850,300.080,383.320,299.200,389.990,298.400,396.860,297.650,403.920,296.980,411.160,296.370,418.570,295.840,426.140,295.390,433.850,295.010,441.710,294.720,449.690,294.500,466.000,294.330,482.320,294.500,490.300,294.720,498.160,295.010,505.880,295.390,513.450,295.840,520.850,296.370,528.090,296.970,535.150,297.650,542.030,298.390,548.700,299.200,555.150,300.070,561.400,301.010,567.400,302.000,573.170,303.060,578.690,304.170,583.930,305.330,588.920,306.550,593.610,307.800,598.010,309.110,602.100,310.450,605.870,311.840,609.310,313.250,612.400,314.700,615.140,316.150,617.500,317.610,619.480,319.080,621.070,320.500,622.360,322.030,623.170,323.370,623.630,324.640,623.770,325.860,623.630,327.080,623.170,328.340,622.360,329.690,621.280,331.000,619.660,332.490,617.660,333.990,615.260,335.490,612.510,336.970,609.400,338.420,605.950,339.850,602.170,341.240,598.070,342.590,593.660,343.900,588.970,345.160,583.980,346.370,578.730,347.540,573.210,348.650,567.440,349.700,561.430,350.700,555.190,351.640,548.730,352.520,542.050,353.320,535.180,354.070,528.120,354.740,520.880,355.350,513.470,355.870,505.900,356.330,498.180,356.700,490.330,357.000,482.360,357.220,466.040,357.390,449.720,357.220,441.740,357.000,433.880,356.700,426.170,356.330,418.600,355.870,411.190,355.350,403.950,354.750,396.890,354.070,390.020,353.330,383.350,352.520,376.890,351.650,370.650,350.710,364.640,349.710,358.870,348.660,353.360,347.550,348.100,346.380,343.120,345.170,338.430,343.920,334.030,342.610,329.940,341.260,326.170,339.880,322.730,338.460,319.640,337.020,316.900,335.560,314.540,334.100,312.550,332.630,310.970,331.220,309.680,329.690,308.870,328.340,308.410,327.080,308.270,325.860" />
+<curve bbox="395.520,267.360,435.480,294.360" linewidth="0" pts="395.520,294.360,408.170,289.860,420.830,285.360,427.490,280.860,434.150,276.360,435.480,271.860,435.480,267.360" />
+<curve bbox="498.000,267.360,530.040,294.360" linewidth="0" pts="530.040,294.360,519.890,289.860,509.750,285.360,504.410,280.860,499.070,276.360,498.000,271.860,498.000,267.360" />
+<curve bbox="312.000,124.440,632.040,192.000" linewidth="0" pts="312.000,158.220,312.000,176.880,383.640,192.000,472.020,192.000,560.400,192.000,632.040,176.880,632.040,158.220,632.040,139.560,560.400,124.440,472.020,124.440,383.640,124.440,312.000,139.560,312.000,158.220" />
+<curve bbox="309.740,122.190,634.300,194.250" linewidth="0" pts="309.770,157.950,309.740,158.130,309.740,158.310,309.770,158.490,309.980,160.230,310.000,160.400,310.040,160.560,310.090,160.720,310.710,162.430,310.760,162.570,310.820,162.700,310.900,162.830,311.920,164.530,311.980,164.630,312.050,164.720,312.120,164.810,313.530,166.480,315.530,168.320,317.850,170.070,320.520,171.740,323.510,173.350,326.830,174.900,330.450,176.400,334.390,177.850,338.630,179.240,343.150,180.590,347.960,181.880,353.040,183.120,358.380,184.300,363.980,185.430,369.830,186.500,375.910,187.510,382.220,188.460,388.750,189.340,395.470,190.150,402.400,190.910,409.520,191.580,416.810,192.190,424.280,192.720,431.890,193.180,439.660,193.560,447.570,193.860,455.600,194.080,472.000,194.250,488.410,194.080,496.450,193.860,504.360,193.560,512.120,193.180,519.740,192.720,527.200,192.200,534.490,191.590,541.610,190.910,548.540,190.160,555.270,189.340,561.790,188.460,568.100,187.510,574.180,186.500,580.020,185.440,585.620,184.310,590.960,183.130,596.030,181.890,600.830,180.610,605.350,179.260,609.580,177.870,613.500,176.440,617.120,174.940,620.410,173.410,623.390,171.810,626.040,170.170,628.340,168.460,630.300,166.700,631.920,164.810,631.990,164.720,632.060,164.630,632.120,164.530,633.140,162.830,633.220,162.700,633.280,162.570,633.330,162.430,633.950,160.720,634.000,160.560,634.040,160.400,634.060,160.230,634.270,158.490,634.300,158.310,634.300,158.130,634.270,157.950,634.060,156.210,634.040,156.040,634.000,155.880,633.950,155.720,633.330,154.000,633.280,153.860,633.220,153.730,633.140,153.600,632.120,151.910,632.060,151.810,631.990,151.720,631.920,151.630,630.510,149.960,628.520,148.110,626.190,146.370,623.520,144.690,620.520,143.090,617.210,141.530,613.580,140.040,609.650,138.590,605.410,137.200,600.890,135.850,596.080,134.560,591.000,133.320,585.660,132.140,580.060,131.010,574.220,129.940,568.130,128.930,561.820,127.980,555.300,127.100,548.560,126.290,541.640,125.530,534.520,124.860,527.230,124.250,519.770,123.710,512.140,123.260,504.380,122.880,496.470,122.580,488.450,122.360,472.040,122.190,455.640,122.360,447.590,122.580,439.690,122.870,431.920,123.260,424.310,123.710,416.840,124.240,409.550,124.850,402.430,125.530,395.500,126.280,388.780,127.100,382.250,127.980,375.950,128.930,369.870,129.930,364.020,131.000,358.420,132.130,353.090,133.310,348.010,134.550,343.210,135.830,338.690,137.180,334.470,138.560,330.540,140.010,326.920,141.490,323.620,143.030,320.650,144.620,318.000,146.260,315.700,147.970,313.730,149.750,312.120,151.630,312.050,151.720,311.980,151.810,311.920,151.910,310.900,153.600,310.820,153.730,310.760,153.860,310.710,154.000,310.090,155.720,310.040,155.880,310.000,156.040,309.980,156.210,312.650,156.580,313.230,154.960,314.210,153.340,315.550,151.740,317.310,150.140,319.430,148.550,321.920,147.000,324.770,145.480,327.950,143.990,331.470,142.540,335.310,141.130,339.460,139.770,343.910,138.440,348.650,137.170,353.670,135.940,358.960,134.770,364.510,133.660,370.310,132.590,376.350,131.600,382.610,130.650,389.100,129.780,395.790,128.970,402.690,128.220,409.770,127.540,417.030,126.940,424.470,126.400,432.050,125.950,439.790,125.570,447.660,125.280,455.670,125.060,472.020,124.890,488.370,125.060,496.370,125.280,504.250,125.570,511.980,125.950,519.580,126.400,527.000,126.940,534.260,127.540,541.350,128.220,548.240,128.970,554.940,129.780,561.420,130.650,567.690,131.600,573.730,132.590,579.530,133.660,585.080,134.770,590.360,135.940,595.380,137.170,600.120,138.440,604.570,139.760,608.720,141.120,612.560,142.530,616.070,143.980,619.250,145.470,622.090,146.980,624.580,148.530,626.700,150.110,628.450,151.700,629.830,153.340,630.810,154.960,631.390,156.580,631.590,158.220,631.390,159.860,630.810,161.480,629.830,163.100,628.490,164.700,626.730,166.300,624.610,167.880,622.110,169.430,619.270,170.960,616.090,172.440,612.570,173.900,608.730,175.310,604.580,176.670,600.130,178.000,595.390,179.270,590.370,180.490,585.080,181.670,579.530,182.780,573.740,183.840,567.700,184.840,561.430,185.790,554.950,186.660,548.250,187.470,541.350,188.220,534.270,188.900,527.010,189.500,519.580,190.030,511.990,190.490,504.250,190.860,496.380,191.160,488.380,191.380,472.020,191.550,455.670,191.380,447.670,191.160,439.790,190.860,432.060,190.490,424.470,190.030,417.040,189.500,409.780,188.900,402.690,188.220,395.800,187.470,389.110,186.660,382.620,185.790,376.360,184.840,370.320,183.840,364.510,182.780,358.970,181.670,353.680,180.490,348.660,179.270,343.920,178.000,339.470,176.680,335.320,175.310,331.480,173.910,327.970,172.450,324.790,170.970,321.950,169.450,319.460,167.900,317.340,166.320,315.590,164.740,314.210,163.100,313.230,161.480,312.650,159.860,312.450,158.220,313.360,158.220,313.530,159.650,314.050,161.090,314.950,162.580,316.280,164.160,317.950,165.660,320.000,167.180,322.430,168.680,325.220,170.180,328.350,171.640,331.830,173.080,335.630,174.460,339.750,175.820,344.180,177.140,348.890,178.400,353.890,179.620,359.160,180.790,364.690,181.900,370.480,182.950,376.500,183.960,382.750,184.900,389.230,185.770,395.910,186.580,402.790,187.330,409.860,188.000,417.110,188.610,424.530,189.130,432.110,189.590,439.840,189.960,447.700,190.260,455.700,190.480,472.030,190.650,488.370,190.480,496.350,190.260,504.220,189.960,511.940,189.590,519.530,189.130,526.940,188.610,534.190,188.000,541.270,187.330,548.150,186.580,554.840,185.770,561.310,184.890,567.560,183.950,573.590,182.950,579.370,181.900,584.910,180.780,590.170,179.610,595.180,178.400,599.900,177.130,604.330,175.810,608.450,174.450,612.260,173.050,615.740,171.610,618.890,170.140,621.690,168.640,624.130,167.120,626.190,165.580,627.880,164.030,629.090,162.580,629.990,161.090,630.510,159.650,630.680,158.220,630.510,156.790,629.990,155.350,629.090,153.860,627.760,152.280,626.090,150.770,624.040,149.250,621.610,147.750,618.830,146.260,615.690,144.800,612.210,143.370,608.410,141.970,604.290,140.620,599.860,139.300,595.150,138.040,590.150,136.810,584.880,135.650,579.350,134.540,573.570,133.480,567.550,132.480,561.290,131.540,554.820,130.670,548.130,129.860,541.250,129.110,534.180,128.440,526.930,127.830,519.510,127.300,511.930,126.850,504.200,126.470,496.340,126.180,488.350,125.960,472.010,125.790,455.680,125.960,447.690,126.180,439.820,126.470,432.100,126.850,424.520,127.300,417.100,127.830,409.840,128.440,402.770,129.110,395.890,129.860,389.210,130.670,382.730,131.550,376.480,132.490,370.460,133.480,364.670,134.540,359.130,135.660,353.860,136.820,348.860,138.040,344.140,139.310,339.710,140.630,335.590,141.980,331.780,143.380,328.290,144.820,325.150,146.300,322.350,147.790,319.910,149.320,317.850,150.860,316.160,152.410,314.950,153.860,314.050,155.350,313.530,156.790,314.410,157.000,314.870,155.730,315.680,154.390,316.760,153.070,318.380,151.580,320.380,150.080,322.770,148.590,325.530,147.110,328.640,145.650,332.090,144.230,335.870,142.840,339.970,141.490,344.380,140.180,349.070,138.920,354.060,137.700,359.310,136.540,364.830,135.430,370.600,134.370,376.620,133.380,382.850,132.440,389.320,131.560,395.990,130.760,402.860,130.010,409.920,129.340,417.160,128.730,424.570,128.200,432.140,127.750,439.850,127.370,447.710,127.080,455.690,126.860,472.000,126.690,488.320,126.860,496.300,127.080,504.160,127.370,511.880,127.750,519.450,128.200,526.850,128.730,534.090,129.330,541.150,130.010,548.030,130.750,554.700,131.560,561.150,132.430,567.400,133.370,573.400,134.360,579.170,135.420,584.690,136.530,589.930,137.690,594.920,138.910,599.610,140.160,604.010,141.470,608.100,142.810,611.870,144.200,615.310,145.610,618.400,147.060,621.140,148.510,623.500,149.970,625.480,151.440,627.070,152.860,628.360,154.390,629.170,155.730,629.630,157.000,629.770,158.220,629.630,159.440,629.170,160.700,628.360,162.050,627.280,163.360,625.650,164.850,623.660,166.350,621.260,167.850,618.510,169.330,615.400,170.780,611.950,172.210,608.170,173.600,604.070,174.950,599.660,176.260,594.970,177.520,589.980,178.730,584.730,179.900,579.210,181.010,573.440,182.060,567.430,183.060,561.190,184.000,554.730,184.880,548.050,185.680,541.180,186.430,534.120,187.100,526.880,187.710,519.470,188.230,511.900,188.690,504.180,189.060,496.330,189.360,488.360,189.580,472.040,189.750,455.720,189.580,447.740,189.360,439.880,189.060,432.170,188.690,424.600,188.230,417.190,187.710,409.950,187.110,402.890,186.430,396.020,185.690,389.350,184.880,382.890,184.010,376.650,183.070,370.640,182.070,364.870,181.020,359.360,179.910,354.100,178.740,349.120,177.530,344.430,176.280,340.030,174.970,335.940,173.620,332.170,172.240,328.730,170.820,325.640,169.390,322.900,167.920,320.540,166.460,318.550,164.990,316.970,163.580,315.680,162.050,314.870,160.700,314.410,159.440,314.270,158.220" />
+<curve bbox="460.810,192.240,466.800,204.620" linewidth="0" pts="464.060,204.620,464.350,197.260,463.350,197.220,463.060,204.580,466.800,198.350,464.040,192.240,460.810,198.120" />
+<curve bbox="404.520,99.120,444.480,126.120" linewidth="0" pts="404.520,126.120,417.170,121.620,429.830,117.120,436.490,112.620,443.150,108.120,444.480,103.620,444.480,99.120" />
+<curve bbox="507.000,99.120,539.040,126.120" linewidth="0" pts="539.040,126.120,528.890,121.620,518.750,117.120,513.410,112.620,508.070,108.120,507.000,103.620,507.000,99.120" />
+<rect bbox="405.960,38.400,540.960,99.120" linewidth="0" />
+<rect bbox="403.710,36.150,543.210,101.370" linewidth="0" />
+<rect bbox="406.410,38.850,540.510,98.670" linewidth="0" />
+<rect bbox="407.310,39.750,539.610,97.770" linewidth="0" />
+<rect bbox="408.210,40.650,538.710,96.870" linewidth="0" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[43.2, 435.964, 393.582, 480.004]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<ref bbox="101.780,274.002,235.233,301.962" id="4" size="27.96">refinement <textline bbox="101.780,274.002,235.233,301.962" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">refinement </textline>
+</ref>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.2.jpg" width="720">
+</background>
+<enlisting archetypal_index="1" bbox="43.2,159.742,668.138,385.001">&#8226; Overall impressions &#8211; States in varying stages of methodology  &#8211; Limited monitoring and assessment resources 
+&#8211; Leadership needed for research, guidance on  <normal_text bbox="43.200,346.601,343.685,385.001" id="1" size="38.4">&#8226; Overall impressions <textline bbox="43.200,346.601,343.685,385.001">&#8226; Overall impressions <text bbox="43.200,346.601,60.672,385.001" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
+<text bbox="70.224,347.918,92.908,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">O</text>
+<text bbox="92.908,347.918,108.864,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">v</text>
+<text bbox="108.640,347.918,125.493,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">e</text>
+<text bbox="125.493,347.918,137.027,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">r</text>
+<text bbox="136.483,347.918,153.304,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">a</text>
+<text bbox="153.304,347.918,160.641,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">l</text>
+<text bbox="160.641,347.918,167.978,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">l</text>
+<text bbox="167.978,347.918,178.007,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040"> </text>
+<text bbox="178.007,347.918,185.344,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">i</text>
+<text bbox="185.344,347.918,212.257,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">m</text>
+<text bbox="212.257,347.918,229.975,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">p</text>
+<text bbox="229.975,347.918,241.510,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">r</text>
+<text bbox="241.350,347.918,258.203,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">e</text>
+<text bbox="258.203,347.918,272.493,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">s</text>
+<text bbox="272.493,347.918,286.782,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">s</text>
+<text bbox="286.782,347.918,294.120,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">i</text>
+<text bbox="294.120,347.918,311.517,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">o</text>
+<text bbox="311.517,347.918,329.396,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">n</text>
+<text bbox="329.396,347.918,343.685,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="32.040">s</text>
+</textline>
+</normal_text>
+<normal_text bbox="79.224,307.602,606.039,335.562" id="2" size="27.96">&#8211; States in varying stages of methodology  <textline bbox="79.224,307.602,606.039,335.562">&#8211; States in varying stages of methodology  <text bbox="79.224,307.602,94.490,335.562" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="1" size="27.960">&#8211;</text>
+<text bbox="101.780,307.602,117.354,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">S</text>
+<text bbox="117.354,307.602,126.692,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="126.692,307.602,141.371,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="141.371,307.602,150.710,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="150.710,307.602,165.417,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="165.417,307.602,177.887,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="177.943,307.602,186.695,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="186.806,307.602,193.209,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="193.209,307.602,208.811,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="208.811,307.602,217.562,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="217.618,307.602,231.542,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">v</text>
+<text bbox="231.067,307.602,245.746,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="245.746,307.602,255.812,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="255.812,307.602,269.736,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">y</text>
+<text bbox="269.736,307.602,276.139,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="276.139,307.602,291.740,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="291.740,307.602,307.202,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">g</text>
+<text bbox="307.202,307.602,315.954,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="316.121,307.602,328.592,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="328.592,307.602,337.930,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="337.930,307.602,352.609,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="352.609,307.602,368.071,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">g</text>
+<text bbox="368.071,307.602,382.778,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="382.778,307.602,395.248,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="395.248,307.602,404.000,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="404.307,307.602,419.489,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="419.489,307.602,428.381,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">f</text>
+<text bbox="428.381,307.602,437.132,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="437.132,307.602,460.619,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">m</text>
+<text bbox="460.675,307.602,475.382,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="475.382,307.602,484.720,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="484.720,307.602,500.322,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">h</text>
+<text bbox="500.322,307.602,515.504,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="515.616,307.602,531.078,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="531.078,307.602,546.260,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="546.260,307.602,552.663,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">l</text>
+<text bbox="552.663,307.602,567.845,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="567.901,307.602,583.363,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">g</text>
+<text bbox="583.363,307.602,597.287,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">y</text>
+<text bbox="597.287,307.602,606.039,335.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="79.224,193.342,668.138,261.622" id="3" size="27.96">&#8211; Limited monitoring and assessment resources 
+&#8211; Leadership needed for research, guidance on  <textline bbox="79.224,233.662,666.264,261.622">&#8211; Limited monitoring and assessment resources <text bbox="79.224,233.662,94.490,261.622" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="1" size="27.960">&#8211;</text>
+<text bbox="101.780,233.662,115.704,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">L</text>
+<text bbox="115.704,233.662,122.107,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="122.107,233.662,145.593,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">m</text>
+<text bbox="145.593,233.662,151.996,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="151.996,233.662,161.335,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="161.335,233.662,176.042,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="176.042,233.662,191.504,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="191.504,233.662,200.255,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="200.255,233.662,223.742,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">m</text>
+<text bbox="223.742,233.662,238.924,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="239.036,233.662,254.637,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="254.637,233.662,261.040,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="261.040,233.662,270.379,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="270.379,233.662,285.561,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="285.561,233.662,295.627,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="295.627,233.662,302.030,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="302.030,233.662,317.631,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="317.631,233.662,333.093,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">g</text>
+<text bbox="333.093,233.662,341.845,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="342.096,233.662,356.775,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="356.775,233.662,372.377,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="372.377,233.662,387.839,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="387.839,233.662,396.590,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="396.674,233.662,411.353,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="411.353,233.662,423.823,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="423.823,233.662,436.293,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="436.293,233.662,451.000,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="451.000,233.662,463.471,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="463.471,233.662,475.941,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="475.941,233.662,499.427,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">m</text>
+<text bbox="499.483,233.662,514.190,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="514.190,233.662,529.792,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="529.792,233.662,539.130,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">t</text>
+<text bbox="539.130,233.662,547.882,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="548.161,233.662,558.227,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="558.115,233.662,572.822,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="572.822,233.662,585.292,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="585.292,233.662,600.475,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="600.558,233.662,616.160,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">u</text>
+<text bbox="616.160,233.662,626.226,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="626.114,233.662,639.003,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">c</text>
+<text bbox="639.003,233.662,653.710,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="653.794,233.662,666.264,261.622" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+</textline>
+<textline bbox="79.224,193.342,668.138,221.302">&#8211; Leadership needed for research, guidance on  <text bbox="79.224,193.342,94.490,221.302" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="1" size="27.960">&#8211;</text>
+<text bbox="101.780,193.342,115.704,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">L</text>
+<text bbox="115.704,193.342,130.411,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="130.411,193.342,145.090,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="145.090,193.342,160.552,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="160.552,193.342,175.259,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="175.259,193.342,185.324,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="185.380,193.342,197.851,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="197.851,193.342,213.452,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">h</text>
+<text bbox="213.452,193.342,219.855,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="219.855,193.342,235.317,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">p</text>
+<text bbox="235.317,193.342,244.068,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="244.264,193.342,259.866,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="259.866,193.342,274.573,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="274.573,193.342,289.280,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="289.364,193.342,304.826,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="304.826,193.342,319.532,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="319.532,193.342,334.994,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="335.050,193.342,343.802,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="343.802,193.342,352.693,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">f</text>
+<text bbox="352.441,193.342,367.624,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="367.624,193.342,377.689,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="377.689,193.342,386.441,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="386.441,193.342,396.506,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="396.506,193.342,411.213,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="411.213,193.342,423.683,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">s</text>
+<text bbox="423.683,193.342,438.390,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="438.446,193.342,453.125,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="453.125,193.342,463.191,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">r</text>
+<text bbox="463.051,193.342,475.941,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">c</text>
+<text bbox="475.941,193.342,491.542,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">h</text>
+<text bbox="491.542,193.342,500.014,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">,</text>
+<text bbox="500.098,193.342,508.850,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="508.850,193.342,524.312,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">g</text>
+<text bbox="524.312,193.342,539.913,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">u</text>
+<text bbox="539.913,193.342,546.316,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">i</text>
+<text bbox="546.316,193.342,561.778,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">d</text>
+<text bbox="561.778,193.342,576.457,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">a</text>
+<text bbox="576.457,193.342,592.059,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="592.059,193.342,604.948,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">c</text>
+<text bbox="604.948,193.342,619.655,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">e</text>
+<text bbox="619.655,193.342,628.407,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+<text bbox="628.602,193.342,643.785,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">o</text>
+<text bbox="643.785,193.342,659.386,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">n</text>
+<text bbox="659.386,193.342,668.138,221.302" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="101.780,159.742,240.434,187.702" id="5" size="27.96">hard issues <textline bbox="101.780,159.742,240.434,187.702" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="27.960">hard issues </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[43.20000000000001, 435.964, 393.58200000000005, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,333.518,550.96,409.05" id="1" size="38.424">&#8226; States with minimum sample size  <textline bbox="43.200,370.626,550.960,409.050">&#8226; States with minimum sample size  <text bbox="43.200,370.626,60.683,409.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="38.424">&#8226;</text>
+<text bbox="70.224,371.943,88.084,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">S</text>
+<text bbox="88.084,371.943,98.793,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="98.793,371.943,115.627,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="115.627,371.943,126.336,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="126.336,371.943,143.202,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="143.202,371.943,157.502,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="157.502,371.943,167.538,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="167.410,371.943,191.201,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">w</text>
+<text bbox="191.201,371.943,198.544,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="198.544,371.943,209.254,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="209.254,371.943,227.145,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+<text bbox="227.145,371.943,237.181,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="237.181,371.943,264.115,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="264.115,371.943,271.458,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="271.458,371.943,289.349,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="289.349,371.943,296.692,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="296.692,371.943,323.626,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="323.626,371.943,341.518,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="341.421,371.943,368.355,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="368.355,371.943,378.391,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="378.391,371.943,392.692,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="392.692,371.943,409.525,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="409.525,371.943,436.459,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="436.331,371.943,454.062,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">p</text>
+<text bbox="454.062,371.943,461.405,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">l</text>
+<text bbox="461.405,371.943,478.270,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="478.270,371.943,488.306,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="488.306,371.943,502.607,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="502.607,371.943,509.950,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="509.950,371.943,524.186,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">z</text>
+<text bbox="524.058,371.943,540.924,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="540.924,371.943,550.960,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+</textline>
+<normal_text bbox="70.224,333.518,256.408,365.558" id="2" size="32.04">requirements <textline bbox="70.224,333.518,256.408,365.558" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.040">requirements </textline>
+</normal_text>
+</enlisting>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.3.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[43.20000000000001, 435.964, 393.58200000000005, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<enlisting archetypal_index="1" bbox="25.200,374.466,542.835,412.890" id="1" size="38.424">&#8226; States using the &#8220;ten-percent rule&#8221; <textline bbox="25.200,374.466,542.835,412.890">&#8226; States using the &#8220;ten-percent rule&#8221; <text bbox="25.200,374.466,42.683,412.890" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="38.424">&#8226;</text>
+<text bbox="52.200,375.783,70.060,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">S</text>
+<text bbox="70.060,375.783,80.769,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="80.769,375.783,97.603,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="97.603,375.783,108.312,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="108.312,375.783,125.178,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="125.178,375.783,139.478,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="139.478,375.783,149.514,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="149.514,375.783,167.406,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="167.406,375.783,181.706,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="181.706,375.783,189.049,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="189.049,375.783,206.941,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="206.941,375.783,224.672,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">g</text>
+<text bbox="224.672,375.783,234.708,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="234.708,375.783,245.418,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="245.418,375.783,263.309,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+<text bbox="263.309,375.783,280.175,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="280.303,375.783,290.339,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="290.339,375.783,303.197,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">&#8220;</text>
+<text bbox="303.197,375.783,313.906,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="313.810,375.783,330.676,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="330.676,375.783,348.568,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="348.430,375.783,360.069,407.847" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">-</text>
+<text bbox="360.070,375.783,377.801,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">p</text>
+<text bbox="377.801,375.783,394.667,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="394.667,375.783,406.210,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">r</text>
+<text bbox="406.210,375.783,420.992,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="420.992,375.783,437.857,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="437.857,375.783,455.749,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="455.749,375.783,466.458,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="466.458,375.783,476.494,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="476.334,375.783,487.877,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">r</text>
+<text bbox="487.877,375.783,505.769,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="505.769,375.783,513.111,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">l</text>
+<text bbox="513.111,375.783,529.977,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="529.977,375.783,542.835,407.847" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">&#8221;</text>
+</textline>
+</enlisting>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.4.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[43.2, 435.96400000000006, 393.582, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<enlisting archetypal_index="1" bbox="7.2,333.518,550.623,409.05" id="1" size="38.424">&#8226; States which quantify uncertainty in  <textline bbox="7.200,370.626,550.623,409.050">&#8226; States which quantify uncertainty in  <text bbox="7.200,370.626,24.683,409.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="38.424">&#8226;</text>
+<text bbox="34.200,371.943,52.060,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">S</text>
+<text bbox="52.060,371.943,62.769,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="62.769,371.943,79.603,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="79.603,371.943,90.312,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="90.312,371.943,107.178,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="107.178,371.943,121.478,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="121.478,371.943,131.514,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="131.386,371.943,155.177,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">w</text>
+<text bbox="155.177,371.943,173.069,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+<text bbox="173.069,371.943,180.412,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="180.412,371.943,195.193,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="195.193,371.943,213.085,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+<text bbox="212.989,371.943,223.025,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="223.025,371.943,240.756,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">q</text>
+<text bbox="240.756,371.943,258.648,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="258.648,371.943,275.482,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="275.482,371.943,293.373,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="293.373,371.943,304.083,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="304.083,371.943,311.425,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="311.425,371.943,321.622,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">f</text>
+<text bbox="321.333,371.943,337.301,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">y</text>
+<text bbox="337.301,371.943,347.337,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="347.337,371.943,365.229,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="365.229,371.943,383.120,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="383.120,371.943,397.902,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="397.902,371.943,414.768,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="414.768,371.943,426.311,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">r</text>
+<text bbox="426.311,371.943,437.020,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="437.020,371.943,453.854,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="453.854,371.943,461.196,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="461.196,371.943,479.088,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="479.088,371.943,489.797,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="489.348,371.943,505.316,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">y</text>
+<text bbox="505.316,371.943,515.352,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="515.352,371.943,522.695,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="522.695,371.943,540.587,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="540.587,371.943,550.623,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+</textline>
+<normal_text bbox="34.200,333.518,211.670,365.558" id="2" size="32.04">assessments <textline bbox="34.200,333.518,211.670,365.558" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.040">assessments </textline>
+</normal_text>
+</enlisting>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.5.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[43.2, 435.96400000000006, 393.582, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.6.jpg" width="720">
+</background>
+<enlisting archetypal_index="1" bbox="43.2,250.957,661.199,409.05">&#8226; States using weight-of-evidence approach &#8211; Chemical 
+&#8211; Physical 
+&#8211; Biological <normal_text bbox="43.200,370.626,661.199,409.050" id="1" size="38.424">&#8226; States using weight-of-evidence approach <textline bbox="43.200,370.626,661.199,409.050">&#8226; States using weight-of-evidence approach <text bbox="43.200,370.626,60.683,409.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="38.424">&#8226;</text>
+<text bbox="70.224,371.943,88.084,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">S</text>
+<text bbox="88.084,371.943,98.793,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="98.793,371.943,115.627,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="115.627,371.943,126.336,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="126.336,371.943,143.202,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="143.202,371.943,157.502,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="157.502,371.943,167.538,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="167.410,371.943,185.302,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="185.302,371.943,199.602,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="199.602,371.943,206.945,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="206.945,371.943,224.837,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="224.837,371.943,242.568,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">g</text>
+<text bbox="242.568,371.943,252.604,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="252.604,371.943,276.396,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">w</text>
+<text bbox="276.396,371.943,293.261,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="293.261,371.943,300.604,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="300.604,371.943,318.335,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">g</text>
+<text bbox="318.335,371.943,336.227,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+<text bbox="336.227,371.943,346.936,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="346.390,371.943,358.029,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">-</text>
+<text bbox="358.030,371.943,375.441,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">o</text>
+<text bbox="375.430,371.943,385.626,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">f</text>
+<text bbox="384.550,371.943,396.189,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">-</text>
+<text bbox="396.190,371.943,413.056,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="413.056,371.943,429.024,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">v</text>
+<text bbox="429.024,371.943,436.366,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="436.366,371.943,454.098,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">d</text>
+<text bbox="454.098,371.943,470.963,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="471.027,371.943,488.919,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="488.919,371.943,503.701,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="503.701,371.943,520.566,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="520.566,371.943,530.602,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="530.602,371.943,547.436,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="547.436,371.943,565.167,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">p</text>
+<text bbox="565.167,371.943,582.899,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">p</text>
+<text bbox="582.899,371.943,594.442,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">r</text>
+<text bbox="594.281,371.943,611.692,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">o</text>
+<text bbox="611.692,371.943,628.526,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="628.526,371.943,643.307,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="643.307,371.943,661.199,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">h</text>
+</textline>
+</normal_text>
+<normal_text bbox="79.224,250.957,224.806,359.562" id="2" size="27.968">&#8211; Chemical 
+&#8211; Physical 
+&#8211; Biological <textline bbox="79.224,331.602,220.227,359.562">&#8211; Chemical <text bbox="79.224,331.602,94.490,359.562" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">&#8211;</text>
+<text bbox="99.851,331.602,125.974,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">C</text>
+<text bbox="116.655,331.602,141.576,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">h</text>
+<text bbox="132.257,331.602,156.283,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">e</text>
+<text bbox="146.964,331.602,179.769,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">m</text>
+<text bbox="170.450,331.602,186.172,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">i</text>
+<text bbox="176.853,331.602,199.061,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">c</text>
+<text bbox="189.826,331.602,213.824,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">a</text>
+<text bbox="204.505,331.602,220.227,359.562" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">l</text>
+</textline>
+<textline bbox="79.224,291.282,206.667,319.242">&#8211; Physical <text bbox="79.224,291.282,94.490,319.242" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">&#8211;</text>
+<text bbox="99.851,291.282,124.576,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">P</text>
+<text bbox="115.257,291.282,140.178,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">h</text>
+<text bbox="130.579,291.282,153.822,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">y</text>
+<text bbox="144.503,291.282,166.292,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">s</text>
+<text bbox="156.973,291.282,172.695,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">i</text>
+<text bbox="163.376,291.282,185.585,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">c</text>
+<text bbox="176.266,291.282,200.264,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">a</text>
+<text bbox="190.945,291.282,206.667,319.242" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.960">l</text>
+</textline>
+<textline bbox="79.224,250.957,224.806,278.941">&#8211; Biological <text bbox="79.224,250.957,94.503,278.941" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">&#8211;</text>
+<text bbox="99.849,250.957,125.659,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">B</text>
+<text bbox="116.332,250.957,132.067,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">i</text>
+<text bbox="122.740,250.957,147.263,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">o</text>
+<text bbox="137.936,250.957,153.671,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">l</text>
+<text bbox="144.344,250.957,168.866,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">o</text>
+<text bbox="159.539,250.957,184.341,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">g</text>
+<text bbox="175.014,250.957,190.750,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">i</text>
+<text bbox="181.423,250.957,203.650,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">c</text>
+<text bbox="194.379,250.957,218.398,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">a</text>
+<text bbox="209.071,250.957,224.806,278.941" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="27.984">l</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[43.2, 435.96400000000006, 393.582, 480.00400000000013]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,393.582,480.004" id="0" size="44.04">Research Findings <textline bbox="43.200,435.964,393.582,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Research Findings </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,333.518,634.166,409.05" id="1" size="38.424">&#8226; States soliciting public comment during  <textline bbox="43.200,370.626,634.166,409.050">&#8226; States soliciting public comment during  <text bbox="43.200,370.626,60.683,409.050" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.8, 1, 1)" size="38.424">&#8226;</text>
+<text bbox="70.224,371.943,88.084,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">S</text>
+<text bbox="88.084,371.943,98.793,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="98.793,371.943,115.627,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">a</text>
+<text bbox="115.627,371.943,126.336,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="126.336,371.943,143.202,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="143.202,371.943,157.502,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="157.502,371.943,167.538,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="167.410,371.943,181.711,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">s</text>
+<text bbox="181.711,371.943,199.121,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">o</text>
+<text bbox="199.121,371.943,206.464,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">l</text>
+<text bbox="206.464,371.943,213.807,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="213.807,371.943,228.588,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="228.492,371.943,235.835,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="235.899,371.943,246.608,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="246.608,371.943,253.951,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="253.951,371.943,271.842,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="271.842,371.943,289.574,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">g</text>
+<text bbox="289.574,371.943,299.610,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="299.706,371.943,317.437,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">p</text>
+<text bbox="317.437,371.943,335.329,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="335.329,371.943,353.061,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">b</text>
+<text bbox="353.061,371.943,360.403,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">l</text>
+<text bbox="360.403,371.943,367.746,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="367.746,371.943,382.527,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="382.527,371.943,392.563,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="392.660,371.943,407.441,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">c</text>
+<text bbox="407.441,371.943,424.852,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">o</text>
+<text bbox="424.852,371.943,451.786,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="451.786,371.943,478.719,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">m</text>
+<text bbox="478.591,371.943,495.457,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">e</text>
+<text bbox="495.457,371.943,513.348,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="513.348,371.943,524.058,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">t</text>
+<text bbox="524.058,371.943,534.094,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+<text bbox="534.094,371.943,551.825,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">d</text>
+<text bbox="551.825,371.943,569.717,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">u</text>
+<text bbox="569.717,371.943,581.260,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">r</text>
+<text bbox="581.260,371.943,588.603,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">i</text>
+<text bbox="588.603,371.943,606.494,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">n</text>
+<text bbox="606.398,371.943,624.130,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064">g</text>
+<text bbox="624.130,371.943,634.166,404.007" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.064"> </text>
+</textline>
+<normal_text bbox="70.224,333.518,445.669,365.558" id="2" size="32.04">methodology development <textline bbox="70.224,333.518,445.669,365.558" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.8, 1, 1)" size="32.040">methodology development </textline>
+</normal_text>
+</enlisting>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.7.jpg" width="720">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[43.2, 435.964, 395.03549999999996, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,399.396,480.004" id="0" size="44.04">Recommendations <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.200,346.601,589.432,385.001" id="1" size="38.4">&#8226; Publish Minimum Data Requirements <textline bbox="43.200,346.601,589.432,385.001">&#8226; Publish Minimum Data Requirements <text bbox="43.200,346.601,60.672,385.001" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
+<text bbox="70.224,347.918,87.878,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">P</text>
+<text bbox="87.878,347.918,105.756,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">u</text>
+<text bbox="105.756,347.918,123.474,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">b</text>
+<text bbox="123.474,347.918,130.812,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">l</text>
+<text bbox="130.812,347.918,138.149,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="138.149,347.918,152.439,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">s</text>
+<text bbox="152.439,347.918,170.317,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">h</text>
+<text bbox="170.317,347.918,180.345,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="180.345,347.918,205.048,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">M</text>
+<text bbox="205.048,347.918,212.385,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="212.385,347.918,230.264,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">n</text>
+<text bbox="230.264,347.918,237.601,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="237.601,347.918,264.515,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">m</text>
+<text bbox="264.515,347.918,282.393,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">u</text>
+<text bbox="282.393,347.918,309.306,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">m</text>
+<text bbox="309.306,347.918,319.335,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="319.239,347.918,340.962,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">D</text>
+<text bbox="340.962,347.918,357.783,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">a</text>
+<text bbox="357.783,347.918,368.484,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">t</text>
+<text bbox="368.484,347.918,385.305,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">a</text>
+<text bbox="385.305,347.918,395.334,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="395.334,347.918,415.231,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">R</text>
+<text bbox="414.654,347.918,431.507,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="431.507,347.918,449.225,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">q</text>
+<text bbox="449.289,347.918,467.168,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">u</text>
+<text bbox="467.168,347.918,474.505,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="474.505,347.918,486.039,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">r</text>
+<text bbox="485.879,347.918,502.732,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="502.732,347.918,529.646,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">m</text>
+<text bbox="529.646,347.918,546.499,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="546.563,347.918,564.441,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">n</text>
+<text bbox="564.441,347.918,575.142,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">t</text>
+<text bbox="575.142,347.918,589.432,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">s</text>
+</textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="175.990,177.830,297.111,260.669" id="2" size="18.006">Minimum Data  
+Requirements 
+&#8226; DQOs 
+&#8226; QAPPs <textline bbox="175.990,242.645,297.111,260.669" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.024">Minimum Data  </textline>
+<textline bbox="178.150,221.030,290.074,239.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Requirements </textline>
+<textline bbox="203.380,199.430,264.664,217.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226; DQOs </textline>
+<textline bbox="198.820,177.830,269.122,195.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226; QAPPs </textline>
+</normal_text>
+<enlisting archetypal_index="3" bbox="412.080,145.430,553.020,271.469" id="3" size="18.004">&#8226; Better quality  
+data and  
+confidence in the  
+data 
+&#8226; Indisputable  
+information <textline bbox="422.160,253.445,543.242,271.469" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.024">&#8226; Better quality  </textline>
+<textline bbox="445.100,231.830,519.998,249.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">data and  </textline>
+<textline bbox="412.080,210.230,553.020,228.230" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">confidence in the  </textline>
+<textline bbox="462.620,188.630,497.558,206.630" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">data </textline>
+<textline bbox="426.000,167.030,539.214,185.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">&#8226; Indisputable  </textline>
+<textline bbox="435.600,145.430,524.610,163.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">information </textline>
+</enlisting>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.8.jpg" width="720">
+</background>
+<rect bbox="156.000,114.000,312.000,306.000" linewidth="0" />
+<rect bbox="153.750,111.750,314.250,308.250" linewidth="0" />
+<rect bbox="156.450,114.450,311.550,305.550" linewidth="0" />
+<rect bbox="157.350,115.350,310.650,304.650" linewidth="0" />
+<rect bbox="158.250,116.250,309.750,303.750" linewidth="0" />
+<curve bbox="324.000,186.000,390.000,240.000" linewidth="0" pts="324.000,240.000,373.500,240.000,390.000,213.000,373.500,186.000,324.000,186.000,340.500,213.000" />
+<curve bbox="324.000,186.000,390.000,240.000" linewidth="0" pts="324.000,240.000,373.500,240.000,390.000,213.000,373.500,186.000,324.000,186.000,340.500,213.000" />
+<rect bbox="402.000,114.000,558.000,306.000" linewidth="0" />
+<rect bbox="399.750,111.750,560.250,308.250" linewidth="0" />
+<rect bbox="402.450,114.450,557.550,305.550" linewidth="0" />
+<rect bbox="403.350,115.350,556.650,304.650" linewidth="0" />
+<rect bbox="404.250,116.250,555.750,303.750" linewidth="0" />
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="13" mean_title="[42.32727272727273, 417.6231636363636, 469.298709090909, 480.0040000000001]" rotate="0">
+<title archetypal_index="0" bbox="43.200,435.964,399.396,480.004" id="0" size="44.04">Recommendations <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.200,346.601,465.534,385.001" id="1" size="38.4">&#8226; Develop numeric wq criteria <textline bbox="43.200,346.601,465.534,385.001">&#8226; Develop numeric wq criteria <text bbox="43.200,346.601,60.672,385.001" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
+<text bbox="70.224,347.918,91.947,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">D</text>
+<text bbox="91.947,347.918,108.800,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="108.800,347.918,124.756,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">v</text>
+<text bbox="124.596,347.918,141.449,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="141.449,347.918,148.786,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">l</text>
+<text bbox="148.786,347.918,166.184,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">o</text>
+<text bbox="166.184,347.918,183.902,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">p</text>
+<text bbox="183.902,347.918,193.930,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="193.930,347.918,211.809,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">n</text>
+<text bbox="211.809,347.918,229.687,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">u</text>
+<text bbox="229.687,347.918,256.601,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">m</text>
+<text bbox="256.601,347.918,273.454,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="273.454,347.918,284.988,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">r</text>
+<text bbox="284.988,347.918,292.325,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="292.325,347.918,307.096,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">c</text>
+<text bbox="307.096,347.918,317.124,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="317.124,347.918,340.898,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">w</text>
+<text bbox="340.898,347.918,358.616,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">q</text>
+<text bbox="358.616,347.918,368.645,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040"> </text>
+<text bbox="368.645,347.918,383.415,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">c</text>
+<text bbox="383.319,347.918,394.853,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">r</text>
+<text bbox="394.853,347.918,402.190,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="402.190,347.918,412.892,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">t</text>
+<text bbox="412.892,347.918,429.745,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
+<text bbox="429.841,347.918,441.375,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">r</text>
+<text bbox="441.375,347.918,448.713,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">i</text>
+<text bbox="448.713,347.918,465.534,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">a</text>
+</textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="38.112,187.430,182.940,227.030" id="2" size="18.0">Formally Adopted  
+Numeric Criteria <textline bbox="38.112,209.030,182.940,227.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Formally Adopted  </textline>
+<textline bbox="43.032,187.430,172.938,205.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Numeric Criteria </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="288.460,165.830,424.666,227.030" id="3" size="18.0">Transparent and  
+Auditable  
+Benchmark <textline bbox="288.460,209.030,424.666,227.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Transparent and  </textline>
+<textline bbox="316.680,187.430,396.438,205.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Auditable  </textline>
+<textline bbox="308.620,165.830,399.646,183.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Benchmark </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="531.620,165.830,673.424,227.030" id="4" size="18.0">Reduce Disputes  
+in Assessment  
+Results <textline bbox="531.620,209.030,673.424,227.030" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Reduce Disputes  </textline>
+<textline bbox="542.060,187.430,662.948,205.430" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">in Assessment  </textline>
+<textline bbox="570.140,165.830,630.116,183.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Results </textline>
+</normal_text>
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.11.jpg" width="720">
+</background>
+<rect bbox="30.000,102.000,186.000,294.000" linewidth="0" />
+<rect bbox="27.750,99.750,188.250,296.250" linewidth="0" />
+<rect bbox="30.450,102.450,185.550,293.550" linewidth="0" />
+<rect bbox="31.350,103.350,184.650,292.650" linewidth="0" />
+<rect bbox="32.250,104.250,183.750,291.750" linewidth="0" />
+<curve bbox="198.000,174.000,264.000,228.000" linewidth="0" pts="198.000,228.000,247.500,228.000,264.000,201.000,247.500,174.000,198.000,174.000,214.500,201.000" />
+<curve bbox="198.000,174.000,264.000,228.000" linewidth="0" pts="198.000,228.000,247.500,228.000,264.000,201.000,247.500,174.000,198.000,174.000,214.500,201.000" />
+<rect bbox="276.000,102.000,432.000,294.000" linewidth="0" />
+<rect bbox="273.750,99.750,434.250,296.250" linewidth="0" />
+<rect bbox="276.450,102.450,431.550,293.550" linewidth="0" />
+<rect bbox="277.350,103.350,430.650,292.650" linewidth="0" />
+<rect bbox="278.250,104.250,429.750,291.750" linewidth="0" />
+<curve bbox="444.000,174.000,510.000,228.000" linewidth="0" pts="444.000,228.000,493.500,228.000,510.000,201.000,493.500,174.000,444.000,174.000,460.500,201.000" />
+<curve bbox="444.000,174.000,510.000,228.000" linewidth="0" pts="444.000,228.000,493.500,228.000,510.000,201.000,493.500,174.000,444.000,174.000,460.500,201.000" />
+<rect bbox="522.000,102.000,678.000,294.000" linewidth="0" />
+<rect bbox="519.750,99.750,680.250,296.250" linewidth="0" />
+<rect bbox="522.450,102.450,677.550,293.550" linewidth="0" />
+<rect bbox="523.350,103.350,676.650,292.650" linewidth="0" />
+<rect bbox="524.250,104.250,675.750,291.750" linewidth="0" />
+</page>
 </pages>

@@ -1,2 +1,40 @@
 <pages>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="123.670,262.237,596.300,359.082" id="0" size="44.052">Chromatic Correction  
+Sextupole status update <textline bbox="151.990,315.042,580.279,359.082" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">Chromatic Correction  </textline>
+<textline bbox="123.670,262.237,596.300,306.301" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">Sextupole status update </textline>
+</title>
+<normal_text archetypal_index="1" bbox="265.900,192.522,454.135,224.562" id="1" size="32.04">Feb 16, 2007 <textline bbox="265.900,192.522,454.135,224.562" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Feb 16, 2007 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="271.180,100.332,448.906,132.372" id="2" size="32.04">Jerry Annala <textline bbox="271.180,100.332,448.906,132.372" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Jerry Annala </textline>
+</normal_text>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
+<background archetypal_index="0" bbox="18.000,2.520,690.000,540.000" height="537" name="Image11" src="Image11.640x512.bmp" width="672">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
+<background archetypal_index="0" bbox="-33.000,-22.920,753.000,562.920" height="585" name="Image14" src="Image14.1048x781.bmp" width="786">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" rotate="0">
+<background archetypal_index="0" bbox="18.360,-48.000,701.640,588.000" height="636" name="Image17" src="Image17.911x848.bmp" width="683">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" rotate="0">
+<background archetypal_index="0" bbox="-94.320,-70.920,814.320,610.800" height="681" name="Image20" src="Image20.jpg" width="908">
+</background>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[88.272, 447.662, 631.638, 491.702]" rotate="0">
+<title archetypal_index="0" bbox="88.272,447.662,631.638,491.702" id="0" size="44.04">Evidence of Problem at A25 <textline bbox="88.272,447.662,631.638,491.702" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.040">Evidence of Problem at A25 </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,241.977,610.131,404.631" id="1" size="32.048">&#8226; G-10 cover plate indicates wiring error 
+&#8226; Very little response to polarity test 
+&#8226; Alex&#8217;s lattice measurements shows  <textline bbox="43.200,372.567,610.131,404.631" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">&#8226; G-10 cover plate indicates wiring error </textline>
+<textline bbox="43.200,326.462,548.133,358.502" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226; Very little response to polarity test </textline>
+<textline bbox="43.200,280.382,576.200,312.422" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226; Alex&#8217;s lattice measurements shows  </textline>
+<normal_text bbox="70.224,241.977,301.309,274.041" id="2" size="32.064">problems at A25 <textline bbox="70.224,241.977,301.309,274.041" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">problems at A25 </textline>
+</normal_text>
+</enlisting>
+</page>
 </pages>

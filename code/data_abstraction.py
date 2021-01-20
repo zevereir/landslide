@@ -11,7 +11,7 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     De eerste plot toont de gemiddeldes per archetype en het aantal slides per archetype, de tweede toont de vooruitgang
     in tijd die gemaakt is over de hele dataset. Het gemiddelde is het gewogen gemiddelde van alle slides"""
     set_output="D:\\Thesis\\landslide\\data\\american"
-    names=["Titeldia","Titel Dubbele Inhoud","Titel Enkele Inhoud","Titel Tripel Inhoud","Achtergrond Quote","Vergelijking","Enkel Titel","Inhoud met Onderschrift","Enkel Inhoud","Sectiehoofd","Enkel Achtergrond"]
+    names=["Titeldia","Titel Enkele Inhoud","Titel Dubbele Inhoud","Titel Tripel Inhoud","Vergelijking","Sectiehoofd","Enkel Titel","Inhoud met Onderschrift","Achtergrond Quote","Enkel Achtergrond", "Enkel Inhoud"]
     count={}
     responsive_count={}
     for i in range(0,len(names)):

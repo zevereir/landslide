@@ -1,190 +1,247 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="63" mean_title="[97.42694285714285, 482.0689142857143, 586.2083380952381, 502.9531904761904]" rotate="0">
-<title archetypal_index="0" bbox="151.220,503.100,543.692,521.100" id="0" size="18.0">Sample Periodic Monthly Statement (Preliminary) <textline bbox="151.220,503.100,543.692,521.100" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Sample Periodic Monthly Statement (Preliminary) </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="31.200,392.972,621.153,501.812" id="0" size="32.04">Release 3 User Interface Presentation,  
+including Reports Functionality:  
+Broker and Vendor Session <textline bbox="31.200,469.772,621.153,501.812" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.040">Release 3 User Interface Presentation,  </textline>
+<textline bbox="31.200,431.372,530.095,463.412" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.040">including Reports Functionality:  </textline>
+<textline bbox="31.200,392.972,448.681,425.012" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.040">Broker and Vendor Session </textline>
 </title>
-<normal_text archetypal_index="1" bbox="31.200,474.340,625.300,482.380" id="1" size="8.04">STATEMENT NUMBER:  0103P12001                BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     <textline bbox="31.200,474.340,625.300,482.380" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT NUMBER:  0103P12001                BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     </textline>
+<normal_text archetypal_index="1" bbox="49.200,326.748,242.565,351.708" id="1" size="24.96">January 28, 2004 <textline bbox="49.200,326.748,242.565,351.708" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="24.960">January 28, 2004 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="264.170,462.820,649.224,482.380" id="2" size="8.04">1 
-AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY <textline bbox="644.400,474.340,649.224,482.380" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">1 </textline>
-<textline bbox="264.170,462.820,649.224,470.860" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY </textline>
+<normal_text archetypal_index="2" bbox="49.200,168.290,237.336,298.338" id="2" size="22.3728">Presenters: 
+Dale Wilson, CBP 
+Ray Portu, eCP 
+Paul Nugent, eCP 
+Kevin Smith, eCP <textline bbox="49.200,276.378,161.789,298.338" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="21.960">Presenters: </textline>
+<textline bbox="49.200,249.973,224.061,271.957" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="21.984">Dale Wilson, CBP </textline>
+<textline bbox="49.200,223.558,202.086,245.518" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="21.960">Ray Portu, eCP </textline>
+<textline bbox="49.200,197.158,225.363,219.118" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="21.960">Paul Nugent, eCP </textline>
+<textline bbox="49.200,168.290,237.336,192.290" colourspace="DeviceGray" font="ArialMT" ncolour="0.2" size="24.000">Kevin Smith, eCP </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="226.130,451.300,606.285,459.340" id="3" size="8.04">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)       CLIENT BRANCH DESIGNATION: <textline bbox="226.130,451.300,606.285,459.340" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)       CLIENT BRANCH DESIGNATION: </textline>
+<normal_text archetypal_index="3" bbox="264.580,28.036,455.524,42.076" id="3" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="544.540,439.780,649.224,447.820" id="4" size="8.04">PROCESS DATE: MM/DD/YY <textline bbox="544.540,439.780,649.224,447.820" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DATE: MM/DD/YY </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="31.200,128.690,639.758,436.300" id="5" size="8.040888888888883">STATEMENT FOR:  TEST BROKER    
-IMPRT OF REC#: 
-BROKER/FILER#:     XXX 
-PROCESS DIST/PORT: DDPP 
-PERIODIC DAILY  STATEMENT   PRES                                                                                
-STATEMENT       DATE        DATE     ESTIMATED DUTY   ESTIMATED TAX   ESTIMATED CVD   ESTIMATED ADD   USER FEES   TOTAL AMOUNT   
-0103307001      11/03/03    11/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103308001      11/04/03    11/05/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103309001      11/05/03    11/06/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103310001      11/06/03    11/07/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103311001      11/07/03    11/08/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103314001      11/10/03    11/11/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103316001      11/12/03    11/13/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103317001      11/13/03    11/14/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103318001      11/14/03    11/15/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103321001      11/17/03    11/18/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103322001      11/18/03    11/19/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103323001      11/19/03    11/20/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103324001      11/20/03    11/21/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103325001      11/21/03    11/22/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103328001      11/24/03    11/25/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103329001      11/25/03    11/26/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103330001      11/26/03    11/27/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103332001      11/28/03    11/29/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103335001      12/01/03    12/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103336001      12/02/03    12/03/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   
-0103337001      12/03/03    12/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00 <textline bbox="31.200,428.260,173.918,436.300" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT FOR:  TEST BROKER    </textline>
-<textline bbox="31.200,416.740,97.819,424.780" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">IMPRT OF REC#: </textline>
-<textline bbox="31.200,405.220,135.881,413.260" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">BROKER/FILER#:     XXX </textline>
-<textline bbox="31.200,393.700,140.536,401.740" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DIST/PORT: DDPP </textline>
-<textline bbox="31.200,382.180,558.704,390.220" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PERIODIC DAILY  STATEMENT   PRES                                                                                </textline>
-<textline bbox="31.200,370.660,639.744,378.700" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT       DATE        DATE     ESTIMATED DUTY   ESTIMATED TAX   ESTIMATED CVD   ESTIMATED ADD   USER FEES   TOTAL AMOUNT   </textline>
-<textline bbox="31.200,359.110,639.744,367.150" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103307001      11/03/03    11/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,347.590,639.744,355.630" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103308001      11/04/03    11/05/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,336.070,639.744,344.110" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103309001      11/05/03    11/06/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,324.550,639.744,332.590" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103310001      11/06/03    11/07/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,313.030,639.744,321.070" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103311001      11/07/03    11/08/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,301.510,639.744,309.550" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103314001      11/10/03    11/11/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,289.990,639.744,298.030" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103316001      11/12/03    11/13/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,278.470,639.744,286.510" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103317001      11/13/03    11/14/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,266.950,639.744,274.990" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103318001      11/14/03    11/15/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,255.430,639.744,263.470" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103321001      11/17/03    11/18/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,243.905,639.758,251.969" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.064">0103322001      11/18/03    11/19/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,232.370,639.744,240.410" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103323001      11/19/03    11/20/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,220.850,639.744,228.890" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103324001      11/20/03    11/21/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,209.330,639.744,217.370" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103325001      11/21/03    11/22/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,197.810,639.744,205.850" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103328001      11/24/03    11/25/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,186.290,639.744,194.330" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103329001      11/25/03    11/26/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,174.770,639.744,182.810" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103330001      11/26/03    11/27/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,163.250,639.744,171.290" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103332001      11/28/03    11/29/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,151.730,639.744,159.770" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103335001      12/01/03    12/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,140.210,639.744,148.250" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103336001      12/02/03    12/03/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
-<textline bbox="31.200,128.690,630.144,136.730" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103337001      12/03/03    12/04/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00 </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="264.580,28.036,455.524,42.076" id="10" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
-</normal_text>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="11" size="14.04">63 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">63 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="4" size="14.04">1 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">1 </textline>
 </slide_number>
-<enlisting archetypal_index="7" bbox="31.2,78.864,639.744,124.46">0103338001      12/04/03    12/05/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   0103339001      12/05/03    12/06/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   0103342001      12/08/03    12/09/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   0103343001      12/09/03    12/10/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00 <normal_text bbox="31.200,116.420,639.744,124.460" id="6" size="8.04">0103338001      12/04/03    12/05/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   <textline bbox="31.200,116.420,639.744,124.460" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103338001      12/04/03    12/05/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
+<picture archetypal_index="4" bbox="18.000,48.000,312.000,144.000" height="96" name="Image11" src="Image11.1224x400.bmp" width="294">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[43.2, 450.078, 180.996, 490.038]" rotate="0">
+<title archetypal_index="0" bbox="43.200,450.078,180.996,490.038" id="0" size="39.96">Agenda <textline bbox="43.200,450.078,180.996,490.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">Agenda </textline>
+</title>
+<enlisting archetypal_index="1" bbox="31.200,256.273,486.708,405.247" id="1" size="27.972">&#8226; Introduction &#8211; Ray Portu 
+&#8226; Account Management &#8211; Ray Portu 
+&#8226; Account Revenue &#8211; Paul Nugent 
+&#8226; Reports &#8211; Kevin Smith <textline bbox="31.200,377.263,360.471,405.247" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; Introduction &#8211; Ray Portu </textline>
+<textline bbox="31.200,336.918,486.708,364.878" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; Account Management &#8211; Ray Portu </textline>
+<textline bbox="31.200,296.598,464.957,324.558" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">&#8226; Account Revenue &#8211; Paul Nugent </textline>
+<textline bbox="31.200,256.273,337.071,284.257" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">&#8226; Reports &#8211; Kevin Smith </textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="264.580,28.036,455.524,42.076" id="2" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
 </normal_text>
-<normal_text bbox="31.200,103.940,639.744,111.980" id="7" size="8.04">0103339001      12/05/03    12/06/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   <textline bbox="31.200,103.940,639.744,111.980" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103339001      12/05/03    12/06/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="3" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">2 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="48.000,66.600,366.000,162.000" height="95" name="Image11" src="Image11.0.1224x400.bmp" width="318">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[51.20000000000001, 425.424, 490.9460000000001, 511.30733333333336]" rotate="0">
+<title archetypal_index="0" bbox="55.200,413.097,645.921,521.942" id="0" size="32.048">Release 3 User Interface Presentation,  
+including Reports Functionality:   
+Broker and Vendor Session <textline bbox="55.200,489.902,645.921,521.942" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.040">Release 3 User Interface Presentation,  </textline>
+<textline bbox="55.200,451.502,563.322,483.542" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.040">including Reports Functionality:   </textline>
+<textline bbox="55.200,413.097,473.315,445.161" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="32.064">Broker and Vendor Session </textline>
+</title>
+<normal_text archetypal_index="1" bbox="237.980,256.137,483.791,326.582" id="1" size="32.052">INTRODUCTION 
+Ray Portu, eCP <textline bbox="237.980,294.542,483.791,326.582" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">INTRODUCTION </textline>
+<textline bbox="249.770,256.137,471.974,288.201" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">Ray Portu, eCP </textline>
 </normal_text>
-<normal_text bbox="31.200,91.464,639.744,99.504" id="8" size="8.04">0103342001      12/08/03    12/09/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   <textline bbox="31.200,91.464,639.744,99.504" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103342001      12/08/03    12/09/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00   </textline>
+<normal_text archetypal_index="2" bbox="264.580,28.036,455.524,42.076" id="2" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
 </normal_text>
-<normal_text bbox="31.200,78.864,630.264,86.904" id="9" size="8.04">0103343001      12/09/03    12/10/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00 <textline bbox="31.200,78.864,630.264,86.904" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103343001      12/09/03    12/10/03       1,000.00            0.00          100.00          100.00      100.00       1,300.00 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="3" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">3 </textline>
+</slide_number>
+<picture archetypal_index="3" bbox="36.000,78.000,342.000,186.000" height="108" name="Image11" src="Image11.1.1224x400.bmp" width="306">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[47.20000000000001, 437.751, 371.54850000000005, 500.67266666666666]" rotate="0">
+<title archetypal_index="0" bbox="43.200,450.078,252.151,490.038" id="0" size="39.96">Introduction <textline bbox="43.200,450.078,252.151,490.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">Introduction </textline>
+</title>
+<enlisting archetypal_index="1" bbox="97.224,100.648,522.578,185.998" id="6" size="21.968">&#8226; ACE Portal Importer (exporter and surety) 
+&#8226; ACE Portal Broker (vendor) 
+&#8226; ACE Portal Carrier  <textline bbox="97.224,164.038,522.578,185.998" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8226; ACE Portal Importer (exporter and surety) </textline>
+<textline bbox="97.224,132.353,382.853,154.337" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.984">&#8226; ACE Portal Broker (vendor) </textline>
+<textline bbox="97.224,100.648,303.285,122.608" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8226; ACE Portal Carrier  </textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="264.580,28.036,455.524,42.076" id="7" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
+</normal_text>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="8" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4 </textline>
+</slide_number>
+<enlisting archetypal_index="3" bbox="25.2,195.718,646.421,428.612">&#8226; &#8220;Release 3 User Interface Presentation Sector Breakout  &#8211; Presented in three sessions:  <normal_text bbox="25.200,396.572,605.865,428.612" id="1" size="32.04">&#8226; &#8220;Release 3 User Interface Presentation Sector Breakout  <textline bbox="25.200,396.572,605.865,428.612">&#8226; &#8220;Release 3 User Interface Presentation Sector Breakout  <text bbox="25.200,396.572,36.414,428.612" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226;</text>
+<text bbox="52.200,396.572,62.869,428.612" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8220;</text>
+<text bbox="62.904,398.688,78.759,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">R</text>
+<text bbox="78.759,398.688,90.969,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="90.969,398.688,95.844,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">l</text>
+<text bbox="95.844,398.688,108.054,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="108.120,398.688,120.329,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">a</text>
+<text bbox="120.329,398.688,131.309,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">s</text>
+<text bbox="131.375,398.688,143.585,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="143.585,398.688,149.690,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="149.624,398.688,161.834,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">3</text>
+<text bbox="161.834,398.688,167.939,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="168.092,398.688,183.948,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">U</text>
+<text bbox="183.948,398.688,194.928,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">s</text>
+<text bbox="194.928,398.688,207.137,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="207.181,398.688,214.494,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">r</text>
+<text bbox="214.494,398.688,220.599,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="220.599,398.688,226.704,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">I</text>
+<text bbox="226.704,398.688,238.913,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">n</text>
+<text bbox="238.957,398.688,245.062,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">t</text>
+<text bbox="245.062,398.688,257.272,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="257.272,398.688,264.585,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">r</text>
+<text bbox="264.585,398.688,270.690,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">f</text>
+<text bbox="270.733,398.688,282.943,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">a</text>
+<text bbox="282.943,398.688,293.923,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">c</text>
+<text bbox="293.989,398.688,306.199,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="306.199,398.688,312.304,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="312.457,398.688,327.105,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">P</text>
+<text bbox="327.105,398.688,334.417,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">r</text>
+<text bbox="334.417,398.688,346.627,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="346.627,398.688,357.607,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">s</text>
+<text bbox="357.673,398.688,369.883,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="369.883,398.688,382.093,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">n</text>
+<text bbox="382.093,398.688,388.197,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">t</text>
+<text bbox="388.241,398.688,400.451,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">a</text>
+<text bbox="400.451,398.688,406.556,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">t</text>
+<text bbox="406.556,398.688,411.431,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">i</text>
+<text bbox="411.497,398.688,423.707,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">o</text>
+<text bbox="423.707,398.688,435.917,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">n</text>
+<text bbox="435.917,398.688,442.021,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="442.065,398.688,456.713,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">S</text>
+<text bbox="456.713,398.688,468.922,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="468.922,398.688,479.902,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">c</text>
+<text bbox="479.968,398.688,486.073,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">t</text>
+<text bbox="486.073,398.688,498.283,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">o</text>
+<text bbox="498.283,398.688,505.596,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">r</text>
+<text bbox="505.596,398.688,511.701,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+<text bbox="511.744,398.688,526.392,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">B</text>
+<text bbox="526.392,398.688,533.704,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">r</text>
+<text bbox="533.704,398.688,545.914,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">e</text>
+<text bbox="545.914,398.688,558.124,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">a</text>
+<text bbox="558.124,398.688,569.104,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">k</text>
+<text bbox="569.192,398.688,581.402,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">o</text>
+<text bbox="581.402,398.688,593.611,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">u</text>
+<text bbox="593.611,398.688,599.716,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">t</text>
+<text bbox="599.760,398.688,605.865,420.648" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="61.224,195.718,367.639,217.678" id="5" size="21.96">&#8211; Presented in three sessions:  <textline bbox="61.224,195.718,367.639,217.678" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Presented in three sessions:  </textline>
+</normal_text>
+<normal_text bbox="52.200,338.298,605.861,391.987" id="2" size="21.972">Sessions&#8221;  
+&#8211; Demonstrates ACE Release 3 account management,  <textline bbox="52.200,370.003,155.019,391.987" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.984">Sessions&#8221;  </textline>
+<textline bbox="61.224,338.298,605.861,360.258" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Demonstrates ACE Release 3 account management,  </textline>
+</normal_text>
+<normal_text bbox="83.784,285.498,629.534,333.858" id="3" size="21.96">account revenue, and reporting graphical user interface  
+views  <textline bbox="83.784,311.898,629.534,333.858" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">account revenue, and reporting graphical user interface  </textline>
+<textline bbox="83.784,285.498,144.789,307.458" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">views  </textline>
+</normal_text>
+<normal_text bbox="61.224,227.398,646.421,275.797" id="4" size="21.972">&#8211; Describes a transition for functionality established in ACE  
+Release 2 and functionality added in ACE Release 3.   <textline bbox="61.224,253.813,646.421,275.797" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.984">&#8211; Describes a transition for functionality established in ACE  </textline>
+<textline bbox="83.784,227.398,611.944,249.358" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">Release 2 and functionality added in ACE Release 3.   </textline>
 </normal_text>
 </enlisting></page>
-<page bbox="0.000,0.000,720.000,540.000" id="64" mean_title="[102.31722077922078, 483.98083116883123, 582.3432164502165, 504.6029004329004]" rotate="0">
-<title archetypal_index="0" bbox="151.220,503.100,543.692,521.100" id="0" size="18.0">Sample Periodic Monthly Statement (Preliminary) <textline bbox="151.220,503.100,543.692,521.100" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Sample Periodic Monthly Statement (Preliminary) </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<title archetypal_index="0" bbox="43.200,458.487,464.743,502.551" id="0" size="39.96">Introduction (continued) <textline bbox="43.200,458.487,464.743,502.551">Introduction (continued) <text bbox="43.200,459.348,54.309,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">I</text>
+<text bbox="54.309,459.348,76.527,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">n</text>
+<text bbox="76.527,459.348,87.636,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">t</text>
+<text bbox="87.636,459.348,100.942,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">r</text>
+<text bbox="101.022,459.348,123.240,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">o</text>
+<text bbox="123.240,459.348,145.458,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">d</text>
+<text bbox="145.458,459.348,167.675,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">u</text>
+<text bbox="167.675,459.348,187.655,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">c</text>
+<text bbox="187.655,459.348,198.764,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">t</text>
+<text bbox="198.844,459.348,207.715,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">i</text>
+<text bbox="207.715,459.348,229.933,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">o</text>
+<text bbox="229.933,459.348,252.151,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">n</text>
+<text bbox="252.151,459.348,263.260,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960"> </text>
+<text bbox="263.420,459.348,276.726,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">(</text>
+<text bbox="276.726,459.348,296.706,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">c</text>
+<text bbox="296.706,459.348,318.924,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">o</text>
+<text bbox="318.924,459.348,341.142,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">n</text>
+<text bbox="341.142,459.348,352.251,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">t</text>
+<text bbox="352.331,459.348,361.202,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">i</text>
+<text bbox="361.202,459.348,383.419,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">n</text>
+<text bbox="383.419,459.348,405.637,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">u</text>
+<text bbox="405.637,459.348,427.855,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">e</text>
+<text bbox="427.855,459.348,450.073,499.308" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">d</text>
+<text bbox="450.070,458.487,464.743,502.551" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">)</text>
+</textline>
 </title>
-<normal_text archetypal_index="1" bbox="31.200,475.060,625.300,483.100" id="1" size="8.04">STATEMENT NUM:  0103P12001                   BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     <textline bbox="31.200,475.060,625.300,483.100" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT NUM:  0103P12001                   BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     </textline>
+<normal_text archetypal_index="1" bbox="264.580,28.036,455.524,42.076" id="5" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="264.170,464.500,649.224,483.100" id="2" size="8.04">2 
-AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY <textline bbox="644.400,475.060,649.224,483.100" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">2 </textline>
-<textline bbox="264.170,464.500,649.224,472.540" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="230.810,453.940,606.286,461.980" id="3" size="8.04">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)      CLIENT BRANCH DESIGNATION: <textline bbox="230.810,453.940,606.286,461.980" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)      CLIENT BRANCH DESIGNATION: </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="544.540,443.380,649.224,451.420" id="4" size="8.04">PROCESS DATE: MM/DD/YY <textline bbox="544.540,443.380,649.224,451.420" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DATE: MM/DD/YY </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="31.200,401.140,173.918,440.860" id="5" size="8.04">STATEMENT FOR:  TEST BROKER    
-IMPRT OF REC#: 
-BROKER/FILER#:     XXX 
-PROCESS DIST/PORT: DDPP <textline bbox="31.200,432.820,173.918,440.860" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT FOR:  TEST BROKER    </textline>
-<textline bbox="31.200,422.260,97.819,430.300" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">IMPRT OF REC#: </textline>
-<textline bbox="31.200,411.700,135.881,419.740" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">BROKER/FILER#:     XXX </textline>
-<textline bbox="31.200,401.140,140.536,409.180" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DIST/PORT: DDPP </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="306.890,390.580,383.013,398.620" id="6" size="8.04">STATEMENT TOTALS <textline bbox="306.890,390.580,383.013,398.620" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT TOTALS </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="74.064,147.650,335.468,388.060" id="7" size="8.041043478260864">PRELIMINARY TOTALS 
-ESTIMATED DUTY                                25,000.00 
-ESTIMATED TAXES                                    0.00 
-ESTIMATED ADD                                  2,500.00 
-ESTIMATED CVD                                  2,500.00 
-COTTON FEE                                       100.00 
-SUGAR FEE                                        100.00 
-MAIL FEE                                         100.00 
-PORK FEE                                         100.00 
-BEEF FEE                                         100.00 
-MERCHANDISE FEE                                  900.00 
-MERC INFORMAL FEE                                100.00 
-MERC SURCHARGE FEE                               100.00 
-HONEY FEE                                        100.00 
-WATERWAYS FEE                                    100.00 
-PECAN FEE                                        100.00 
-POTATO FEE                                       100.00 
-LIME FEE                                         100.00 
-MUSHROOM FEE                                     100.00 
-WATERMELON FEE                                   100.00 
-SHEEP FEE                                        100.00 
-BLUEBERRY FEE                                    100.00 
-TOTAL AMOUNT-DUE                              32,500.00 <textline bbox="249.890,380.020,335.468,388.060" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PRELIMINARY TOTALS </textline>
-<textline bbox="74.064,369.460,335.428,377.500" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">ESTIMATED DUTY                                25,000.00 </textline>
-<textline bbox="74.064,358.870,335.428,366.910" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">ESTIMATED TAXES                                    0.00 </textline>
-<textline bbox="74.064,348.310,335.428,356.350" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">ESTIMATED ADD                                  2,500.00 </textline>
-<textline bbox="74.064,337.750,335.428,345.790" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">ESTIMATED CVD                                  2,500.00 </textline>
-<textline bbox="74.064,327.190,335.428,335.230" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">COTTON FEE                                       100.00 </textline>
-<textline bbox="74.064,316.630,335.428,324.670" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">SUGAR FEE                                        100.00 </textline>
-<textline bbox="74.064,306.070,335.428,314.110" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">MAIL FEE                                         100.00 </textline>
-<textline bbox="74.064,295.510,335.428,303.550" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PORK FEE                                         100.00 </textline>
-<textline bbox="74.064,284.950,335.428,292.990" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">BEEF FEE                                         100.00 </textline>
-<textline bbox="74.064,274.390,335.428,282.430" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">MERCHANDISE FEE                                  900.00 </textline>
-<textline bbox="74.064,263.830,335.428,271.870" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">MERC INFORMAL FEE                                100.00 </textline>
-<textline bbox="74.064,253.270,335.428,261.310" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">MERC SURCHARGE FEE                               100.00 </textline>
-<textline bbox="74.064,242.705,335.338,250.769" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.064">HONEY FEE                                        100.00 </textline>
-<textline bbox="74.064,232.130,335.428,240.170" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">WATERWAYS FEE                                    100.00 </textline>
-<textline bbox="74.064,221.570,335.428,229.610" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PECAN FEE                                        100.00 </textline>
-<textline bbox="74.064,211.010,335.428,219.050" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">POTATO FEE                                       100.00 </textline>
-<textline bbox="74.064,200.450,335.428,208.490" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">LIME FEE                                         100.00 </textline>
-<textline bbox="74.064,189.890,335.428,197.930" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">MUSHROOM FEE                                     100.00 </textline>
-<textline bbox="74.064,179.330,335.428,187.370" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">WATERMELON FEE                                   100.00 </textline>
-<textline bbox="74.064,168.770,335.428,176.810" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">SHEEP FEE                                        100.00 </textline>
-<textline bbox="74.064,158.210,335.428,166.250" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">BLUEBERRY FEE                                    100.00 </textline>
-<textline bbox="74.064,147.650,335.429,155.690" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">TOTAL AMOUNT-DUE                              32,500.00 </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="264.580,28.036,455.524,42.076" id="8" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
-</normal_text>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="9" size="14.04">64 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">64 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="6" size="14.04">5 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5 </textline>
 </slide_number>
+<enlisting archetypal_index="2" bbox="25.2,91.412,593.485,442.368">&#8226; All screens shown in this session are 
+&#8211; &#8220;For Conceptual Purposes Only&#8221;  
+&#8211; Morris Brokerage Account Scenario &#8226; Secure Data Portal Importer View of the following tabs: &#8211; Home  
+&#8211; Accounts  
+&#8211; Reports  
+&#8211; SAL (Significant Activity Log) 
+&#8211; Action Plan  
+&#8211; Statements &#8226; Sample Preliminary Periodic Monthly <normal_text bbox="25.200,357.018,429.939,442.368" id="1" size="21.959999999999997">&#8226; All screens shown in this session are 
+&#8211; &#8220;For Conceptual Purposes Only&#8221;  
+&#8211; Morris Brokerage Account Scenario <textline bbox="25.200,420.408,411.839,442.368" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8226; All screens shown in this session are </textline>
+<textline bbox="61.224,388.728,405.432,410.688" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; &#8220;For Conceptual Purposes Only&#8221;  </textline>
+<textline bbox="61.224,357.018,429.939,378.978" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Morris Brokerage Account Scenario </textline>
+</normal_text>
+<normal_text bbox="25.200,325.338,593.485,347.298" id="2" size="21.96">&#8226; Secure Data Portal Importer View of the following tabs: <textline bbox="25.200,325.338,593.485,347.298" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8226; Secure Data Portal Importer View of the following tabs: </textline>
+</normal_text>
+<normal_text bbox="61.224,135.233,364.016,315.618" id="3" size="21.964000000000002">&#8211; Home  
+&#8211; Accounts  
+&#8211; Reports  
+&#8211; SAL (Significant Activity Log) 
+&#8211; Action Plan  
+&#8211; Statements <textline bbox="61.224,293.658,148.456,315.618" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Home  </textline>
+<textline bbox="61.224,261.978,180.408,283.938" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Accounts  </textline>
+<textline bbox="61.224,230.278,166.881,252.238" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Reports  </textline>
+<textline bbox="61.224,198.598,364.016,220.558" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; SAL (Significant Activity Log) </textline>
+<textline bbox="61.224,166.918,201.028,188.878" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8211; Action Plan  </textline>
+<textline bbox="61.224,135.233,194.979,157.217" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.984">&#8211; Statements </textline>
+</normal_text>
+<normal_text bbox="25.200,91.412,411.927,113.372" id="4" size="21.96">&#8226; Sample Preliminary Periodic Monthly <textline bbox="25.200,91.412,411.927,113.372" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="21.960">&#8226; Sample Preliminary Periodic Monthly </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">6 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">6 </textline>
+</slide_number>
+<picture archetypal_index="0" bbox="117.000,57.600,602.880,518.400" caption="For Conceptual Purposes Only " height="460" name="Image28" src="Image28.1029x976.bmp" width="485">
+</picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="65" mean_title="[106.56963636363636, 485.64336758893285, 578.9822411067194, 506.03743083003945]" rotate="0">
-<title archetypal_index="0" bbox="151.220,503.100,543.692,521.100" id="0" size="18.0">Sample Periodic Monthly Statement (Preliminary) <textline bbox="151.220,503.100,543.692,521.100" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Sample Periodic Monthly Statement (Preliminary) </textline>
-</title>
-<normal_text archetypal_index="1" bbox="31.200,475.060,625.300,483.100" id="1" size="8.04">STATEMENT NUMBER:  0103P12001                BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     <textline bbox="31.200,475.060,625.300,483.100" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT NUMBER:  0103P12001                BUREAU OF CUSTOMS AND BORDER PROTECTION                                PAGE:     </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="264.170,464.500,649.224,483.100" id="2" size="8.04">3 
-AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY <textline bbox="644.400,475.060,649.224,483.100" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">3 </textline>
-<textline bbox="264.170,464.500,649.224,472.540" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">AUTOMATED COMMERCIAL ENVIRONMENT                   STATEMENT PRINT DATE: MM/DD/YY </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="230.810,453.940,606.286,461.980" id="3" size="8.04">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)      CLIENT BRANCH DESIGNATION: <textline bbox="230.810,453.940,606.286,461.980" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PERIODIC MONTHLY STATEMENT REPORT (PRELIMINARY)      CLIENT BRANCH DESIGNATION: </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="544.540,443.380,649.224,451.420" id="4" size="8.04">PROCESS DATE: MM/DD/YY <textline bbox="544.540,443.380,649.224,451.420" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DATE: MM/DD/YY </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="31.200,401.140,159.639,440.860" id="5" size="8.04">STATEMENT FOR:  TEST BROKER 
-IMPRT OF REC#: 
-BROKER/FILER#:     XXX 
-PROCESS DIST/PORT: DDPP <textline bbox="31.200,432.820,159.639,440.860" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT FOR:  TEST BROKER </textline>
-<textline bbox="31.200,422.260,97.819,430.300" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">IMPRT OF REC#: </textline>
-<textline bbox="31.200,411.700,135.881,419.740" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">BROKER/FILER#:     XXX </textline>
-<textline bbox="31.200,401.140,140.536,409.180" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PROCESS DIST/PORT: DDPP </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="178.580,390.580,492.285,398.620" id="6" size="8.04">ENTRY SUMMARIES DELETED AFTER PERIODIC DAILY STATEMENTS ACCEPTANCE <textline bbox="178.580,390.580,492.285,398.620" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">ENTRY SUMMARIES DELETED AFTER PERIODIC DAILY STATEMENTS ACCEPTANCE </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="216.650,358.870,439.977,388.060" id="7" size="8.04">PERIODIC DAILY 
-STATEMENT        ENTRIES DELETED  DELETE SOURCE 
-0103312001       XXX-1000001-1         ABI <textline bbox="216.650,380.020,283.269,388.060" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">PERIODIC DAILY </textline>
-<textline bbox="216.650,369.460,439.977,377.500" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">STATEMENT        ENTRIES DELETED  DELETE SOURCE </textline>
-<textline bbox="216.650,358.870,416.250,366.910" colourspace="DeviceGray" font="BCDFEE+CourierNewPS-BoldMT" ncolour="0" size="8.040">0103312001       XXX-1000001-1         ABI </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="264.580,28.036,455.524,42.076" id="8" size="14.04">For Conceptual Purposes Only <textline bbox="264.580,28.036,455.524,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">For Conceptual Purposes Only </textline>
-</normal_text>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="9" size="14.04">65 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">65 </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">7 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">7 </textline>
 </slide_number>
+<picture archetypal_index="0" bbox="117.000,57.600,602.880,518.400" caption="For Conceptual Purposes Only " height="460" name="Image31" src="Image31.1029x976.bmp" width="485">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">8 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">8 </textline>
+</slide_number>
+<picture archetypal_index="0" bbox="114.000,64.920,591.240,510.000" caption="For Conceptual Purposes Only " height="445" name="Image34" src="Image34.1025x956.bmp" width="477">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="669.000,28.036,676.806,42.076" id="1" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">9 </textline>
+</slide_number>
+<picture archetypal_index="0" bbox="126.000,64.920,603.240,510.000" caption="For Conceptual Purposes Only " height="445" name="Image37" src="Image37.1025x956.bmp" width="477">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="661.200,28.036,676.806,42.076" id="1" size="14.04">10 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">10 </textline>
+</slide_number>
+<picture archetypal_index="0" bbox="122.400,57.600,597.480,518.400" caption="For Conceptual Purposes Only " height="460" name="Image40" src="Image40.1025x956.bmp" width="475">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[45.60000000000001, 446.0454, 408.8263, 501.424]" rotate="0">
+<slide_number bbox="662.280,28.036,676.802,42.076" id="1" size="14.04">11 <textline bbox="662.280,28.036,676.802,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">11 </textline>
+</slide_number>
+<picture archetypal_index="0" bbox="112.920,57.600,606.960,518.400" caption="For Conceptual Purposes Only " height="460" name="Image34" src="Image34.0.1025x956.bmp" width="494">
+</picture>
 </page>
 </pages>

@@ -1,66 +1,244 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[112.45666666666666, 428.34400000000005, 615.4565, 513.6025000000001]" rotate="0">
-<title archetypal_index="0" bbox="87.912,418.609,641.689,527.486" id="0" size="32.048">Effect of O1 and O2 on Differential  
-Chromaticity at LowBeta (Before  
-Shutdown) <textline bbox="87.912,495.422,641.689,527.486" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Effect of O1 and O2 on Differential  </textline>
-<textline bbox="112.990,457.009,616.531,489.049" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Chromaticity at LowBeta (Before  </textline>
-<textline bbox="280.660,418.609,439.322,450.649" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Shutdown) </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="114.910,260.452,605.078,357.299" id="0" size="44.052">Study of Differential  
+Chromaticity at 150GeV <textline bbox="138.070,313.259,595.073,357.299" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="44.040">Study of Differential  </textline>
+<textline bbox="114.910,260.452,605.078,304.516" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="44.064">Chromaticity at 150GeV </textline>
 </title>
-<normal_text archetypal_index="1" bbox="323.350,332.291,372.783,360.251" id="1" size="27.96">dCh <textline bbox="323.350,332.291,372.783,360.251" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">dCh </textline>
+<normal_text archetypal_index="1" bbox="224.020,166.370,496.036,224.930" id="1" size="24.0">A.Valishev 
+Tev. Dept. Mtg 8/25/06 <textline bbox="302.500,200.930,417.748,224.930" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">A.Valishev </textline>
+<textline bbox="224.020,166.370,496.036,190.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Tev. Dept. Mtg 8/25/06 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="476.690,332.291,523.551,360.251" id="2" size="27.96">dCv <textline bbox="476.690,332.291,523.551,360.251" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">dCv </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[250.78, 445.879, 469.13, 489.919]" rotate="0">
+<title archetypal_index="0" bbox="250.780,445.879,469.130,489.919" id="0" size="44.04">Motivation <textline bbox="250.780,445.879,469.130,489.919" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="44.040">Motivation </textline>
+</title>
+<enlisting archetypal_index="1" bbox="43.2,66.615,681.87,410.508">&#8226; After shutdown, vertical chromaticity on the  &#8226; To increase the efficiency of O1(2), one  <normal_text bbox="43.200,382.524,667.682,410.508" id="1" size="27.984">&#8226; After shutdown, vertical chromaticity on the  <textline bbox="43.200,382.524,667.682,410.508">&#8226; After shutdown, vertical chromaticity on the  <text bbox="43.200,382.524,54.030,410.508" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="27.984">&#8226;</text>
+<text bbox="70.224,382.524,90.680,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">A</text>
+<text bbox="90.680,382.524,104.896,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">f</text>
+<text bbox="104.784,382.524,117.965,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="117.965,382.524,133.300,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="133.300,382.524,146.732,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">r</text>
+<text bbox="146.732,382.524,155.099,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="155.407,382.524,169.036,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">s</text>
+<text bbox="169.036,382.524,185.210,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">h</text>
+<text bbox="185.210,382.524,199.762,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">u</text>
+<text bbox="199.762,382.524,212.942,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="212.942,382.524,229.369,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">d</text>
+<text bbox="229.369,382.524,244.089,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">o</text>
+<text bbox="244.089,382.524,263.230,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">w</text>
+<text bbox="263.230,382.524,277.865,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="277.865,382.524,285.617,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">,</text>
+<text bbox="285.617,382.524,293.984,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="294.096,382.524,307.696,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">v</text>
+<text bbox="307.696,382.524,323.031,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="323.031,382.524,336.464,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">r</text>
+<text bbox="336.464,382.524,349.644,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="349.644,382.524,357.480,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="357.480,382.524,371.864,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">c</text>
+<text bbox="371.864,382.524,386.191,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">a</text>
+<text bbox="386.191,382.524,393.859,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">l</text>
+<text bbox="393.859,382.524,402.226,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="402.422,382.524,416.806,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">c</text>
+<text bbox="416.806,382.524,432.981,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">h</text>
+<text bbox="432.981,382.524,446.413,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">r</text>
+<text bbox="446.413,382.524,461.132,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">o</text>
+<text bbox="461.188,382.524,482.932,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">m</text>
+<text bbox="482.932,382.524,497.260,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">a</text>
+<text bbox="497.260,382.524,510.440,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="510.440,382.524,518.276,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="518.192,382.524,532.576,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">c</text>
+<text bbox="532.576,382.524,540.411,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="540.411,382.524,553.592,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="553.592,382.524,568.171,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">y</text>
+<text bbox="568.171,382.524,576.539,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="576.846,382.524,591.566,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">o</text>
+<text bbox="591.566,382.524,606.202,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="606.202,382.524,614.569,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="614.569,382.524,627.749,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="627.805,382.524,643.980,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">h</text>
+<text bbox="643.980,382.524,659.315,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="659.315,382.524,667.682,410.508" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+</textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="130.150,251.151,261.842,279.111" id="3" size="27.96">O1 (+40A) <textline bbox="130.150,251.151,261.842,279.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">O1 (+40A) </textline>
+<normal_text bbox="43.200,180.881,603.393,208.841" id="4" size="27.96">&#8226; To increase the efficiency of O1(2), one  <textline bbox="43.200,180.881,603.393,208.841">&#8226; To increase the efficiency of O1(2), one  <text bbox="43.200,180.881,54.021,208.841" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="27.960">&#8226;</text>
+<text bbox="70.224,180.881,89.237,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">T</text>
+<text bbox="89.237,180.881,103.944,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="103.944,180.881,112.304,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="112.304,180.881,120.133,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="120.133,180.881,134.756,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">n</text>
+<text bbox="134.756,180.881,149.127,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">c</text>
+<text bbox="149.127,180.881,162.548,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">r</text>
+<text bbox="162.548,180.881,177.870,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="177.954,180.881,192.269,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">a</text>
+<text bbox="192.269,180.881,205.886,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">s</text>
+<text bbox="205.802,180.881,221.124,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="221.124,180.881,229.484,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="229.764,180.881,242.933,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">t</text>
+<text bbox="242.933,180.881,259.094,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">h</text>
+<text bbox="259.094,180.881,274.416,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="274.500,180.881,282.860,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="282.860,180.881,298.182,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="298.182,180.881,312.386,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="312.386,180.881,326.589,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="326.589,180.881,334.418,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="334.418,180.881,348.789,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">c</text>
+<text bbox="348.789,180.881,356.618,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="356.618,180.881,371.940,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="371.940,180.881,386.563,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">n</text>
+<text bbox="386.563,180.881,400.935,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">c</text>
+<text bbox="400.935,180.881,415.502,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">y</text>
+<text bbox="415.502,180.881,423.862,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="424.226,180.881,438.933,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="438.933,180.881,453.136,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="453.136,180.881,461.496,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="461.636,180.881,483.948,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">O</text>
+<text bbox="483.948,180.881,496.530,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">1</text>
+<text bbox="496.530,180.881,506.763,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">(</text>
+<text bbox="506.763,180.881,523.819,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">2</text>
+<text bbox="523.819,180.881,534.052,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">)</text>
+<text bbox="534.052,180.881,541.797,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">,</text>
+<text bbox="541.797,180.881,550.157,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="550.297,180.881,565.004,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="565.004,180.881,579.627,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">n</text>
+<text bbox="579.627,180.881,594.949,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="595.033,180.881,603.393,208.841" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+</textline>
 </normal_text>
-<slide_number bbox="339.550,251.151,356.606,279.111" id="4" size="27.96">5 <textline bbox="339.550,251.151,356.606,279.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">5 </textline>
-</slide_number>
-<normal_text archetypal_index="4" bbox="127.870,169.381,264.063,197.341" id="6" size="27.96">O2 (+50A) <textline bbox="127.870,169.381,264.063,197.341" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">O2 (+50A) </textline>
+<normal_text bbox="70.224,301.861,604.994,383.628" id="2" size="27.968">pbar helix at LowBeta is high, which is  
+believed to increase beam-beam induced  
+losses <textline bbox="70.224,355.644,576.948,383.628" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">pbar helix at LowBeta is high, which is  </textline>
+<textline bbox="70.224,328.741,604.994,356.701" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">believed to increase beam-beam induced  </textline>
+<textline bbox="70.224,301.861,148.764,329.821" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">losses </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="329.710,169.381,366.310,197.341" id="7" size="27.96">1.5 <textline bbox="329.710,169.381,366.310,197.341" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">1.5 </textline>
+<normal_text bbox="43.200,214.481,664.514,296.221" id="3" size="27.968">&#8226; We consider possible use of O1(2) family for  
+compensation of difference between proton  
+and pbar helices <textline bbox="43.200,268.261,664.514,296.221">&#8226; We consider possible use of O1(2) family for  <text bbox="43.200,268.261,54.021,296.221" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="27.960">&#8226;</text>
+<text bbox="70.224,268.261,99.302,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">W</text>
+<text bbox="99.302,268.261,114.624,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="114.624,268.261,122.985,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="123.124,268.261,137.496,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">c</text>
+<text bbox="137.496,268.261,152.203,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="152.203,268.261,166.826,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">n</text>
+<text bbox="166.910,268.261,180.526,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">s</text>
+<text bbox="180.526,268.261,188.355,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="188.271,268.261,204.684,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">d</text>
+<text bbox="204.684,268.261,220.006,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="220.006,268.261,233.427,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">r</text>
+<text bbox="233.482,268.261,241.842,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="241.982,268.261,256.941,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">p</text>
+<text bbox="256.941,268.261,271.648,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="271.704,268.261,285.320,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">s</text>
+<text bbox="285.320,268.261,298.937,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">s</text>
+<text bbox="298.825,268.261,306.654,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="306.654,268.261,323.234,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">b</text>
+<text bbox="323.234,268.261,330.895,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">l</text>
+<text bbox="330.895,268.261,346.217,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="346.217,268.261,354.577,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="354.829,268.261,369.368,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">u</text>
+<text bbox="369.368,268.261,382.985,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">s</text>
+<text bbox="382.985,268.261,398.307,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">e</text>
+<text bbox="398.307,268.261,406.667,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="406.667,268.261,421.374,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="421.374,268.261,435.577,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="435.577,268.261,443.937,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="444.077,268.261,466.389,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">O</text>
+<text bbox="466.389,268.261,478.971,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">1</text>
+<text bbox="478.971,268.261,489.205,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">(</text>
+<text bbox="489.205,268.261,506.260,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">2</text>
+<text bbox="506.260,268.261,516.494,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">)</text>
+<text bbox="516.494,268.261,524.854,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="525.049,268.261,539.253,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="539.253,268.261,553.569,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">a</text>
+<text bbox="553.569,268.261,575.293,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">m</text>
+<text bbox="575.210,268.261,583.038,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">i</text>
+<text bbox="583.038,268.261,590.699,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">l</text>
+<text bbox="590.699,268.261,605.267,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">y</text>
+<text bbox="605.267,268.261,613.627,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+<text bbox="613.822,268.261,628.026,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">f</text>
+<text bbox="628.026,268.261,642.733,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">o</text>
+<text bbox="642.733,268.261,656.154,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">r</text>
+<text bbox="656.154,268.261,664.514,296.221" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960"> </text>
+</textline>
+<textline bbox="70.224,241.374,652.347,269.358" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">compensation of difference between proton  </textline>
+<textline bbox="70.224,214.481,282.301,242.441" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">and pbar helices </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="73.224,74.904,234.938,98.904" id="9" size="24.0">dC = dCp - dCa <textline bbox="73.224,74.904,234.938,98.904" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">dC = dCp - dCa </textline>
-</normal_text>
-<enlisting archetypal_index="7" bbox="473.71,169.381,526.423,279.111">-4 -2.5 <normal_text bbox="485.710,251.151,514.406,279.111" id="5" size="27.96">-4 <textline bbox="485.710,251.151,514.406,279.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">-4 </textline>
-</normal_text>
-<normal_text bbox="473.710,169.381,526.423,197.341" id="8" size="27.96">-2.5 <textline bbox="473.710,169.381,526.423,197.341" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">-2.5 </textline>
+<normal_text bbox="43.200,66.615,681.870,181.961" id="5" size="27.966">needs to flip polarities of several octupoles 
+&#8226; Since this family is used at injection energy, a  
+measurement of its effect on differential  
+chromaticity was required <textline bbox="70.224,154.001,637.476,181.961" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">needs to flip polarities of several octupoles </textline>
+<textline bbox="43.200,120.394,681.870,148.378">&#8226; Since this family is used at injection energy, a  <text bbox="43.200,120.394,54.030,148.378" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="27.984">&#8226;</text>
+<text bbox="70.224,120.394,89.617,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">S</text>
+<text bbox="89.617,120.394,97.452,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="97.452,120.394,112.088,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="112.088,120.394,126.472,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">c</text>
+<text bbox="126.472,120.394,141.807,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="141.807,120.394,150.174,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="150.230,120.394,163.411,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="163.411,120.394,179.585,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">h</text>
+<text bbox="179.585,120.394,187.421,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="187.421,120.394,201.049,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">s</text>
+<text bbox="201.049,120.394,209.416,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="209.416,120.394,223.632,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">f</text>
+<text bbox="223.632,120.394,237.960,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">a</text>
+<text bbox="237.820,120.394,259.564,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">m</text>
+<text bbox="259.564,120.394,267.399,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="267.399,120.394,275.067,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">l</text>
+<text bbox="275.067,120.394,289.647,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">y</text>
+<text bbox="289.535,120.394,297.902,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="298.266,120.394,306.101,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="306.101,120.394,319.729,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">s</text>
+<text bbox="319.617,120.394,327.985,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="328.097,120.394,342.648,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">u</text>
+<text bbox="342.648,120.394,356.276,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">s</text>
+<text bbox="356.165,120.394,371.500,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="371.500,120.394,387.926,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">d</text>
+<text bbox="387.926,120.394,396.294,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="396.461,120.394,410.789,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">a</text>
+<text bbox="410.789,120.394,423.970,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="423.970,120.394,432.337,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="432.421,120.394,440.256,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="440.256,120.394,454.892,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="454.892,120.394,466.170,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">j</text>
+<text bbox="466.170,120.394,481.505,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="481.505,120.394,495.889,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">c</text>
+<text bbox="495.889,120.394,509.069,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">t</text>
+<text bbox="509.069,120.394,516.905,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">i</text>
+<text bbox="516.905,120.394,531.624,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">o</text>
+<text bbox="531.624,120.394,546.260,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="546.260,120.394,554.627,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="554.795,120.394,570.130,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="570.130,120.394,584.766,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">n</text>
+<text bbox="584.766,120.394,600.101,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">e</text>
+<text bbox="600.101,120.394,613.533,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">r</text>
+<text bbox="613.533,120.394,628.393,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">g</text>
+<text bbox="628.393,120.394,642.973,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">y</text>
+<text bbox="642.973,120.394,650.724,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">,</text>
+<text bbox="650.724,120.394,659.091,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+<text bbox="659.175,120.394,673.503,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">a</text>
+<text bbox="673.503,120.394,681.870,148.378" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984"> </text>
+</textline>
+<textline bbox="70.224,93.491,628.166,121.451" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">measurement of its effect on differential  </textline>
+<textline bbox="70.224,66.615,410.973,94.575" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">chromaticity was required </textline>
 </normal_text>
 </enlisting></page>
-<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[87.6628, 426.78280000000007, 641.8659, 513.1219]" rotate="0">
-<title archetypal_index="0" bbox="50.472,424.441,681.480,512.401" id="0" size="39.96">Possible Changes to the Octupole  
-Families <textline bbox="50.472,472.441,681.480,512.401" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="39.960">Possible Changes to the Octupole  </textline>
-<textline bbox="284.860,424.441,435.309,464.401" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="39.960">Families </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[137.00133333333335, 438.079, 589.224, 499.71900000000005]" rotate="0">
+<title archetypal_index="0" bbox="80.112,434.179,649.271,504.619" id="0" size="32.04">Differential Chromaticity at LowBeta  
+Before Shutdown <textline bbox="80.112,472.579,649.271,504.619" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Differential Chromaticity at LowBeta  </textline>
+<textline bbox="229.900,434.179,489.969,466.219" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Before Shutdown </textline>
 </title>
-<normal_text archetypal_index="1" bbox="71.976,140.150,117.028,158.150" id="1" size="18.0">O1- 6 <textline bbox="71.976,140.150,117.028,158.150" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">O1- 6 </textline>
+<normal_text archetypal_index="1" bbox="169.220,386.980,304.052,410.980" id="1" size="24.0">Proton helix <textline bbox="169.220,386.980,304.052,410.980" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Proton helix </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="414.020,140.150,548.186,158.150" id="2" size="18.0">O2 &#8211; 3,4,9,12,15 <textline bbox="414.020,140.150,548.186,158.150" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">O2 &#8211; 3,4,9,12,15 </textline>
+<normal_text archetypal_index="2" bbox="493.300,392.980,676.612,416.980" id="2" size="24.0">Antiproton helix <textline bbox="493.300,392.980,676.612,416.980" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Antiproton helix </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="25.200,76.314,169.160,94.314" id="3" size="18.0">dCh = 6.2 (5) -&gt; 9 <textline bbox="25.200,76.314,169.160,94.314" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="18.000">dCh = 6.2 (5) -&gt; 9 </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="25.200,33.114,190.040,51.114" id="4" size="18.0">dCv = -2.0 (-4) -&gt; -3 <textline bbox="25.200,33.114,190.040,51.114" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="18.000">dCv = -2.0 (-4) -&gt; -3 </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="415.270,70.314,589.858,88.314" id="5" size="18.0">dCh = 0.5 (1.5)  -&gt; 1.9 <textline bbox="415.270,70.314,589.858,88.314" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="18.000">dCh = 0.5 (1.5)  -&gt; 1.9 </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="415.270,27.114,608.238,45.114" id="6" size="18.0">dCv = -1.5 (-2.5) -&gt; -5.7 <textline bbox="415.270,27.114,608.238,45.114" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="18.000">dCv = -1.5 (-2.5) -&gt; -5.7 </textline>
-</normal_text>
-</page>
-<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[85.93619047619048, 426.2084285714286, 643.5784761904762, 515.2014285714286]" rotate="0">
-<title archetypal_index="0" bbox="87.912,418.609,641.689,527.486" id="0" size="32.048">Effect of O1 and O2 on Differential  
-Chromaticity at LowBeta (After  
-Shutdown) <textline bbox="87.912,495.422,641.689,527.486" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Effect of O1 and O2 on Differential  </textline>
-<textline bbox="121.030,457.009,608.583,489.049" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Chromaticity at LowBeta (After  </textline>
-<textline bbox="280.660,418.609,439.322,450.649" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Shutdown) </textline>
+<picture archetypal_index="3" bbox="0.0,63.72,720.0,378.0" caption="&#10;Ch=6.5 Cv=12.4 &#10;Ch=11.2 Cv=11.7 " combined_sources="['Image18.658x547.bmp', 'Image19.658x547.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[85.14586666666668, 429.2482, 644.3342666666666, 510.2876]" rotate="0">
+<title archetypal_index="0" bbox="80.112,434.179,649.271,504.619" id="0" size="32.04">Differential Chromaticity at LowBeta  
+After Shutdown (6/10/06) <textline bbox="80.112,472.579,649.271,504.619" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">Differential Chromaticity at LowBeta  </textline>
+<textline bbox="158.710,434.179,561.261,466.219" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.040">After Shutdown (6/10/06) </textline>
 </title>
-<normal_text archetypal_index="1" bbox="323.350,326.291,372.783,354.251" id="1" size="27.96">dCh <textline bbox="323.350,326.291,372.783,354.251" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">dCh </textline>
+<normal_text archetypal_index="1" bbox="169.220,386.980,304.052,410.980" id="1" size="24.0">Proton helix <textline bbox="169.220,386.980,304.052,410.980" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Proton helix </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="476.690,326.291,523.551,354.251" id="2" size="27.96">dCv <textline bbox="476.690,326.291,523.551,354.251" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">dCv </textline>
+<normal_text archetypal_index="2" bbox="493.300,392.980,676.612,416.980" id="2" size="24.0">Antiproton helix <textline bbox="493.300,392.980,676.612,416.980" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">Antiproton helix </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="131.110,245.151,261.083,273.111" id="3" size="27.96">O1 (-40A) <textline bbox="131.110,245.151,261.083,273.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">O1 (-40A) </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="329.710,245.151,366.310,273.111" id="4" size="27.96">1.4 <textline bbox="329.710,245.151,366.310,273.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">1.4 </textline>
-</normal_text>
-<enlisting archetypal_index="5" bbox="473.710,245.151,526.423,273.111" id="5" size="27.96">-4.7 <textline bbox="473.710,245.151,526.423,273.111" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.960">-4.7 </textline>
-</enlisting>
-<normal_text archetypal_index="6" bbox="73.224,68.904,234.938,92.904" id="6" size="24.0">dC = dCp - dCa <textline bbox="73.224,68.904,234.938,92.904" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">dC = dCp - dCa </textline>
-</normal_text>
-</page>
+<picture archetypal_index="3" bbox="0.0,64.08,720.0,378.0" caption="&#10;Ch=10.7 Cv=8.6 &#10;Ch=5.0 Cv=20.5 " combined_sources="['Image42.654x543.bmp', 'Image43.654x543.bmp']" name="combined_0" src="combined_6_0.png" /></page>
 </pages>

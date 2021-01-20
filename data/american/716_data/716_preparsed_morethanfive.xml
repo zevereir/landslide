@@ -1,144 +1,115 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[257.86, 489.584, 470.454, 517.568]" rotate="0">
-<title archetypal_index="0" bbox="257.860,489.584,470.454,517.568" id="0" size="27.984">Store Summary  <textline bbox="257.860,489.584,470.454,517.568" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="27.984">Store Summary  </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="165.190,330.209,554.957,400.649" id="0" size="32.04">Weekly Summary 
+Tevatron Department Meeting <textline bbox="243.820,368.609,476.110,400.649" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Weekly Summary </textline>
+<textline bbox="165.190,330.209,554.957,362.249" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.040">Tevatron Department Meeting </textline>
 </title>
-<normal_text archetypal_index="1" bbox="27.048,384.880,59.784,396.880" id="1" size="12.0">Store <textline bbox="27.048,384.880,59.784,396.880" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Store </textline>
+<normal_text archetypal_index="1" bbox="272.980,209.081,446.947,229.121" id="1" size="20.04">Tevatron Coordinator <textline bbox="272.980,209.081,446.947,229.121" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">Tevatron Coordinator </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="85.272,363.273,119.388,418.480" id="2" size="12.006">Avg  
-Init.  
-Lumi  
-(E30) <textline bbox="90.192,406.480,116.400,418.480" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Avg  </textline>
-<textline bbox="87.192,392.080,119.388,404.080" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Init.  </textline>
-<textline bbox="87.912,377.680,118.656,389.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Lumi  </textline>
-<textline bbox="85.272,363.273,116.210,375.297" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.024">(E30) </textline>
+<normal_text archetypal_index="2" bbox="319.800,156.281,405.331,176.321" id="2" size="20.04">Dean Still  <textline bbox="319.800,156.281,405.331,176.321" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">Dean Still  </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="142.300,363.273,179.920,418.480" id="3" size="12.006">Avg  
-Deliv&#8217;d 
-Lumi 
-(nb-1) <textline bbox="150.580,406.480,176.788,418.480" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Avg  </textline>
-<textline bbox="142.300,392.080,179.920,404.080" colourspace="DeviceGray" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="12.000">Deliv&#8217;d </textline>
-<textline bbox="148.300,377.680,173.836,389.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Lumi </textline>
-<textline bbox="145.060,363.273,177.081,376.026">(nb-1) <text bbox="145.060,363.273,149.461,375.297" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.024">(</text>
-<text bbox="149.485,363.273,155.773,375.297" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.024">n</text>
-<text bbox="155.725,363.273,162.856,375.297" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.024">b</text>
-<text bbox="162.840,367.962,167.759,376.026" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="8.064">-</text>
-<text bbox="167.760,367.962,172.679,376.026" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="8.064">1</text>
-<text bbox="172.680,363.273,177.081,375.297" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.024">)</text>
-</textline>
+<normal_text archetypal_index="3" bbox="272.980,103.451,446.907,123.491" id="3" size="20.04">Friday, May 14, 2010 <textline bbox="272.980,103.451,446.907,123.491" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">Friday, May 14, 2010 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="199.800,377.680,232.824,404.080" id="4" size="12.0">Time  
-(hr) <textline bbox="199.800,392.080,232.824,404.080" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Time  </textline>
-<textline bbox="202.920,377.680,224.436,389.680" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">(hr) </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[281.54, 484.7373333333333, 481.25933333333336, 515.4413333333333]" rotate="0">
+<title archetypal_index="0" bbox="293.380,482.314,486.662,514.378" id="0" size="32.064">Store Numbers <textline bbox="293.380,482.314,486.662,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Store Numbers </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,9.706,230.042,23.770" id="1" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="249.600,384.880,342.516,396.880" id="5" size="12.0">How did it end? <textline bbox="249.600,384.880,342.516,396.880" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">How did it end? </textline>
+<normal_text archetypal_index="2" bbox="331.200,9.706,394.797,23.770" id="2" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="502.580,384.880,559.520,396.880" id="6" size="12.0">Comments <textline bbox="502.580,384.880,559.520,396.880" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="12.000">Comments </textline>
-</normal_text>
-<slide_number bbox="28.824,330.880,58.104,342.880" id="7" size="12.0">7798 <textline bbox="28.824,330.880,58.104,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7798 </textline>
+<slide_number bbox="651.720,9.706,658.752,23.770" id="3" size="14.064">3 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">3 </textline>
 </slide_number>
-<slide_number bbox="146.400,330.880,175.680,342.880" id="9" size="12.0">8507 <textline bbox="146.400,330.880,175.680,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">8507 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[259.26, 483.52566666666667, 512.1131666666666, 514.9096666666667]" rotate="0">
+<title archetypal_index="0" bbox="236.980,482.314,542.967,514.378" id="0" size="32.064">HEP Particle Intensities <textline bbox="236.980,482.314,542.967,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">HEP Particle Intensities </textline>
+</title>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[246.796, 483.041, 527.9694999999999, 514.697]" rotate="0">
+<title archetypal_index="0" bbox="228.100,482.314,551.754,514.378" id="0" size="32.064">HEP Effective Emittance <textline bbox="228.100,482.314,551.754,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">HEP Effective Emittance </textline>
+</title>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[252.724, 482.79866666666663, 523.7853333333334, 514.5906666666667]" rotate="0">
+<title archetypal_index="0" bbox="264.580,482.314,515.417,514.378" id="0" size="32.064">HEP Bunch Length <textline bbox="264.580,482.314,515.417,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">HEP Bunch Length </textline>
+</title>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[272.74571428571426, 482.29104761904756, 504.8195238095238, 514.1607619047619]" rotate="0">
+<title archetypal_index="0" bbox="322.800,481.022,457.405,513.086" id="0" size="32.064">Problems <textline bbox="322.800,481.022,457.405,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Problems </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,9.706,230.042,23.770" id="4" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="331.200,9.706,394.797,23.770" id="5" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="651.720,9.706,658.752,23.770" id="6" size="14.064">7 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">7 </textline>
 </slide_number>
-<slide_number bbox="28.824,302.120,58.104,314.120" id="13" size="12.0">7799 <textline bbox="28.824,302.120,58.104,314.120" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7799 </textline>
+<enlisting archetypal_index="3" bbox="61.224,254.696,617.994,413.971">&#8226; Still have both Pbar and Proton Longitudinal blow ups 
+&#8226; Quench D34L ; No beam loss; Not fully understood. Low quench  &#8226; High Proton halo losses at start of store. 
+&#8226; Store loss due to lightning. 
+&#8226; Pbar vert emit growth at int collision and scalloping. <normal_text bbox="61.224,365.126,617.994,413.971" id="1" size="20.052">&#8226; Still have both Pbar and Proton Longitudinal blow ups 
+&#8226; Quench D34L ; No beam loss; Not fully understood. Low quench  <textline bbox="61.224,393.931,524.274,413.971" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Still have both Pbar and Proton Longitudinal blow ups </textline>
+<textline bbox="61.224,365.126,617.994,385.190" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226; Quench D34L ; No beam loss; Not fully understood. Low quench  </textline>
+</normal_text>
+<normal_text bbox="61.224,254.696,507.943,332.341" id="3" size="20.048">&#8226; High Proton halo losses at start of store. 
+&#8226; Store loss due to lightning. 
+&#8226; Pbar vert emit growth at int collision and scalloping. <textline bbox="61.224,312.301,407.642,332.341" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; High Proton halo losses at start of store. </textline>
+<textline bbox="61.224,283.501,303.113,303.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Store loss due to lightning. </textline>
+<textline bbox="61.224,254.696,507.943,274.760" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226; Pbar vert emit growth at int collision and scalloping. </textline>
+</normal_text>
+<normal_text bbox="88.224,341.101,231.229,361.141" id="2" size="20.04">threshold magent. <textline bbox="88.224,341.101,231.229,361.141" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">threshold magent. </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[254.6242857142857, 481.9737857142857, 523.5651428571429, 513.8920714285714]" rotate="0">
+<title archetypal_index="0" bbox="200.260,481.022,579.802,513.086" id="0" size="32.064">Studies/Work Completed <textline bbox="200.260,481.022,579.802,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Studies/Work Completed </textline>
+</title>
+<enlisting archetypal_index="1" bbox="61.224,336.301,365.698,356.341" id="1" size="20.04">&#8226; Proton only store to smooth orbits. <textline bbox="61.224,336.301,365.698,356.341" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Proton only store to smooth orbits. </textline>
+</enlisting>
+<normal_text archetypal_index="2" bbox="61.224,9.706,230.042,23.770" id="2" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="331.200,9.706,394.797,23.770" id="3" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="651.720,9.706,658.752,23.770" id="4" size="14.064">8 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">8 </textline>
 </slide_number>
-<slide_number bbox="146.660,302.120,175.940,314.120" id="15" size="12.0">8685 <textline bbox="146.660,302.120,175.940,314.120" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">8685 </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[259.93, 482.59183333333334, 518.6566666666666, 513.6358333333333]" rotate="0">
+<title archetypal_index="0" bbox="278.500,484.755,501.477,512.739" id="0" size="27.984">Luminosity Integral <textline bbox="278.500,484.755,501.477,512.739" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="27.984">Luminosity Integral </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,9.706,230.042,23.770" id="1" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</normal_text>
+<slide_number bbox="651.720,9.706,658.752,23.770" id="3" size="14.064">9 <textline bbox="651.720,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">9 </textline>
 </slide_number>
-<slide_number bbox="28.824,244.620,58.104,256.620" id="18" size="12.0">7804 <textline bbox="28.824,244.620,58.104,256.620" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7804 </textline>
+<picture archetypal_index="2" bbox="156.000,48.000,552.000,444.000" caption="11/30/2020 " height="396" name="Image47" src="Image47.600x600.bmp" width="396">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[267.148, 482.5362666666667, 511.74673333333334, 513.7842666666667]" rotate="0">
+<title archetypal_index="0" bbox="296.020,482.314,484.107,514.378" id="0" size="32.064">Study requests <textline bbox="296.020,482.314,484.107,514.378" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="32.064">Study requests </textline>
+</title>
+<normal_text archetypal_index="1" bbox="61.224,9.706,230.042,23.770" id="6" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="331.200,9.706,394.797,23.770" id="7" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+</normal_text>
+<slide_number bbox="644.640,9.706,658.752,23.770" id="8" size="14.064">10 <textline bbox="644.640,9.706,658.752,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">10 </textline>
 </slide_number>
-<slide_number bbox="146.400,244.620,175.680,256.620" id="20" size="12.0">7276 <textline bbox="146.400,244.620,175.680,256.620" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7276 </textline>
-</slide_number>
-<slide_number bbox="28.824,273.370,58.104,285.370" id="23" size="12.0">7802 <textline bbox="28.824,273.370,58.104,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7802 </textline>
-</slide_number>
-<slide_number bbox="147.410,273.370,174.770,285.370" id="25" size="12.0">3751 <textline bbox="147.410,273.370,174.770,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">3751 </textline>
-</slide_number>
-<slide_number bbox="28.824,216.850,58.104,228.850" id="29" size="12.0">7805 <textline bbox="28.824,216.850,58.104,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7805 </textline>
-</slide_number>
-<slide_number bbox="147.410,216.850,174.770,228.850" id="31" size="12.0">7912 <textline bbox="147.410,216.850,174.770,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7912 </textline>
-</slide_number>
-<slide_number bbox="28.824,189.110,58.104,201.110" id="35" size="12.0">7806 <textline bbox="28.824,189.110,58.104,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7806 </textline>
-</slide_number>
-<slide_number bbox="147.410,189.110,174.770,201.110" id="37" size="12.0">8016 <textline bbox="147.410,189.110,174.770,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">8016 </textline>
-</slide_number>
-<slide_number bbox="28.824,161.473,58.119,173.497" id="41" size="12.024">7807 <textline bbox="28.824,161.473,58.119,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">7807 </textline>
-</slide_number>
-<slide_number bbox="28.824,133.840,58.104,145.840" id="42" size="12.0">7808 <textline bbox="28.824,133.840,58.104,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7808 </textline>
-</slide_number>
-<slide_number bbox="89.712,161.473,111.687,173.497" id="43" size="12.024">335 <textline bbox="89.712,161.473,111.687,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">335 </textline>
-</slide_number>
-<slide_number bbox="89.712,133.840,111.672,145.840" id="44" size="12.0">360 <textline bbox="89.712,133.840,111.672,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">360 </textline>
-</slide_number>
-<slide_number bbox="30.744,101.460,56.184,113.460" id="45" size="12.0">7811 <textline bbox="30.744,101.460,56.184,113.460" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">7811 </textline>
-</slide_number>
-<slide_number bbox="89.808,101.460,111.768,113.460" id="46" size="12.0">293 <textline bbox="89.808,101.460,111.768,113.460" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">293 </textline>
-</slide_number>
-<slide_number bbox="146.400,161.473,175.695,173.497" id="47" size="12.024">7605 <textline bbox="146.400,161.473,175.695,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">7605 </textline>
-</slide_number>
-<slide_number bbox="146.400,133.840,175.680,145.840" id="51" size="12.0">5939 <textline bbox="146.400,133.840,175.680,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">5939 </textline>
-</slide_number>
-<normal_text archetypal_index="7" bbox="61.224,9.706,230.042,23.770" id="57" size="14.064">Tevatron Coordinator - FNAL <textline bbox="61.224,9.706,230.042,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">Tevatron Coordinator - FNAL </textline>
+<enlisting archetypal_index="3" bbox="61.224,144.281,652.711,413.971">&#8226; TEL-2 abort gap cleaning test (EOS 1 hour) 
+&#8226; 150gev Chrom Study (2 hours- dedicated at 150gev, Tan) 
+&#8226; Aperture scans at B0 and D0 
+&#8226; Ping beam at low field to measure coupling with protons on the pbar  &#8226; Tune mults calibration. &#8226; Pbar only store once luminosity is better to document conditions. 
+&#8226; Lattice measurements at Flattop and Sequence 14 and on pbar helix at  <normal_text bbox="61.224,307.501,641.248,413.971" id="1" size="20.046">&#8226; TEL-2 abort gap cleaning test (EOS 1 hour) 
+&#8226; 150gev Chrom Study (2 hours- dedicated at 150gev, Tan) 
+&#8226; Aperture scans at B0 and D0 
+&#8226; Ping beam at low field to measure coupling with protons on the pbar  <textline bbox="61.224,393.931,439.795,413.971" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; TEL-2 abort gap cleaning test (EOS 1 hour) </textline>
+<textline bbox="61.224,365.126,549.452,385.190" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226; 150gev Chrom Study (2 hours- dedicated at 150gev, Tan) </textline>
+<textline bbox="61.224,336.301,318.604,356.341" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Aperture scans at B0 and D0 </textline>
+<textline bbox="61.224,307.501,641.248,327.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">&#8226; Ping beam at low field to measure coupling with protons on the pbar  </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="331.200,9.706,394.797,23.770" id="58" size="14.064">11/30/2020 <textline bbox="331.200,9.706,394.797,23.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">11/30/2020 </textline>
+<normal_text bbox="61.224,254.696,274.217,274.760" id="3" size="20.064">&#8226; Tune mults calibration. <textline bbox="61.224,254.696,274.217,274.760" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.064">&#8226; Tune mults calibration. </textline>
 </normal_text>
-<enlisting archetypal_index="9" bbox="84.528,94.26,694.012,342.88">371.5 391.4 319.7 380.7 376.2 357.5 17.3 16.4 16.7 4.3 14.8 16.4 15.5 9.1 <normal_text bbox="84.528,94.26,694.012,342.88">371.5 391.4 319.7 380.7 376.2 357.5 <normal_text bbox="85.512,330.880,115.860,342.880" id="8" size="12.0">371.5 <textline bbox="85.512,330.880,115.860,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">371.5 </textline>
+<normal_text bbox="61.224,168.281,652.711,217.121" id="4" size="20.04">&#8226; Pbar only store once luminosity is better to document conditions. 
+&#8226; Lattice measurements at Flattop and Sequence 14 and on pbar helix at  <textline bbox="61.224,197.081,608.402,217.121" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 1)" size="20.040">&#8226; Pbar only store once luminosity is better to document conditions. </textline>
+<textline bbox="61.224,168.281,652.711,188.321" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 1)" size="20.040">&#8226; Lattice measurements at Flattop and Sequence 14 and on pbar helix at  </textline>
 </normal_text>
-<normal_text bbox="85.608,302.120,115.956,314.120" id="14" size="12.0">391.4 <textline bbox="85.608,302.120,115.956,314.120" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">391.4 </textline>
+<normal_text bbox="88.224,283.501,128.304,303.541" id="2" size="20.04">helix <textline bbox="88.224,283.501,128.304,303.541" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="20.040">helix </textline>
 </normal_text>
-<normal_text bbox="85.608,244.620,115.956,256.620" id="19" size="12.0">319.7 <textline bbox="85.608,244.620,115.956,256.620" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">319.7 </textline>
+<normal_text bbox="88.224,144.281,169.446,164.321" id="5" size="20.04">Collisions <textline bbox="88.224,144.281,169.446,164.321" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 1)" size="20.040">Collisions </textline>
 </normal_text>
-<normal_text bbox="84.648,273.370,116.916,285.370" id="24" size="12.0">380.7 <textline bbox="84.648,273.370,116.916,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">380.7 </textline>
-</normal_text>
-<normal_text bbox="84.528,216.850,116.796,228.850" id="30" size="12.0">376.2 <textline bbox="84.528,216.850,116.796,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">376.2 </textline>
-</normal_text>
-<normal_text bbox="84.528,189.110,116.796,201.110" id="36" size="12.0">357.5 <textline bbox="84.528,189.110,116.796,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">357.5 </textline>
-</normal_text>
-<normal_text bbox="264.940,189.110,327.268,201.110" id="39" size="12.0">Intentional <textline bbox="264.940,189.110,327.268,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Intentional </textline>
-</normal_text>
-<normal_text bbox="408.820,189.110,653.116,201.110" id="40" size="12.0">Hi proton halo losses; D49V change; smooth <textline bbox="408.820,189.110,653.116,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Hi proton halo losses; D49V change; smooth </textline>
-</normal_text>
-<normal_text bbox="264.940,161.473,327.272,173.497" id="49" size="12.024">Intentional <textline bbox="264.940,161.473,327.272,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">Intentional </textline>
-</normal_text>
-<normal_text bbox="385.320,161.473,676.878,173.497" id="50" size="12.024">Hi p&amp;pbar halo loss;pbar v emit blew in int collisions. <textline bbox="385.320,161.473,676.878,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">Hi p&amp;pbar halo loss;pbar v emit blew in int collisions. </textline>
-</normal_text>
-<normal_text bbox="279.240,133.840,312.948,145.840" id="53" size="12.0">Abort <textline bbox="279.240,133.840,312.948,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Abort </textline>
-</normal_text>
-<normal_text bbox="443.620,133.840,618.964,145.840" id="54" size="12.0">Smoothed; lost due to lightning <textline bbox="443.620,133.840,618.964,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Smoothed; lost due to lightning </textline>
-</normal_text>
-<normal_text bbox="371.620,94.260,694.012,120.660" id="56" size="12.0">Smoothed made changes to tunes to stop scalloping; shot  
-from small stash due to MI access <textline bbox="371.620,108.660,694.012,120.660" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Smoothed made changes to tunes to stop scalloping; shot  </textline>
-<textline bbox="434.500,94.260,627.436,106.260" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">from small stash due to MI access </textline>
-</normal_text>
-<normal_text bbox="264.840,330.880,327.168,342.880" id="11" size="12.0">Intentional <textline bbox="264.840,330.880,327.168,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Intentional </textline>
-</normal_text>
-<normal_text bbox="432.720,330.880,629.436,342.880" id="12" size="12.0">First store after 12 hour shutdown <textline bbox="432.720,330.880,629.436,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">First store after 12 hour shutdown </textline>
-</normal_text>
-<normal_text bbox="264.840,302.120,327.168,314.120" id="17" size="12.0">Intentional <textline bbox="264.840,302.120,327.168,314.120" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Intentional </textline>
-</normal_text>
-<normal_text bbox="264.840,244.620,327.168,256.620" id="22" size="12.0">Intentional <textline bbox="264.840,244.620,327.168,256.620" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Intentional </textline>
-</normal_text>
-<normal_text bbox="274.560,273.370,317.244,285.370" id="27" size="12.0">Quench <textline bbox="274.560,273.370,317.244,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Quench </textline>
-</normal_text>
-<normal_text bbox="430.780,273.370,631.288,285.370" id="28" size="12.0">Quench D34L; Not fully understood <textline bbox="430.780,273.370,631.288,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Quench D34L; Not fully understood </textline>
-</normal_text>
-<normal_text bbox="264.940,216.850,327.268,228.850" id="33" size="12.0">Intentional <textline bbox="264.940,216.850,327.268,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Intentional </textline>
-</normal_text>
-<normal_text bbox="419.140,216.850,642.868,228.850" id="34" size="12.0">Moved to shooting from smaller stashes <textline bbox="419.140,216.850,642.868,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">Moved to shooting from smaller stashes </textline>
-</normal_text>
-<normal_text bbox="271.920,101.460,320.052,113.460" id="55" size="12.0">On going <textline bbox="271.920,101.460,320.052,113.460" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">On going </textline>
-</normal_text>
-</normal_text><normal_text bbox="202.22,133.84,225.368,342.88">17.3 16.4 16.7 4.3 14.8 16.4 15.5 9.1 <normal_text bbox="202.220,330.880,225.248,342.880" id="10" size="12.0">17.3 <textline bbox="202.220,330.880,225.248,342.880" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">17.3 </textline>
-</normal_text>
-<normal_text bbox="202.340,302.120,225.368,314.120" id="16" size="12.0">16.4 <textline bbox="202.340,302.120,225.368,314.120" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">16.4 </textline>
-</normal_text>
-<normal_text bbox="202.220,244.620,225.248,256.620" id="21" size="12.0">16.7 <textline bbox="202.220,244.620,225.248,256.620" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">16.7 </textline>
-</normal_text>
-<normal_text bbox="204.910,273.370,222.538,285.370" id="26" size="12.0">4.3 <textline bbox="204.910,273.370,222.538,285.370" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">4.3 </textline>
-</normal_text>
-<normal_text bbox="202.220,216.850,225.248,228.850" id="32" size="12.0">14.8 <textline bbox="202.220,216.850,225.248,228.850" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">14.8 </textline>
-</normal_text>
-<normal_text bbox="202.220,189.110,225.248,201.110" id="38" size="12.0">16.4 <textline bbox="202.220,189.110,225.248,201.110" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">16.4 </textline>
-</normal_text>
-<normal_text bbox="202.220,161.473,225.294,173.497" id="48" size="12.024">15.5 <textline bbox="202.220,161.473,225.294,173.497" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">15.5 </textline>
-</normal_text>
-<normal_text bbox="205.920,133.840,221.628,145.840" id="52" size="12.0">9.1 <textline bbox="205.920,133.840,221.628,145.840" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="12.000">9.1 </textline>
-</normal_text>
-</normal_text></enlisting></page>
+</enlisting></page>
 </pages>

@@ -1,323 +1,86 @@
 <pages>
-<page bbox="0.000,0.000,810.000,540.000" id="3" mean_title="[223.22, 481.795, 595.312, 517.819]" rotate="0">
-<title archetypal_index="0" bbox="223.220,481.795,595.312,517.819" id="0" size="36.024">Biodiversity Hotspots <textline bbox="223.220,481.795,595.312,517.819" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.024">Biodiversity Hotspots </textline>
+<page bbox="0.000,0.000,810.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="93.768,357.583,763.737,493.668" id="0" size="39.967999999999996">Putting process on the map: why  
+ecological gradients are important for  
+preserving biodiversity <textline bbox="132.790,453.708,724.238,493.668" colourspace="Pattern" font="ArialMT" ncolour="(0.98, 0.992, 0)" size="39.960">Putting process on the map: why  </textline>
+<textline bbox="93.768,405.708,763.737,445.668" colourspace="Pattern" font="ArialMT" ncolour="(0.98, 0.992, 0)" size="39.960">ecological gradients are important for  </textline>
+<textline bbox="223.990,357.583,621.911,397.567" colourspace="Pattern" font="ArialMT" ncolour="(0.98, 0.992, 0)" size="39.984">preserving biodiversity </textline>
 </title>
-<picture archetypal_index="1" bbox="13.560,263.040,183.360,492.000" height="228" name="Image27" src="Image27.151x229.bmp" width="169">
+<normal_text archetypal_index="1" bbox="118.030,100.103,708.322,195.268" id="1" size="27.968">Tom Smith, Sassan Saatchi, Bob Wayne, Chris  
+Schneider, Catherine Graham,Borja Mila,  
+Wolfgang Buermann and John Pollinger <textline bbox="118.030,167.308,708.322,195.268" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">Tom Smith, Sassan Saatchi, Bob Wayne, Chris  </textline>
+<textline bbox="153.790,133.708,672.476,161.668" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">Schneider, Catherine Graham,Borja Mila,  </textline>
+<textline bbox="161.830,100.103,656.999,128.087" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.984">Wolfgang Buermann and John Pollinger </textline>
+</normal_text>
+</page>
+<page bbox="0.000,0.000,810.000,540.000" id="2" rotate="0">
+<picture archetypal_index="0" bbox="0.0,0.0,822.0,540.0" caption="" combined_sources="['Image21.jpg', 'Image22.jpg']" name="combined_0" src="combined_2_0.png" /></page>
+<page bbox="0.000,0.000,810.000,540.000" id="4" mean_title="[174.29333333333332, 461.61966666666666, 642.538, 502.98766666666666]" rotate="0">
+<title archetypal_index="0" bbox="149.830,451.532,666.151,495.572" id="0" size="44.04">Two limitations of hotspots <textline bbox="149.830,451.532,666.151,495.572" colourspace="Pattern" font="ArialMT" ncolour="(0.98, 0.992, 0)" size="44.040">Two limitations of hotspots </textline>
+</title>
+<enlisting archetypal_index="1" bbox="61.128,171.972,741.719,334.602">1) may fail to capture regions important in  2) may fail to take into account climatic change   <normal_text bbox="61.128,302.562,657.745,334.602" id="1" size="32.04">1) may fail to capture regions important in  <textline bbox="61.128,302.562,657.745,334.602" colourspace="Pattern" font="ArialMT" ncolour="1" size="32.040">1) may fail to capture regions important in  </textline>
+</normal_text>
+<normal_text bbox="61.128,171.972,741.305,204.012" id="3" size="32.04">2) may fail to take into account climatic change   <textline bbox="61.128,171.972,741.305,204.012" colourspace="Pattern" font="ArialMT" ncolour="1" size="32.040">2) may fail to take into account climatic change   </textline>
+</normal_text>
+<normal_text bbox="103.130,264.162,741.719,296.202" id="2" size="32.04">generating or maintaining adaptive variation   <textline bbox="103.130,264.162,741.719,296.202" colourspace="Pattern" font="ArialMT" ncolour="1" size="32.040">generating or maintaining adaptive variation   </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,810.000,540.000" id="5" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<title archetypal_index="0" bbox="390.000,471.530,790.140,507.530" id="0" size="36.0">Why preserve gradients? <textline bbox="390.000,471.530,790.140,507.530" colourspace="Pattern" font="ArialMT" ncolour="(0.98, 0.992, 0)" size="36.000">Why preserve gradients? </textline>
+</title>
+<enlisting archetypal_index="1" bbox="396.0,162.198,798.143,411.968">1) Natural Selection along  2) Given climate change  <normal_text bbox="396.000,384.008,729.606,411.968" id="1" size="27.96">1) Natural Selection along  <textline bbox="396.000,384.008,729.606,411.968" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">1) Natural Selection along  </textline>
+</normal_text>
+<normal_text bbox="396.000,229.423,705.979,257.407" id="3" size="27.984">2) Given climate change  <textline bbox="396.000,229.423,705.979,257.407" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.984">2) Given climate change  </textline>
+</normal_text>
+<normal_text bbox="432.000,316.788,798.143,378.387" id="2" size="27.972">gradients is a powerful driver  
+of adaptive variation <textline bbox="432.000,350.403,798.143,378.387" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.984">gradients is a powerful driver  </textline>
+<textline bbox="432.000,316.788,682.773,344.748" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">of adaptive variation </textline>
+</normal_text>
+<normal_text bbox="432.000,162.198,788.527,223.758" id="4" size="27.96">preserving them may offer a  
+bet hedging approach <textline bbox="432.000,195.798,788.527,223.758" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">preserving them may offer a  </textline>
+<textline bbox="432.000,162.198,703.212,190.158" colourspace="Pattern" font="ArialMT" ncolour="1" size="27.960">bet hedging approach </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,810.000,540.000" id="6" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<picture archetypal_index="0" bbox="34.080,30.000,315.480,516.000" height="486" name="Image61" src="Image61.jpg" width="281">
 </picture>
-<picture archetypal_index="2" bbox="20.280,27.000,245.280,228.000" height="201" name="Image29" src="Image29.200x201.bmp" width="225">
-</picture>
-<picture archetypal_index="3" bbox="276.720,276.000,532.080,426.000" height="150" name="Image31" src="Image31.227x150.bmp" width="255">
-</picture>
-<picture archetypal_index="4" bbox="290.280,39.000,515.280,240.000" height="201" name="Image33" src="Image33.200x201.bmp" width="225">
-</picture>
-<picture archetypal_index="5" bbox="621.000,258.000,790.920,486.000" height="228" name="Image35" src="Image35.151x228.bmp" width="169">
-</picture>
-<picture archetypal_index="6" bbox="567.000,15.960,792.000,216.000" height="200" name="Image37" src="Image37.200x200.bmp" width="225">
+<picture archetypal_index="1" bbox="342.000,22.200,779.160,379.440" height="357" name="Image62" src="Image62.jpg" width="437">
 </picture>
 </page>
-<page bbox="0.000,0.000,810.000,540.000" id="17" mean_title="[318.924, 436.7071333333333, 724.2104, 511.2158666666666]" rotate="0">
-<title archetypal_index="0" bbox="165.980,443.474,673.522,522.713" id="0" size="36.012">Divergence-with-gene-flow model  
-of speciation <textline bbox="165.980,486.689,673.522,522.713" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.98, 0.992, 0)" size="36.024">Divergence-with-gene-flow model  </textline>
-<textline bbox="322.700,443.474,507.776,479.474" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.98, 0.992, 0)" size="36.000">of speciation </textline>
+<page bbox="0.000,0.000,810.000,540.000" id="7" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<background archetypal_index="0" bbox="0.000,0.000,810.000,540.000" height="540" name="Image66" src="Image66.jpg" width="810">
+</background>
+<table archetypal_index="1" bbox="120.0,216.0,494.28,318.0" dimensions="3/2"><cell bbox="378.0,216.0,468.0,246.0" /><cell bbox="150.0,258.0,234.0,270.0" /><cell bbox="340.8,240.24,494.28,277.2"><tabletext bbox="348.000,245.251,485.970,269.275" id="1" size="24.024">Lower Guinea <textline bbox="348.000,245.251,485.970,269.275" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0314, 0.114, 0.345)" size="24.024">Lower Guinea </textline>
+</tabletext>
+</cell><cell bbox="120.0,281.04,270.72,318.0"><tabletext bbox="127.220,286.006,262.508,310.006" id="0" size="24.0">Upper Guinea <textline bbox="127.220,286.006,262.508,310.006" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0314, 0.114, 0.345)" size="24.000">Upper Guinea </textline>
+</tabletext>
+</cell></table></page>
+<page bbox="0.000,0.000,810.000,540.000" id="8" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<title archetypal_index="0" bbox="131.980,399.525,274.167,435.549" id="0" size="36.024">Savanna <textline bbox="131.980,399.525,274.167,435.549" colourspace="Pattern" font="ArialMT" ncolour="1" size="36.024">Savanna </textline>
 </title>
-<slide_number bbox="120.410,412.036,156.410,436.036" id="1" size="24.0">100 <textline bbox="120.410,412.036,156.410,436.036" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">100 </textline>
-</slide_number>
-<normal_text archetypal_index="1" bbox="254.760,292.181,372.835,320.141" id="5" size="27.96">Speciation <textline bbox="254.760,292.181,372.835,320.141" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.98, 0.992, 0)" size="27.960">Speciation </textline>
+<normal_text archetypal_index="1" bbox="462.020,369.525,564.112,405.549" id="1" size="36.024">Forest <textline bbox="462.020,369.525,564.112,405.549" colourspace="Pattern" font="ArialMT" ncolour="1" size="36.024">Forest </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="441.740,193.691,564.037,255.251" id="6" size="27.96">No 
-divergence <textline bbox="485.780,227.291,519.920,255.251" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.98, 0.992, 0)" size="27.960">No </textline>
-<textline bbox="441.740,193.691,564.037,221.651" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.98, 0.992, 0)" size="27.960">divergence </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="70.200,379.964,94.200,385.964" id="7" size="6.0">  <textline bbox="70.200,379.964,94.200,385.964" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.000">  </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="70.200,184.580,94.200,379.964" id="8" size="10.278315789473686">n 
-o 
-i 
-t 
-c 
-e 
-l 
-e 
-s 
-  
-t 
-n 
-e 
-g 
-r 
-e 
-v 
-i 
-D <textline bbox="70.200,366.620,94.200,379.964" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="13.344">n </textline>
-<textline bbox="70.200,354.620,94.200,366.620" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.000">o </textline>
-<textline bbox="70.200,347.948,94.200,354.620" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.672">i </textline>
-<textline bbox="70.200,339.884,94.200,347.876" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="7.992">t </textline>
-<textline bbox="70.200,329.228,94.200,339.884" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">c </textline>
-<textline bbox="70.200,318.572,94.200,329.228" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">e </textline>
-<textline bbox="70.200,311.828,94.200,318.500" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.672">l </textline>
-<textline bbox="70.200,301.172,94.200,311.828" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">e </textline>
-<textline bbox="70.200,291.836,94.200,301.172" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="9.336">s </textline>
-<textline bbox="70.200,285.956,94.200,291.956" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.000">  </textline>
-<textline bbox="70.200,277.892,94.200,285.884" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="7.992">t </textline>
-<textline bbox="70.200,264.548,94.200,277.892" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="13.344">n </textline>
-<textline bbox="70.200,253.892,94.200,264.548" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">e </textline>
-<textline bbox="70.200,241.892,94.200,253.892" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.000">g </textline>
-<textline bbox="70.200,231.236,94.200,241.892" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">r </textline>
-<textline bbox="70.200,220.580,94.200,231.236" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="10.656">e </textline>
-<textline bbox="70.200,208.580,94.200,220.580" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.000">v </textline>
-<textline bbox="70.200,201.908,94.200,208.580" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.672">i </textline>
-<textline bbox="70.200,184.580,94.200,201.908" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="17.328">D </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="98.985,362.396,123.009,370.396" id="9" size="8.0">) <textline bbox="98.985,362.396,123.009,370.396" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="8.000">) </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="98.985,258.252,123.009,362.396" id="10" size="14.870857142857144">m 
-u 
-m 
-i 
-x 
-a 
-m <textline bbox="98.985,342.384,123.009,362.396" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="20.012">m </textline>
-<textline bbox="98.985,329.027,123.009,342.384" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="13.357">u </textline>
-<textline bbox="98.985,308.967,123.009,328.979" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="20.012">m </textline>
-<textline bbox="98.985,302.288,123.009,308.967" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.679">i </textline>
-<textline bbox="98.985,290.276,123.009,302.288" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.012">x </textline>
-<textline bbox="98.985,278.264,123.009,290.276" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.012">a </textline>
-<textline bbox="98.985,258.252,123.009,278.264" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="20.012">m </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="98.985,232.330,123.009,258.348" id="11" size="8.672666666666666">  
-f 
-o <textline bbox="98.985,252.342,123.009,258.348" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.006">  </textline>
-<textline bbox="98.985,244.342,123.009,252.342" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="8.000">f </textline>
-<textline bbox="98.985,232.330,123.009,244.342" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="12.012">o </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="98.985,226.108,123.009,232.114" id="12" size="6.006">  <textline bbox="98.985,226.108,123.009,232.114" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="6.006">  </textline>
-</normal_text>
-<enlisting archetypal_index="9" bbox="98.985,194.3,123.009,226.324" id="13" size="24.024">% <textline bbox="98.985,202.300,123.009,226.324" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="24.024">% </textline>
-<normal_text bbox="98.985,194.300,123.009,202.300" id="14" size="8.0">( <textline bbox="98.985,194.300,123.009,202.300" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="8.000">( </textline>
-</normal_text>
-</enlisting>
-<slide_number bbox="145.850,99.956,157.850,123.956" id="15" size="24.0">0 <textline bbox="145.850,99.956,157.850,123.956" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">0 </textline>
-</slide_number>
-<slide_number bbox="172.850,69.960,184.850,93.960" id="16" size="24.0">0 <textline bbox="172.850,69.960,184.850,93.960" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">0 </textline>
-</slide_number>
-<normal_text archetypal_index="10" bbox="279.380,39.960,564.716,63.960" id="17" size="24.0">Gene flow (% of maximum) <textline bbox="279.380,39.960,564.716,63.960" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="24.000">Gene flow (% of maximum) </textline>
-</normal_text>
-<slide_number bbox="613.220,69.960,649.220,93.960" id="18" size="24.0">100 <textline bbox="613.220,69.960,649.220,93.960" colourspace="Pattern" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">100 </textline>
-</slide_number>
-<normal_text archetypal_index="11" bbox="533.780,5.011,775.770,23.035" id="19" size="18.024">(Rice &amp; Hostert: Evolution 1993) <textline bbox="533.780,5.011,775.770,23.035" colourspace="Pattern" font="BCDEEE+Times" ncolour="(1, 1, 0.6)" size="18.024">(Rice &amp; Hostert: Evolution 1993) </textline>
-</normal_text>
-<rect bbox="175.560,102.000,641.280,432.000" linewidth="0" />
-<rect bbox="175.560,102.000,641.280,432.000" linewidth="0" />
-<curve bbox="337.560,256.500,398.280,271.500" linewidth="2" pts="398.280,266.500,350.060,266.500,350.060,261.500,398.280,261.500,352.560,271.500,337.560,264.000,352.560,256.500" />
-<curve bbox="222.720,178.500,283.560,193.500" linewidth="2" pts="283.560,188.500,235.220,188.500,235.220,183.500,283.560,183.500,237.720,193.500,222.720,186.000,237.720,178.500" />
-<curve bbox="479.280,346.500,540.000,361.500" linewidth="2" pts="540.000,356.500,491.780,356.500,491.780,351.500,540.000,351.500,494.280,361.500,479.280,354.000,494.280,346.500" />
-<rect bbox="330.720,324.000,459.000,396.120" linewidth="0" />
-<curve bbox="276.780,341.940,337.620,353.940" linewidth="0" pts="337.620,349.940,286.780,349.940,286.780,345.940,337.620,345.940,288.780,353.940,276.780,347.940,288.780,341.940" />
-<curve bbox="228.290,376.450,263.340,407.940" linewidth="0" pts="230.950,376.450,257.200,399.800,254.540,402.790,228.290,379.430,258.360,395.480,263.340,407.940,250.390,404.450" />
-<curve bbox="363.600,389.940,405.060,415.660" linewidth="0" pts="365.640,415.660,397.480,396.760,395.440,393.320,363.600,412.220,397.800,401.220,405.060,389.940,391.680,390.900" />
-<table archetypal_index="12" bbox="182.28,324.0,452.28,432.0" dimensions="1/2"><cell bbox="182.28,324.0,452.28,426.0"><tabletext bbox="272.300,407.092,355.352,425.092" id="2" size="18.0">divergence <textline bbox="272.300,407.092,355.352,425.092" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.000">divergence </textline>
-</tabletext>
-<tabletext bbox="193.100,339.977,265.611,379.582" id="3" size="18.012">reduced  
-gene flow <textline bbox="198.620,361.582,264.806,379.582" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.000">reduced  </textline>
-<textline bbox="193.100,339.977,265.611,358.001" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.024">gene flow </textline>
-</tabletext>
-<tabletext bbox="345.720,327.982,448.572,389.212" id="4" size="18.0">reproductive  
-isolation via  
-pleiotropy <textline bbox="345.720,371.212,448.572,389.212" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.000">reproductive  </textline>
-<textline bbox="348.600,349.612,445.566,367.612" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.000">isolation via  </textline>
-<textline bbox="355.440,327.982,434.190,345.982" colourspace="Pattern" font="BCDHEE+Times,Bold" ncolour="(0.98, 0.992, 0)" size="18.000">pleiotropy </textline>
-</tabletext>
-</cell><cell bbox="256.56,403.08,371.28,432.0" /></table></page>
-<page bbox="0.000,0.000,810.000,540.000" id="19" mean_title="[339.52, 445.75339285714284, 691.5068571428573, 507.1485714285714]" rotate="0">
-<title archetypal_index="0" bbox="500.020,467.092,657.702,485.092" id="0" size="18.0">Ecotone - Rainforest <textline bbox="500.020,467.092,657.702,485.092" colourspace="DeviceGray" font="BCDHEE+Times,Bold" ncolour="0" size="18.000">Ecotone - Rainforest </textline>
-</title>
-<normal_text archetypal_index="1" bbox="500.020,437.092,676.302,455.092" id="1" size="18.0">Rainforest - Rainforest <textline bbox="500.020,437.092,676.302,455.092" colourspace="DeviceGray" font="BCDHEE+Times,Bold" ncolour="0" size="18.000">Rainforest - Rainforest </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="500.020,407.092,639.072,425.092" id="2" size="18.0">Ecotone - Ecotone <textline bbox="500.020,407.092,639.072,425.092" colourspace="DeviceGray" font="BCDHEE+Times,Bold" ncolour="0" size="18.000">Ecotone - Ecotone </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="90.461,155.020,122.501,477.471" id="3" size="14.681636363636363">e 
-c 
-n 
-e 
-g 
-r 
-e 
-v 
-i 
-D 
-  
-c 
-i 
-g 
-o 
-l 
-o 
-h 
-p 
-r 
-o 
-M <textline bbox="90.461,463.245,122.501,477.471" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.226">e </textline>
-<textline bbox="90.461,448.923,122.501,463.149" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.226">c </textline>
-<textline bbox="90.461,432.903,122.501,448.923" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">n </textline>
-<textline bbox="90.461,418.581,122.501,432.807" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.226">e </textline>
-<textline bbox="90.461,402.561,122.501,418.581" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">g </textline>
-<textline bbox="90.461,392.468,122.501,403.138" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="10.669">r </textline>
-<textline bbox="90.461,378.147,122.501,392.372" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.226">e </textline>
-<textline bbox="90.461,362.127,122.501,378.147" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">v </textline>
-<textline bbox="90.461,353.219,122.501,362.127" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="8.907">i </textline>
-<textline bbox="90.461,330.087,122.501,353.219" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="23.133">D </textline>
-<textline bbox="90.461,322.461,122.501,330.471" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="8.010">  </textline>
-<textline bbox="90.461,308.235,122.501,322.461" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.226">c </textline>
-<textline bbox="90.461,299.328,122.501,308.235" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="8.907">i </textline>
-<textline bbox="90.461,283.308,122.501,299.328" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">g </textline>
-<textline bbox="90.461,267.288,122.501,283.308" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">o </textline>
-<textline bbox="90.461,258.381,122.501,267.288" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="8.907">l </textline>
-<textline bbox="90.461,242.361,122.501,258.381" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">o </textline>
-<textline bbox="90.461,226.213,122.501,242.233" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">h </textline>
-<textline bbox="90.461,210.193,122.501,226.213" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">p </textline>
-<textline bbox="90.461,199.524,122.501,210.193" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="10.669">r </textline>
-<textline bbox="90.461,183.504,122.501,199.524" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="16.020">o </textline>
-<textline bbox="90.461,155.020,122.501,183.504" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="28.484">M </textline>
-</normal_text>
-<slide_number bbox="152.640,460.036,164.640,484.036" id="4" size="24.0">6 <textline bbox="152.640,460.036,164.640,484.036" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">6 </textline>
-</slide_number>
-<slide_number bbox="152.640,400.036,164.640,424.036" id="5" size="24.0">5 <textline bbox="152.640,400.036,164.640,424.036" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">5 </textline>
-</slide_number>
-<slide_number bbox="152.640,340.006,164.640,364.006" id="6" size="24.0">4 <textline bbox="152.640,340.006,164.640,364.006" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">4 </textline>
-</slide_number>
-<slide_number bbox="152.640,280.006,164.640,304.006" id="7" size="24.0">3 <textline bbox="152.640,280.006,164.640,304.006" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">3 </textline>
-</slide_number>
-<slide_number bbox="152.640,225.986,164.640,249.986" id="8" size="24.0">2 <textline bbox="152.640,225.986,164.640,249.986" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">2 </textline>
-</slide_number>
-<slide_number bbox="152.640,165.986,164.640,189.986" id="9" size="24.0">1 <textline bbox="152.640,165.986,164.640,189.986" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">1 </textline>
-</slide_number>
-<slide_number bbox="152.640,105.956,164.640,129.956" id="10" size="24.0">0 <textline bbox="152.640,105.956,164.640,129.956" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">0 </textline>
-</slide_number>
-<slide_number bbox="186.410,75.960,198.410,99.960" id="11" size="24.0">0 <textline bbox="186.410,75.960,198.410,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">0 </textline>
-</slide_number>
-<slide_number bbox="287.660,75.960,299.660,99.960" id="12" size="24.0">2 <textline bbox="287.660,75.960,299.660,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">2 </textline>
-</slide_number>
-<slide_number bbox="388.940,75.960,400.940,99.960" id="13" size="24.0">4 <textline bbox="388.940,75.960,400.940,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">4 </textline>
-</slide_number>
-<slide_number bbox="496.940,75.960,508.940,99.960" id="14" size="24.0">6 <textline bbox="496.940,75.960,508.940,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">6 </textline>
-</slide_number>
-<slide_number bbox="598.220,75.960,610.220,99.960" id="15" size="24.0">8 <textline bbox="598.220,75.960,610.220,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">8 </textline>
-</slide_number>
-<slide_number bbox="693.480,75.960,717.480,99.960" id="16" size="24.0">10 <textline bbox="693.480,75.960,717.480,99.960" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0235, 0.239, 0.91)" size="24.000">10 </textline>
-</slide_number>
-<normal_text archetypal_index="4" bbox="317.140,30.423,528.700,62.463" id="17" size="32.04">Gene flow (Nm) <textline bbox="317.140,30.423,528.700,62.463" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="32.040">Gene flow (Nm) </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="581.040,5.011,776.474,23.035" id="18" size="18.024">(Smith et al. Science 1997) <textline bbox="581.040,5.011,776.474,23.035" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0.498" size="18.024">(Smith et al. Science 1997) </textline>
-</normal_text>
-<curve bbox="243.000,408.000,256.560,420.000" linewidth="0" pts="243.000,414.000,243.000,417.310,246.040,420.000,249.780,420.000,253.520,420.000,256.560,417.310,256.560,414.000,256.560,410.690,253.520,408.000,249.780,408.000,246.040,408.000,243.000,410.690,243.000,414.000" />
-<curve bbox="243.000,408.000,256.560,420.000" linewidth="0" pts="243.000,414.000,243.000,417.310,246.040,420.000,249.780,420.000,253.520,420.000,256.560,417.310,256.560,414.000,256.560,410.690,253.520,408.000,249.780,408.000,246.040,408.000,243.000,410.690,243.000,414.000" />
-<curve bbox="229.560,390.000,243.000,402.000" linewidth="0" pts="229.560,396.000,229.560,399.310,232.570,402.000,236.280,402.000,239.990,402.000,243.000,399.310,243.000,396.000,243.000,392.690,239.990,390.000,236.280,390.000,232.570,390.000,229.560,392.690,229.560,396.000" />
-<curve bbox="229.560,390.000,243.000,402.000" linewidth="0" pts="229.560,396.000,229.560,399.310,232.570,402.000,236.280,402.000,239.990,402.000,243.000,399.310,243.000,396.000,243.000,392.690,239.990,390.000,236.280,390.000,232.570,390.000,229.560,392.690,229.560,396.000" />
-<curve bbox="216.000,342.000,229.560,354.000" linewidth="0" pts="216.000,348.000,216.000,351.310,219.040,354.000,222.780,354.000,226.520,354.000,229.560,351.310,229.560,348.000,229.560,344.690,226.520,342.000,222.780,342.000,219.040,342.000,216.000,344.690,216.000,348.000" />
-<curve bbox="216.000,342.000,229.560,354.000" linewidth="0" pts="216.000,348.000,216.000,351.310,219.040,354.000,222.780,354.000,226.520,354.000,229.560,351.310,229.560,348.000,229.560,344.690,226.520,342.000,222.780,342.000,219.040,342.000,216.000,344.690,216.000,348.000" />
-<curve bbox="364.560,390.000,378.000,402.000" linewidth="0" pts="364.560,396.000,364.560,399.310,367.570,402.000,371.280,402.000,374.990,402.000,378.000,399.310,378.000,396.000,378.000,392.690,374.990,390.000,371.280,390.000,367.570,390.000,364.560,392.690,364.560,396.000" />
-<curve bbox="364.560,390.000,378.000,402.000" linewidth="0" pts="364.560,396.000,364.560,399.310,367.570,402.000,371.280,402.000,374.990,402.000,378.000,399.310,378.000,396.000,378.000,392.690,374.990,390.000,371.280,390.000,367.570,390.000,364.560,392.690,364.560,396.000" />
-<curve bbox="303.720,318.000,317.280,330.000" linewidth="0" pts="303.720,324.000,303.720,327.310,306.760,330.000,310.500,330.000,314.240,330.000,317.280,327.310,317.280,324.000,317.280,320.690,314.240,318.000,310.500,318.000,306.760,318.000,303.720,320.690,303.720,324.000" />
-<curve bbox="303.720,318.000,317.280,330.000" linewidth="0" pts="303.720,324.000,303.720,327.310,306.760,330.000,310.500,330.000,314.240,330.000,317.280,327.310,317.280,324.000,317.280,320.690,314.240,318.000,310.500,318.000,306.760,318.000,303.720,320.690,303.720,324.000" />
-<curve bbox="236.280,360.000,249.720,372.000" linewidth="0" pts="236.280,366.000,236.280,369.310,239.290,372.000,243.000,372.000,246.710,372.000,249.720,369.310,249.720,366.000,249.720,362.690,246.710,360.000,243.000,360.000,239.290,360.000,236.280,362.690,236.280,366.000" />
-<curve bbox="236.280,360.000,249.720,372.000" linewidth="0" pts="236.280,366.000,236.280,369.310,239.290,372.000,243.000,372.000,246.710,372.000,249.720,369.310,249.720,366.000,249.720,362.690,246.710,360.000,243.000,360.000,239.290,360.000,236.280,362.690,236.280,366.000" />
-<curve bbox="351.000,348.000,364.560,360.000" linewidth="0" pts="351.000,354.000,351.000,357.310,354.040,360.000,357.780,360.000,361.520,360.000,364.560,357.310,364.560,354.000,364.560,350.690,361.520,348.000,357.780,348.000,354.040,348.000,351.000,350.690,351.000,354.000" />
-<curve bbox="351.000,348.000,364.560,360.000" linewidth="0" pts="351.000,354.000,351.000,357.310,354.040,360.000,357.780,360.000,361.520,360.000,364.560,357.310,364.560,354.000,364.560,350.690,361.520,348.000,357.780,348.000,354.040,348.000,351.000,350.690,351.000,354.000" />
-<curve bbox="330.720,366.000,344.280,378.000" linewidth="0" pts="330.720,372.000,330.720,375.310,333.760,378.000,337.500,378.000,341.240,378.000,344.280,375.310,344.280,372.000,344.280,368.690,341.240,366.000,337.500,366.000,333.760,366.000,330.720,368.690,330.720,372.000" />
-<curve bbox="330.720,366.000,344.280,378.000" linewidth="0" pts="330.720,372.000,330.720,375.310,333.760,378.000,337.500,378.000,341.240,378.000,344.280,375.310,344.280,372.000,344.280,368.690,341.240,366.000,337.500,366.000,333.760,366.000,330.720,368.690,330.720,372.000" />
-<curve bbox="243.000,306.000,256.560,318.000" linewidth="0" pts="243.000,312.000,243.000,315.310,246.040,318.000,249.780,318.000,253.520,318.000,256.560,315.310,256.560,312.000,256.560,308.690,253.520,306.000,249.780,306.000,246.040,306.000,243.000,308.690,243.000,312.000" />
-<curve bbox="243.000,306.000,256.560,318.000" linewidth="0" pts="243.000,312.000,243.000,315.310,246.040,318.000,249.780,318.000,253.520,318.000,256.560,315.310,256.560,312.000,256.560,308.690,253.520,306.000,249.780,306.000,246.040,306.000,243.000,308.690,243.000,312.000" />
-<curve bbox="297.000,294.000,310.560,306.000" linewidth="0" pts="297.000,300.000,297.000,303.310,300.040,306.000,303.780,306.000,307.520,306.000,310.560,303.310,310.560,300.000,310.560,296.690,307.520,294.000,303.780,294.000,300.040,294.000,297.000,296.690,297.000,300.000" />
-<curve bbox="297.000,294.000,310.560,306.000" linewidth="0" pts="297.000,300.000,297.000,303.310,300.040,306.000,303.780,306.000,307.520,306.000,310.560,303.310,310.560,300.000,310.560,296.690,307.520,294.000,303.780,294.000,300.040,294.000,297.000,296.690,297.000,300.000" />
-<curve bbox="249.720,288.000,263.280,300.000" linewidth="0" pts="249.720,294.000,249.720,297.310,252.760,300.000,256.500,300.000,260.240,300.000,263.280,297.310,263.280,294.000,263.280,290.690,260.240,288.000,256.500,288.000,252.760,288.000,249.720,290.690,249.720,294.000" />
-<curve bbox="249.720,288.000,263.280,300.000" linewidth="0" pts="249.720,294.000,249.720,297.310,252.760,300.000,256.500,300.000,260.240,300.000,263.280,297.310,263.280,294.000,263.280,290.690,260.240,288.000,256.500,288.000,252.760,288.000,249.720,290.690,249.720,294.000" />
-<curve bbox="351.000,300.000,364.560,312.000" linewidth="0" pts="351.000,306.000,351.000,309.310,354.040,312.000,357.780,312.000,361.520,312.000,364.560,309.310,364.560,306.000,364.560,302.690,361.520,300.000,357.780,300.000,354.040,300.000,351.000,302.690,351.000,306.000" />
-<curve bbox="351.000,300.000,364.560,312.000" linewidth="0" pts="351.000,306.000,351.000,309.310,354.040,312.000,357.780,312.000,361.520,312.000,364.560,309.310,364.560,306.000,364.560,302.690,361.520,300.000,357.780,300.000,354.040,300.000,351.000,302.690,351.000,306.000" />
-<curve bbox="222.720,276.000,236.280,288.000" linewidth="0" pts="222.720,282.000,222.720,285.310,225.760,288.000,229.500,288.000,233.240,288.000,236.280,285.310,236.280,282.000,236.280,278.690,233.240,276.000,229.500,276.000,225.760,276.000,222.720,278.690,222.720,282.000" />
-<curve bbox="222.720,276.000,236.280,288.000" linewidth="0" pts="222.720,282.000,222.720,285.310,225.760,288.000,229.500,288.000,233.240,288.000,236.280,285.310,236.280,282.000,236.280,278.690,233.240,276.000,229.500,276.000,225.760,276.000,222.720,278.690,222.720,282.000" />
-<curve bbox="236.280,288.000,249.720,300.000" linewidth="0" pts="236.280,294.000,236.280,297.310,239.290,300.000,243.000,300.000,246.710,300.000,249.720,297.310,249.720,294.000,249.720,290.690,246.710,288.000,243.000,288.000,239.290,288.000,236.280,290.690,236.280,294.000" />
-<curve bbox="236.280,288.000,249.720,300.000" linewidth="0" pts="236.280,294.000,236.280,297.310,239.290,300.000,243.000,300.000,246.710,300.000,249.720,297.310,249.720,294.000,249.720,290.690,246.710,288.000,243.000,288.000,239.290,288.000,236.280,290.690,236.280,294.000" />
-<curve bbox="330.720,276.000,344.280,288.000" linewidth="0" pts="330.720,282.000,330.720,285.310,333.760,288.000,337.500,288.000,341.240,288.000,344.280,285.310,344.280,282.000,344.280,278.690,341.240,276.000,337.500,276.000,333.760,276.000,330.720,278.690,330.720,282.000" />
-<curve bbox="330.720,276.000,344.280,288.000" linewidth="0" pts="330.720,282.000,330.720,285.310,333.760,288.000,337.500,288.000,341.240,288.000,344.280,285.310,344.280,282.000,344.280,278.690,341.240,276.000,337.500,276.000,333.760,276.000,330.720,278.690,330.720,282.000" />
-<curve bbox="337.560,264.000,351.000,276.000" linewidth="0" pts="337.560,270.000,337.560,273.310,340.570,276.000,344.280,276.000,347.990,276.000,351.000,273.310,351.000,270.000,351.000,266.690,347.990,264.000,344.280,264.000,340.570,264.000,337.560,266.690,337.560,270.000" />
-<curve bbox="337.560,264.000,351.000,276.000" linewidth="0" pts="337.560,270.000,337.560,273.310,340.570,276.000,344.280,276.000,347.990,276.000,351.000,273.310,351.000,270.000,351.000,266.690,347.990,264.000,344.280,264.000,340.570,264.000,337.560,266.690,337.560,270.000" />
-<curve bbox="418.560,318.000,432.000,330.000" linewidth="0" pts="418.560,324.000,418.560,327.310,421.570,330.000,425.280,330.000,428.990,330.000,432.000,327.310,432.000,324.000,432.000,320.690,428.990,318.000,425.280,318.000,421.570,318.000,418.560,320.690,418.560,324.000" />
-<curve bbox="418.560,318.000,432.000,330.000" linewidth="0" pts="418.560,324.000,418.560,327.310,421.570,330.000,425.280,330.000,428.990,330.000,432.000,327.310,432.000,324.000,432.000,320.690,428.990,318.000,425.280,318.000,421.570,318.000,418.560,320.690,418.560,324.000" />
-<curve bbox="425.280,288.000,438.720,300.000" linewidth="0" pts="425.280,294.000,425.280,297.310,428.290,300.000,432.000,300.000,435.710,300.000,438.720,297.310,438.720,294.000,438.720,290.690,435.710,288.000,432.000,288.000,428.290,288.000,425.280,290.690,425.280,294.000" />
-<curve bbox="425.280,288.000,438.720,300.000" linewidth="0" pts="425.280,294.000,425.280,297.310,428.290,300.000,432.000,300.000,435.710,300.000,438.720,297.310,438.720,294.000,438.720,290.690,435.710,288.000,432.000,288.000,428.290,288.000,425.280,290.690,425.280,294.000" />
-<curve bbox="425.280,216.000,438.720,228.000" linewidth="0" pts="425.280,222.000,425.280,225.310,428.290,228.000,432.000,228.000,435.710,228.000,438.720,225.310,438.720,222.000,438.720,218.690,435.710,216.000,432.000,216.000,428.290,216.000,425.280,218.690,425.280,222.000" />
-<curve bbox="425.280,216.000,438.720,228.000" linewidth="0" pts="425.280,222.000,425.280,225.310,428.290,228.000,432.000,228.000,435.710,228.000,438.720,225.310,438.720,222.000,438.720,218.690,435.710,216.000,432.000,216.000,428.290,216.000,425.280,218.690,425.280,222.000" />
-<curve bbox="499.560,324.000,513.000,336.000" linewidth="0" pts="499.560,330.000,499.560,333.310,502.570,336.000,506.280,336.000,509.990,336.000,513.000,333.310,513.000,330.000,513.000,326.690,509.990,324.000,506.280,324.000,502.570,324.000,499.560,326.690,499.560,330.000" />
-<curve bbox="499.560,324.000,513.000,336.000" linewidth="0" pts="499.560,330.000,499.560,333.310,502.570,336.000,506.280,336.000,509.990,336.000,513.000,333.310,513.000,330.000,513.000,326.690,509.990,324.000,506.280,324.000,502.570,324.000,499.560,326.690,499.560,330.000" />
-<curve bbox="486.000,282.000,499.560,294.000" linewidth="0" pts="486.000,288.000,486.000,291.310,489.040,294.000,492.780,294.000,496.520,294.000,499.560,291.310,499.560,288.000,499.560,284.690,496.520,282.000,492.780,282.000,489.040,282.000,486.000,284.690,486.000,288.000" />
-<curve bbox="486.000,282.000,499.560,294.000" linewidth="0" pts="486.000,288.000,486.000,291.310,489.040,294.000,492.780,294.000,496.520,294.000,499.560,291.310,499.560,288.000,499.560,284.690,496.520,282.000,492.780,282.000,489.040,282.000,486.000,284.690,486.000,288.000" />
-<curve bbox="513.000,336.000,526.560,348.000" linewidth="0" pts="513.000,342.000,513.000,345.310,516.040,348.000,519.780,348.000,523.520,348.000,526.560,345.310,526.560,342.000,526.560,338.690,523.520,336.000,519.780,336.000,516.040,336.000,513.000,338.690,513.000,342.000" />
-<curve bbox="513.000,336.000,526.560,348.000" linewidth="0" pts="513.000,342.000,513.000,345.310,516.040,348.000,519.780,348.000,523.520,348.000,526.560,345.310,526.560,342.000,526.560,338.690,523.520,336.000,519.780,336.000,516.040,336.000,513.000,338.690,513.000,342.000" />
-<curve bbox="634.560,264.000,648.000,276.000" linewidth="0" pts="634.560,270.000,634.560,273.310,637.570,276.000,641.280,276.000,644.990,276.000,648.000,273.310,648.000,270.000,648.000,266.690,644.990,264.000,641.280,264.000,637.570,264.000,634.560,266.690,634.560,270.000" />
-<curve bbox="634.560,264.000,648.000,276.000" linewidth="0" pts="634.560,270.000,634.560,273.310,637.570,276.000,641.280,276.000,644.990,276.000,648.000,273.310,648.000,270.000,648.000,266.690,644.990,264.000,641.280,264.000,637.570,264.000,634.560,266.690,634.560,270.000" />
-<curve bbox="526.560,240.000,540.000,252.000" linewidth="0" pts="526.560,246.000,526.560,249.310,529.570,252.000,533.280,252.000,536.990,252.000,540.000,249.310,540.000,246.000,540.000,242.690,536.990,240.000,533.280,240.000,529.570,240.000,526.560,242.690,526.560,246.000" />
-<curve bbox="526.560,240.000,540.000,252.000" linewidth="0" pts="526.560,246.000,526.560,249.310,529.570,252.000,533.280,252.000,536.990,252.000,540.000,249.310,540.000,246.000,540.000,242.690,536.990,240.000,533.280,240.000,529.570,240.000,526.560,242.690,526.560,246.000" />
-<curve bbox="533.280,204.000,546.720,216.000" linewidth="0" pts="533.280,210.000,533.280,213.310,536.290,216.000,540.000,216.000,543.710,216.000,546.720,213.310,546.720,210.000,546.720,206.690,543.710,204.000,540.000,204.000,536.290,204.000,533.280,206.690,533.280,210.000" />
-<curve bbox="533.280,204.000,546.720,216.000" linewidth="0" pts="533.280,210.000,533.280,213.310,536.290,216.000,540.000,216.000,543.710,216.000,546.720,213.310,546.720,210.000,546.720,206.690,543.710,204.000,540.000,204.000,536.290,204.000,533.280,206.690,533.280,210.000" />
-<curve bbox="553.560,228.000,567.000,240.000" linewidth="0" pts="553.560,234.000,553.560,237.310,556.570,240.000,560.280,240.000,563.990,240.000,567.000,237.310,567.000,234.000,567.000,230.690,563.990,228.000,560.280,228.000,556.570,228.000,553.560,230.690,553.560,234.000" />
-<curve bbox="553.560,228.000,567.000,240.000" linewidth="0" pts="553.560,234.000,553.560,237.310,556.570,240.000,560.280,240.000,563.990,240.000,567.000,237.310,567.000,234.000,567.000,230.690,563.990,228.000,560.280,228.000,556.570,228.000,553.560,230.690,553.560,234.000" />
-<curve bbox="553.560,246.000,567.000,258.000" linewidth="0" pts="553.560,252.000,553.560,255.310,556.570,258.000,560.280,258.000,563.990,258.000,567.000,255.310,567.000,252.000,567.000,248.690,563.990,246.000,560.280,246.000,556.570,246.000,553.560,248.690,553.560,252.000" />
-<curve bbox="553.560,246.000,567.000,258.000" linewidth="0" pts="553.560,252.000,553.560,255.310,556.570,258.000,560.280,258.000,563.990,258.000,567.000,255.310,567.000,252.000,567.000,248.690,563.990,246.000,560.280,246.000,556.570,246.000,553.560,248.690,553.560,252.000" />
-<curve bbox="580.560,222.000,594.000,234.000" linewidth="0" pts="580.560,228.000,580.560,231.310,583.570,234.000,587.280,234.000,590.990,234.000,594.000,231.310,594.000,228.000,594.000,224.690,590.990,222.000,587.280,222.000,583.570,222.000,580.560,224.690,580.560,228.000" />
-<curve bbox="580.560,222.000,594.000,234.000" linewidth="0" pts="580.560,228.000,580.560,231.310,583.570,234.000,587.280,234.000,590.990,234.000,594.000,231.310,594.000,228.000,594.000,224.690,590.990,222.000,587.280,222.000,583.570,222.000,580.560,224.690,580.560,228.000" />
-<curve bbox="398.280,228.000,411.720,240.000" linewidth="2" pts="398.280,234.000,398.280,237.310,401.290,240.000,405.000,240.000,408.710,240.000,411.720,237.310,411.720,234.000,411.720,230.690,408.710,228.000,405.000,228.000,401.290,228.000,398.280,230.690,398.280,234.000" />
-<curve bbox="398.280,228.000,411.720,240.000" linewidth="0" pts="398.280,234.000,398.280,237.310,401.290,240.000,405.000,240.000,408.710,240.000,411.720,237.310,411.720,234.000,411.720,230.690,408.710,228.000,405.000,228.000,401.290,228.000,398.280,230.690,398.280,234.000" />
-<curve bbox="432.000,174.000,445.560,186.000" linewidth="0" pts="432.000,180.000,432.000,183.310,435.040,186.000,438.780,186.000,442.520,186.000,445.560,183.310,445.560,180.000,445.560,176.690,442.520,174.000,438.780,174.000,435.040,174.000,432.000,176.690,432.000,180.000" />
-<curve bbox="432.000,174.000,445.560,186.000" linewidth="0" pts="432.000,180.000,432.000,183.310,435.040,186.000,438.780,186.000,442.520,186.000,445.560,183.310,445.560,180.000,445.560,176.690,442.520,174.000,438.780,174.000,435.040,174.000,432.000,176.690,432.000,180.000" />
-<curve bbox="472.560,240.000,486.000,252.000" linewidth="0" pts="472.560,246.000,472.560,249.310,475.570,252.000,479.280,252.000,482.990,252.000,486.000,249.310,486.000,246.000,486.000,242.690,482.990,240.000,479.280,240.000,475.570,240.000,472.560,242.690,472.560,246.000" />
-<curve bbox="472.560,240.000,486.000,252.000" linewidth="0" pts="472.560,246.000,472.560,249.310,475.570,252.000,479.280,252.000,482.990,252.000,486.000,249.310,486.000,246.000,486.000,242.690,482.990,240.000,479.280,240.000,475.570,240.000,472.560,242.690,472.560,246.000" />
-<curve bbox="438.720,162.000,452.280,174.000" linewidth="0" pts="438.720,168.000,438.720,171.310,441.760,174.000,445.500,174.000,449.240,174.000,452.280,171.310,452.280,168.000,452.280,164.690,449.240,162.000,445.500,162.000,441.760,162.000,438.720,164.690,438.720,168.000" />
-<curve bbox="438.720,162.000,452.280,174.000" linewidth="0" pts="438.720,168.000,438.720,171.310,441.760,174.000,445.500,174.000,449.240,174.000,452.280,171.310,452.280,168.000,452.280,164.690,449.240,162.000,445.500,162.000,441.760,162.000,438.720,164.690,438.720,168.000" />
-<curve bbox="371.280,150.000,384.720,162.000" linewidth="0" pts="371.280,156.000,371.280,159.310,374.290,162.000,378.000,162.000,381.710,162.000,384.720,159.310,384.720,156.000,384.720,152.690,381.710,150.000,378.000,150.000,374.290,150.000,371.280,152.690,371.280,156.000" />
-<curve bbox="371.280,150.000,384.720,162.000" linewidth="0" pts="371.280,156.000,371.280,159.310,374.290,162.000,378.000,162.000,381.710,162.000,384.720,159.310,384.720,156.000,384.720,152.690,381.710,150.000,378.000,150.000,374.290,150.000,371.280,152.690,371.280,156.000" />
-<curve bbox="351.000,168.000,364.560,180.000" linewidth="0" pts="351.000,174.000,351.000,177.310,354.040,180.000,357.780,180.000,361.520,180.000,364.560,177.310,364.560,174.000,364.560,170.690,361.520,168.000,357.780,168.000,354.040,168.000,351.000,170.690,351.000,174.000" />
-<curve bbox="351.000,168.000,364.560,180.000" linewidth="0" pts="351.000,174.000,351.000,177.310,354.040,180.000,357.780,180.000,361.520,180.000,364.560,177.310,364.560,174.000,364.560,170.690,361.520,168.000,357.780,168.000,354.040,168.000,351.000,170.690,351.000,174.000" />
-<curve bbox="580.560,198.000,594.000,210.000" linewidth="0" pts="580.560,204.000,580.560,207.310,583.570,210.000,587.280,210.000,590.990,210.000,594.000,207.310,594.000,204.000,594.000,200.690,590.990,198.000,587.280,198.000,583.570,198.000,580.560,200.690,580.560,204.000" />
-<curve bbox="580.560,198.000,594.000,210.000" linewidth="0" pts="580.560,204.000,580.560,207.310,583.570,210.000,587.280,210.000,590.990,210.000,594.000,207.310,594.000,204.000,594.000,200.690,590.990,198.000,587.280,198.000,583.570,198.000,580.560,200.690,580.560,204.000" />
-<curve bbox="472.560,150.000,486.000,162.000" linewidth="0" pts="472.560,156.000,472.560,159.310,475.570,162.000,479.280,162.000,482.990,162.000,486.000,159.310,486.000,156.000,486.000,152.690,482.990,150.000,479.280,150.000,475.570,150.000,472.560,152.690,472.560,156.000" />
-<curve bbox="472.560,150.000,486.000,162.000" linewidth="0" pts="472.560,156.000,472.560,159.310,475.570,162.000,479.280,162.000,482.990,162.000,486.000,159.310,486.000,156.000,486.000,152.690,482.990,150.000,479.280,150.000,475.570,150.000,472.560,152.690,472.560,156.000" />
-<curve bbox="229.560,210.000,243.000,222.000" linewidth="0" pts="229.560,216.000,229.560,219.310,232.570,222.000,236.280,222.000,239.990,222.000,243.000,219.310,243.000,216.000,243.000,212.690,239.990,210.000,236.280,210.000,232.570,210.000,229.560,212.690,229.560,216.000" />
-<curve bbox="229.560,210.000,243.000,222.000" linewidth="0" pts="229.560,216.000,229.560,219.310,232.570,222.000,236.280,222.000,239.990,222.000,243.000,219.310,243.000,216.000,243.000,212.690,239.990,210.000,236.280,210.000,232.570,210.000,229.560,212.690,229.560,216.000" />
-<curve bbox="202.560,156.000,216.000,168.000" linewidth="0" pts="202.560,162.000,202.560,165.310,205.570,168.000,209.280,168.000,212.990,168.000,216.000,165.310,216.000,162.000,216.000,158.690,212.990,156.000,209.280,156.000,205.570,156.000,202.560,158.690,202.560,162.000" />
-<curve bbox="202.560,156.000,216.000,168.000" linewidth="0" pts="202.560,162.000,202.560,165.310,205.570,168.000,209.280,168.000,212.990,168.000,216.000,165.310,216.000,162.000,216.000,158.690,212.990,156.000,209.280,156.000,205.570,156.000,202.560,158.690,202.560,162.000" />
-<curve bbox="216.000,150.000,229.560,162.000" linewidth="0" pts="216.000,156.000,216.000,159.310,219.040,162.000,222.780,162.000,226.520,162.000,229.560,159.310,229.560,156.000,229.560,152.690,226.520,150.000,222.780,150.000,219.040,150.000,216.000,152.690,216.000,156.000" />
-<curve bbox="216.000,150.000,229.560,162.000" linewidth="0" pts="216.000,156.000,216.000,159.310,219.040,162.000,222.780,162.000,226.520,162.000,229.560,159.310,229.560,156.000,229.560,152.690,226.520,150.000,222.780,150.000,219.040,150.000,216.000,152.690,216.000,156.000" />
-<curve bbox="222.720,192.000,236.280,204.000" linewidth="0" pts="222.720,198.000,222.720,201.310,225.760,204.000,229.500,204.000,233.240,204.000,236.280,201.310,236.280,198.000,236.280,194.690,233.240,192.000,229.500,192.000,225.760,192.000,222.720,194.690,222.720,198.000" />
-<curve bbox="222.720,192.000,236.280,204.000" linewidth="0" pts="222.720,198.000,222.720,201.310,225.760,204.000,229.500,204.000,233.240,204.000,236.280,201.310,236.280,198.000,236.280,194.690,233.240,192.000,229.500,192.000,225.760,192.000,222.720,194.690,222.720,198.000" />
-<curve bbox="243.000,192.000,256.560,204.000" linewidth="0" pts="243.000,198.000,243.000,201.310,246.040,204.000,249.780,204.000,253.520,204.000,256.560,201.310,256.560,198.000,256.560,194.690,253.520,192.000,249.780,192.000,246.040,192.000,243.000,194.690,243.000,198.000" />
-<curve bbox="243.000,192.000,256.560,204.000" linewidth="0" pts="243.000,198.000,243.000,201.310,246.040,204.000,249.780,204.000,253.520,204.000,256.560,201.310,256.560,198.000,256.560,194.690,253.520,192.000,249.780,192.000,246.040,192.000,243.000,194.690,243.000,198.000" />
-<curve bbox="216.000,156.000,229.560,168.000" linewidth="0" pts="216.000,162.000,216.000,165.310,219.040,168.000,222.780,168.000,226.520,168.000,229.560,165.310,229.560,162.000,229.560,158.690,226.520,156.000,222.780,156.000,219.040,156.000,216.000,158.690,216.000,162.000" />
-<curve bbox="216.000,156.000,229.560,168.000" linewidth="0" pts="216.000,162.000,216.000,165.310,219.040,168.000,222.780,168.000,226.520,168.000,229.560,165.310,229.560,162.000,229.560,158.690,226.520,156.000,222.780,156.000,219.040,156.000,216.000,158.690,216.000,162.000" />
-<curve bbox="263.280,174.000,276.720,186.000" linewidth="0" pts="263.280,180.000,263.280,183.310,266.290,186.000,270.000,186.000,273.710,186.000,276.720,183.310,276.720,180.000,276.720,176.690,273.710,174.000,270.000,174.000,266.290,174.000,263.280,176.690,263.280,180.000" />
-<curve bbox="263.280,174.000,276.720,186.000" linewidth="0" pts="263.280,180.000,263.280,183.310,266.290,186.000,270.000,186.000,273.710,186.000,276.720,183.310,276.720,180.000,276.720,176.690,273.710,174.000,270.000,174.000,266.290,174.000,263.280,176.690,263.280,180.000" />
-<curve bbox="236.280,156.000,249.720,168.000" linewidth="0" pts="236.280,162.000,236.280,165.310,239.290,168.000,243.000,168.000,246.710,168.000,249.720,165.310,249.720,162.000,249.720,158.690,246.710,156.000,243.000,156.000,239.290,156.000,236.280,158.690,236.280,162.000" />
-<curve bbox="236.280,156.000,249.720,168.000" linewidth="0" pts="236.280,162.000,236.280,165.310,239.290,168.000,243.000,168.000,246.710,168.000,249.720,165.310,249.720,162.000,249.720,158.690,246.710,156.000,243.000,156.000,239.290,156.000,236.280,158.690,236.280,162.000" />
-<curve bbox="229.560,168.000,243.000,180.000" linewidth="0" pts="229.560,174.000,229.560,177.310,232.570,180.000,236.280,180.000,239.990,180.000,243.000,177.310,243.000,174.000,243.000,170.690,239.990,168.000,236.280,168.000,232.570,168.000,229.560,170.690,229.560,174.000" />
-<curve bbox="229.560,168.000,243.000,180.000" linewidth="0" pts="229.560,174.000,229.560,177.310,232.570,180.000,236.280,180.000,239.990,180.000,243.000,177.310,243.000,174.000,243.000,170.690,239.990,168.000,236.280,168.000,232.570,168.000,229.560,170.690,229.560,174.000" />
-<curve bbox="675.000,174.000,688.560,186.000" linewidth="0" pts="675.000,180.000,675.000,183.310,678.040,186.000,681.780,186.000,685.520,186.000,688.560,183.310,688.560,180.000,688.560,176.690,685.520,174.000,681.780,174.000,678.040,174.000,675.000,176.690,675.000,180.000" />
-<curve bbox="675.000,174.000,688.560,186.000" linewidth="0" pts="675.000,180.000,675.000,183.310,678.040,186.000,681.780,186.000,685.520,186.000,688.560,183.310,688.560,180.000,688.560,176.690,685.520,174.000,681.780,174.000,678.040,174.000,675.000,176.690,675.000,180.000" />
-<curve bbox="519.720,168.000,533.280,180.000" linewidth="0" pts="519.720,174.000,519.720,177.310,522.760,180.000,526.500,180.000,530.240,180.000,533.280,177.310,533.280,174.000,533.280,170.690,530.240,168.000,526.500,168.000,522.760,168.000,519.720,170.690,519.720,174.000" />
-<curve bbox="519.720,168.000,533.280,180.000" linewidth="0" pts="519.720,174.000,519.720,177.310,522.760,180.000,526.500,180.000,530.240,180.000,533.280,177.310,533.280,174.000,533.280,170.690,530.240,168.000,526.500,168.000,522.760,168.000,519.720,170.690,519.720,174.000" />
-<curve bbox="486.000,186.000,499.560,198.000" linewidth="0" pts="486.000,192.000,486.000,195.310,489.040,198.000,492.780,198.000,496.520,198.000,499.560,195.310,499.560,192.000,499.560,188.690,496.520,186.000,492.780,186.000,489.040,186.000,486.000,188.690,486.000,192.000" />
-<curve bbox="486.000,186.000,499.560,198.000" linewidth="0" pts="486.000,192.000,486.000,195.310,489.040,198.000,492.780,198.000,496.520,198.000,499.560,195.310,499.560,192.000,499.560,188.690,496.520,186.000,492.780,186.000,489.040,186.000,486.000,188.690,486.000,192.000" />
-<curve bbox="472.560,186.000,486.000,198.000" linewidth="0" pts="472.560,192.000,472.560,195.310,475.570,198.000,479.280,198.000,482.990,198.000,486.000,195.310,486.000,192.000,486.000,188.690,482.990,186.000,479.280,186.000,475.570,186.000,472.560,188.690,472.560,192.000" />
-<curve bbox="472.560,186.000,486.000,198.000" linewidth="0" pts="472.560,192.000,472.560,195.310,475.570,198.000,479.280,198.000,482.990,198.000,486.000,195.310,486.000,192.000,486.000,188.690,482.990,186.000,479.280,186.000,475.570,186.000,472.560,188.690,472.560,192.000" />
-<curve bbox="297.000,204.000,310.560,216.000" linewidth="0" pts="297.000,210.000,297.000,213.310,300.040,216.000,303.780,216.000,307.520,216.000,310.560,213.310,310.560,210.000,310.560,206.690,307.520,204.000,303.780,204.000,300.040,204.000,297.000,206.690,297.000,210.000" />
-<curve bbox="297.000,204.000,310.560,216.000" linewidth="0" pts="297.000,210.000,297.000,213.310,300.040,216.000,303.780,216.000,307.520,216.000,310.560,213.310,310.560,210.000,310.560,206.690,307.520,204.000,303.780,204.000,300.040,204.000,297.000,206.690,297.000,210.000" />
-<curve bbox="330.720,186.000,344.280,198.000" linewidth="0" pts="330.720,192.000,330.720,195.310,333.760,198.000,337.500,198.000,341.240,198.000,344.280,195.310,344.280,192.000,344.280,188.690,341.240,186.000,337.500,186.000,333.760,186.000,330.720,188.690,330.720,192.000" />
-<curve bbox="330.720,186.000,344.280,198.000" linewidth="0" pts="330.720,192.000,330.720,195.310,333.760,198.000,337.500,198.000,341.240,198.000,344.280,195.310,344.280,192.000,344.280,188.690,341.240,186.000,337.500,186.000,333.760,186.000,330.720,188.690,330.720,192.000" />
-<curve bbox="276.720,180.000,290.280,192.000" linewidth="0" pts="276.720,186.000,276.720,189.310,279.760,192.000,283.500,192.000,287.240,192.000,290.280,189.310,290.280,186.000,290.280,182.690,287.240,180.000,283.500,180.000,279.760,180.000,276.720,182.690,276.720,186.000" />
-<curve bbox="276.720,180.000,290.280,192.000" linewidth="0" pts="276.720,186.000,276.720,189.310,279.760,192.000,283.500,192.000,287.240,192.000,290.280,189.310,290.280,186.000,290.280,182.690,287.240,180.000,283.500,180.000,279.760,180.000,276.720,182.690,276.720,186.000" />
-<curve bbox="472.560,414.000,486.000,426.000" linewidth="0" pts="472.560,420.000,472.560,423.310,475.570,426.000,479.280,426.000,482.990,426.000,486.000,423.310,486.000,420.000,486.000,416.690,482.990,414.000,479.280,414.000,475.570,414.000,472.560,416.690,472.560,420.000" />
-<curve bbox="472.560,414.000,486.000,426.000" linewidth="0" pts="472.560,420.000,472.560,423.310,475.570,426.000,479.280,426.000,482.990,426.000,486.000,423.310,486.000,420.000,486.000,416.690,482.990,414.000,479.280,414.000,475.570,414.000,472.560,416.690,472.560,420.000" />
-<curve bbox="472.560,444.000,486.000,456.000" linewidth="0" pts="472.560,450.000,472.560,453.310,475.570,456.000,479.280,456.000,482.990,456.000,486.000,453.310,486.000,450.000,486.000,446.690,482.990,444.000,479.280,444.000,475.570,444.000,472.560,446.690,472.560,450.000" />
-<curve bbox="472.560,444.000,486.000,456.000" linewidth="0" pts="472.560,450.000,472.560,453.310,475.570,456.000,479.280,456.000,482.990,456.000,486.000,453.310,486.000,450.000,486.000,446.690,482.990,444.000,479.280,444.000,475.570,444.000,472.560,446.690,472.560,450.000" />
-<curve bbox="472.560,474.000,486.000,486.000" linewidth="0" pts="472.560,480.000,472.560,483.310,475.570,486.000,479.280,486.000,482.990,486.000,486.000,483.310,486.000,480.000,486.000,476.690,482.990,474.000,479.280,474.000,475.570,474.000,472.560,476.690,472.560,480.000" />
-<curve bbox="472.560,474.000,486.000,486.000" linewidth="0" pts="472.560,480.000,472.560,483.310,475.570,486.000,479.280,486.000,482.990,486.000,486.000,483.310,486.000,480.000,486.000,476.690,482.990,474.000,479.280,474.000,475.570,474.000,472.560,476.690,472.560,480.000" />
+<background archetypal_index="2" bbox="0.000,0.000,810.000,540.000" height="540" name="Image73" src="Image73.jpg" width="810">
+</background>
+<curve bbox="256.700,342.000,360.000,415.840" linewidth="0" pts="259.300,415.840,352.110,350.330,349.510,346.650,256.700,412.160,352.860,355.300,360.000,342.000,345.080,344.270" />
+<curve bbox="537.890,270.000,577.580,366.790" linewidth="0" pts="542.110,366.790,574.160,281.320,569.940,279.740,537.890,365.210,577.580,285.010,576.000,270.000,564.940,280.270" />
+<picture archetypal_index="3" bbox="0.000,0.000,444.000,241.320" height="241" name="Image75" src="Image75.jpg" width="444">
+</picture>
+</page>
+<page bbox="0.000,0.000,810.000,540.000" id="9" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<background archetypal_index="0" bbox="0.000,0.000,810.000,540.000" height="540" name="Image80" src="Image80.jpg" width="810">
+</background>
+</page>
+<page bbox="0.000,0.000,810.000,540.000" id="10" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<picture archetypal_index="0" bbox="0.0,0.0,810.0,540.0" caption="" combined_sources="['Image85.jpg', 'Image86.jpg']" name="combined_0" src="combined_10_0.png" /></page>
+<page bbox="0.000,0.000,810.000,540.000" id="11" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<picture archetypal_index="0" bbox="16.560,12.000,399.000,522.000" height="510" name="Image92" src="Image92.jpg" width="382">
+</picture>
+<picture archetypal_index="1" bbox="468.000,11.640,792.000,221.520" height="209" name="Image93" src="Image93.jpg" width="324">
+</picture>
+</page>
+<page bbox="0.000,0.000,810.000,540.000" id="12" mean_title="[282.1466666666667, 466.5748333333333, 716.3389999999999, 505.2588333333333]" rotate="0">
+<picture archetypal_index="0" bbox="11.760,12.000,353.520,522.000" height="510" name="Image98" src="Image98.jpg" width="341">
+</picture>
 </page>
 </pages>

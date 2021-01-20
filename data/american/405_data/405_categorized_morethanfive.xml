@@ -1,106 +1,184 @@
 <pages>
-<page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[243.7, 454.387, 488.43, 498.427]" rotate="0">
-<title archetypal_index="0" bbox="243.700,454.387,488.430,498.427" id="0" size="44.04">Acknowledge <textline bbox="243.700,454.387,488.430,498.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Acknowledge </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="299.020,370.382,409.180,414.446" id="0" size="44.064">MICE <textline bbox="299.020,370.382,409.180,414.446" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.064">MICE </textline>
 </title>
-<normal_text archetypal_index="1" bbox="79.224,367.447,134.369,383.431" id="1" size="15.984">Belgium <textline bbox="79.224,367.447,134.369,383.431" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.984">Belgium </textline>
+<normal_text archetypal_index="1" bbox="206.260,238.064,549.761,308.509" id="1" size="32.052">TECHNICAL UPDATE &amp; 
+ISIS/RAL PLANS <textline bbox="206.260,276.469,549.761,308.509" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="32.040">TECHNICAL UPDATE &amp; </textline>
+<textline bbox="259.060,238.064,496.943,270.128" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="32.064">ISIS/RAL PLANS </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="79.224,338.623,108.479,354.583" id="2" size="15.96">Italy <textline bbox="79.224,338.623,108.479,354.583" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">Italy </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="79.224,309.823,115.629,325.783" id="3" size="15.96">Japan <textline bbox="79.224,309.823,115.629,325.783" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">Japan </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="79.224,281.023,185.342,296.983" id="4" size="15.96">The Netherlands <textline bbox="79.224,281.023,185.342,296.983" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">The Netherlands </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="79.224,252.217,202.221,268.201" id="5" size="15.984">Russian Federation <textline bbox="79.224,252.217,202.221,268.201" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.984">Russian Federation </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="79.224,223.403,155.465,239.363" id="6" size="15.96">Switzerland <textline bbox="79.224,223.403,155.465,239.363" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">Switzerland </textline>
-</normal_text>
-<normal_text archetypal_index="7" bbox="79.224,194.603,102.267,210.563" id="7" size="15.96">UK <textline bbox="79.224,194.603,102.267,210.563" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">UK </textline>
-</normal_text>
-<normal_text archetypal_index="8" bbox="79.224,165.803,111.138,181.763" id="8" size="15.96">USA <textline bbox="79.224,165.803,111.138,181.763" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="15.960">USA </textline>
-</normal_text>
-<picture archetypal_index="9" bbox="466.560,0.000,720.000,193.440" height="193" name="Image17" src="Image17.jpg" width="253">
+<picture archetypal_index="2" bbox="450.000,371.280,498.720,420.000" height="48" name="Image11" src="Image11.jpg" width="48">
+</picture>
+<picture archetypal_index="3" bbox="576.000,19.200,697.560,84.000" height="64" name="Image12" src="Image12.135x72.bmp" width="121">
 </picture>
 </page>
-<page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[244.54800000000003, 437.58700000000005, 476.2805333333334, 482.90819999999997]" rotate="0">
-<title archetypal_index="0" bbox="198.100,436.387,521.970,480.427" id="0" size="44.04">Experimental Hall <textline bbox="198.100,436.387,521.970,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Experimental Hall </textline>
+<page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[247.62, 442.387, 476.4373333333333, 492.833]" rotate="0">
+<title archetypal_index="0" bbox="249.580,436.387,470.441,490.036" id="0" size="34.019999999999996">RAL 
+RAL &amp; ISIS <textline bbox="331.270,466.036,379.174,490.036" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">RAL </textline>
+<textline bbox="249.580,436.387,470.441,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">RAL &amp; ISIS </textline>
 </title>
-<normal_text archetypal_index="1" bbox="570.700,139.403,605.285,155.363" id="1" size="15.96">Hall: <textline bbox="570.700,139.403,605.285,155.363" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960">Hall: </textline>
+<normal_text archetypal_index="1" bbox="199.250,418.036,276.554,442.036" id="1" size="24.0">Harwell <textline bbox="199.250,418.036,276.554,442.036" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000">Harwell </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="487.300,117.668,632.128,129.668" id="2" size="12.0">L = 47 m  W = 12 m H = 8 m <textline bbox="487.300,117.668,632.128,129.668" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">L = 47 m  W = 12 m H = 8 m </textline>
+<normal_text archetypal_index="2" bbox="86.573,344.760,130.613,423.063" id="2" size="19.575499999999998">S 
+I 
+S 
+I <textline bbox="86.573,398.577,130.613,423.063" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.486">S </textline>
+<textline bbox="86.573,383.912,130.613,398.577" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="14.665">I </textline>
+<textline bbox="86.573,359.425,130.613,383.912" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.486">S </textline>
+<textline bbox="86.573,344.760,130.613,359.425" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="14.665">I </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="487.300,96.072,611.820,108.563" id="3" size="12.0">S = 564 m2    V = 4512 m3 <textline bbox="487.300,96.072,611.820,108.563">S = 564 m2    V = 4512 m3 <text bbox="487.300,96.072,493.972,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">S</text>
-<text bbox="494.008,96.072,497.008,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="496.888,96.072,503.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">=</text>
-<text bbox="503.728,96.072,506.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="506.728,96.072,512.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">5</text>
-<text bbox="512.728,96.072,518.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">6</text>
-<text bbox="518.728,96.072,524.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">4</text>
-<text bbox="524.728,96.072,527.728,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="527.728,96.072,537.724,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">m</text>
-<text bbox="537.580,100.523,541.600,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040">2</text>
-<text bbox="541.648,100.523,543.658,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040"> </text>
-<text bbox="543.803,100.523,545.813,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040"> </text>
-<text bbox="545.725,100.523,547.735,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040"> </text>
-<text bbox="547.759,100.523,549.769,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040"> </text>
-<text bbox="549.700,96.072,558.364,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">V</text>
-<text bbox="558.100,96.072,561.100,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="561.100,96.072,567.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">=</text>
-<text bbox="567.940,96.072,570.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="570.940,96.072,576.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">4</text>
-<text bbox="576.940,96.072,582.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">5</text>
-<text bbox="582.940,96.072,588.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">1</text>
-<text bbox="588.940,96.072,594.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">2</text>
-<text bbox="594.940,96.072,597.940,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000"> </text>
-<text bbox="597.940,96.072,607.936,108.072" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">m</text>
-<text bbox="607.800,100.523,611.820,108.563" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="8.040">3</text>
-</textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="487.300,74.472,678.148,86.472" id="4" size="12.0">Two overhead cranes  (8 tonnes each) <textline bbox="487.300,74.472,678.148,86.472" colourspace="Pattern" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000">Two overhead cranes  (8 tonnes each) </textline>
-</normal_text>
-<picture archetypal_index="5" bbox="66.0,54.78,655.38,492.0" caption="" combined_sources="['Image44.1627x1204.bmp', 'Image46.jpg']" name="combined_0" src="combined_6_0.png" /></page>
-<page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[247.10857142857145, 437.96941758241763, 472.08624175824184, 482.2206043956044]" rotate="0">
-<title archetypal_index="0" bbox="262.660,436.387,457.317,480.427" id="0" size="44.04">RF System <textline bbox="262.660,436.387,457.317,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">RF System </textline>
-</title>
-<normal_text archetypal_index="1" bbox="274.510,378.888,356.902,390.888" id="1" size="12.0">Solenoid Magnet <textline bbox="274.510,378.888,356.902,390.888" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Solenoid Magnet </textline>
-</normal_text>
-<normal_text archetypal_index="2" bbox="114.580,347.133,196.228,373.538" id="2" size="12.012">Cooling Channel 
-Envelope <textline bbox="114.580,361.538,196.228,373.538" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Cooling Channel </textline>
-<textline bbox="117.580,347.133,162.886,359.157" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.024">Envelope </textline>
-</normal_text>
-<normal_text archetypal_index="3" bbox="204.620,329.858,256.948,356.297" id="3" size="12.012">RF Cavity  
-Cavities <textline bbox="204.620,344.273,256.948,356.297" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.024">RF Cavity  </textline>
-<textline bbox="204.620,329.858,243.968,341.858" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Cavities </textline>
-</normal_text>
-<normal_text archetypal_index="4" bbox="382.390,234.478,403.030,246.478" id="4" size="12.0">Raft <textline bbox="382.390,234.478,403.030,246.478" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Raft </textline>
-</normal_text>
-<normal_text archetypal_index="5" bbox="327.120,199.103,371.693,211.127" id="5" size="12.024">Absorber <textline bbox="327.120,199.103,371.693,211.127" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.024">Absorber </textline>
-</normal_text>
-<normal_text archetypal_index="6" bbox="262.900,174.838,302.140,201.238" id="6" size="12.0">Tuning  
-Bellows <textline bbox="262.900,189.238,300.100,201.238" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Tuning  </textline>
-<textline bbox="262.900,174.838,302.140,186.838" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="1" size="12.000">Bellows </textline>
-</normal_text>
-<picture archetypal_index="7" bbox="84.000,136.920,451.080,414.000" height="277" name="Image103" src="Image103.jpg" width="367">
+<picture archetypal_index="3" bbox="174.000,31.080,666.840,504.000" height="472" name="Image24" src="Image24.jpg" width="492">
 </picture>
-<curve bbox="157.500,297.540,171.000,336.280" linewidth="0" pts="158.940,336.280,169.130,302.540,167.700,302.110,157.500,335.840,171.000,304.150,169.860,297.540,165.250,302.420" />
-<curve bbox="292.380,214.870,332.560,263.820" linewidth="0" pts="331.400,214.870,294.960,259.470,296.120,260.420,332.560,215.810,293.850,257.280,292.380,263.820,298.500,261.070" />
-<curve bbox="222.300,191.360,256.250,234.300" linewidth="0" pts="255.070,191.360,224.800,229.900,225.980,230.830,256.250,192.280,223.650,227.730,222.300,234.300,228.370,231.430" />
-<curve bbox="365.340,247.930,389.750,272.100" linewidth="0" pts="388.690,247.930,368.370,268.050,369.420,269.120,389.750,248.990,367.490,265.750,365.340,272.100,371.710,270.010" />
-<curve bbox="319.440,369.270,354.540,380.110" linewidth="0" pts="319.800,380.110,349.870,372.670,349.510,371.210,319.440,378.650,349.440,375.090,354.540,370.740,347.990,369.270" />
-<enlisting archetypal_index="8" bbox="480.05,120.716,646.106,432.815">~1kW/Hz 1 MW per cavity 8MW total 1-2 ms 
-1-10 Hz <normal_text bbox="552.050,120.716,646.106,144.716" id="12" size="24.0">~1kW/Hz <textline bbox="552.050,120.716,646.106,144.716" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">~1kW/Hz </textline>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[264.62, 439.387, 457.35366666666664, 486.62999999999994]" rotate="0">
+<title archetypal_index="0" bbox="281.620,436.387,438.270,480.427" id="0" size="44.04">Location <textline bbox="281.620,436.387,438.270,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Location </textline>
+</title>
+<normal_text archetypal_index="1" bbox="115.220,306.850,195.464,347.650" id="1" size="12.0">Plant&#8230;. 
+Control room&#8230; 
+Electronics&#8230;. <textline bbox="115.220,335.650,153.728,347.650" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.8, 0.2)" size="12.000">Plant&#8230;. </textline>
+<textline bbox="115.220,321.250,195.464,333.250" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.8, 0.2)" size="12.000">Control room&#8230; </textline>
+<textline bbox="115.220,306.850,189.128,318.850" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.8, 0.2)" size="12.000">Electronics&#8230;. </textline>
 </normal_text>
-<normal_text bbox="480.05,207.146,642.957,432.815">1 MW per cavity 8MW total 1-2 ms 
-1-10 Hz <normal_text bbox="480.050,408.791,642.957,432.815" id="7" size="24.024">1 MW per cavity <textline bbox="480.050,408.791,642.957,432.815" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.024">1 MW per cavity </textline>
+<picture archetypal_index="2" bbox="156.000,87.600,602.040,378.000" height="290" name="Image29" src="Image29.1189x774.bmp" width="446">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[267.77200000000005, 438.187, 453.43580000000003, 484.14879999999994]" rotate="0">
+<title archetypal_index="0" bbox="272.500,436.387,447.559,480.427" id="0" size="44.04">ISIS Ring <textline bbox="272.500,436.387,447.559,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">ISIS Ring </textline>
+</title>
+<picture archetypal_index="1" bbox="135.000,-102.120,585.000,642.120" height="744" name="Image39" src="Image39.jpg" width="450">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[252.22571428571428, 437.2441428571429, 468.42009523809526, 482.1992857142857]" rotate="0">
+<title archetypal_index="0" bbox="271.420,436.387,448.769,480.427" id="0" size="44.04">Mice Hall <textline bbox="271.420,436.387,448.769,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Mice Hall </textline>
+</title>
+<normal_text archetypal_index="1" bbox="71.976,365.343,366.342,389.367" id="1" size="24.024">Existing Area &amp; Beam Line <textline bbox="71.976,365.343,366.342,389.367" colourspace="Pattern" font="BCDFEE+ComicSansMS" ncolour="0" size="24.024">Existing Area &amp; Beam Line </textline>
 </normal_text>
-<normal_text bbox="480.050,351.166,584.330,375.166" id="8" size="24.0">8MW total <textline bbox="480.050,351.166,584.330,375.166" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">8MW total </textline>
+<picture archetypal_index="2" bbox="60.000,59.760,660.240,510.000" height="450" name="Image55" src="Image55.jpg" width="600">
+</picture>
+<enlisting archetypal_index="3" bbox="143.98,250.123,539.972,331.73">-- is still there - as seen in Summer -- Beam Line used to end of year <normal_text bbox="143.980,307.730,539.972,331.730" id="2" size="24.0">-- is still there - as seen in Summer <textline bbox="143.980,307.730,539.972,331.730" colourspace="Pattern" font="BCDFEE+ComicSansMS" ncolour="0" size="24.000">-- is still there - as seen in Summer </textline>
 </normal_text>
-<normal_text bbox="552.050,207.146,630.074,259.946" id="10" size="24.0">1-2 ms 
-1-10 Hz <textline bbox="552.050,235.946,617.906,259.946" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">1-2 ms </textline>
-<textline bbox="552.050,207.146,630.074,231.146" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">1-10 Hz </textline>
-</normal_text>
-</normal_text><normal_text bbox="480.050,293.561,645.431,317.585" id="9" size="24.024">Low Duty Factor <textline bbox="480.050,293.561,645.431,317.585" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.024">Low Duty Factor </textline>
-</normal_text>
-<normal_text bbox="480.050,149.516,620.522,173.516" id="11" size="24.0">average power <textline bbox="480.050,149.516,620.522,173.516" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">average power </textline>
+<normal_text bbox="143.980,250.123,508.253,274.147" id="3" size="24.024">-- Beam Line used to end of year <textline bbox="143.980,250.123,508.253,274.147" colourspace="Pattern" font="BCDFEE+ComicSansMS" ncolour="0" size="24.024">-- Beam Line used to end of year </textline>
 </normal_text>
 </enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[249.3742857142857, 441.5298571428571, 468.08957142857145, 486.25621428571424]" rotate="0">
+<title archetypal_index="0" bbox="240.820,454.387,467.098,498.427" id="0" size="44.04">Mice Layout <textline bbox="240.820,454.387,467.098,498.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Mice Layout </textline>
+</title>
+<picture archetypal_index="1" bbox="78.000,39.720,858.000,444.000" height="404" name="Image60" src="Image60.2879x1122.bmp" width="780">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[221.46666666666664, 440.38699999999994, 496.51122222222216, 484.9608333333333]" rotate="0">
+<title archetypal_index="0" bbox="123.790,436.387,595.987,480.427" id="0" size="44.04">Technical Update &amp; Issues <textline bbox="123.790,436.387,595.987,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Technical Update &amp; Issues </textline>
+</title>
+<enlisting archetypal_index="1" bbox="145.22,63.96,400.25,376.006">&#8226;Beam Line 
+&#8226;RF System 
+&#8226;Absorbers 
+&#8226;Magnets &amp; Cryogenics 
+&#8226;Detectors &#8226;Infrastructure &amp; Layout &#8226;RAL &amp; ISIS Perspectives 
+&#8226;Programme 
+&#8226;Expected Progress <normal_text bbox="145.220,236.786,376.268,376.006" id="1" size="24.0">&#8226;Beam Line 
+&#8226;RF System 
+&#8226;Absorbers 
+&#8226;Magnets &amp; Cryogenics 
+&#8226;Detectors <textline bbox="145.220,352.006,259.508,376.006" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Beam Line </textline>
+<textline bbox="145.220,323.206,259.724,347.206" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;RF System </textline>
+<textline bbox="145.220,294.406,252.332,318.406" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Absorbers </textline>
+<textline bbox="145.220,265.606,376.268,289.606" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Magnets &amp; Cryogenics </textline>
+<textline bbox="145.220,236.786,245.684,260.786" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Detectors </textline>
+</normal_text>
+<normal_text bbox="145.220,179.186,382.700,203.186" id="2" size="24.0">&#8226;Infrastructure &amp; Layout <textline bbox="145.220,179.186,382.700,203.186" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Infrastructure &amp; Layout </textline>
+</normal_text>
+<normal_text bbox="145.220,63.960,400.250,145.605" id="3" size="24.008">&#8226;RAL &amp; ISIS Perspectives 
+&#8226;Programme 
+&#8226;Expected Progress <textline bbox="145.220,121.581,400.250,145.605" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8226;RAL &amp; ISIS Perspectives </textline>
+<textline bbox="145.220,92.760,265.292,116.760" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Programme </textline>
+<textline bbox="145.220,63.960,331.460,87.960" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226;Expected Progress </textline>
+</normal_text>
+</enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[224.5933333333333, 439.58700000000005, 493.8039777777778, 484.0540666666667]" rotate="0">
+<title archetypal_index="0" bbox="237.100,436.387,482.975,480.427" id="0" size="44.04">MICE Layout <textline bbox="237.100,436.387,482.975,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">MICE Layout </textline>
+</title>
+<picture archetypal_index="1" bbox="78.000,101.520,639.120,414.000" height="312" name="Image74" src="Image74.827x461.bmp" width="561">
+</picture>
+</page>
+<page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[231.5363636363636, 439.0051818181818, 487.1358, 483.3946]" rotate="0">
+<title archetypal_index="0" bbox="262.780,436.387,457.129,480.427" id="0" size="44.04">Beam Line <textline bbox="262.780,436.387,457.129,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Beam Line </textline>
+</title>
+<enlisting archetypal_index="1" bbox="79.224,133.821,523.411,420.541">&#187; cryogenics availability  
+&#187; release by PSI &#8226; Pm &lt; 400 MeV/c 
+&#8226; Rejection of protons and pions &lt;10% 
+&#8226; few muons per ms &#8226; Two solutions: 
+&#8211; solenoid  &#8211; quadrupoles <normal_text bbox="223.250,165.362,409.550,207.122" id="3" size="18.0">&#187; cryogenics availability  
+&#187; release by PSI <textline bbox="223.250,189.122,409.550,207.122" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.000">&#187; cryogenics availability  </textline>
+<textline bbox="223.250,165.362,344.138,183.362" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="18.000">&#187; release by PSI </textline>
+</normal_text>
+<normal_text bbox="79.224,133.821,523.411,420.541">&#8226; Pm &lt; 400 MeV/c 
+&#8226; Rejection of protons and pions &lt;10% 
+&#8226; few muons per ms &#8226; Two solutions: 
+&#8211; solenoid  &#8211; quadrupoles <normal_text bbox="79.224,318.631,523.411,420.541" id="1" size="27.959999999999997">&#8226; Pm &lt; 400 MeV/c 
+&#8226; Rejection of protons and pions &lt;10% 
+&#8226; few muons per ms <textline bbox="79.224,392.581,294.286,420.541">&#8226; Pm &lt; 400 MeV/c <text bbox="79.224,392.581,89.010,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226;</text>
+<text bbox="106.220,392.581,121.766,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">P</text>
+<text bbox="121.820,392.581,137.925,420.541" colourspace="Pattern" font="SymbolMT" ncolour="0" size="27.960">m</text>
+<text bbox="144.980,392.581,160.749,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&lt;</text>
+<text bbox="160.749,392.581,167.739,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960"> </text>
+<text bbox="167.739,392.581,181.719,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">4</text>
+<text bbox="181.719,392.581,195.699,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">0</text>
+<text bbox="195.699,392.581,209.679,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">0</text>
+<text bbox="209.763,392.581,216.753,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960"> </text>
+<text bbox="216.753,392.581,241.610,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">M</text>
+<text bbox="241.610,392.581,254.024,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">e</text>
+<text bbox="253.912,392.581,274.099,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">V</text>
+<text bbox="274.099,392.581,281.872,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">/</text>
+<text bbox="281.872,392.581,294.286,420.541" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">c</text>
+</textline>
+<textline bbox="79.224,355.711,523.411,383.671" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226; Rejection of protons and pions &lt;10% </textline>
+<textline bbox="79.224,318.631,306.486,346.591">&#8226; few muons per ms <text bbox="79.224,318.631,89.010,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">&#8226;</text>
+<text bbox="106.220,318.631,115.531,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">f</text>
+<text bbox="115.531,318.631,127.945,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">e</text>
+<text bbox="127.945,318.631,148.132,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">w</text>
+<text bbox="148.132,318.631,155.122,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960"> </text>
+<text bbox="155.122,318.631,176.875,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">m</text>
+<text bbox="176.791,318.631,190.771,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">u</text>
+<text bbox="190.771,318.631,204.751,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">o</text>
+<text bbox="204.835,318.631,218.815,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">n</text>
+<text bbox="218.815,318.631,229.691,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">s</text>
+<text bbox="229.775,318.631,236.765,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960"> </text>
+<text bbox="236.821,318.631,250.801,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">p</text>
+<text bbox="250.801,318.631,263.215,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">e</text>
+<text bbox="263.215,318.631,272.526,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">r</text>
+<text bbox="272.526,318.631,279.516,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960"> </text>
+<text bbox="279.650,318.631,295.755,346.591" colourspace="Pattern" font="SymbolMT" ncolour="0" size="27.960">m</text>
+<text bbox="295.610,318.631,306.486,346.591" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.960">s</text>
+</textline>
+</normal_text>
+<normal_text bbox="79.224,213.026,271.633,272.809" id="2" size="25.992">&#8226; Two solutions: 
+&#8211; solenoid  <textline bbox="79.224,244.825,271.633,272.809" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="27.984">&#8226; Two solutions: </textline>
+<textline bbox="115.220,213.026,225.188,237.026" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8211; solenoid  </textline>
+</normal_text>
+<normal_text bbox="115.220,133.821,255.209,157.845" id="4" size="24.024">&#8211; quadrupoles <textline bbox="115.220,133.821,255.209,157.845" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.024">&#8211; quadrupoles </textline>
+</normal_text>
+</normal_text></enlisting></page>
+<page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[243.96696969696967, 438.5688181818182, 474.91283333333337, 482.90000000000003]" rotate="0">
+<title archetypal_index="0" bbox="306.120,436.387,413.798,480.427" id="0" size="44.04">Purity <textline bbox="306.120,436.387,413.798,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Purity </textline>
+</title>
+<picture archetypal_index="1" bbox="96.0,76.44,672.0,474.0" caption="" combined_sources="['Image90.928x304.bmp', 'Image91.934x298.bmp']" name="combined_0" src="combined_12_0.png" /></page>
+<page bbox="0.000,0.000,720.000,540.000" id="13" mean_title="[244.51666666666665, 438.23315384615387, 474.5477820512821, 482.5195384615385]" rotate="0">
+<title archetypal_index="0" bbox="247.540,436.387,472.540,480.427" id="0" size="44.04">Performance <textline bbox="247.540,436.387,472.540,480.427" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="44.040">Performance </textline>
+</title>
+<normal_text archetypal_index="1" bbox="115.220,283.606,455.830,394.055" id="1" size="24.006">Rate depends on muon momentum: 
+e.g. at 200 MeV/c 
+3000 / ms for solenoid 
+~300 /ms in quadrupole <textline bbox="115.220,370.031,455.830,394.055" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.024">Rate depends on muon momentum: </textline>
+<textline bbox="187.220,341.206,359.996,365.206" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">e.g. at 200 MeV/c </textline>
+<textline bbox="187.220,312.406,403.628,336.406" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">3000 / ms for solenoid </textline>
+<textline bbox="187.220,283.606,415.820,307.606" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">~300 /ms in quadrupole </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="115.220,225.986,586.852,249.986" id="2" size="24.0">(assumed a Ti wire target: 1cm long and 4mm &#216;) <textline bbox="115.220,225.986,586.852,249.986" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">(assumed a Ti wire target: 1cm long and 4mm &#216;) </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="115.220,110.756,339.140,192.386" id="3" size="24.0">Purity should be better  
+than 90% against  
+scattered protons <textline bbox="115.220,168.386,339.140,192.386" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Purity should be better  </textline>
+<textline bbox="115.220,139.586,286.484,163.586" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">than 90% against  </textline>
+<textline bbox="115.220,110.756,278.324,134.756" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="24.000">scattered protons </textline>
+</normal_text>
+</page>
 </pages>
