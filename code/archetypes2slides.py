@@ -1,7 +1,7 @@
 from pptx import Presentation
 from pptx.shapes.placeholder import PicturePlaceholder, BasePlaceholder, TablePlaceholder
 from PIL import Image
-from thesis_sieben_bocklandt.code.prototyping.classes import *
+from classes import *
 from pptx.util import Pt
 from pptx.enum.text import PP_PARAGRAPH_ALIGNMENT, MSO_AUTO_SIZE
 

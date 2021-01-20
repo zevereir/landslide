@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import numpy as np
 from django.core.exceptions import ValidationError
 from django.core.validators import URLValidator
-from thesis_sieben_bocklandt.code.prototyping.EM import tenfold_EM
+from EM import tenfold_EM
 from operator import itemgetter
 from math import ceil
 POSSIBLE_ENLISTINGS={"-","*","+","%","$","?","~","_"}

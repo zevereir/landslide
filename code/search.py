@@ -139,7 +139,7 @@ class BreadthSearcher(Searcher):
                 score, matches = best_matches(new_slide, archetypes, self.similarity)
                 heappush(scores, (-score, matches, move))
             # perfect solution, stop
-            if scores[0][0] == -1:
+            if len(scores) > 0 and scores[0][0] == -1:
                 break
             # apply beam, get best scores
             if depth < self.max_depth and self.beam > 0:

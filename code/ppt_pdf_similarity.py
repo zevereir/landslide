@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-from thesis_sieben_bocklandt.code.prototyping.tree2features import calc_surface, amount_of_overlap
+from tree2features import calc_surface, amount_of_overlap
 
 
 

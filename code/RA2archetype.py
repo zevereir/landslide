@@ -1,10 +1,10 @@
 import itertools
 from functools import lru_cache
 import json
-from code.classes import *
-from code.tree2RA import NOT_OVERLAPPING, OVERLAPPING
-import code.globals as glob
-from code.search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
+from classes import *
+from tree2RA import NOT_OVERLAPPING, OVERLAPPING
+import globals as glob
+from search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
 from datetime import datetime
 
 def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_name):
@@ -82,9 +82,9 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         best_archetype=None
         for res in result:
             moves=res[2]
-            new_slide=slide.copy()
-            for move in moves:
-                new_slide=apply(new_slide,move)
+            # new_slide=slide.copy()
+            # for move in moves:
+            new_slide=apply(slide, moves)
             for solution in res[1]:
                 archetype=archs_to_use_per_slide[solution]
                 placeholders = len(similarity_optimal(archetype,slide)[1])
