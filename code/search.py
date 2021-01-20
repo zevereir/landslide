@@ -134,7 +134,7 @@ class BreadthSearcher(Searcher):
         for depth in range(self.max_depth + 1):
             scores = list()
             moves = self.expansions(slide, depth, conditions)
-            for move in tqdm.tqdm(moves, desc="depth {}".format(depth)):
+            for move in tqdm.tqdm(moves, desc="depth {}".format(depth), disable=True):
                 new_slide = apply(slide, move)
                 score, matches = best_matches(new_slide, archetypes, self.similarity)
                 heappush(scores, (-score, matches, move))
@@ -222,7 +222,9 @@ class GreedySearcher(Searcher):
             moved = {move[0].arguments for move in moves}
             moves_left = {move for move in all_moves if move[0].arguments not in moved}
             # apply move and add to queue
-            for move in tqdm.tqdm(moves_left, desc="{}/{}".format(n_moves, m_moves)):
+            for move in tqdm.tqdm(
+                moves_left, desc="{}/{}".format(n_moves, m_moves), disable=True
+            ):
                 new_move = moves | {move}
                 new_slide = apply(slide, new_move)
                 new_score, new_matches = best_matches(

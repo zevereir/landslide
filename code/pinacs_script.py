@@ -61,7 +61,6 @@ def main():
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
         # scores = ppt_pdf_similarity(used_info, source / (data + preparsed), one_background)
-        print(results)
         work_with_scores(results, source/"results",name_output, False,force_override)
 
 
