@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import datetime
-
+import time
 from numpy.distutils.system_info import f2py_info
 
 
@@ -14,6 +14,7 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     names=["Titeldia","Titel Enkele Inhoud","Titel Dubbele Inhoud","Titel Tripel Inhoud","Vergelijking","Sectiehoofd","Enkel Titel","Inhoud met Onderschrift","Achtergrond Quote","Enkel Achtergrond", "Enkel Inhoud"]
     count={}
     responsive_count={}
+    total_time=0
     for i in range(0,len(names)):
         count[i]=(0,0)
         responsive_count[i]=(0,0)
@@ -24,24 +25,26 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
             output_directory = set_output+"\\"+ str(data_index) + "_data"
             #data = np.loadtxt(output_directory+"\\scores.dat")
             responsive_data = np.loadtxt(output_directory + "\\"+name)
-            try:
-                if len(responsive_data[0])==2:
-                    #scores = data[:, 0]
-                    responsive_scores = responsive_data[:, 0]
-                    archetypes = responsive_data[:, 1]
-            except:
-                #scores=[data[0]]
-                responsive_scores = [responsive_data[0]]
-                archetypes = [responsive_data[1]]
+            if len(responsive_data)>0:
+                try:
+                    if len(responsive_data[0])==3:
+                        #scores = data[:, 0]
+                        responsive_scores = responsive_data[:, 0]
+                        archetypes = responsive_data[:, 1]
+                        total_time+=sum(responsive_data[:, 2])
+                except:
+                    #scores=[data[0]]
+                    responsive_scores = [responsive_data[0]]
+                    archetypes = [responsive_data[1]]
 
-            for i in range(0,len(responsive_scores)):
-                index=archetypes[i]
-                tup=count[index]
-                resp_tup=responsive_count[index]
-                #new_tup=(tup[0]+1,tup[1]+scores[i])
-                new_resp_tup=(resp_tup[0]+1,resp_tup[1]+responsive_scores[i])
-                #count[index]=new_tup
-                responsive_count[index]=new_resp_tup
+                for i in range(0,len(responsive_scores)):
+                    index=min(10,archetypes[i])
+                    tup=count[index]
+                    resp_tup=responsive_count[index]
+                    #new_tup=(tup[0]+1,tup[1]+scores[i])
+                    new_resp_tup=(resp_tup[0]+1,resp_tup[1]+responsive_scores[i])
+                    #count[index]=new_tup
+                    responsive_count[index]=new_resp_tup
     #means=[0 for i in range(0,len(names))]
     resp_means = [0 for i in range(0, len(names))]
     totals=[0 for i in range(0,len(names))]
@@ -75,7 +78,7 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
         tick.set_rotation(90)
 
     f.show()
-    f.savefig(set_output+"\\means_and_counts.png")
+    f.savefig(set_output+"\\means_and_counts:"+name.replace(".dat","").replace("results\\","")+".png")
     # mean=0
     # total_amount=0
     # for i in range(0,len(means)):
@@ -88,13 +91,14 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     #     np.savetxt(set_mean_file, data, fmt="%s")
     mean = 0
     total_amount = 0
-    print(resp_means)
-    print(totals)
+    print("means_per_arch:",resp_means)
+    print("counts_per_type:",totals)
     for i in range(0, len(resp_means)):
         mean += resp_means[i] * totals[i]
         total_amount += totals[i]
     mean = mean / total_amount
     print("Responsiviteit:",mean) #0.41188746559054
+    print("Total Time: ",time.strftime('%H:%M:%S', time.gmtime(total_time)))
     #get_score_chart()
 
 def get_score_chart():
@@ -127,4 +131,4 @@ def autolabel(rects,ax):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-data_abstraction(1,841,name="results\\learned.dat")
+data_abstraction(1,841,name="results\\breadth_lessthanfive_learned_2_1_False.dat")
