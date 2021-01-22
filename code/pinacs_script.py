@@ -57,7 +57,8 @@ def main():
     output = source
     if ".dat" not in name_output:
         name_output+=".dat"
-    if not (output / name_output).is_file() or force_override:
+    print(output /"results"/ name_output)
+    if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
         results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
