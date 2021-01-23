@@ -68,7 +68,7 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     rects = ax3.bar(names,totals)
     autolabel(rects,ax3)
     ax3.set_title('Verdeling dataset over archetypes')
-    ax3.set_ylim([0,12000])
+    ax3.set_ylim([0,3000])
 
     # for tick in ax1.get_xticklabels():
     #     tick.set_rotation(90)
@@ -77,8 +77,6 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     for tick in ax3.get_xticklabels():
         tick.set_rotation(90)
 
-    f.show()
-    f.savefig(set_output+"\\means_and_counts:"+name.replace(".dat","").replace("results\\","")+".png")
     # mean=0
     # total_amount=0
     # for i in range(0,len(means)):
@@ -99,6 +97,11 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     mean = mean / total_amount
     print("Responsiviteit:",mean) #0.41188746559054
     print("Total Time: ",time.strftime('%H:%M:%S', time.gmtime(total_time)))
+    figname = set_output + "\\Algemene_resultaten\\means_and_counts_" + name.replace(".dat", "").replace("results\\","") + ".png"
+    print(figname)
+    f.suptitle("Responsiviteit:"+str(round(mean,3))+"  Total Time: "+str(time.strftime('%H:%M:%S', time.gmtime(total_time))))
+    f.show()
+    f.savefig(figname)
     #get_score_chart()
 
 def get_score_chart():
