@@ -134,4 +134,7 @@ def autolabel(rects,ax):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-data_abstraction(1,841,name="results\\breadth_lessthanfive_learned_2_1_False.dat")
+names=["breadth_lessthanfive_learned_2_2_False.dat"]
+#names=["breadth_lessthanfive_baseline_2_0_False.dat","breadth_lessthanfive_learned_2_2_False.dat","breadth_lessthanfive_learned_2_3_False.dat","breadth_lessthanfive_learned_3_1_False.dat","greedy_lessthanfive_learned_1_1_False.dat","greedy_lessthanfive_learned_2_1_False.dat"]
+for i in names:
+    data_abstraction(1,841,name="results\\"+i)
