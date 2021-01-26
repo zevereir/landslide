@@ -71,9 +71,9 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
     ]
     archetypes=[]
     if searcher_name=="greedy":
-        searcher=GreedySearcher(interchangable,max_depth=cutoff, beam=beam)
+        searcher=GreedySearcher(interchangable,max_depth=cutoff, size=beam)
     else:
-        searcher = BreadthSearcher(interchangable, max_depth=cutoff, beam=beam)
+        searcher = BreadthSearcher(interchangable, max_depth=cutoff, size=beam)
     for page in powerpoint.pages:
         start=datetime.now()
         slide=frozenset(Predicate.from_string_sieben(s) for s in page.RA)
