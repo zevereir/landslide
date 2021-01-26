@@ -47,8 +47,12 @@ def main():
         categorized = "_categorized_morethanfive.xml"
         preparsed = "_preparsed_morethanfive.xml"
         set_name="morethanfive"
+
+
     name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(
         args.equal_size)
+    if args.single_content:
+        name_output="filtered_"+name_output
     source = Path(args.data).resolve()
     force_override=args.force
     data=source.stem.replace("_data","")
@@ -61,7 +65,7 @@ def main():
     print(output /"results"/ name_output)
     if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
-        results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher)
+        results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
         # scores = ppt_pdf_similarity(used_info, source / (data + preparsed), one_background)

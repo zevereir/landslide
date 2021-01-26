@@ -7,7 +7,7 @@ import globals as glob
 from search import BreadthSearcher, GreedySearcher, count_objects, Predicate, similarity_optimal, apply
 from datetime import datetime
 
-def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_name):
+def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_name, single_content):
     """"
     De functie die een slideshow uitgedrukt in RA-algebra omzet naar archetypes.
     Deze archetypes zijn de basisvormen van de uiteindelijke powerpoint. Deze functie geeft archetype-objecten terug
@@ -18,36 +18,23 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         with open('code/archetypes/baseline.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
-            baseline_archeypes=arch_dict[str(i)]
-            for arch in baseline_archeypes:
-                base_arch=frozenset(Predicate.from_string_sieben(s) for s in arch)
-                archs_to_use.append(base_arch)
-                if base_arch in master_archetypes.keys():
-                    master_archetypes[base_arch].add((i,-1))
-                else:
-                    master_archetypes[base_arch]={(i,-1)}
+            if (not single_content) or i in [1,7,9]:
+                baseline_archetypes=arch_dict[str(i)]
+                for arch in baseline_archetypes:
+                    base_arch=frozenset(Predicate.from_string_sieben(s) for s in arch)
+                    archs_to_use.append(base_arch)
+                    if base_arch in master_archetypes.keys():
+                        master_archetypes[base_arch].add((i,-1))
+                    else:
+                        master_archetypes[base_arch]={(i,-1)}
 
     elif arch_to_use=="learned":
         with open('code/archetypes/learned.json') as json_file:
             arch_dict = json.load(json_file)
-        for i in range(0, len(arch_dict)):
-            arch = arch_dict[str(i)]
-            for key in range(0, len(arch)):
-                master=arch[str(key)]
-                for z in master:
-                    base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
-                    archs_to_use.append(base_arch)
-                    if base_arch in master_archetypes.keys():
-                        master_archetypes[base_arch].add((i, key))
-                    else:
-                        master_archetypes[base_arch] = {(i, key)}
-    elif arch_to_use=="masters":
-        with open('code/archetypes/masters.json') as json_file:
-            arch_dict = json.load(json_file)
-        for i in range(0, len(arch_dict)):
-            arch = arch_dict[str(i)]
-            for key in range(0, len(arch)+1):
-                if key!=25:
+        for i in range(0, len(arch_dict)): #archetype
+            if (not single_content) or i in [1, 7, 9]:
+                arch = arch_dict[str(i)]
+                for key in range(0, len(arch)): #master
                     master=arch[str(key)]
                     for z in master:
                         base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
@@ -56,6 +43,22 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                             master_archetypes[base_arch].add((i, key))
                         else:
                             master_archetypes[base_arch] = {(i, key)}
+    elif arch_to_use=="masters":
+        with open('code/archetypes/masters.json') as json_file:
+            arch_dict = json.load(json_file)
+        for i in range(0, len(arch_dict)):
+            if (not single_content) or i in [1, 7, 9]:
+                arch = arch_dict[str(i)]
+                for key in range(0, len(arch)+1):
+                    if key!=25:
+                        master=arch[str(key)]
+                        for z in master:
+                            base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
+                            archs_to_use.append(base_arch)
+                            if base_arch in master_archetypes.keys():
+                                master_archetypes[base_arch].add((i, key))
+                            else:
+                                master_archetypes[base_arch] = {(i, key)}
     times=[]
     responsivities=[]
     interchangable = [
