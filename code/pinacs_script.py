@@ -1,9 +1,6 @@
-import sys
 import os
 from pathlib import Path
 import xml.etree.ElementTree as ET
-# conf_path = os.getcwd()
-# sys.path.append(conf_path)
 from tree2RA import tree2RA
 from RA2archetype import RA2archetype
 from archetypes2slides import archetypes2slides
@@ -17,7 +14,7 @@ def main():
     parser.add_argument("--data",default=None)
     parser.add_argument("--archetypes",default="baseline")
     parser.add_argument("--force",action="store_true")
-    parser.add_argument("--cutoff",default=2)
+    parser.add_argument("--cutoff",default=0)
     parser.add_argument("--equal-size",action="store_true")
     parser.add_argument("--beam-size",default=None)
     parser.add_argument("--set",default="all")
@@ -49,8 +46,7 @@ def main():
         set_name="morethanfive"
 
 
-    name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(
-        args.equal_size)
+    name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(args.equal_size)
     if args.single_content:
         name_output="filtered_"+name_output
     source = Path(args.data).resolve()
@@ -62,7 +58,7 @@ def main():
     output = source
     if ".dat" not in name_output:
         name_output+=".dat"
-    print(output /"results"/ name_output)
+    # print(output /"results"/ name_output)
     if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
         results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
@@ -70,6 +66,8 @@ def main():
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
         # scores = ppt_pdf_similarity(used_info, source / (data + preparsed), one_background)
         work_with_scores(results, source/"results",name_output, False,force_override)
+    else:
+        print(output /"results"/ name_output)
 
 
 if __name__ == "__main__":
