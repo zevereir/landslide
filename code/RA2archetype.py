@@ -38,7 +38,8 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                     master=arch[str(key)]
                     for z in master:
                         base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
-                        archs_to_use.append(base_arch)
+                        if base_arch not in archs_to_use:
+                            archs_to_use.append(base_arch)
                         if base_arch in master_archetypes.keys():
                             master_archetypes[base_arch].add((i, key))
                         else:
@@ -54,11 +55,14 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                         master=arch[str(key)]
                         for z in master:
                             base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
-                            archs_to_use.append(base_arch)
+                            if base_arch not in archs_to_use:
+                                archs_to_use.append(base_arch)
                             if base_arch in master_archetypes.keys():
                                 master_archetypes[base_arch].add((i, key))
                             else:
                                 master_archetypes[base_arch] = {(i, key)}
+
+   
     times=[]
     responsivities=[]
     interchangable = [
