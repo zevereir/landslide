@@ -22,6 +22,7 @@ def main():
     parser.add_argument("--beam-size",default=None)
     parser.add_argument("--set",default="all")
     parser.add_argument("--searcher",default="greedy")
+    parser.add_argument("--single-content",action="store_true")
     args = parser.parse_args()
 
     beam=args.beam_size
