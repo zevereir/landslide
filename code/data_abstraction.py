@@ -134,9 +134,17 @@ def autolabel(rects,ax):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-# names=["breadth_lessthanfive_learned_2_2_False.dat"]
-# for i in names:
-#     data_abstraction(1,841,name="results\\"+i)
+
 import os
-for i in os.listdir("D:\\Thesis\\landslide\\data\\american\\1_data"):
-    print(i)
+# names=["breadth_lessthanfive_learned_2_2_False.dat"]
+names=[]
+already=[x.replace("means_and_counts_","").replace(".png",".dat") for x in os.listdir("D:\\Thesis\\landslide\\data\\american\\algemene_resultaten")]
+
+for i in os.listdir("D:\\Thesis\\landslide\\data\\american\\1_data\\results"):
+    if i not in already:
+        names.append(i)
+
+for i in names:
+    data_abstraction(1,841,name="results\\"+i)
+
+
