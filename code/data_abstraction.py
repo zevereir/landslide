@@ -142,16 +142,13 @@ def autolabel(rects,ax):
 
 import os
 # # names=["breadth_lessthanfive_learned_2_2_False.dat"]
-# names=[]
-# already=[x.replace("means_and_counts_","").replace(".png",".dat") for x in os.listdir("D:\\Thesis\\landslide\\data\\american\\algemene_resultaten")]
-#
-# for i in os.listdir("D:\\Thesis\\landslide\\data\\american\\1_data\\results"):
-#     if i not in already:
-#         names.append(i)
-#
-# for i in names:
-#     data_abstraction(1,841,name="results\\"+i)
-#
+names=[]
+already=[x.replace("means_and_counts_","").replace(".png",".dat") for x in os.listdir("D:\\Thesis\\landslide\\data\\american\\algemene_resultaten")]
+
 for i in os.listdir("D:\\Thesis\\landslide\\data\\american\\1_data\\results"):
-    print(i.replace("means_and_counts_","").replace("_"," & ").replace(".dat","")+"& 0.0 \\\\ \\hline")
+    if i not in already:
+        names.append(i)
+
+for i in names:
+    data_abstraction(1,841,name="results\\"+i)
 
