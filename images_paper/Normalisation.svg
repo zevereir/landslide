@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1122.5197"
-   height="793.70081"
-   viewBox="0 0 296.99998 210.00001"
+   width="900"
+   height="650"
+   viewBox="0 0 238.12499 171.97927"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
@@ -18,39 +18,39 @@
   <defs
      id="defs2">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow2Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(1.1) rotate(180) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path2910" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2892" />
     </marker>
     <filter
        id="fx0"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -80,10 +80,10 @@
     </filter>
     <filter
        id="fx1"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -113,10 +113,10 @@
     </filter>
     <filter
        id="fx2"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -146,10 +146,10 @@
     </filter>
     <filter
        id="fx3"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -179,10 +179,10 @@
     </filter>
     <filter
        id="fx4"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -212,10 +212,10 @@
     </filter>
     <filter
        id="fx5"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -245,10 +245,10 @@
     </filter>
     <filter
        id="fx6"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -278,10 +278,10 @@
     </filter>
     <filter
        id="fx7"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -311,10 +311,10 @@
     </filter>
     <filter
        id="fx8"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -344,10 +344,10 @@
     </filter>
     <filter
        id="fx9"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -377,10 +377,10 @@
     </filter>
     <filter
        id="fx10"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -410,10 +410,10 @@
     </filter>
     <filter
        id="fx11"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -443,10 +443,10 @@
     </filter>
     <filter
        id="fx12"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -476,10 +476,10 @@
     </filter>
     <filter
        id="fx13"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -509,10 +509,10 @@
     </filter>
     <filter
        id="fx14"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -542,10 +542,10 @@
     </filter>
     <filter
        id="fx15"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -575,10 +575,10 @@
     </filter>
     <filter
        id="fx16"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -608,10 +608,10 @@
     </filter>
     <filter
        id="fx17"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -641,10 +641,10 @@
     </filter>
     <filter
        id="fx18"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -674,10 +674,10 @@
     </filter>
     <filter
        id="fx19"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -707,10 +707,10 @@
     </filter>
     <filter
        id="fx20"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -740,10 +740,10 @@
     </filter>
     <filter
        id="fx21"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -773,10 +773,10 @@
     </filter>
     <filter
        id="fx22"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -806,10 +806,10 @@
     </filter>
     <filter
        id="fx23"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -839,10 +839,10 @@
     </filter>
     <filter
        id="fx24"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -872,10 +872,10 @@
     </filter>
     <filter
        id="fx25"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -905,10 +905,10 @@
     </filter>
     <filter
        id="fx26"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -938,10 +938,10 @@
     </filter>
     <filter
        id="fx27"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -971,10 +971,10 @@
     </filter>
     <filter
        id="fx28"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1004,10 +1004,10 @@
     </filter>
     <filter
        id="fx29"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1037,10 +1037,10 @@
     </filter>
     <filter
        id="fx30"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1070,10 +1070,10 @@
     </filter>
     <filter
        id="fx31"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1103,10 +1103,10 @@
     </filter>
     <filter
        id="fx32"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1136,10 +1136,10 @@
     </filter>
     <filter
        id="fx33"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1169,10 +1169,10 @@
     </filter>
     <filter
        id="fx34"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1202,10 +1202,10 @@
     </filter>
     <filter
        id="fx35"
-       x="-10%"
-       y="-10%"
-       width="120%"
-       height="120%"
+       x="-29.699999"
+       y="-21.000002"
+       width="356.39999"
+       height="252.00002"
        filterUnits="userSpaceOnUse"
        primitiveUnits="userSpaceOnUse">
       <feComponentTransfer
@@ -1247,8 +1247,8 @@
       <rect
          x="0"
          y="0"
-         width="5.17208e+06"
-         height="4.6101e+06"
+         width="5172080"
+         height="4610100"
          id="rect1511" />
     </clipPath>
     <image
@@ -1260,7 +1260,7 @@
     <clipPath
        id="clip39">
       <path
-         d="M483152 0 5.65523e+06 0 5.65523e+06 4.60378e+06 483152 4.60378e+06Z"
+         d="M 483152,0 H 5655230 V 4603780 H 483152 Z"
          fill-rule="evenodd"
          clip-rule="evenodd"
          id="path1515" />
@@ -1957,17 +1957,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="545.04222"
-     inkscape:cy="197.32085"
+     inkscape:zoom="0.7"
+     inkscape:cx="370.44354"
+     inkscape:cy="105.26703"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-width="2100"
+     inkscape:window-height="1234"
+     inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
@@ -1988,7 +1988,7 @@
      id="layer1">
     <g
        id="g2852"
-       transform="translate(0,-3.401782)">
+       transform="translate(-33.261905,-1.1339249)">
       <g
          style="overflow:hidden"
          id="g2596"
@@ -2032,7 +2032,7 @@
     </g>
     <g
        id="g2864"
-       transform="translate(4.3467308,-1.1339273)">
+       transform="translate(-28.915174,1.1339298)">
       <g
          style="overflow:hidden"
          id="g2662"
@@ -2097,7 +2097,8 @@
          y="15.345837" />
     </g>
     <g
-       id="g2883">
+       id="g2883"
+       transform="translate(-33.261905,2.2678571)">
       <g
          style="overflow:hidden"
          id="g2837"
@@ -2206,17 +2207,17 @@
          y="14.211909" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.619;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 72.571427,57.452381 72.949405,76.35119 H 154.21428 238.125 l -0.37798,-16.630952"
+       style="fill:none;stroke:#000000;stroke-width:0.619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 39.309522,59.720238 39.6875,78.619047 h 81.26488 83.91072 l -0.37798,-16.630952"
        id="path2885" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 152.49013,57.452381 0.37798,50.648809 -0.0472,2.03162"
+       d="m 119.22823,59.720238 0.37798,50.648812 -0.0472,2.03162"
        id="path2887"
        sodipodi:nodetypes="ccc" />
     <g
        id="g2852-7"
-       transform="translate(78.99702,97.895837)">
+       transform="translate(45.735115,100.16369)">
       <g
          style="overflow:hidden"
          id="g2596-9"
@@ -2261,13 +2262,13 @@
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="154.40329"
-       y="94.872017"
+       x="121.14139"
+       y="97.139877"
        id="text3339"><tspan
          sodipodi:role="line"
          id="tspan3337"
-         x="154.40329"
-         y="94.872017"
+         x="121.14139"
+         y="97.139877"
          style="stroke-width:0.264583">Normalisation</tspan></text>
   </g>
 </svg>

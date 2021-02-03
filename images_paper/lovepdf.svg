@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2000"
-   height="793.70081"
-   viewBox="0 0 529.16668 210"
+   height="600"
+   viewBox="0 0 529.16668 158.75001"
    version="1.1"
    id="svg1351"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
@@ -18,22 +18,22 @@
      id="defs1345">
     <rect
        x="106.96726"
-       y="26.458333"
-       width="48.002976"
-       height="17.386905"
+       y="26.458332"
+       width="48.002975"
+       height="17.386906"
        id="rect2574" />
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow2Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(1.1) rotate(180) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path1024" />
     </marker>
     <clipPath
@@ -109,7 +109,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="844.19573"
+     inkscape:cx="901.3557"
      inkscape:cy="374.44576"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -423,7 +423,8 @@
     <text
        xml:space="preserve"
        id="text2572"
-       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2574);"><tspan
+       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2574);"
+       transform="translate(4.5357143)"><tspan
          x="106.9668"
          y="36.246469"><tspan
            style="font-size:7.05556px">ilovepdf.com</tspan></tspan></text>
