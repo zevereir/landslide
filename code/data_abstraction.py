@@ -18,33 +18,37 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     for i in range(0,len(names)):
         count[i]=(0,0)
         responsive_count[i]=(0,0)
-
+    missing=[]
     for data_index in range(begin,end):
         if data_index not in ignore:
             print(data_index)
             output_directory = set_output+"\\"+ str(data_index) + "_data"
             #data = np.loadtxt(output_directory+"\\scores.dat")
-            responsive_data = np.loadtxt(output_directory + "\\"+name)
-            if len(responsive_data)>0:
-                try:
-                    if len(responsive_data[0])==3:
-                        #scores = data[:, 0]
-                        responsive_scores = responsive_data[:, 0]
-                        archetypes = responsive_data[:, 1]
-                        total_time+=sum(responsive_data[:, 2])
-                except:
-                    #scores=[data[0]]
-                    responsive_scores = [responsive_data[0]]
-                    archetypes = [responsive_data[1]]
+            try:
+                responsive_data = np.loadtxt(output_directory + "\\"+name)
+                if len(responsive_data)>0:
+                    try:
+                        if len(responsive_data[0])==3:
+                            #scores = data[:, 0]
+                            responsive_scores = responsive_data[:, 0]
+                            archetypes = responsive_data[:, 1]
+                            total_time+=sum(responsive_data[:, 2])
+                    except:
+                        #scores=[data[0]]
+                        responsive_scores = [responsive_data[0]]
+                        archetypes = [responsive_data[1]]
 
-                for i in range(0,len(responsive_scores)):
-                    index=min(10,archetypes[i])
-                    tup=count[index]
-                    resp_tup=responsive_count[index]
-                    #new_tup=(tup[0]+1,tup[1]+scores[i])
-                    new_resp_tup=(resp_tup[0]+1,resp_tup[1]+responsive_scores[i])
-                    #count[index]=new_tup
-                    responsive_count[index]=new_resp_tup
+                    for i in range(0,len(responsive_scores)):
+                        index=min(10,archetypes[i])
+                        tup=count[index]
+                        resp_tup=responsive_count[index]
+                        #new_tup=(tup[0]+1,tup[1]+scores[i])
+                        new_resp_tup=(resp_tup[0]+1,resp_tup[1]+responsive_scores[i])
+                        #count[index]=new_tup
+                        responsive_count[index]=new_resp_tup
+            except:
+                missing.append(data_index)
+    print(missing)
     #means=[0 for i in range(0,len(names))]
     resp_means = [0 for i in range(0, len(names))]
     totals=[0 for i in range(0,len(names))]
@@ -99,7 +103,8 @@ def data_abstraction(begin,end, ignore=[], name="responsive_scores.dat"):
     print("Total Time: ",time.strftime('%H:%M:%S', time.gmtime(total_time)))
     figname = set_output + "\\Algemene_resultaten\\means_and_counts_" + name.replace(".dat", "").replace("results\\","") + ".png"
     print(figname)
-    f.suptitle("Responsiviteit:"+str(round(mean,3))+"  Total Time: "+str(time.strftime('%H:%M:%S', time.gmtime(total_time))))
+    per=str(round(mean,4)*100)
+    f.suptitle("Responsiviteit:"+per[0:2]+"."+per[3:5]+"%"+"  Total Time: "+str(time.strftime('%H:%M:%S', time.gmtime(total_time))))
     f.show()
     f.savefig(figname)
     #get_score_chart()
@@ -134,6 +139,16 @@ def autolabel(rects,ax):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-names=["breadth_lessthanfive_learned_2_2_False.dat"]
+
+import os
+# # names=["breadth_lessthanfive_learned_2_2_False.dat"]
+names=[]
+already=[x.replace("means_and_counts_","").replace(".png",".dat") for x in os.listdir("D:\\Thesis\\landslide\\data\\american\\algemene_resultaten")]
+
+for i in os.listdir("D:\\Thesis\\landslide\\data\\american\\1_data\\results"):
+    if i not in already:
+        names.append(i)
+
 for i in names:
     data_abstraction(1,841,name="results\\"+i)
+
