@@ -1,14 +1,14 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="19" mean_title="[43.2, 458.4741052631578, 342.900783625731, 504.8256842105263]" rotate="0">
-<title archetypal_index="0" bbox="43.200,460.768,289.516,504.808" id="0" size="44.04">Care Plan Edit <textline bbox="43.200,460.768,289.516,504.808" colourspace="DeviceGray" font="BCDEEE+Impact" ncolour="(0, 0, 0.6)" size="44.040">Care Plan Edit </textline>
+<title archetypal_index="0" bbox="43.200,460.768,289.516,504.808" id="0" size="44.04" Annotation_index="0">Care Plan Edit <textline bbox="43.200,460.768,289.516,504.808" colourspace="DeviceGray" font="BCDEEE+Impact" ncolour="(0, 0, 0.6)" size="44.040">Care Plan Edit </textline>
 </title>
-<normal_text archetypal_index="1" bbox="6.240,12.289,47.153,33.313" id="5" size="21.024">8.07 <textline bbox="6.240,12.289,47.153,33.313" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.122, 0.286, 0.49)" size="21.024">8.07 </textline>
+<normal_text archetypal_index="1" bbox="6.240,12.289,47.153,33.313" id="5" size="21.024" Annotation_index="1">8.07 <textline bbox="6.240,12.289,47.153,33.313" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.122, 0.286, 0.49)" size="21.024">8.07 </textline>
 </normal_text>
-<background bbox="0.000,-0.120,720.120,540.000" height="540" name="Image16" src="Image16.16.jpg" width="720">
+<background bbox="0.000,-0.120,720.120,540.000" height="540" name="Image16" src="Image16.16.jpg" width="720" Annotation_index="2">
 </background>
-<picture archetypal_index="2" bbox="86.880,2.880,636.000,294.000" height="291" name="Image93" src="Image93.jpg" width="549">
+<picture archetypal_index="2" bbox="86.880,2.880,636.000,294.000" height="291" name="Image93" src="Image93.jpg" width="549" Annotation_index="3">
 </picture>
-<curve bbox="101.760,299.280,561.240,300.960" linewidth="0" pts="101.760,300.960,254.920,300.960,408.080,300.960,561.240,300.960,561.240,299.280,408.080,299.280,254.920,299.280,101.760,299.280" />
-<enlisting archetypal_index="3" bbox="43.2,297.4,663.867,429.632">&#8226; When you are ready to finalize a client&#8217;s care plan  &#10146; This closes the care plan you are working on and you  <normal_text bbox="43.200,403.592,651.515,429.632" id="1" size="26.04">&#8226; When you are ready to finalize a client&#8217;s care plan  <textline bbox="43.200,403.592,651.515,429.632">&#8226; When you are ready to finalize a client&#8217;s care plan  <text bbox="43.200,403.592,52.314,429.632" colourspace="DeviceGray" font="ArialMT" ncolour="(0.502, 0, 0)" size="26.040">&#8226;</text>
+<curve bbox="101.760,299.280,561.240,300.960" linewidth="0" pts="101.760,300.960,254.920,300.960,408.080,300.960,561.240,300.960,561.240,299.280,408.080,299.280,254.920,299.280,101.760,299.280" Annotation_index="4" />
+<enlisting archetypal_index="3" bbox="43.2,297.4,663.867,429.632" Annotation_index="5">&#8226; When you are ready to finalize a client&#8217;s care plan  &#10146; This closes the care plan you are working on and you  <normal_text bbox="43.200,403.592,651.515,429.632" id="1" size="26.04">&#8226; When you are ready to finalize a client&#8217;s care plan  <textline bbox="43.200,403.592,651.515,429.632">&#8226; When you are ready to finalize a client&#8217;s care plan  <text bbox="43.200,403.592,52.314,429.632" colourspace="DeviceGray" font="ArialMT" ncolour="(0.502, 0, 0)" size="26.040">&#8226;</text>
 <text bbox="70.224,403.592,94.806,429.632" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 0.6)" size="26.040">W</text>
 <text bbox="94.806,403.592,109.284,429.632" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 0.6)" size="26.040">h</text>
 <text bbox="109.284,403.592,123.762,429.632" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 0.6)" size="26.040">e</text>

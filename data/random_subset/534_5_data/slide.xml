@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[243.18800000000002, 426.0040000000001, 476.864, 462.0040000000001]" rotate="0">
-<title archetypal_index="0" bbox="255.580,426.004,464.524,462.004" id="0" size="36.0">The Scheduler <textline bbox="255.580,426.004,464.524,462.004" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="36.000">The Scheduler </textline>
+<title archetypal_index="0" bbox="255.580,426.004,464.524,462.004" id="0" size="36.0" Annotation_index="0">The Scheduler <textline bbox="255.580,426.004,464.524,462.004" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="36.000">The Scheduler </textline>
 </title>
-<enlisting archetypal_index="1" bbox="61.224,172.361,614.347,341.446">&#8226; Semi-automated &#8211; Knows when to request human assistance. 
+<enlisting archetypal_index="1" bbox="61.224,172.361,614.347,341.446" Annotation_index="1">&#8226; Semi-automated &#8211; Knows when to request human assistance. 
 &#8211; Human can step in at any time. 
 &#8226; Pulls in data from diverse sources. &#8211; Weather forecaster; real time weather server; TOMS airborne  <normal_text bbox="61.224,317.446,245.396,341.446" id="1" size="24.0">&#8226; Semi-automated <textline bbox="61.224,317.446,245.396,341.446" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">&#8226; Semi-automated </textline>
 </normal_text>

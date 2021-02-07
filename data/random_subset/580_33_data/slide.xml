@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="34" mean_title="[130.20497044334977, 440.70983743842373, 589.6253226600986, 497.9818719211823]" rotate="0">
-<title archetypal_index="0" bbox="66.432,425.920,662.555,513.880" id="0" size="39.96">Why should my center switch to low  
+<title archetypal_index="0" bbox="66.432,425.920,662.555,513.880" id="0" size="39.96" Annotation_index="0">Why should my center switch to low  
 fat milk? <textline bbox="66.432,473.920,662.555,513.880" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="39.960">Why should my center switch to low  </textline>
 <textline bbox="290.380,425.920,429.800,465.880" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="39.960">fat milk? </textline>
 </title>
-<normal_text archetypal_index="1" bbox="70.944,258.304,351.050,384.880" id="1" size="27.996000000000002">Because&#8230;saturated    
+<normal_text archetypal_index="1" bbox="70.944,258.304,351.050,384.880" id="1" size="27.996000000000002" Annotation_index="1">Because&#8230;saturated    
 fat and cholesterol found in  
 whole and 2% milk can lead  
 to heart disease <textline bbox="70.944,344.920,337.490,384.880">Because&#8230;saturated    <text bbox="70.944,344.920,92.682,384.880" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="(0, 0, 1)" size="39.960">B</text>
@@ -73,7 +73,7 @@ to heart disease <textline bbox="70.944,344.920,337.490,384.880">Because&#8230;s
 <text bbox="220.266,258.304,231.750,282.328" colourspace="DeviceGray" font="BCDIEE+Calibri-Italic" ncolour="(1, 0.2, 0)" size="24.024">e</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="73.224,195.058,281.750,235.018" id="2" size="39.96">Because&#8230;the <textline bbox="73.224,195.058,281.750,235.018">Because&#8230;the <text bbox="73.224,195.058,99.877,235.018" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">B</text>
+<normal_text archetypal_index="2" bbox="73.224,195.058,281.750,235.018" id="2" size="39.96" Annotation_index="2">Because&#8230;the <textline bbox="73.224,195.058,281.750,235.018">Because&#8230;the <text bbox="73.224,195.058,99.877,235.018" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">B</text>
 <text bbox="99.877,195.058,122.095,235.018" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">e</text>
 <text bbox="122.095,195.058,142.075,235.018" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">c</text>
 <text bbox="142.075,195.058,164.293,235.018" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="39.960">a</text>
@@ -86,7 +86,7 @@ to heart disease <textline bbox="70.944,344.920,337.490,384.880">Because&#8230;s
 <text bbox="271.742,199.670,281.750,217.670" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="73.224,129.825,305.870,191.066" id="3" size="18.008">extra calories found in whole  
+<normal_text archetypal_index="3" bbox="73.224,129.825,305.870,191.066" id="3" size="18.008" Annotation_index="3">extra calories found in whole  
 and 2% milk can lead to 
 overweight and obesity <textline bbox="73.224,173.030,305.870,191.066">extra calories found in whole  <text bbox="73.224,173.066,83.232,191.066" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="(1, 0, 0)" size="18.000">e</text>
 <text bbox="83.232,173.066,92.232,191.066" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="(1, 0, 0)" size="18.000">x</text>
@@ -141,7 +141,7 @@ overweight and obesity <textline bbox="73.224,173.030,305.870,191.066">extra cal
 <text bbox="248.136,129.861,257.148,147.885" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="(1, 0, 0)" size="18.024">y</text>
 </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.32.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.32.jpg" width="720" Annotation_index="4">
 </background>
 </page>
 </pages>

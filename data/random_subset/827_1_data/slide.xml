@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[71.112, 495.535, 450.796, 525.559]" rotate="0">
-<title archetypal_index="0" bbox="71.112,495.535,450.796,525.559" id="0" size="30.024">Personnel Time Recording <textline bbox="71.112,495.535,450.796,525.559" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">Personnel Time Recording </textline>
+<title archetypal_index="0" bbox="71.112,495.535,450.796,525.559" id="0" size="30.024" Annotation_index="0">Personnel Time Recording <textline bbox="71.112,495.535,450.796,525.559" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">Personnel Time Recording </textline>
 </title>
-<normal_text archetypal_index="1" bbox="47.400,463.428,246.357,479.388" id="1" size="15.96">Which Profile Should I Use? <textline bbox="47.400,463.428,246.357,479.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Which Profile Should I Use? </textline>
+<normal_text archetypal_index="1" bbox="47.400,463.428,246.357,479.388" id="1" size="15.96" Annotation_index="1">Which Profile Should I Use? <textline bbox="47.400,463.428,246.357,479.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Which Profile Should I Use? </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="37.200,396.228,236.002,450.588" id="2" size="15.96">SOW-1: Use when entering  
+<normal_text archetypal_index="2" bbox="37.200,396.228,236.002,450.588" id="2" size="15.96" Annotation_index="2">SOW-1: Use when entering  
 multiple cost centers for an  
 employee&#8217;s time entry.   <textline bbox="37.200,434.628,236.002,450.588" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">SOW-1: Use when entering  </textline>
 <textline bbox="37.200,415.428,232.917,431.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">multiple cost centers for an  </textline>
 <textline bbox="37.200,396.228,204.748,412.188" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">employee&#8217;s time entry.   </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="37.200,309.798,258.693,383.407" id="3" size="15.966000000000001">SOW-2: Use when entering  
+<normal_text archetypal_index="3" bbox="37.200,309.798,258.693,383.407" id="3" size="15.966000000000001" Annotation_index="3">SOW-2: Use when entering  
 time for employees with one  
 assigned cost center that does  
 not need to be changed. <textline bbox="37.200,367.423,236.028,383.407" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">SOW-2: Use when entering  </textline>
@@ -17,17 +17,17 @@ not need to be changed. <textline bbox="37.200,367.423,236.028,383.407" coloursp
 <textline bbox="37.200,328.998,258.693,344.958" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">assigned cost center that does  </textline>
 <textline bbox="37.200,309.798,209.775,325.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">not need to be changed. </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="463.300,428.568,691.962,462.528" id="9" size="9.96">A wage type has been entered and a measurement  
+<normal_text archetypal_index="4" bbox="463.300,428.568,691.962,462.528" id="9" size="9.96" Annotation_index="4">A wage type has been entered and a measurement  
 unit must (example HR for hours) must also be  
 entered. <textline bbox="463.300,452.568,691.962,462.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A wage type has been entered and a measurement  </textline>
 <textline bbox="463.300,440.568,671.882,450.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">unit must (example HR for hours) must also be  </textline>
 <textline bbox="463.300,428.568,499.803,438.528" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">entered. </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="463.300,397.368,695.318,419.328" id="10" size="9.96">A unit has been entered for an absence type. Delete  
+<normal_text archetypal_index="5" bbox="463.300,397.368,695.318,419.328" id="10" size="9.96" Annotation_index="5">A unit has been entered for an absence type. Delete  
 the unit and save again. <textline bbox="463.300,409.368,695.318,419.328" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A unit has been entered for an absence type. Delete  </textline>
 <textline bbox="463.300,397.368,568.537,407.328" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">the unit and save again. </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="463.300,330.138,700.807,388.128" id="11" size="9.9648">The absence has been entered on a non-working day  
+<normal_text archetypal_index="6" bbox="463.300,330.138,700.807,388.128" id="11" size="9.9648" Annotation_index="6">The absence has been entered on a non-working day  
 according to the work schedule. The Time and  
 Attendance Processor will need to first  
 overwrite/maintain the work schedule then re-enter  
@@ -37,38 +37,38 @@ the absence or attendance. <textline bbox="463.300,378.168,700.807,388.128" colo
 <textline bbox="463.300,342.138,689.508,352.098" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">overwrite/maintain the work schedule then re-enter  </textline>
 <textline bbox="463.300,330.138,583.637,340.098" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">the absence or attendance. </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="463.300,281.878,684.362,315.858" id="13" size="9.968000000000002">The employee does not have enough hours in the  
+<normal_text archetypal_index="7" bbox="463.300,281.878,684.362,315.858" id="13" size="9.968000000000002" Annotation_index="7">The employee does not have enough hours in the  
 Absence Quota Bucket remaining  to enter the  
 absence. <textline bbox="463.300,305.898,684.362,315.858" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">The employee does not have enough hours in the  </textline>
 <textline bbox="463.300,293.893,669.629,303.877" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">Absence Quota Bucket remaining  to enter the  </textline>
 <textline bbox="463.300,281.878,503.738,291.838" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">absence. </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="463.300,250.678,685.547,272.638" id="15" size="9.96">Hours have been entered without entering a wage  
+<normal_text archetypal_index="8" bbox="463.300,250.678,685.547,272.638" id="15" size="9.96" Annotation_index="8">Hours have been entered without entering a wage  
 type or absence type.  <textline bbox="463.300,262.678,685.547,272.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Hours have been entered without entering a wage  </textline>
 <textline bbox="463.300,250.678,560.589,260.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">type or absence type.  </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="463.300,207.478,701.732,241.438" id="17" size="9.96">A wage type was assigned that is not permitted for an  
+<normal_text archetypal_index="9" bbox="463.300,207.478,701.732,241.438" id="17" size="9.96" Annotation_index="9">A wage type was assigned that is not permitted for an  
 employee grouping or personnel subarea. Return to  
 the transaction and enter a valid wage type. <textline bbox="463.300,231.478,701.732,241.438" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">A wage type was assigned that is not permitted for an  </textline>
 <textline bbox="463.300,219.478,693.525,229.438" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">employee grouping or personnel subarea. Return to  </textline>
 <textline bbox="463.300,207.478,654.990,217.438" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">the transaction and enter a valid wage type. </textline>
 </normal_text>
-<normal_text archetypal_index="10" bbox="25.200,4.811,67.480,12.875" id="31" size="8.064">March 2007 <textline bbox="25.200,4.811,67.480,12.875" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.064">March 2007 </textline>
+<normal_text archetypal_index="10" bbox="25.200,4.811,67.480,12.875" id="31" size="8.064" Annotation_index="10">March 2007 <textline bbox="25.200,4.811,67.480,12.875" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.064">March 2007 </textline>
 </normal_text>
-<slide_number bbox="686.400,6.087,691.951,16.071" id="32" size="9.984">2 <textline bbox="686.400,6.087,691.951,16.071" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">2 </textline>
+<slide_number bbox="686.400,6.087,691.951,16.071" id="32" size="9.984" Annotation_index="11">2 <textline bbox="686.400,6.087,691.951,16.071" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">2 </textline>
 </slide_number>
-<picture archetypal_index="11" bbox="8.400,498.960,60.000,528.000" height="29" name="Image9" src="Image9.0.109x61.bmp" width="51">
+<picture archetypal_index="11" bbox="8.400,498.960,60.000,528.000" height="29" name="Image9" src="Image9.0.109x61.bmp" width="51" Annotation_index="12">
 </picture>
-<rect bbox="12.000,228.000,282.000,492.000" linewidth="2" />
-<rect bbox="12.000,228.000,282.000,492.000" linewidth="1" />
-<picture archetypal_index="12" bbox="60.000,237.720,243.000,294.000" caption="Action &#10;CAT2 " height="56" name="Image72" src="Image72.244x75.bmp" width="183">
+<rect bbox="12.000,228.000,282.000,492.000" linewidth="2" Annotation_index="13" />
+<rect bbox="12.000,228.000,282.000,492.000" linewidth="1" Annotation_index="14" />
+<picture archetypal_index="12" bbox="60.000,237.720,243.000,294.000" caption="Action &#10;CAT2 " height="56" name="Image72" src="Image72.244x75.bmp" width="183" Annotation_index="15">
 </picture>
-<rect bbox="59.500,237.220,243.500,294.500" linewidth="1" />
-<table archetypal_index="13" bbox="288.0,468.0,708.0,492.0" dimensions="2/1"><cell bbox="288.0,468.0,456.0,492.0"><tabletext bbox="323.280,471.872,420.788,485.912" id="4" size="14.04">Error Message <textline bbox="323.280,471.872,420.788,485.912" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="14.040">Error Message </textline>
+<rect bbox="59.500,237.220,243.500,294.500" linewidth="1" Annotation_index="16" />
+<table archetypal_index="13" bbox="288.0,468.0,708.0,492.0" dimensions="2/1" Annotation_index="17"><cell bbox="288.0,468.0,456.0,492.0"><tabletext bbox="323.280,471.872,420.788,485.912" id="4" size="14.04">Error Message <textline bbox="323.280,471.872,420.788,485.912" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="14.040">Error Message </textline>
 </tabletext>
 </cell><cell bbox="456.0,468.0,708.0,492.0"><tabletext bbox="545.900,471.872,618.290,485.912" id="8" size="14.04">Resolution <textline bbox="545.900,471.872,618.290,485.912" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="14.040">Resolution </textline>
 </tabletext>
-</cell></table><table archetypal_index="14" bbox="18.0,22.65,708.0,192.0" dimensions="1/16"><cell bbox="18.0,165.6,708.0,192.0"><tabletext bbox="276.940,169.378,449.116,185.338" id="21" size="15.96">Common Transactions <textline bbox="276.940,169.378,449.116,185.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="15.960">Common Transactions </textline>
+</cell></table><table archetypal_index="14" bbox="18.0,22.65,708.0,192.0" dimensions="1/16" Annotation_index="18"><cell bbox="18.0,165.6,708.0,192.0"><tabletext bbox="276.940,169.378,449.116,185.338" id="21" size="15.96">Common Transactions <textline bbox="276.940,169.378,449.116,185.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="15.960">Common Transactions </textline>
 </tabletext>
 </cell><cell bbox="18.0,144.0,183.38,165.6" /><cell bbox="183.38,144.0,312.0,165.6"><tabletext bbox="197.380,147.770,297.976,159.770" id="19" size="12.0">Transaction Code <textline bbox="197.380,147.770,297.976,159.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Transaction Code </textline>
 </tabletext>
@@ -291,7 +291,7 @@ Schedule <textline bbox="31.968,66.092,171.926,76.052" colourspace="DeviceGray" 
 <text bbox="686.942,66.092,692.480,76.052" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">n</text>
 </textline>
 </tabletext>
-</cell><cell bbox="18.0,22.65,183.38,50.4" /><cell bbox="183.38,22.65,312.0,50.4" /><cell bbox="312.0,22.65,708.0,50.4" /></table><enlisting archetypal_index="15" bbox="295.25,207.478,448.684,462.528">&#8220;Enter amount or number&#8221; &#8220;Unit not permitted&#8221; &#8220;Attendance/absence  
+</cell><cell bbox="18.0,22.65,183.38,50.4" /><cell bbox="183.38,22.65,312.0,50.4" /><cell bbox="312.0,22.65,708.0,50.4" /></table><enlisting archetypal_index="15" bbox="295.25,207.478,448.684,462.528" Annotation_index="19">&#8220;Enter amount or number&#8221; &#8220;Unit not permitted&#8221; &#8220;Attendance/absence  
 XX/XX/XXXX during non-working  
 period&#8221; &#8220;Not enough Quota for attendance  
 type xxxx&#8221; &#8220;Enter relevant working time  

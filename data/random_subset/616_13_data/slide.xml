@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[177.75301098901102, 433.26218681318676, 543.8949780219781, 513.7340000000002]" rotate="0">
-<title archetypal_index="0" bbox="194.950,429.967,527.240,513.734" id="0" size="24.688">OCS Performance Measures 
+<title archetypal_index="0" bbox="194.950,429.967,527.240,513.734" id="0" size="24.688" Annotation_index="0">OCS Performance Measures 
 Oil Spill Volume Incident Rate* 
 For Spills 1 bbl to &lt;10 bbl <textline bbox="213.220,487.670,509.099,513.734" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="26.064">OCS Performance Measures </textline>
 <textline bbox="194.950,456.445,527.240,482.485">Oil Spill Volume Incident Rate* <text bbox="194.950,456.445,213.751,482.485" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="26.040">O</text>
@@ -36,8 +36,8 @@ For Spills 1 bbl to &lt;10 bbl <textline bbox="213.220,487.670,509.099,513.734" 
 </textline>
 <textline bbox="244.900,429.967,477.237,451.927" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="21.960">For Spills 1 bbl to &lt;10 bbl </textline>
 </title>
-<curve bbox="96.060,281.940,132.060,299.940" linewidth="2" pts="96.060,281.940,110.460,299.940,121.260,281.940,132.060,297.370" />
-<enlisting archetypal_index="1" bbox="91.224,46.972,644.116,383.421">40 *Annual total volume of  all spills 1 bbl to &lt;10 bbl on the OCS/ 
+<curve bbox="96.060,281.940,132.060,299.940" linewidth="2" pts="96.060,281.940,110.460,299.940,121.260,281.940,132.060,297.370" Annotation_index="1" />
+<enlisting archetypal_index="1" bbox="91.224,46.972,644.116,383.421" Annotation_index="2">40 *Annual total volume of  all spills 1 bbl to &lt;10 bbl on the OCS/ 
 Gross operated crude oil condensate production on the OCS in millions of barrels <normal_text bbox="91.224,366.357,110.192,383.421" id="1" size="17.064">40 <textline bbox="91.224,366.357,110.192,383.421" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="17.064">40 </textline>
 </normal_text>
 <normal_text bbox="108.790,46.972,610.790,77.812" id="3" size="14.04">*Annual total volume of  all spills 1 bbl to &lt;10 bbl on the OCS/ 

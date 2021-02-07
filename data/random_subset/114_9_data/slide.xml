@@ -1,28 +1,28 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[170.01293333333334, 418.79106666666667, 548.0736666666667, 455.8797333333333]" rotate="0">
-<title archetypal_index="0" bbox="166.900,428.732,570.946,448.772" id="0" size="20.04">Water Information Strategies Work Groups <textline bbox="166.900,428.732,570.946,448.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="20.040">Water Information Strategies Work Groups </textline>
+<title archetypal_index="0" bbox="166.900,428.732,570.946,448.772" id="0" size="20.04" Annotation_index="0">Water Information Strategies Work Groups <textline bbox="166.900,428.732,570.946,448.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="20.040">Water Information Strategies Work Groups </textline>
 </title>
-<normal_text archetypal_index="1" bbox="103.270,314.650,262.516,354.250" id="1" size="18.0">Data Analysis and  
+<normal_text archetypal_index="1" bbox="103.270,314.650,262.516,354.250" id="1" size="18.0" Annotation_index="1">Data Analysis and  
 Interpretation <textline bbox="103.270,336.250,262.516,354.250" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Data Analysis and  </textline>
 <textline bbox="124.990,314.650,240.946,332.650" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Interpretation </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="65.952,224.630,299.994,264.269" id="3" size="18.012">Program Development and  
+<normal_text archetypal_index="2" bbox="65.952,224.630,299.994,264.269" id="3" size="18.012" Annotation_index="2">Program Development and  
 Network Design  <textline bbox="65.952,246.245,299.994,264.269" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.024">Program Development and  </textline>
 <textline bbox="112.510,224.630,253.414,242.630" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Network Design  </textline>
 </normal_text>
-<curve bbox="528.480,282.000,534.480,312.000" linewidth="0" pts="530.980,312.000,530.980,287.000,531.980,287.000,531.980,312.000,528.480,288.000,531.480,282.000,534.480,288.000" />
-<rect bbox="84.000,424.800,654.000,456.000" linewidth="0" />
-<curve bbox="166.850,428.640,571.010,430.800" linewidth="0" pts="166.850,430.800,301.570,430.800,436.290,430.800,571.010,430.800,571.010,428.640,436.290,428.640,301.570,428.640,166.850,428.640" />
-<rect bbox="54.000,306.000,312.000,366.000" linewidth="0" />
-<rect bbox="54.000,306.000,312.000,366.000" linewidth="0" />
-<rect bbox="54.000,216.000,312.000,276.000" linewidth="0" />
-<rect bbox="54.000,216.000,312.000,276.000" linewidth="1" />
-<curve bbox="177.000,276.000,183.000,306.000" linewidth="1" pts="179.500,306.000,179.500,281.000,180.500,281.000,180.500,306.000,177.000,282.000,180.000,276.000,183.000,282.000" />
-<curve bbox="335.640,479.640,342.000,486.000" linewidth="1" pts="339.880,479.640,342.000,486.000,335.640,483.880" />
-<curve bbox="531.000,366.000,537.000,396.000" linewidth="1" pts="534.500,396.000,534.500,371.000,533.500,371.000,533.500,396.000,537.000,372.000,534.000,366.000,531.000,372.000" />
-<picture archetypal_index="3" bbox="186.000,468.000,552.000,532.800" height="64" name="Image42" src="Image42.0.jpg" width="366">
+<curve bbox="528.480,282.000,534.480,312.000" linewidth="0" pts="530.980,312.000,530.980,287.000,531.980,287.000,531.980,312.000,528.480,288.000,531.480,282.000,534.480,288.000" Annotation_index="3" />
+<rect bbox="84.000,424.800,654.000,456.000" linewidth="0" Annotation_index="4" />
+<curve bbox="166.850,428.640,571.010,430.800" linewidth="0" pts="166.850,430.800,301.570,430.800,436.290,430.800,571.010,430.800,571.010,428.640,436.290,428.640,301.570,428.640,166.850,428.640" Annotation_index="5" />
+<rect bbox="54.000,306.000,312.000,366.000" linewidth="0" Annotation_index="6" />
+<rect bbox="54.000,306.000,312.000,366.000" linewidth="0" Annotation_index="7" />
+<rect bbox="54.000,216.000,312.000,276.000" linewidth="0" Annotation_index="8" />
+<rect bbox="54.000,216.000,312.000,276.000" linewidth="1" Annotation_index="9" />
+<curve bbox="177.000,276.000,183.000,306.000" linewidth="1" pts="179.500,306.000,179.500,281.000,180.500,281.000,180.500,306.000,177.000,282.000,180.000,276.000,183.000,282.000" Annotation_index="10" />
+<curve bbox="335.640,479.640,342.000,486.000" linewidth="1" pts="339.880,479.640,342.000,486.000,335.640,483.880" Annotation_index="11" />
+<curve bbox="531.000,366.000,537.000,396.000" linewidth="1" pts="534.500,396.000,534.500,371.000,533.500,371.000,533.500,396.000,537.000,372.000,534.000,366.000,531.000,372.000" Annotation_index="12" />
+<picture archetypal_index="3" bbox="186.000,468.000,552.000,532.800" height="64" name="Image42" src="Image42.0.jpg" width="366" Annotation_index="13">
 </picture>
-<curve bbox="177.000,366.000,183.000,396.000" linewidth="0" pts="180.500,396.000,180.500,371.000,179.500,371.000,179.500,396.000,183.000,372.000,180.000,366.000,177.000,372.000" />
-<table archetypal_index="4" bbox="408.0,228.0,660.0,366.0" dimensions="1/2"><cell bbox="408.0,306.0,660.0,366.0"><tabletext bbox="436.080,314.650,632.478,354.250" id="2" size="18.0">Data Management and  
+<curve bbox="177.000,366.000,183.000,396.000" linewidth="0" pts="180.500,396.000,180.500,371.000,179.500,371.000,179.500,396.000,183.000,372.000,180.000,366.000,177.000,372.000" Annotation_index="14" />
+<table archetypal_index="4" bbox="408.0,228.0,660.0,366.0" dimensions="1/2" Annotation_index="15"><cell bbox="408.0,306.0,660.0,366.0"><tabletext bbox="436.080,314.650,632.478,354.250" id="2" size="18.0">Data Management and  
 Access <textline bbox="436.080,336.250,632.478,354.250" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Data Management and  </textline>
 <textline bbox="502.820,314.650,565.298,332.650" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">Access </textline>
 </tabletext>

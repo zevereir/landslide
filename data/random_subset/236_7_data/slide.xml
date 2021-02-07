@@ -1,19 +1,19 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[463.1706666666667, 487.7573333333333, 535.3926666666666, 522.3446666666667]" rotate="0">
-<normal_text archetypal_index="0" bbox="14.088,516.438,25.611,532.398" id="0" size="15.96">C <textline bbox="14.088,516.438,25.611,532.398" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.0863, 0.298)" size="15.960">C </textline>
+<normal_text archetypal_index="0" bbox="14.088,516.438,25.611,532.398" id="0" size="15.96" Annotation_index="0">C <textline bbox="14.088,516.438,25.611,532.398" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0.0863, 0.298)" size="15.960">C </textline>
 </normal_text>
-<title archetypal_index="1" bbox="31.872,433.072,149.363,465.112" id="1" size="32.04">Agenda <textline bbox="31.872,433.072,149.363,465.112" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.553, 0.682, 1)" size="32.040">Agenda </textline>
+<title archetypal_index="1" bbox="31.872,433.072,149.363,465.112" id="1" size="32.04" Annotation_index="1">Agenda <textline bbox="31.872,433.072,149.363,465.112" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.553, 0.682, 1)" size="32.040">Agenda </textline>
 </title>
-<normal_text archetypal_index="2" bbox="678.820,515.100,712.848,533.100" id="2" size="18.0">IN-8 <textline bbox="678.820,515.100,712.848,533.100" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.208, 0.435, 1)" size="18.000">IN-8 </textline>
+<normal_text archetypal_index="2" bbox="678.820,515.100,712.848,533.100" id="2" size="18.0" Annotation_index="2">IN-8 <textline bbox="678.820,515.100,712.848,533.100" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.208, 0.435, 1)" size="18.000">IN-8 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="35.760,375.472,679.671,395.512" id="3" size="20.04">Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . .  Burkhard Daldrup, PhD <textline bbox="35.760,375.472,679.671,395.512" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . .  Burkhard Daldrup, PhD </textline>
+<normal_text archetypal_index="3" bbox="35.760,375.472,679.671,395.512" id="3" size="20.04" Annotation_index="3">Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . .  Burkhard Daldrup, PhD <textline bbox="35.760,375.472,679.671,395.512" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . .  Burkhard Daldrup, PhD </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="35.760,298.652,680.920,361.931" id="4" size="20.048">Pathophysiology of Metastatic Bone Disease 
+<normal_text archetypal_index="4" bbox="35.760,298.652,680.920,361.931" id="4" size="20.048" Annotation_index="4">Pathophysiology of Metastatic Bone Disease 
 and the Role of Bisphosphonates . . . . . . . . . . Prof. Robert Coleman, 
 MD, FRCP <textline bbox="35.760,341.867,461.438,361.931" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.064">Pathophysiology of Metastatic Bone Disease </textline>
 <textline bbox="36.360,320.252,680.920,340.292" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">and the Role of Bisphosphonates . . . . . . . . . . Prof. Robert Coleman, </textline>
 <textline bbox="583.060,298.652,679.813,318.692" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">MD, FRCP </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="35.760,221.847,688.161,285.783" id="5" size="20.048">ZOMETA&#174; in Breast Cancer  
+<normal_text archetypal_index="5" bbox="35.760,221.847,688.161,285.783" id="5" size="20.048" Annotation_index="5">ZOMETA&#174; in Breast Cancer  
 and Multiple Myeloma . . . . . . . . . . . . . . . . . . . . . James Berenson, MD, 
 Paul Gallo, PhD <textline bbox="35.760,265.052,298.648,285.783">ZOMETA&#174; in Breast Cancer  <text bbox="35.760,265.052,48.004,285.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Z</text>
 <text bbox="48.004,265.052,63.596,285.092" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">O</text>
@@ -43,7 +43,7 @@ Paul Gallo, PhD <textline bbox="35.760,265.052,298.648,285.783">ZOMETA&#174; in 
 <textline bbox="36.360,243.452,688.161,263.492" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">and Multiple Myeloma . . . . . . . . . . . . . . . . . . . . . James Berenson, MD, </textline>
 <textline bbox="531.100,221.847,679.754,241.911" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.064">Paul Gallo, PhD </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="36.360,166.622,433.713,208.953" id="6" size="20.04">ZOMETA&#174; in Prostate Cancer and  
+<normal_text archetypal_index="6" bbox="36.360,166.622,433.713,208.953" id="6" size="20.04" Annotation_index="6">ZOMETA&#174; in Prostate Cancer and  
 Solid Tumors Other Than Prostate Cancer <textline bbox="36.360,188.222,358.086,208.953">ZOMETA&#174; in Prostate Cancer and  <text bbox="36.360,188.222,48.604,208.262" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Z</text>
 <text bbox="48.604,188.222,64.196,208.262" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">O</text>
 <text bbox="64.196,188.222,80.889,208.262" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">M</text>
@@ -77,15 +77,15 @@ Solid Tumors Other Than Prostate Cancer <textline bbox="36.360,188.222,358.086,2
 </textline>
 <textline bbox="36.360,166.622,433.713,186.662" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Solid Tumors Other Than Prostate Cancer </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="35.760,89.819,679.811,153.062" id="7" size="20.048">and Breast Cancer . . . . . . . . . . . . . . . . . . . . . . . . . Matthew Smith, MD 
+<normal_text archetypal_index="7" bbox="35.760,89.819,679.811,153.062" id="7" size="20.048" Annotation_index="7">and Breast Cancer . . . . . . . . . . . . . . . . . . . . . . . . . Matthew Smith, MD 
 Prof. Robert Coleman, 
 MD, FRCP <textline bbox="35.760,133.022,676.018,153.062" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">and Breast Cancer . . . . . . . . . . . . . . . . . . . . . . . . . Matthew Smith, MD </textline>
 <textline bbox="468.670,111.422,679.811,131.462" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Prof. Robert Coleman, </textline>
 <textline bbox="583.060,89.819,679.789,109.883" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.064">MD, FRCP </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="36.360,56.200,679.667,76.240" id="8" size="20.04">Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . David Parkinson, MD <textline bbox="36.360,56.200,679.667,76.240" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . David Parkinson, MD </textline>
+<normal_text archetypal_index="8" bbox="36.360,56.200,679.667,76.240" id="8" size="20.04" Annotation_index="8">Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . David Parkinson, MD <textline bbox="36.360,56.200,679.667,76.240" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="20.040">Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . David Parkinson, MD </textline>
 </normal_text>
-<picture archetypal_index="9" bbox="575.520,10.800,702.120,35.160" height="24" name="Image35" src="Image35.4.472x91.bmp" width="126">
+<picture archetypal_index="9" bbox="575.520,10.800,702.120,35.160" height="24" name="Image35" src="Image35.4.472x91.bmp" width="126" Annotation_index="9">
 </picture>
 </page>
 </pages>

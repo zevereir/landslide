@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[91.224, 458.9693333333333, 623.842, 488.3453333333334]" rotate="0">
-<title archetypal_index="0" bbox="97.224,480.384,633.687,512.448" id="0" size="32.064">EnViroCast Collaboration Module (EVCM) <textline bbox="97.224,480.384,633.687,512.448" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.064">EnViroCast Collaboration Module (EVCM) </textline>
+<title archetypal_index="0" bbox="97.224,480.384,633.687,512.448" id="0" size="32.064" Annotation_index="0">EnViroCast Collaboration Module (EVCM) <textline bbox="97.224,480.384,633.687,512.448" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.064">EnViroCast Collaboration Module (EVCM) </textline>
 </title>
-<normal_text archetypal_index="1" bbox="31.200,391.660,668.904,440.140" id="1" size="24.0">Storm Center Communications developing a Government version  
+<normal_text archetypal_index="1" bbox="31.200,391.660,668.904,440.140" id="1" size="24.0" Annotation_index="1">Storm Center Communications developing a Government version  
 of the collaboration tool &#8211; EVCM-G <textline bbox="31.200,416.140,668.904,440.140" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">Storm Center Communications developing a Government version  </textline>
 <textline bbox="31.200,391.660,370.414,415.660">of the collaboration tool &#8211; EVCM-G <text bbox="31.200,391.660,43.848,415.660" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">o</text>
 <text bbox="43.848,391.660,51.168,415.660" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">f</text>
@@ -38,9 +38,9 @@ of the collaboration tool &#8211; EVCM-G <textline bbox="31.200,416.140,668.904,
 <text bbox="355.270,391.660,370.414,415.660" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">G</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="35.520,355.180,680.040,379.180" id="2" size="24.0">Software available to all Government entities for use on variety of  <textline bbox="35.520,355.180,680.040,379.180" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">Software available to all Government entities for use on variety of  </textline>
+<normal_text archetypal_index="2" bbox="35.520,355.180,680.040,379.180" id="2" size="24.0" Annotation_index="2">Software available to all Government entities for use on variety of  <textline bbox="35.520,355.180,680.040,379.180" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">Software available to all Government entities for use on variety of  </textline>
 </normal_text>
-<enlisting archetypal_index="3" bbox="35.52,82.464,673.056,354.67" id="3" size="22.368000000000002">PC platforms 
+<enlisting archetypal_index="3" bbox="35.52,82.464,673.056,354.67" id="3" size="22.368000000000002" Annotation_index="3">PC platforms 
 &#8226; local server capability &#8211; faster data displays  
 &#8226; simplified animation 
 &#8226; better drawing capabilities 
@@ -183,11 +183,11 @@ of the collaboration tool &#8211; EVCM-G <textline bbox="31.200,416.140,668.904,
 <normal_text bbox="35.520,82.464,673.056,106.464" id="8" size="24.0">Demonstrate in Pacific Region with limited bandwidth capabilities <textline bbox="35.520,82.464,673.056,106.464" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="24.000">Demonstrate in Pacific Region with limited bandwidth capabilities </textline>
 </normal_text>
 </enlisting>
-<normal_text archetypal_index="4" bbox="217.250,29.222,667.960,42.182" id="9" size="12.96">transitioning unique NASA data and research technologies to operations <textline bbox="217.250,29.222,667.960,42.182" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0.498" size="12.960">transitioning unique NASA data and research technologies to operations </textline>
+<normal_text archetypal_index="4" bbox="217.250,29.222,667.960,42.182" id="9" size="12.96" Annotation_index="4">transitioning unique NASA data and research technologies to operations <textline bbox="217.250,29.222,667.960,42.182" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0.498" size="12.960">transitioning unique NASA data and research technologies to operations </textline>
 </normal_text>
-<picture archetypal_index="5" bbox="0.000,0.000,180.000,51.000" height="51" name="Image6" src="Image6.1.240x68.bmp" width="180">
+<picture archetypal_index="5" bbox="0.000,0.000,180.000,51.000" height="51" name="Image6" src="Image6.1.240x68.bmp" width="180" Annotation_index="5">
 </picture>
-<picture archetypal_index="6" bbox="648.000,0.000,715.560,56.280" height="56" name="Image8" src="Image8.1.90x75.bmp" width="67">
+<picture archetypal_index="6" bbox="648.000,0.000,715.560,56.280" height="56" name="Image8" src="Image8.1.90x75.bmp" width="67" Annotation_index="6">
 </picture>
 </page>
 </pages>

@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<normal_text archetypal_index="0" bbox="54.240,132.274,657.925,189.519" id="1" size="26.052">Travis Elless, Tony Lyza, Sarah Mustered, and Craig  
+<normal_text archetypal_index="0" bbox="54.240,132.274,657.925,189.519" id="1" size="26.052" Annotation_index="0">Travis Elless, Tony Lyza, Sarah Mustered, and Craig  
 Clark <textline bbox="54.240,163.479,657.925,189.519" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="26.040">Travis Elless, Tony Lyza, Sarah Mustered, and Craig  </textline>
 <textline bbox="54.240,132.274,116.220,158.338" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="26.064">Clark </textline>
 </normal_text>
-<normal_text archetypal_index="1" bbox="54.240,29.653,664.176,90.834" id="2" size="26.04">20th Great Lakes Operational Meteorology Workshop 
+<normal_text archetypal_index="1" bbox="54.240,29.653,664.176,90.834" id="2" size="26.04" Annotation_index="1">20th Great Lakes Operational Meteorology Workshop 
 March 15, 2012 <textline bbox="54.240,63.853,664.176,90.834">20th Great Lakes Operational Meteorology Workshop <text bbox="54.240,63.853,68.796,89.893" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="26.040">2</text>
 <text bbox="68.784,63.853,84.773,89.893" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="26.040">0</text>
 <text bbox="84.744,73.554,90.706,90.834" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="17.280">t</text>
@@ -55,9 +55,9 @@ March 15, 2012 <textline bbox="54.240,63.853,664.176,90.834">20th Great Lakes Op
 </textline>
 <textline bbox="54.240,29.653,229.932,55.693" colourspace="DeviceGray" font="BCDFEE+Georgia" ncolour="(0.259, 0.267, 0.337)" size="26.040">March 15, 2012 </textline>
 </normal_text>
-<curve bbox="426.000,225.840,667.200,228.000" linewidth="0" pts="426.000,227.640,426.000,227.840,426.160,228.000,426.360,228.000,666.840,228.000,667.040,228.000,667.200,227.840,667.200,227.640,667.200,226.200,667.200,226.000,667.040,225.840,666.840,225.840,426.360,225.840,426.160,225.840,426.000,226.000,426.000,226.200" />
-<curve bbox="580.920,217.320,706.920,220.200" linewidth="0" pts="580.920,219.720,580.920,219.990,581.130,220.200,581.400,220.200,706.440,220.200,706.710,220.200,706.920,219.990,706.920,219.720,706.920,217.800,706.920,217.530,706.710,217.320,706.440,217.320,581.400,217.320,581.130,217.320,580.920,217.530,580.920,217.800" />
-<table archetypal_index="2" bbox="0.0,208.68,720.0,540.0" dimensions="1/9"><cell bbox="426.0,232.92,720.0,240.0" /><cell bbox="426.0,218.04,720.0,233.16" /><cell bbox="426.0,215.28,720.0,216.0" /><cell bbox="426.0,210.6,580.8,212.16" /><cell bbox="426.0,208.68,580.8,209.4" /><cell bbox="0.0,233.4,720.0,252.6" /><cell bbox="0.0,239.52,720.0,250.68" /><cell bbox="504.96,233.64,720.0,253.08" /><cell bbox="0.0,248.52,720.0,540.0"><tabletext bbox="25.200,334.150,700.924,480.068" id="0" size="31.992">Wintertime Climate Variability in the  
+<curve bbox="426.000,225.840,667.200,228.000" linewidth="0" pts="426.000,227.640,426.000,227.840,426.160,228.000,426.360,228.000,666.840,228.000,667.040,228.000,667.200,227.840,667.200,227.640,667.200,226.200,667.200,226.000,667.040,225.840,666.840,225.840,426.360,225.840,426.160,225.840,426.000,226.000,426.000,226.200" Annotation_index="2" />
+<curve bbox="580.920,217.320,706.920,220.200" linewidth="0" pts="580.920,219.720,580.920,219.990,581.130,220.200,581.400,220.200,706.440,220.200,706.710,220.200,706.920,219.990,706.920,219.720,706.920,217.800,706.920,217.530,706.710,217.320,706.440,217.320,581.400,217.320,581.130,217.320,580.920,217.530,580.920,217.800" Annotation_index="3" />
+<table archetypal_index="2" bbox="0.0,208.68,720.0,540.0" dimensions="1/9" Annotation_index="4"><cell bbox="426.0,232.92,720.0,240.0" /><cell bbox="426.0,218.04,720.0,233.16" /><cell bbox="426.0,215.28,720.0,216.0" /><cell bbox="426.0,210.6,580.8,212.16" /><cell bbox="426.0,208.68,580.8,209.4" /><cell bbox="0.0,233.4,720.0,252.6" /><cell bbox="0.0,239.52,720.0,250.68" /><cell bbox="504.96,233.64,720.0,253.08" /><cell bbox="0.0,248.52,720.0,540.0"><tabletext bbox="25.200,334.150,700.924,480.068" id="0" size="31.992">Wintertime Climate Variability in the  
 Lake Michigan Region: 
 Sensitivity of Snowfall to Temperature and Northern  
 Hemisphere Teleconnection Patterns <textline bbox="25.200,440.108,700.924,480.068" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS" ncolour="1" size="39.960">Wintertime Climate Variability in the  </textline>

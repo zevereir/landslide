@@ -1,17 +1,17 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[228.745, 434.34999999999997, 501.873, 484.34999999999997]" rotate="0">
-<title archetypal_index="0" bbox="296.380,434.380,444.604,482.380" id="1" size="48.0">Focus  <textline bbox="296.380,434.380,444.604,482.380" colourspace="DeviceGray" font="BCDEEE+ComicSansMS-Bold" ncolour="(0, 0.6, 0)" size="48.000">Focus  </textline>
+<title archetypal_index="0" bbox="296.380,434.380,444.604,482.380" id="1" size="48.0" Annotation_index="0">Focus  <textline bbox="296.380,434.380,444.604,482.380" colourspace="DeviceGray" font="BCDEEE+ComicSansMS-Bold" ncolour="(0, 0.6, 0)" size="48.000">Focus  </textline>
 </title>
-<normal_text archetypal_index="1" bbox="119.780,197.030,665.975,280.587" id="3" size="36.012">Save money to reinvest in other  
+<normal_text archetypal_index="1" bbox="119.780,197.030,665.975,280.587" id="3" size="36.012" Annotation_index="1">Save money to reinvest in other  
 areas <textline bbox="120.500,244.563,665.975,280.587" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0, 0, 0.6)" size="36.024">Save money to reinvest in other  </textline>
 <textline bbox="119.780,197.030,211.184,233.030" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0, 0, 0.6)" size="36.000">areas </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="119.780,93.320,681.898,176.887" id="4" size="36.012">Conserve natural resources for a  
+<normal_text archetypal_index="2" bbox="119.780,93.320,681.898,176.887" id="4" size="36.012" Annotation_index="2">Conserve natural resources for a  
 cleaner environment <textline bbox="120.500,140.863,681.898,176.887" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0, 0, 0.6)" size="36.024">Conserve natural resources for a  </textline>
 <textline bbox="119.780,93.320,457.568,129.320" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0, 0, 0.6)" size="36.000">cleaner environment </textline>
 </normal_text>
-<picture archetypal_index="3" bbox="72.000,406.200,720.000,436.440" caption="Energy Conservation is a means  &#10;to: " height="30" name="Image6" src="Image6.2.400x48.bmp" width="648">
+<picture archetypal_index="3" bbox="72.000,406.200,720.000,436.440" caption="Energy Conservation is a means  &#10;to: " height="30" name="Image6" src="Image6.2.400x48.bmp" width="648" Annotation_index="3">
 </picture>
-<picture archetypal_index="4" bbox="19.920,460.680,115.320,510.000" caption="Rebuild Massachusetts " height="49" name="Image8" src="Image8.2.jpg" width="95">
+<picture archetypal_index="4" bbox="19.920,460.680,115.320,510.000" caption="Rebuild Massachusetts " height="49" name="Image8" src="Image8.2.jpg" width="95" Annotation_index="4">
 </picture>
 </page>
 </pages>

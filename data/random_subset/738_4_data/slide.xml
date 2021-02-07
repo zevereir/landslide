@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[40.63199999999999, 485.207, 149.6319, 511.271]" rotate="0">
-<title archetypal_index="0" bbox="40.632,485.207,120.596,511.271" id="0" size="26.064">Lewes <textline bbox="40.632,485.207,120.596,511.271" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.064">Lewes </textline>
+<title archetypal_index="0" bbox="40.632,485.207,120.596,511.271" id="0" size="26.064" Annotation_index="0">Lewes <textline bbox="40.632,485.207,120.596,511.271" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.064">Lewes </textline>
 </title>
-<enlisting archetypal_index="1" bbox="36.888,272.998,598.015,360.958" id="3" size="21.959999999999997">&#8226; Home of Thomas &#8220;Rights of Man&#8221; Paine 
+<enlisting archetypal_index="1" bbox="36.888,272.998,598.015,360.958" id="3" size="21.959999999999997" Annotation_index="1">&#8226; Home of Thomas &#8220;Rights of Man&#8221; Paine 
 &#8226; Battle of Lewes &#8594; establishment of UK&#8217;s first parliament 
 &#8226; Gideon &amp; Mary Mantell: First dinosaur fossils <textline bbox="36.888,338.998,438.292,360.958" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">&#8226; Home of Thomas &#8220;Rights of Man&#8221; Paine </textline>
 <textline bbox="36.888,305.867,598.015,327.958">&#8226; Battle of Lewes &#8594; establishment of UK&#8217;s first parliament <text bbox="36.888,305.998,44.574,327.958" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">&#8226;</text>
@@ -63,9 +63,9 @@
 </textline>
 <textline bbox="36.888,272.998,487.592,294.958" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">&#8226; Gideon &amp; Mary Mantell: First dinosaur fossils </textline>
 </enlisting>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.3.1504x1127.bmp" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.3.1504x1127.bmp" width="720" Annotation_index="2">
 </background>
-<picture archetypal_index="2" bbox="0.000,438.120,720.000,540.000" caption="Beautiful and historic town - &#10;&#8226; Norman castle; cobbled streets; ruined priory " height="101" name="Image7" src="Image7.3.1504x213.bmp" width="720">
+<picture archetypal_index="2" bbox="0.000,438.120,720.000,540.000" caption="Beautiful and historic town - &#10;&#8226; Norman castle; cobbled streets; ruined priory " height="101" name="Image7" src="Image7.3.1504x213.bmp" width="720" Annotation_index="3">
 </picture>
-<picture archetypal_index="3" bbox="19.8,14.64,705.84,258.6" caption="" combined_sources="['Image38.jpg', 'Image39.jpg', 'Image40.jpg', 'Image41.jpg']" name="combined_0" src="combined_5_0.png" /></page>
+<picture archetypal_index="3" bbox="19.8,14.64,705.84,258.6" caption="" combined_sources="['Image38.jpg', 'Image39.jpg', 'Image40.jpg', 'Image41.jpg']" name="combined_0" src="combined_5_0.png" Annotation_index="4" /></page>
 </pages>

@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="13" mean_title="[31.2, 448.044, 433.9055897435897, 486.8200000000001]" rotate="0">
-<title archetypal_index="0" bbox="31.200,450.820,426.552,486.820" id="0" size="36.0">FOR MORE INFORMATION <textline bbox="31.200,450.820,426.552,486.820" colourspace="Pattern" font="BCDEEE+FranklinGothic-Medium" ncolour="(0.306, 0.231, 0.188)" size="36.000">FOR MORE INFORMATION </textline>
+<title archetypal_index="0" bbox="31.200,450.820,426.552,486.820" id="0" size="36.0" Annotation_index="0">FOR MORE INFORMATION <textline bbox="31.200,450.820,426.552,486.820" colourspace="Pattern" font="BCDEEE+FranklinGothic-Medium" ncolour="(0.306, 0.231, 0.188)" size="36.000">FOR MORE INFORMATION </textline>
 </title>
-<normal_text archetypal_index="1" bbox="31.200,63.528,682.121,145.169" id="6" size="21.608">&#61650; For information on the CDC Disease Stage Fix-It Report or the  
+<normal_text archetypal_index="1" bbox="31.200,63.528,682.121,145.169" id="6" size="21.608" Annotation_index="1">&#61650; For information on the CDC Disease Stage Fix-It Report or the  
 CD4 and Viral Load Fix-It Report, go to www.projectaries.org 
 and click on Training &gt; Focused Technical Assistance. <textline bbox="31.200,121.145,682.121,145.169">&#61650; For information on the CDC Disease Stage Fix-It Report or the  <text bbox="31.200,122.261,46.190,139.085" colourspace="Pattern" font="BCDHEE+Wingdings2" ncolour="(0.941, 0.635, 0.18)" size="16.824">&#61650;</text>
 <text bbox="58.200,121.145,70.404,145.169" colourspace="Pattern" font="BCDFEE+FranklinGothic-Book" ncolour="(0.306, 0.231, 0.188)" size="24.024">F</text>
@@ -129,11 +129,11 @@ and click on Training &gt; Focused Technical Assistance. <textline bbox="31.200,
 </textline>
 <textline bbox="58.200,63.528,598.248,87.528" colourspace="Pattern" font="BCDFEE+FranklinGothic-Book" ncolour="(0.306, 0.231, 0.188)" size="24.000">and click on Training &gt; Focused Technical Assistance. </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image41" src="Image41.10.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image41" src="Image41.10.jpg" width="720" Annotation_index="2">
 </background>
-<curve bbox="240.720,261.020,451.080,262.220" linewidth="0" pts="240.720,262.220,345.900,262.220,451.080,262.220,451.080,261.020,345.900,261.020,240.720,261.020" />
-<curve bbox="448.200,93.985,658.560,95.185" linewidth="0" pts="448.200,95.185,553.380,95.185,658.560,95.185,658.560,93.985,553.380,93.985,448.200,93.985" />
-<enlisting archetypal_index="2" bbox="31.2,190.27,682.08,410.16">&#61650; If you need help accessing, running, or exporting the HAB QM  &#61641; Consult The ARIES Advisor (October 2008) posted under  &#61641; Call the ARIES Help Desk at 1-866-411-ARIES (2743). <normal_text bbox="31.200,386.160,682.080,410.160" id="1" size="16.8">&#61650; If you need help accessing, running, or exporting the HAB QM  <textline bbox="31.200,386.160,682.080,410.160">&#61650; If you need help accessing, running, or exporting the HAB QM  <text bbox="31.200,387.276,46.169,404.076" colourspace="Pattern" font="BCDHEE+Wingdings2" ncolour="(0.941, 0.635, 0.18)" size="16.800">&#61650;</text>
+<curve bbox="240.720,261.020,451.080,262.220" linewidth="0" pts="240.720,262.220,345.900,262.220,451.080,262.220,451.080,261.020,345.900,261.020,240.720,261.020" Annotation_index="3" />
+<curve bbox="448.200,93.985,658.560,95.185" linewidth="0" pts="448.200,95.185,553.380,95.185,658.560,95.185,658.560,93.985,553.380,93.985,448.200,93.985" Annotation_index="4" />
+<enlisting archetypal_index="2" bbox="31.2,190.27,682.08,410.16" Annotation_index="5">&#61650; If you need help accessing, running, or exporting the HAB QM  &#61641; Consult The ARIES Advisor (October 2008) posted under  &#61641; Call the ARIES Help Desk at 1-866-411-ARIES (2743). <normal_text bbox="31.200,386.160,682.080,410.160" id="1" size="16.8">&#61650; If you need help accessing, running, or exporting the HAB QM  <textline bbox="31.200,386.160,682.080,410.160">&#61650; If you need help accessing, running, or exporting the HAB QM  <text bbox="31.200,387.276,46.169,404.076" colourspace="Pattern" font="BCDHEE+Wingdings2" ncolour="(0.941, 0.635, 0.18)" size="16.800">&#61650;</text>
 <text bbox="58.200,386.160,64.200,410.160" colourspace="Pattern" font="BCDFEE+FranklinGothic-Book" ncolour="(0.306, 0.231, 0.188)" size="24.000">I</text>
 <text bbox="64.200,386.160,71.400,410.160" colourspace="Pattern" font="BCDFEE+FranklinGothic-Book" ncolour="(0.306, 0.231, 0.188)" size="24.000">f</text>
 <text bbox="71.400,386.160,77.400,410.160" colourspace="Pattern" font="BCDFEE+FranklinGothic-Book" ncolour="(0.306, 0.231, 0.188)" size="24.000"> </text>

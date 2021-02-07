@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[209.90527777777777, 480.1886666666667, 536.5225833333333, 512.2526666666666]" rotate="0">
-<title archetypal_index="0" bbox="198.580,481.022,545.545,513.086" id="0" size="32.064">Equipment maintenance <textline bbox="198.580,481.022,545.545,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Equipment maintenance </textline>
+<title archetypal_index="0" bbox="198.580,481.022,545.545,513.086" id="0" size="32.064" Annotation_index="0">Equipment maintenance <textline bbox="198.580,481.022,545.545,513.086" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="32.064">Equipment maintenance </textline>
 </title>
-<enlisting archetypal_index="1" bbox="127.220,161.330,549.884,386.997" id="1" size="24.006">Bigger jobs included: 
+<enlisting archetypal_index="1" bbox="127.220,161.330,549.884,386.997" id="1" size="24.006" Annotation_index="1">Bigger jobs included: 
 &#8226;Vacuum work at B17,B23 &amp; B33 
 &#8226;Installed laser for crystal collimator 
 &#8226;Installed new power supplies for  C2  
@@ -187,13 +187,13 @@ TEL2
 <text bbox="404.804,161.330,417.956,185.330" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000">e</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="2" bbox="61.224,9.116,201.977,23.180" id="2" size="14.064">Tevatron Coordinator <textline bbox="61.224,9.116,201.977,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">Tevatron Coordinator </textline>
+<normal_text archetypal_index="2" bbox="61.224,9.116,201.977,23.180" id="2" size="14.064" Annotation_index="2">Tevatron Coordinator <textline bbox="61.224,9.116,201.977,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">Tevatron Coordinator </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="324.000,9.116,402.168,23.180" id="3" size="14.064">11/30/2020 <textline bbox="324.000,9.116,402.168,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">11/30/2020 </textline>
+<normal_text archetypal_index="3" bbox="324.000,9.116,402.168,23.180" id="3" size="14.064" Annotation_index="3">11/30/2020 <textline bbox="324.000,9.116,402.168,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">11/30/2020 </textline>
 </normal_text>
-<slide_number bbox="650.280,9.116,658.859,23.180" id="4" size="14.064">9 <textline bbox="650.280,9.116,658.859,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">9 </textline>
+<slide_number bbox="650.280,9.116,658.859,23.180" id="4" size="14.064" Annotation_index="4">9 <textline bbox="650.280,9.116,658.859,23.180" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="14.064">9 </textline>
 </slide_number>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.7.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.7.jpg" width="720" Annotation_index="5">
 </background>
 </page>
 </pages>

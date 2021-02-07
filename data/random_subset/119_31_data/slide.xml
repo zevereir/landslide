@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="32" mean_title="[132.4873107692308, 475.59974461538457, 596.2124923076924, 517.8454615384616]" rotate="0">
-<curvetext bbox="28.536,483.836,107.820,508.733" id="0" size="24.0">L=1 fb-1 <textline bbox="28.536,483.836,107.820,508.733">L=1 fb-1 <text bbox="28.536,483.836,43.200,507.836" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">L</text>
+<curvetext bbox="28.536,483.836,107.820,508.733" id="0" size="24.0" Annotation_index="0">L=1 fb-1 <textline bbox="28.536,483.836,107.820,508.733">L=1 fb-1 <text bbox="28.536,483.836,43.200,507.836" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">L</text>
 <text bbox="43.200,483.836,56.736,507.836" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">=</text>
 <text bbox="56.736,483.836,68.736,507.836" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">1</text>
 <text bbox="68.736,483.836,74.736,507.836" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000"> </text>
@@ -9,9 +9,9 @@
 <text bbox="99.840,492.773,107.820,508.733" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="15.960">1</text>
 </textline>
 </curvetext>
-<title archetypal_index="0" bbox="175.750,477.363,584.586,517.347" id="1" size="39.984">High Mass Diphotons <textline bbox="175.750,477.363,584.586,517.347" colourspace="DeviceGray" font="BCDFEE+ArialRoundedMTBold" ncolour="1" size="39.984">High Mass Diphotons </textline>
+<title archetypal_index="0" bbox="175.750,477.363,584.586,517.347" id="1" size="39.984" Annotation_index="1">High Mass Diphotons <textline bbox="175.750,477.363,584.586,517.347" colourspace="DeviceGray" font="BCDFEE+ArialRoundedMTBold" ncolour="1" size="39.984">High Mass Diphotons </textline>
 </title>
-<enlisting archetypal_index="1" bbox="7.2,347.53,462.768,447.94" id="2" size="20.688">&#8226; Resonance in diphoton mass spectrum? 
+<enlisting archetypal_index="1" bbox="7.2,347.53,462.768,447.94" id="2" size="20.688" Annotation_index="2">&#8226; Resonance in diphoton mass spectrum? 
 &#8211; E.g. predicted in Randall-Sundrum model: 
 &#8226; alternative ED model to solve the hierarchy  <textline bbox="7.200,423.940,462.768,447.940" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226; Resonance in diphoton mass spectrum? </textline>
 <textline bbox="43.200,395.132,437.103,415.172" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="20.040">&#8211; E.g. predicted in Randall-Sundrum model: </textline>
@@ -19,7 +19,7 @@
 <normal_text bbox="97.224,347.530,162.060,365.530" id="3" size="18.0">problem <textline bbox="97.224,347.530,162.060,365.530" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">problem </textline>
 </normal_text>
 </enlisting>
-<enlisting archetypal_index="2" bbox="79.224,321.502,337.742,339.610" id="4" size="18.0">&#8226; predicts &#61543;&#61543; and ee resonances <textline bbox="79.224,321.502,337.742,339.610">&#8226; predicts &#61543;&#61543; and ee resonances <text bbox="79.224,321.610,85.524,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226;</text>
+<enlisting archetypal_index="2" bbox="79.224,321.502,337.742,339.610" id="4" size="18.0" Annotation_index="3">&#8226; predicts &#61543;&#61543; and ee resonances <textline bbox="79.224,321.502,337.742,339.610">&#8226; predicts &#61543;&#61543; and ee resonances <text bbox="79.224,321.610,85.524,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226;</text>
 <text bbox="97.224,321.610,107.232,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">p</text>
 <text bbox="107.232,321.610,113.226,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">r</text>
 <text bbox="113.226,321.610,123.234,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">e</text>
@@ -50,7 +50,7 @@
 <text bbox="328.742,321.610,337.742,339.610" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">s</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="3" bbox="253.250,5.811,512.040,33.979" id="5" size="24.024">M&gt;875 GeV for k/MPl=0.1 <textline bbox="253.250,5.811,512.040,33.979">M&gt;875 GeV for k/MPl=0.1 <text bbox="253.250,9.955,274.607,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">M</text>
+<normal_text archetypal_index="3" bbox="253.250,5.811,512.040,33.979" id="5" size="24.024" Annotation_index="4">M&gt;875 GeV for k/MPl=0.1 <textline bbox="253.250,5.811,512.040,33.979">M&gt;875 GeV for k/MPl=0.1 <text bbox="253.250,9.955,274.607,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">M</text>
 <text bbox="274.607,9.955,288.157,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">&gt;</text>
 <text bbox="288.157,9.955,300.169,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">8</text>
 <text bbox="300.169,9.955,312.181,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">7</text>
@@ -75,15 +75,15 @@
 <text bbox="500.028,9.955,512.040,33.979" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.024">1</text>
 </textline>
 </normal_text>
-<slide_number bbox="698.640,15.711,712.740,29.751" id="6" size="14.04">32 <textline bbox="698.640,15.711,712.740,29.751" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.040">32 </textline>
+<slide_number bbox="698.640,15.711,712.740,29.751" id="6" size="14.04" Annotation_index="5">32 <textline bbox="698.640,15.711,712.740,29.751" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.040">32 </textline>
 </slide_number>
-<picture archetypal_index="4" bbox="18.000,36.000,354.000,330.240" height="294" name="Image240" src="Image240.jpg" width="336">
+<picture archetypal_index="4" bbox="18.000,36.000,354.000,330.240" height="294" name="Image240" src="Image240.jpg" width="336" Annotation_index="6">
 </picture>
-<curve bbox="0.000,450.000,138.000,540.000" linewidth="0" pts="69.000,515.830,92.779,540.000,90.435,517.810,117.430,521.430,106.710,509.520,134.790,506.100,112.490,496.350,138.000,484.630,107.570,486.080,115.930,464.600,89.572,479.760,84.634,457.760,67.288,477.770,54.210,450.000,49.290,474.890,30.424,466.600,36.206,481.930,0.863,479.220,23.779,490.940,0.000,504.100,29.561,508.260,2.364,530.440,46.716,513.670,53.360,530.440" />
-<curve bbox="0.000,450.000,138.000,540.000" linewidth="0" pts="69.000,515.830,92.779,540.000,90.435,517.810,117.430,521.430,106.710,509.520,134.790,506.100,112.490,496.350,138.000,484.630,107.570,486.080,115.930,464.600,89.572,479.760,84.634,457.760,67.288,477.770,54.210,450.000,49.290,474.890,30.424,466.600,36.206,481.930,0.863,479.220,23.779,490.940,0.000,504.100,29.561,508.260,2.364,530.440,46.716,513.670,53.360,530.440" />
-<picture archetypal_index="5" bbox="504.000,354.360,644.520,444.000" height="89" name="Image241" src="Image241.199x127.bmp" width="140">
+<curve bbox="0.000,450.000,138.000,540.000" linewidth="0" pts="69.000,515.830,92.779,540.000,90.435,517.810,117.430,521.430,106.710,509.520,134.790,506.100,112.490,496.350,138.000,484.630,107.570,486.080,115.930,464.600,89.572,479.760,84.634,457.760,67.288,477.770,54.210,450.000,49.290,474.890,30.424,466.600,36.206,481.930,0.863,479.220,23.779,490.940,0.000,504.100,29.561,508.260,2.364,530.440,46.716,513.670,53.360,530.440" Annotation_index="7" />
+<curve bbox="0.000,450.000,138.000,540.000" linewidth="0" pts="69.000,515.830,92.779,540.000,90.435,517.810,117.430,521.430,106.710,509.520,134.790,506.100,112.490,496.350,138.000,484.630,107.570,486.080,115.930,464.600,89.572,479.760,84.634,457.760,67.288,477.770,54.210,450.000,49.290,474.890,30.424,466.600,36.206,481.930,0.863,479.220,23.779,490.940,0.000,504.100,29.561,508.260,2.364,530.440,46.716,513.670,53.360,530.440" Annotation_index="8" />
+<picture archetypal_index="5" bbox="504.000,354.360,644.520,444.000" height="89" name="Image241" src="Image241.199x127.bmp" width="140" Annotation_index="9">
 </picture>
-<picture archetypal_index="6" bbox="378.000,36.600,690.000,324.000" height="287" name="Image242" src="Image242.509x469.bmp" width="312">
+<picture archetypal_index="6" bbox="378.000,36.600,690.000,324.000" height="287" name="Image242" src="Image242.509x469.bmp" width="312" Annotation_index="10">
 </picture>
 </page>
 </pages>

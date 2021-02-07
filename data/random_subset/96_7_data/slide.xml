@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[43.464, 459.42357142857145, 613.8214285714286, 496.83785714285716]" rotate="0">
-<title archetypal_index="0" bbox="43.464,461.160,687.468,497.160" id="0" size="36.0">How much federal student aid can I get? <textline bbox="43.464,461.160,687.468,497.160" colourspace="DeviceGray" font="ArialMT" ncolour="0.349" size="36.000">How much federal student aid can I get? </textline>
+<title archetypal_index="0" bbox="43.464,461.160,687.468,497.160" id="0" size="36.0" Annotation_index="0">How much federal student aid can I get? <textline bbox="43.464,461.160,687.468,497.160" colourspace="DeviceGray" font="ArialMT" ncolour="0.349" size="36.000">How much federal student aid can I get? </textline>
 </title>
-<normal_text archetypal_index="1" bbox="46.704,298.998,678.738,441.228" id="1" size="25.206">Maximum amounts for the major programs for a  
+<normal_text archetypal_index="1" bbox="46.704,298.998,678.738,441.228" id="1" size="25.206" Annotation_index="1">Maximum amounts for the major programs for a  
 dependent freshman in 2017-18: 
 &#8226; Federal Pell Grant: $5,920 
 &#8226; Federal Work-Study: depends on funds available  <textline bbox="46.704,413.268,646.474,441.228" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960">Maximum amounts for the major programs for a  </textline>
@@ -84,9 +84,9 @@ dependent freshman in 2017-18:
 <text bbox="670.965,298.998,678.738,326.958" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="64.824,265.393,176.900,293.377" id="2" size="27.984">at school <textline bbox="64.824,265.393,176.900,293.377" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.984">at school </textline>
+<normal_text archetypal_index="2" bbox="64.824,265.393,176.900,293.377" id="2" size="27.984" Annotation_index="2">at school <textline bbox="64.824,265.393,176.900,293.377" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.984">at school </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="46.704,23.427,621.673,84.992" id="7" size="27.972">Funds from other programs are available; see  
+<normal_text archetypal_index="3" bbox="46.704,23.427,621.673,84.992" id="7" size="27.972" Annotation_index="3">Funds from other programs are available; see  
 StudentAid.gov/glance for details. <textline bbox="46.704,57.032,621.673,84.992" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960">Funds from other programs are available; see  </textline>
 <textline bbox="46.704,23.427,464.648,51.411">StudentAid.gov/glance for details. <text bbox="46.704,23.427,65.369,51.411" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="27.984">S</text>
 <text bbox="65.369,23.427,73.149,51.411" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="27.984">t</text>
@@ -123,8 +123,8 @@ StudentAid.gov/glance for details. <textline bbox="46.704,57.032,621.673,84.992"
 <text bbox="456.868,23.427,464.648,51.411" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.984">.</text>
 </textline>
 </normal_text>
-<curve bbox="46.700,24.360,327.260,26.400" linewidth="4" pts="46.700,26.400,186.980,26.400,327.260,26.400,327.260,24.360,186.980,24.360,46.700,24.360" />
-<enlisting archetypal_index="4" bbox="46.704,117.533,615.944,253.018">$5,500 total &#8226; Direct Subsidized and Unsubsidized Loans:  &#8226; Direct PLUS Loan (for parents): COA minus  <normal_text bbox="64.824,191.458,211.378,219.418" id="3" size="27.96">$5,500 total <textline bbox="64.824,191.458,211.378,219.418" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960">$5,500 total </textline>
+<curve bbox="46.700,24.360,327.260,26.400" linewidth="4" pts="46.700,26.400,186.980,26.400,327.260,26.400,327.260,24.360,186.980,24.360,46.700,24.360" Annotation_index="4" />
+<enlisting archetypal_index="4" bbox="46.704,117.533,615.944,253.018" Annotation_index="5">$5,500 total &#8226; Direct Subsidized and Unsubsidized Loans:  &#8226; Direct PLUS Loan (for parents): COA minus  <normal_text bbox="64.824,191.458,211.378,219.418" id="3" size="27.96">$5,500 total <textline bbox="64.824,191.458,211.378,219.418" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960">$5,500 total </textline>
 </normal_text>
 <normal_text bbox="46.704,225.058,613.148,253.018" id="4" size="22.44">&#8226; Direct Subsidized and Unsubsidized Loans:  <textline bbox="46.704,225.058,613.148,253.018">&#8226; Direct Subsidized and Unsubsidized Loans:  <text bbox="46.704,226.218,54.558,248.658" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="22.440">&#8226;</text>
 <text bbox="64.824,225.058,85.011,253.018" colourspace="DeviceGray" font="ArialMT" ncolour="0.325" size="27.960">D</text>

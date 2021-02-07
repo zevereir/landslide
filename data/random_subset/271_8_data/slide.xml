@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[186.97416666666666, 473.2582222222222, 529.5843611111111, 503.1265]" rotate="0">
-<title archetypal_index="0" bbox="141.670,474.940,584.182,498.940" id="0" size="24.0">AWIPS II Primary Standards &amp; Formats <textline bbox="141.670,474.940,584.182,498.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">AWIPS II Primary Standards &amp; Formats </textline>
+<title archetypal_index="0" bbox="141.670,474.940,584.182,498.940" id="0" size="24.0" Annotation_index="0">AWIPS II Primary Standards &amp; Formats <textline bbox="141.670,474.940,584.182,498.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">AWIPS II Primary Standards &amp; Formats </textline>
 </title>
-<slide_number bbox="669.720,3.706,676.752,17.770" id="7" size="14.064">9 <textline bbox="669.720,3.706,676.752,17.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">9 </textline>
+<slide_number bbox="669.720,3.706,676.752,17.770" id="7" size="14.064" Annotation_index="1">9 <textline bbox="669.720,3.706,676.752,17.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">9 </textline>
 </slide_number>
-<picture archetypal_index="1" bbox="30.000,456.000,95.880,522.000" caption="&#8226; " height="66" name="Image7" src="Image7.7.120x120.bmp" width="65">
+<picture archetypal_index="1" bbox="30.000,456.000,95.880,522.000" caption="&#8226; " height="66" name="Image7" src="Image7.7.120x120.bmp" width="65" Annotation_index="2">
 </picture>
-<picture archetypal_index="2" bbox="630.000,456.360,696.000,522.000" height="65" name="Image8" src="Image8.7.200x199.bmp" width="66">
+<picture archetypal_index="2" bbox="630.000,456.360,696.000,522.000" height="65" name="Image8" src="Image8.7.200x199.bmp" width="66" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="3" bbox="37.2,48.976,652.478,426.82">Ingested Data Formats 
+<enlisting archetypal_index="3" bbox="37.2,48.976,652.478,426.82" Annotation_index="4">Ingested Data Formats 
 &#8211; GRIB1/GRIB2 &#8211; Gridded data 
 &#8211; NetCDF3 &#8211; Support AWIPSI/II interoperability 
 &#8211; BUFR &#8211; Observational Data, e.g., soundings 

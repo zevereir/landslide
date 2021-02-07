@@ -1,16 +1,16 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[55.971428571428575, 436.190142857143, 592.5959523809523, 492.79728571428575]" rotate="0">
-<title archetypal_index="0" bbox="43.200,420.773,689.753,508.738" id="0" size="39.972">Begin by finding the client record  
+<title archetypal_index="0" bbox="43.200,420.773,689.753,508.738" id="0" size="39.972" Annotation_index="0">Begin by finding the client record  
 and&#8230; <textline bbox="43.200,468.778,689.753,508.738" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.4, 0.4)" size="39.960">Begin by finding the client record  </textline>
 <textline bbox="43.200,420.773,154.276,460.757" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.4, 0.4)" size="39.984">and&#8230; </textline>
 </title>
-<normal_text archetypal_index="1" bbox="254.280,253.445,556.176,293.050" id="1" size="18.012">Clicking the &#8220;edit&#8221; button on Identifiers 
+<normal_text archetypal_index="1" bbox="254.280,253.445,556.176,293.050" id="1" size="18.012" Annotation_index="1">Clicking the &#8220;edit&#8221; button on Identifiers 
 under the Demographic Detail tab. <textline bbox="254.280,275.050,556.176,293.050" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Clicking the &#8220;edit&#8221; button on Identifiers </textline>
 <textline bbox="268.320,253.445,542.249,271.469" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">under the Demographic Detail tab. </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image14" src="Image14.4.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image14" src="Image14.4.jpg" width="720" Annotation_index="2">
 </background>
-<picture archetypal_index="2" bbox="60.000,50.160,671.760,408.000" height="357" name="Image42" src="Image42.1012x592.bmp" width="611">
+<picture archetypal_index="2" bbox="60.000,50.160,671.760,408.000" height="357" name="Image42" src="Image42.1012x592.bmp" width="611" Annotation_index="3">
 </picture>
-<curve bbox="168.000,267.000,246.000,273.000" linewidth="1" pts="246.000,270.500,173.000,270.500,173.000,269.500,246.000,269.500,174.000,273.000,168.000,270.000,174.000,267.000" />
+<curve bbox="168.000,267.000,246.000,273.000" linewidth="1" pts="246.000,270.500,173.000,270.500,173.000,269.500,246.000,269.500,174.000,273.000,168.000,270.000,174.000,267.000" Annotation_index="4" />
 </page>
 </pages>

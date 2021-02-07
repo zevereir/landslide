@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[191.58545454545452, 462.0604696969696, 496.80075757575753, 513.7440606060607]" rotate="0">
-<normal_text archetypal_index="0" bbox="79.224,526.676,101.283,535.676" id="0" size="9.0">NuMI <textline bbox="79.224,526.676,101.283,535.676" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">NuMI </textline>
+<normal_text archetypal_index="0" bbox="79.224,526.676,101.283,535.676" id="0" size="9.0" Annotation_index="0">NuMI <textline bbox="79.224,526.676,101.283,535.676" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0" size="9.000">NuMI </textline>
 </normal_text>
-<title archetypal_index="1" bbox="230.140,458.236,447.939,515.139" id="1" size="25.992">Target Temperature 
+<title archetypal_index="1" bbox="230.140,458.236,447.939,515.139" id="1" size="25.992" Annotation_index="1">Target Temperature 
 - lots of headroom <textline bbox="230.140,487.155,447.939,515.139" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0, 0, 0.6)" size="27.984">Target Temperature </textline>
 <textline bbox="251.140,458.236,426.844,482.236" colourspace="Pattern" font="TimesNewRomanPS-ItalicMT" ncolour="(0, 0.8, 0.6)" size="24.000">- lots of headroom </textline>
 </title>
-<normal_text archetypal_index="2" bbox="553.900,452.629,700.252,522.609" id="2" size="9.964">High-power Targetry fpr Future  
+<normal_text archetypal_index="2" bbox="553.900,452.629,700.252,522.609" id="2" size="9.964" Annotation_index="2">High-power Targetry fpr Future  
 Accelerators Workshop 
 September 8-12, 2003 
 NuMI Target: Today and Tomorrow 
@@ -17,7 +17,7 @@ Page 12 <textline bbox="562.900,512.649,693.538,522.609" colourspace="Pattern" f
 <textline bbox="553.900,464.629,700.183,474.589" colourspace="Pattern" font="BCDEEE+Times" ncolour="0" size="9.960">Jim Hylen, Nikolai Mokhov / FNAL </textline>
 <textline bbox="611.040,452.629,643.020,462.589" colourspace="Pattern" font="BCDEEE+Times" ncolour="0" size="9.960">Page 12 </textline>
 </normal_text>
-<enlisting archetypal_index="3" bbox="397.27,144.242,690.454,389.111">&#8226; Instantaneous temperature - room for large factor increase, &#8226; Heat easily conducts to water line, &#8226; Would want to increase diameter of <normal_text bbox="397.270,371.087,597.544,389.111" id="3" size="18.024">&#8226; Instantaneous temperature <textline bbox="397.270,371.087,597.544,389.111" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="18.024">&#8226; Instantaneous temperature </textline>
+<enlisting archetypal_index="3" bbox="397.27,144.242,690.454,389.111" Annotation_index="3">&#8226; Instantaneous temperature - room for large factor increase, &#8226; Heat easily conducts to water line, &#8226; Would want to increase diameter of <normal_text bbox="397.270,371.087,597.544,389.111" id="3" size="18.024">&#8226; Instantaneous temperature <textline bbox="397.270,371.087,597.544,389.111" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="18.024">&#8226; Instantaneous temperature </textline>
 </normal_text>
 <normal_text bbox="415.270,338.662,643.978,356.662" id="4" size="18.0">- room for large factor increase, <textline bbox="415.270,338.662,643.978,356.662" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="18.000">- room for large factor increase, </textline>
 </normal_text>
@@ -68,5 +68,5 @@ Page 12 <textline bbox="562.900,512.649,693.538,522.609" colourspace="Pattern" f
 </normal_text>
 <normal_text bbox="415.270,144.242,618.958,162.242" id="10" size="18.0">so L.E. target does not warp <textline bbox="415.270,144.242,618.958,162.242" colourspace="Pattern" font="TimesNewRomanPS-ItalicMT" ncolour="(1, 0.6, 0)" size="18.000">so L.E. target does not warp </textline>
 </normal_text>
-</enlisting><picture archetypal_index="4" bbox="24.0,12.0,720.0,420.0" caption="" combined_sources="['Image90.jpg', 'Image91.jpg']" name="combined_0" src="combined_12_0.png" /></page>
+</enlisting><picture archetypal_index="4" bbox="24.0,12.0,720.0,420.0" caption="" combined_sources="['Image90.jpg', 'Image91.jpg']" name="combined_0" src="combined_12_0.png" Annotation_index="4" /></page>
 </pages>

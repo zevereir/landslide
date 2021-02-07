@@ -1,49 +1,49 @@
 <pages><page bbox="0.000,0.000,810.000,540.000" id="28" mean_title="[157.16956842105265, 431.3775421052632, 597.4834631578948, 494.40085263157886]" rotate="0">
-<title archetypal_index="0" bbox="200.830,498.587,687.241,530.651" id="0" size="32.064">Missing and Unknown Variables <textline bbox="200.830,498.587,687.241,530.651" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.064">Missing and Unknown Variables </textline>
+<title archetypal_index="0" bbox="200.830,498.587,687.241,530.651" id="0" size="32.064" Annotation_index="0">Missing and Unknown Variables <textline bbox="200.830,498.587,687.241,530.651" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.064">Missing and Unknown Variables </textline>
 </title>
-<normal_text archetypal_index="1" bbox="321.700,440.972,566.454,473.012" id="1" size="32.04">2004 RVCT Data <textline bbox="321.700,440.972,566.454,473.012" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.040">2004 RVCT Data </textline>
+<normal_text archetypal_index="1" bbox="321.700,440.972,566.454,473.012" id="1" size="32.04" Annotation_index="1">2004 RVCT Data <textline bbox="321.700,440.972,566.454,473.012" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.040">2004 RVCT Data </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="370.250,351.042,507.203,399.882" id="2" size="20.04">Completeness 
+<normal_text archetypal_index="2" bbox="370.250,351.042,507.203,399.882" id="2" size="20.04" Annotation_index="2">Completeness 
 Goal (%) <textline bbox="370.250,379.842,507.203,399.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Completeness </textline>
 <textline bbox="370.250,351.042,450.971,371.082" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Goal (%) </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="552.530,331.842,790.244,399.882" id="3" size="20.04">Average %  
+<normal_text archetypal_index="3" bbox="552.530,331.842,790.244,399.882" id="3" size="20.04" Annotation_index="3">Average %  
 completeness among all  
 reporting areas (%) <textline bbox="552.530,379.842,659.263,399.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Average %  </textline>
 <textline bbox="552.530,355.842,790.244,375.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">completeness among all  </textline>
 <textline bbox="552.530,331.842,734.233,351.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">reporting areas (%) </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="40.200,379.842,176.753,399.882" id="4" size="20.04">RVCT Variable <textline bbox="40.200,379.842,176.753,399.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">RVCT Variable </textline>
+<normal_text archetypal_index="4" bbox="40.200,379.842,176.753,399.882" id="4" size="20.04" Annotation_index="4">RVCT Variable <textline bbox="40.200,379.842,176.753,399.882" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">RVCT Variable </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="40.200,290.702,153.626,310.742" id="5" size="20.04">TB skin test <textline bbox="40.200,290.702,153.626,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">TB skin test </textline>
+<normal_text archetypal_index="5" bbox="40.200,290.702,153.626,310.742" id="5" size="20.04" Annotation_index="5">TB skin test <textline bbox="40.200,290.702,153.626,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">TB skin test </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="40.200,242.822,227.935,262.862" id="6" size="20.04">Year of previous TB <textline bbox="40.200,242.822,227.935,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Year of previous TB </textline>
+<normal_text archetypal_index="6" bbox="40.200,242.822,227.935,262.862" id="6" size="20.04" Annotation_index="6">Year of previous TB <textline bbox="40.200,242.822,227.935,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Year of previous TB </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="40.200,195.182,321.181,215.222" id="7" size="20.04">Month/year arrived in US (FB) <textline bbox="40.200,195.182,321.181,215.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="20.040">Month/year arrived in US (FB) </textline>
+<normal_text archetypal_index="7" bbox="40.200,195.182,321.181,215.222" id="7" size="20.04" Annotation_index="7">Month/year arrived in US (FB) <textline bbox="40.200,195.182,321.181,215.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="20.040">Month/year arrived in US (FB) </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="40.200,147.422,224.728,167.462" id="8" size="20.04">Excess alcohol use <textline bbox="40.200,147.422,224.728,167.462" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Excess alcohol use </textline>
+<normal_text archetypal_index="8" bbox="40.200,147.422,224.728,167.462" id="8" size="20.04" Annotation_index="8">Excess alcohol use <textline bbox="40.200,147.422,224.728,167.462" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Excess alcohol use </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="40.200,99.542,212.344,119.582" id="9" size="20.04">injecting drug use <textline bbox="40.200,99.542,212.344,119.582" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">injecting drug use </textline>
+<normal_text archetypal_index="9" bbox="40.200,99.542,212.344,119.582" id="9" size="20.04" Annotation_index="9">injecting drug use <textline bbox="40.200,99.542,212.344,119.582" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">injecting drug use </textline>
 </normal_text>
-<normal_text archetypal_index="10" bbox="40.200,57.160,255.687,77.200" id="10" size="20.04">non-injecting drug use <textline bbox="40.200,57.160,255.687,77.200" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">non-injecting drug use </textline>
+<normal_text archetypal_index="10" bbox="40.200,57.160,255.687,77.200" id="10" size="20.04" Annotation_index="10">non-injecting drug use <textline bbox="40.200,57.160,255.687,77.200" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">non-injecting drug use </textline>
 </normal_text>
-<slide_number bbox="370.250,290.702,392.552,310.742" id="11" size="20.04">95 <textline bbox="370.250,290.702,392.552,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">95 </textline>
+<slide_number bbox="370.250,290.702,392.552,310.742" id="11" size="20.04" Annotation_index="11">95 <textline bbox="370.250,290.702,392.552,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">95 </textline>
 </slide_number>
-<slide_number bbox="370.250,242.822,392.552,262.862" id="12" size="20.04">99 <textline bbox="370.250,242.822,392.552,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
+<slide_number bbox="370.250,242.822,392.552,262.862" id="12" size="20.04" Annotation_index="12">99 <textline bbox="370.250,242.822,392.552,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
 </slide_number>
-<slide_number bbox="370.250,195.182,392.552,215.222" id="13" size="20.04">95 <textline bbox="370.250,195.182,392.552,215.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="20.040">95 </textline>
+<slide_number bbox="370.250,195.182,392.552,215.222" id="13" size="20.04" Annotation_index="13">95 <textline bbox="370.250,195.182,392.552,215.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="20.040">95 </textline>
 </slide_number>
-<slide_number bbox="370.250,147.422,392.552,167.462" id="14" size="20.04">99 <textline bbox="370.250,147.422,392.552,167.462" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
+<slide_number bbox="370.250,147.422,392.552,167.462" id="14" size="20.04" Annotation_index="14">99 <textline bbox="370.250,147.422,392.552,167.462" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
 </slide_number>
-<slide_number bbox="370.250,99.542,392.552,119.582" id="15" size="20.04">99 <textline bbox="370.250,99.542,392.552,119.582" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
+<slide_number bbox="370.250,99.542,392.552,119.582" id="15" size="20.04" Annotation_index="15">99 <textline bbox="370.250,99.542,392.552,119.582" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
 </slide_number>
-<slide_number bbox="370.250,57.160,392.552,77.200" id="16" size="20.04">99 <textline bbox="370.250,57.160,392.552,77.200" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
+<slide_number bbox="370.250,57.160,392.552,77.200" id="16" size="20.04" Annotation_index="16">99 <textline bbox="370.250,57.160,392.552,77.200" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">99 </textline>
 </slide_number>
-<slide_number bbox="552.530,242.822,574.832,262.862" id="18" size="20.04">98 <textline bbox="552.530,242.822,574.832,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">98 </textline>
+<slide_number bbox="552.530,242.822,574.832,262.862" id="18" size="20.04" Annotation_index="17">98 <textline bbox="552.530,242.822,574.832,262.862" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">98 </textline>
 </slide_number>
-<picture archetypal_index="11" bbox="714.000,15.120,796.800,69.960" height="54" name="Image6" src="Image6.26.jpg" width="82">
+<picture archetypal_index="11" bbox="714.000,15.120,796.800,69.960" height="54" name="Image6" src="Image6.26.jpg" width="82" Annotation_index="18">
 </picture>
-<enlisting archetypal_index="12" bbox="552.53,57.16,591.528,310.742">93.1 86.3 96.6 96.5 96.1 <normal_text bbox="552.530,290.702,591.528,310.742" id="17" size="20.04">93.1 <textline bbox="552.530,290.702,591.528,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">93.1 </textline>
+<enlisting archetypal_index="12" bbox="552.53,57.16,591.528,310.742" Annotation_index="19">93.1 86.3 96.6 96.5 96.1 <normal_text bbox="552.530,290.702,591.528,310.742" id="17" size="20.04">93.1 <textline bbox="552.530,290.702,591.528,310.742" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">93.1 </textline>
 </normal_text>
 <normal_text bbox="552.530,195.182,591.528,215.222" id="19" size="20.04">86.3 <textline bbox="552.530,195.182,591.528,215.222" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.6, 0)" size="20.040">86.3 </textline>
 </normal_text>

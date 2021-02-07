@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[219.51666666666668, 429.75766666666664, 489.29283333333336, 454.07766666666663]" rotate="0">
-<title archetypal_index="0" bbox="327.480,385.508,367.818,395.468" id="61" size="9.96">4.41E-04 <textline bbox="327.480,385.508,367.818,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">4.41E-04 </textline>
+<title archetypal_index="0" bbox="327.480,385.508,367.818,395.468" id="61" size="9.96" Annotation_index="0">4.41E-04 <textline bbox="327.480,385.508,367.818,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">4.41E-04 </textline>
 </title>
-<table archetypal_index="1" bbox="36.0,400.6,684.005,491.12" dimensions="10/1"><cell bbox="36.0,471.92,684.0,491.12"><tabletext bbox="198.460,476.058,521.455,486.018" id="0" size="9.96">Apparent Reflectance = Scale * (DN_EarthView - DN_SpaceView) (%) <textline bbox="198.460,476.058,521.455,486.018" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Apparent Reflectance = Scale * (DN_EarthView - DN_SpaceView) (%) </textline>
+<table archetypal_index="1" bbox="36.0,400.6,684.005,491.12" dimensions="10/1" Annotation_index="1"><cell bbox="36.0,471.92,684.0,491.12"><tabletext bbox="198.460,476.058,521.455,486.018" id="0" size="9.96">Apparent Reflectance = Scale * (DN_EarthView - DN_SpaceView) (%) <textline bbox="198.460,476.058,521.455,486.018" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Apparent Reflectance = Scale * (DN_EarthView - DN_SpaceView) (%) </textline>
 </tabletext>
 </cell><cell bbox="36.0,452.72,684.0,471.92"><tabletext bbox="218.980,456.858,500.808,466.818" id="1" size="9.96">Scale = d + c * Days = d*(1 + RatePerDay/100 * Days) (%/DN) <textline bbox="218.980,456.858,500.808,466.818" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Scale = d + c * Days = d*(1 + RatePerDay/100 * Days) (%/DN) </textline>
 </tabletext>
@@ -33,7 +33,7 @@ rate per year
 rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Degrading  </textline>
 <textline bbox="629.160,415.193,662.836,425.177" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.984">rate(%) </textline>
 </tabletext>
-</cell></table><table archetypal_index="2" bbox="36.0,323.8,684.005,362.2" dimensions="8/2"><cell bbox="36.0,343.0,153.25,362.2"><tabletext bbox="58.872,347.108,130.295,357.068" id="18" size="9.96">Band3 (650nm) <textline bbox="58.872,347.108,130.295,357.068" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Band3 (650nm) </textline>
+</cell></table><table archetypal_index="2" bbox="36.0,323.8,684.005,362.2" dimensions="8/2" Annotation_index="2"><cell bbox="36.0,343.0,153.25,362.2"><tabletext bbox="58.872,347.108,130.295,357.068" id="18" size="9.96">Band3 (650nm) <textline bbox="58.872,347.108,130.295,357.068" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Band3 (650nm) </textline>
 </tabletext>
 </cell><cell bbox="153.25,343.0,224.0,362.2"><tabletext bbox="167.980,347.108,209.389,357.068" id="19" size="9.96">0.024411 <textline bbox="167.980,347.108,209.389,357.068" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.024411 </textline>
 </tabletext>
@@ -65,7 +65,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </tabletext>
 </cell><cell bbox="607.88,323.8,684.005,343.0"><tabletext bbox="629.160,327.908,665.640,337.868" id="128" size="9.96">-1.2714  <textline bbox="629.160,327.908,665.640,337.868" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">-1.2714  </textline>
 </tabletext>
-</cell></table><table archetypal_index="3" bbox="36.0,151.0,684.005,227.8" dimensions="8/4"><cell bbox="36.0,208.6,153.25,227.8"><tabletext bbox="56.112,212.688,133.063,222.648" id="24" size="9.96">Band13 (650nm) <textline bbox="56.112,212.688,133.063,222.648" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Band13 (650nm) </textline>
+</cell></table><table archetypal_index="3" bbox="36.0,151.0,684.005,227.8" dimensions="8/4" Annotation_index="3"><cell bbox="36.0,208.6,153.25,227.8"><tabletext bbox="56.112,212.688,133.063,222.648" id="24" size="9.96">Band13 (650nm) <textline bbox="56.112,212.688,133.063,222.648" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Band13 (650nm) </textline>
 </tabletext>
 </cell><cell bbox="153.25,208.6,224.0,227.8"><tabletext bbox="167.980,212.688,209.389,222.648" id="25" size="9.96">0.022257 <textline bbox="167.980,212.688,209.389,222.648" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.022257 </textline>
 </tabletext>
@@ -129,7 +129,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </tabletext>
 </cell><cell bbox="607.88,151.0,684.005,170.2"><tabletext bbox="630.840,155.058,663.960,165.018" id="137" size="9.96">0.2296  <textline bbox="630.840,155.058,663.960,165.018" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.2296  </textline>
 </tabletext>
-</cell></table><table archetypal_index="4" bbox="36.0,35.8,684.005,451.32" dimensions="3/3"><cell bbox="36.0,55.0,532.88,74.2"><tabletext bbox="150.670,59.060,418.218,69.020" id="108" size="9.96">* Days = Day Count since FY-3A Launched @ 2008-05-27 <textline bbox="150.670,59.060,418.218,69.020" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">* Days = Day Count since FY-3A Launched @ 2008-05-27 </textline>
+</cell></table><table archetypal_index="4" bbox="36.0,35.8,684.005,451.32" dimensions="3/3" Annotation_index="4"><cell bbox="36.0,55.0,532.88,74.2"><tabletext bbox="150.670,59.060,418.218,69.020" id="108" size="9.96">* Days = Day Count since FY-3A Launched @ 2008-05-27 <textline bbox="150.670,59.060,418.218,69.020" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">* Days = Day Count since FY-3A Launched @ 2008-05-27 </textline>
 </tabletext>
 </cell><cell bbox="532.88,55.0,607.88,74.2" /><cell bbox="607.88,55.0,684.005,74.2" /><cell bbox="36.0,35.8,532.88,55.0"><tabletext bbox="168.790,39.855,400.111,49.839" id="109" size="9.984">Degrading rate: Count from launch to 2010-12-31 <textline bbox="168.790,39.855,400.111,49.839" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.984">Degrading rate: Count from launch to 2010-12-31 </textline>
 </tabletext>
@@ -155,7 +155,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </tabletext>
 <tabletext bbox="552.460,116.658,591.224,126.618" id="147" size="9.96">10.0894  <textline bbox="552.460,116.658,591.224,126.618" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">10.0894  </textline>
 </tabletext>
-</cell></table><enlisting archetypal_index="5" bbox="53.352,78.26,209.389,395.468">0.031023 0.028936 0.021734 0.02372 0.02451 0.01987 0.022484 0.024272 0.023307 0.025347 0.026224 <normal_text bbox="167.980,385.508,209.389,395.468" id="13" size="9.96">0.031023 <textline bbox="167.980,385.508,209.389,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.031023 </textline>
+</cell></table><enlisting archetypal_index="5" bbox="53.352,78.26,209.389,395.468" Annotation_index="5">0.031023 0.028936 0.021734 0.02372 0.02451 0.01987 0.022484 0.024272 0.023307 0.025347 0.026224 <normal_text bbox="167.980,385.508,209.389,395.468" id="13" size="9.96">0.031023 <textline bbox="167.980,385.508,209.389,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.031023 </textline>
 </normal_text>
 <normal_text bbox="167.980,366.308,209.389,376.268" id="15" size="9.96">0.028936 <textline bbox="167.980,366.308,209.389,376.268" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.028936 </textline>
 </normal_text>
@@ -199,7 +199,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </normal_text>
 <normal_text bbox="56.112,97.460,133.063,107.420" id="46" size="9.96">Band19 (980nm) <textline bbox="56.112,97.460,133.063,107.420" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Band19 (980nm) </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="6" bbox="247.97,78.26,288.328,395.468">4.47E-06 2.14E-06 8.61E-06 4.78E-06 2.87E-06 1.91E-06 1.16E-06 2.36E-06 7.25E-06 2.48E-06 2.99E-06 <normal_text bbox="247.970,385.508,288.328,395.468" id="16" size="9.96">4.47E-06 <textline bbox="247.970,385.508,288.328,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">4.47E-06 </textline>
+</enlisting><enlisting archetypal_index="6" bbox="247.97,78.26,288.328,395.468" Annotation_index="6">4.47E-06 2.14E-06 8.61E-06 4.78E-06 2.87E-06 1.91E-06 1.16E-06 2.36E-06 7.25E-06 2.48E-06 2.99E-06 <normal_text bbox="247.970,385.508,288.328,395.468" id="16" size="9.96">4.47E-06 <textline bbox="247.970,385.508,288.328,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">4.47E-06 </textline>
 </normal_text>
 <normal_text bbox="247.970,366.308,288.328,376.268" id="17" size="9.96">2.14E-06 <textline bbox="247.970,366.308,288.328,376.268" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2.14E-06 </textline>
 </normal_text>
@@ -221,7 +221,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </normal_text>
 <normal_text bbox="247.970,78.260,288.328,88.220" id="60" size="9.96">2.99E-06 <textline bbox="247.970,78.260,288.328,88.220" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2.99E-06 </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="7" bbox="327.48,78.26,367.818,376.268">3.05E-04 5.61E-04 4.44E-04 3.19E-04 2.29E-04 2.03E-04 7.78E-04 7.74E-04 2.91E-04 2.93E-03 <normal_text bbox="327.480,366.308,367.818,376.268" id="62" size="9.96">3.05E-04 <textline bbox="327.480,366.308,367.818,376.268" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">3.05E-04 </textline>
+</enlisting><enlisting archetypal_index="7" bbox="327.48,78.26,367.818,376.268" Annotation_index="7">3.05E-04 5.61E-04 4.44E-04 3.19E-04 2.29E-04 2.03E-04 7.78E-04 7.74E-04 2.91E-04 2.93E-03 <normal_text bbox="327.480,366.308,367.818,376.268" id="62" size="9.96">3.05E-04 <textline bbox="327.480,366.308,367.818,376.268" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">3.05E-04 </textline>
 </normal_text>
 <normal_text bbox="327.480,308.708,367.818,318.668" id="65" size="9.96">5.61E-04 <textline bbox="327.480,308.708,367.818,318.668" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">5.61E-04 </textline>
 </normal_text>
@@ -241,7 +241,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </normal_text>
 <normal_text bbox="327.480,116.658,367.818,126.618" id="144" size="9.96">2.93E-03 <textline bbox="327.480,116.658,367.818,126.618" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2.93E-03 </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="8" bbox="628.08,78.26,666.72,395.468">13.6514  6.9988  37.5623  19.0849  11.0908  9.1087  4.9079  9.2025  26.2048  10.0867  11.1756  <normal_text bbox="628.080,385.508,666.720,395.468" id="125" size="9.96">13.6514  <textline bbox="628.080,385.508,666.720,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">13.6514  </textline>
+</enlisting><enlisting archetypal_index="8" bbox="628.08,78.26,666.72,395.468" Annotation_index="8">13.6514  6.9988  37.5623  19.0849  11.0908  9.1087  4.9079  9.2025  26.2048  10.0867  11.1756  <normal_text bbox="628.080,385.508,666.720,395.468" id="125" size="9.96">13.6514  <textline bbox="628.080,385.508,666.720,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">13.6514  </textline>
 </normal_text>
 <normal_text bbox="630.840,366.308,663.960,376.268" id="126" size="9.96">6.9988  <textline bbox="630.840,366.308,663.960,376.268" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">6.9988  </textline>
 </normal_text>
@@ -263,7 +263,7 @@ rate(%) <textline bbox="621.360,427.198,673.421,437.158" colourspace="DeviceGray
 </normal_text>
 <normal_text bbox="628.080,78.260,666.720,88.220" id="141" size="9.96">11.1756  <textline bbox="628.080,78.260,666.720,88.220" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">11.1756  </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="9" bbox="400.78,78.26,514.279,395.468">0.039623 2.6694  2.0388  4.3801  3.4290  2.4686  2.2112  1.7599  6.1333  6.3302  2.1729  0.007383 0.020132 0.011699 0.009608 0.005177 0.009707 0.011789 0.027642 0.0144 0.01064 <normal_text bbox="403.54,78.26,514.279,395.468">0.039623 2.6694  2.0388  4.3801  3.4290  2.4686  2.2112  1.7599  6.1333  6.3302  2.1729  0.007383 0.020132 0.011699 0.009608 0.005177 0.009707 0.011789 0.027642 <normal_text bbox="472.870,308.708,514.279,318.668" id="10" size="9.96">0.039623 <textline bbox="472.870,308.708,514.279,318.668" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.039623 </textline>
+</enlisting><enlisting archetypal_index="9" bbox="400.78,78.26,514.279,395.468" Annotation_index="9">0.039623 2.6694  2.0388  4.3801  3.4290  2.4686  2.2112  1.7599  6.1333  6.3302  2.1729  0.007383 0.020132 0.011699 0.009608 0.005177 0.009707 0.011789 0.027642 0.0144 0.01064 <normal_text bbox="403.54,78.26,514.279,395.468">0.039623 2.6694  2.0388  4.3801  3.4290  2.4686  2.2112  1.7599  6.1333  6.3302  2.1729  0.007383 0.020132 0.011699 0.009608 0.005177 0.009707 0.011789 0.027642 <normal_text bbox="472.870,308.708,514.279,318.668" id="10" size="9.96">0.039623 <textline bbox="472.870,308.708,514.279,318.668" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">0.039623 </textline>
 </normal_text>
 <normal_text bbox="403.540,385.508,436.660,395.468" id="77" size="9.96">2.6694  <textline bbox="403.540,385.508,436.660,395.468" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2.6694  </textline>
 </normal_text>

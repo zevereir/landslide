@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[214.5566666666667, 472.7124999999999, 546.7216666666667, 514.0165000000001]" rotate="0">
-<title archetypal_index="0" bbox="219.310,471.380,541.174,519.860" id="0" size="24.0">Technical Considerations 
+<title archetypal_index="0" bbox="219.310,471.380,541.174,519.860" id="0" size="24.0" Annotation_index="0">Technical Considerations 
 Launch Vehicle Certification <textline bbox="235.060,495.860,525.148,519.860" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Technical Considerations </textline>
 <textline bbox="219.310,471.380,541.174,495.380" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Launch Vehicle Certification </textline>
 </title>
-<normal_text archetypal_index="1" bbox="481.340,454.048,631.318,464.008" id="1" size="9.96">LAUNCH SERVICES PROGRAM <textline bbox="481.340,454.048,631.318,464.008" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.00392, 0, 0)" size="9.960">LAUNCH SERVICES PROGRAM </textline>
+<normal_text archetypal_index="1" bbox="481.340,454.048,631.318,464.008" id="1" size="9.96" Annotation_index="1">LAUNCH SERVICES PROGRAM <textline bbox="481.340,454.048,631.318,464.008" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="(0.00392, 0, 0)" size="9.960">LAUNCH SERVICES PROGRAM </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="26.640,382.427,715.784,428.337" id="2" size="21.012">&#8226; NPD 8610.7 &#8220;Launch Services Risk Mitigation Policy for NASA-Owned  
+<normal_text archetypal_index="2" bbox="26.640,382.427,715.784,428.337" id="2" size="21.012" Annotation_index="2">&#8226; NPD 8610.7 &#8220;Launch Services Risk Mitigation Policy for NASA-Owned  
 or NASA-Sponsored Payloads  <textline bbox="26.640,406.377,715.784,428.337">&#8226; NPD 8610.7 &#8220;Launch Services Risk Mitigation Policy for NASA-Owned  <text bbox="26.640,406.377,34.326,428.337" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.00392, 0, 0)" size="21.960">&#8226;</text>
 <text bbox="46.680,406.912,61.149,426.952" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.00392, 0, 0)" size="20.040">N</text>
 <text bbox="61.149,406.912,74.516,426.952" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.00392, 0, 0)" size="20.040">P</text>
@@ -76,11 +76,11 @@ or NASA-Sponsored Payloads  <textline bbox="26.640,406.377,715.784,428.337">&#82
 </textline>
 <textline bbox="26.640,382.427,318.888,402.491" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.00392, 0, 0)" size="20.064">or NASA-Sponsored Payloads  </textline>
 </normal_text>
-<slide_number bbox="705.070,9.791,712.890,23.855" id="8" size="14.064">4 <textline bbox="705.070,9.791,712.890,23.855" colourspace="DeviceGray" font="ArialMT" ncolour="(0.00392, 0, 0)" size="14.064">4 </textline>
+<slide_number bbox="705.070,9.791,712.890,23.855" id="8" size="14.064" Annotation_index="3">4 <textline bbox="705.070,9.791,712.890,23.855" colourspace="DeviceGray" font="ArialMT" ncolour="(0.00392, 0, 0)" size="14.064">4 </textline>
 </slide_number>
-<picture archetypal_index="3" bbox="54.000,471.360,126.000,540.000" height="68" name="Image6" src="Image6.2.149x142.bmp" width="72">
+<picture archetypal_index="3" bbox="54.000,471.360,126.000,540.000" height="68" name="Image6" src="Image6.2.149x142.bmp" width="72" Annotation_index="4">
 </picture>
-<enlisting archetypal_index="4" bbox="62.64,116.818,701.936,373.531">&#8226; Launch vehicle certification requirements dependant on Mission value/criticality/complexity 
+<enlisting archetypal_index="4" bbox="62.64,116.818,701.936,373.531" Annotation_index="5">&#8226; Launch vehicle certification requirements dependant on Mission value/criticality/complexity 
 &#8226; Category 1: Low cost, Non-mission critical payload, relatively simple 
 &#8226; Category 2: Med cost, Mission critical payload, medium complexity 
 &#8226; Category 3: High cost, Mission critical payload, high complexity &#8226; Required demonstrated  flight history varies by Mission Category 

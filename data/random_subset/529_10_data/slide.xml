@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="11" mean_title="[39.46666666666667, 449.0426666666666, 550.3848444444445, 516.033]" rotate="0">
-<normal_text archetypal_index="0" bbox="31.248,34.702,569.785,69.522" id="0" size="16.02">2010 ACIP adult immunization recommendations 
+<normal_text archetypal_index="0" bbox="31.248,34.702,569.785,69.522" id="0" size="16.02" Annotation_index="0">2010 ACIP adult immunization recommendations 
 http://www.cdc.gov/vaccines/recs/schedules/downloads/adult/2010/adult-schedule.pdf <textline bbox="31.248,51.522,417.816,69.522" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="18.000">2010 ACIP adult immunization recommendations </textline>
 <textline bbox="31.248,34.702,569.785,48.742" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="(0, 0.6, 0.6)" size="14.040">http://www.cdc.gov/vaccines/recs/schedules/downloads/adult/2010/adult-schedule.pdf </textline>
 </normal_text>
-<picture archetypal_index="1" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.9.1999x205.bmp" width="719">
+<picture archetypal_index="1" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.9.1999x205.bmp" width="719" Annotation_index="1">
 </picture>
-<curve bbox="31.250,35.665,569.690,36.505" linewidth="0" pts="31.250,36.505,165.860,36.505,300.470,36.505,435.080,36.505,569.690,36.505,569.690,35.665,435.080,35.665,300.470,35.665,165.860,35.665,31.250,35.665" />
-<curve bbox="558.060,437.940,642.060,473.940" linewidth="2" pts="558.060,455.940,558.060,465.880,576.860,473.940,600.060,473.940,623.260,473.940,642.060,465.880,642.060,455.940,642.060,446.000,623.260,437.940,600.060,437.940,576.860,437.940,558.060,446.000,558.060,455.940" />
+<curve bbox="31.250,35.665,569.690,36.505" linewidth="0" pts="31.250,36.505,165.860,36.505,300.470,36.505,435.080,36.505,569.690,36.505,569.690,35.665,435.080,35.665,300.470,35.665,165.860,35.665,31.250,35.665" Annotation_index="2" />
+<curve bbox="558.060,437.940,642.060,473.940" linewidth="2" pts="558.060,455.940,558.060,465.880,576.860,473.940,600.060,473.940,623.260,473.940,642.060,465.880,642.060,455.940,642.060,446.000,623.260,437.940,600.060,437.940,576.860,437.940,558.060,446.000,558.060,455.940" Annotation_index="3" />
 </page>
 </pages>

@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[308.42, 476.814, 424.107, 508.878]" rotate="0">
-<title archetypal_index="0" bbox="308.420,476.814,424.107,508.878" id="0" size="32.064">Outlines <textline bbox="308.420,476.814,424.107,508.878" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.064">Outlines </textline>
+<title archetypal_index="0" bbox="308.420,476.814,424.107,508.878" id="0" size="32.064" Annotation_index="0">Outlines <textline bbox="308.420,476.814,424.107,508.878" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.064">Outlines </textline>
 </title>
-<slide_number bbox="698.760,8.121,706.740,24.081" id="6" size="15.96">2 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">2 </textline>
+<slide_number bbox="698.760,8.121,706.740,24.081" id="6" size="15.96" Annotation_index="1">2 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">2 </textline>
 </slide_number>
-<picture archetypal_index="1" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.0.160x120.bmp" width="112">
+<picture archetypal_index="1" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.0.160x120.bmp" width="112" Annotation_index="2">
 </picture>
-<picture archetypal_index="2" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.0.jpg" width="62">
+<picture archetypal_index="2" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.0.jpg" width="62" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="3" bbox="47.976,77.691,702.096,435.341">&#10146; Introduction 
+<enlisting archetypal_index="3" bbox="47.976,77.691,702.096,435.341" Annotation_index="4">&#10146; Introduction 
 &#10146; Methodology &#9899; Data processing &#10146; Results &#9899; Data collected 
 &#9899; Terra/Aqua MODIS C5 vs. C6 inter-comparison 
 &#9899; Long-term comparison time series 

@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[284.12, 476.814, 448.3836666666666, 508.878]" rotate="0">
-<title archetypal_index="0" bbox="279.260,476.814,453.239,508.878" id="0" size="32.064">Introduction <textline bbox="279.260,476.814,453.239,508.878" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.064">Introduction </textline>
+<title archetypal_index="0" bbox="279.260,476.814,453.239,508.878" id="0" size="32.064" Annotation_index="0">Introduction <textline bbox="279.260,476.814,453.239,508.878" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.064">Introduction </textline>
 </title>
-<slide_number bbox="698.760,8.121,706.740,24.081" id="7" size="15.96">4 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">4 </textline>
+<slide_number bbox="698.760,8.121,706.740,24.081" id="7" size="15.96" Annotation_index="1">4 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">4 </textline>
 </slide_number>
-<picture archetypal_index="1" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.2.160x120.bmp" width="112">
+<picture archetypal_index="1" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.2.160x120.bmp" width="112" Annotation_index="2">
 </picture>
-<picture archetypal_index="2" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.2.jpg" width="62">
+<picture archetypal_index="2" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.2.jpg" width="62" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="3" bbox="19.08,168.266,694.371,416.716">&#10146; MODIS inter-comparison is focused on L1B products &#8226; current calibration version Collection 5 (C5) has produced L1B products  &#10146;Terra/Aqua MODIS differences are estimated in brightness  <normal_text bbox="19.080,392.716,557.066,416.716" id="1" size="19.2">&#10146; MODIS inter-comparison is focused on L1B products <textline bbox="19.080,392.716,557.066,416.716">&#10146; MODIS inter-comparison is focused on L1B products <text bbox="19.080,393.964,34.325,413.164" colourspace="DeviceGray" font="BCDHEE+Wingdings-Regular" ncolour="(0, 0.4, 0.8)" size="19.200">&#10146;</text>
+<enlisting archetypal_index="3" bbox="19.08,168.266,694.371,416.716" Annotation_index="4">&#10146; MODIS inter-comparison is focused on L1B products &#8226; current calibration version Collection 5 (C5) has produced L1B products  &#10146;Terra/Aqua MODIS differences are estimated in brightness  <normal_text bbox="19.080,392.716,557.066,416.716" id="1" size="19.2">&#10146; MODIS inter-comparison is focused on L1B products <textline bbox="19.080,392.716,557.066,416.716">&#10146; MODIS inter-comparison is focused on L1B products <text bbox="19.080,393.964,34.325,413.164" colourspace="DeviceGray" font="BCDHEE+Wingdings-Regular" ncolour="(0, 0.4, 0.8)" size="19.200">&#10146;</text>
 <text bbox="40.344,392.716,61.680,416.716" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 0.8)" size="24.000">M</text>
 <text bbox="61.680,392.716,79.008,416.716" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 0.8)" size="24.000">O</text>
 <text bbox="79.008,392.716,96.336,416.716" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.4, 0.8)" size="24.000">D</text>

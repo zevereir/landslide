@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[113.22737254901959, 429.60370588235304, 503.3504052287581, 469.5259999999999]" rotate="0">
-<title archetypal_index="0" bbox="115.100,430.427,470.594,462.491" id="0" size="32.064">Selection Process (cont.) <textline bbox="115.100,430.427,470.594,462.491" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.4, 0.4)" size="32.064">Selection Process (cont.) </textline>
+<title archetypal_index="0" bbox="115.100,430.427,470.594,462.491" id="0" size="32.064" Annotation_index="0">Selection Process (cont.) <textline bbox="115.100,430.427,470.594,462.491" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.4, 0.4)" size="32.064">Selection Process (cont.) </textline>
 </title>
-<enlisting archetypal_index="1" bbox="115.1,183.639,676.79,387.228" id="1" size="20.28">&#61601; Priority Consideration - Selecting  <textline bbox="115.100,358.077,590.770,387.228">&#61601; Priority Consideration - Selecting  <text bbox="115.100,360.023,133.169,380.303" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="(0, 0.4, 0.4)" size="20.280">&#61601;</text>
+<enlisting archetypal_index="1" bbox="115.1,183.639,676.79,387.228" id="1" size="20.28" Annotation_index="1">&#61601; Priority Consideration - Selecting  <textline bbox="115.100,358.077,590.770,387.228">&#61601; Priority Consideration - Selecting  <text bbox="115.100,360.023,133.169,380.303" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="(0, 0.4, 0.4)" size="20.280">&#61601;</text>
 <text bbox="142.100,358.077,161.486,387.141" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="29.064">P</text>
 <text bbox="161.486,358.077,171.164,387.141" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="29.064">r</text>
 <text bbox="171.164,358.077,177.616,387.141" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="29.064">i</text>
@@ -48,7 +48,7 @@ an advertised vacancy.  <textline bbox="142.100,322.859,531.236,351.899" colours
 <textline bbox="142.100,183.639,485.469,212.679" colourspace="DeviceGray" font="BCDFEE+Verdana" ncolour="0" size="29.040">an advertised vacancy.  </textline>
 </normal_text>
 </enlisting>
-<curve bbox="-0.382,262.090,69.000,463.910" linewidth="0" pts="-0.377,463.910,43.090,440.910,69.000,403.230,69.000,363.000,69.000,322.780,43.090,285.090,-0.377,262.090,-0.377,262.090,-0.377,262.090,-0.382,262.090,-0.377,262.090,-0.377,463.910,-0.382,463.910,-0.377,463.910,-0.377,463.910,-0.377,463.910" />
-<curve bbox="-0.344,313.320,52.680,518.280" linewidth="0" pts="-0.341,518.280,32.840,495.130,52.680,456.790,52.680,415.800,52.680,374.820,32.840,336.470,-0.341,313.320,-0.341,313.320,-0.341,313.320,-0.344,313.320,-0.341,313.320,-0.341,518.280,-0.344,518.280,-0.341,518.280,-0.341,518.280,-0.341,518.280" />
+<curve bbox="-0.382,262.090,69.000,463.910" linewidth="0" pts="-0.377,463.910,43.090,440.910,69.000,403.230,69.000,363.000,69.000,322.780,43.090,285.090,-0.377,262.090,-0.377,262.090,-0.377,262.090,-0.382,262.090,-0.377,262.090,-0.377,463.910,-0.382,463.910,-0.377,463.910,-0.377,463.910,-0.377,463.910" Annotation_index="2" />
+<curve bbox="-0.344,313.320,52.680,518.280" linewidth="0" pts="-0.341,518.280,32.840,495.130,52.680,456.790,52.680,415.800,52.680,374.820,32.840,336.470,-0.341,313.320,-0.341,313.320,-0.341,313.320,-0.344,313.320,-0.341,313.320,-0.341,518.280,-0.344,518.280,-0.341,518.280,-0.341,518.280,-0.341,518.280" Annotation_index="3" />
 </page>
 </pages>

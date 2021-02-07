@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
-<curvetext bbox="79.224,437.198,318.225,477.158" id="0" size="39.96">The Challenge <textline bbox="79.224,437.198,318.225,477.158" colourspace="DeviceGray" font="BCDFEE+FranklinGothic-Book" ncolour="(0.412, 0.392, 0.392)" size="39.960">The Challenge </textline>
+<curvetext bbox="79.224,437.198,318.225,477.158" id="0" size="39.96" Annotation_index="0">The Challenge <textline bbox="79.224,437.198,318.225,477.158" colourspace="DeviceGray" font="BCDFEE+FranklinGothic-Book" ncolour="(0.412, 0.392, 0.392)" size="39.960">The Challenge </textline>
 </curvetext>
-<curvetext bbox="79.224,94.490,682.251,120.530" id="1" size="22.08">&#61591; Illinois and the Rest of the Midwest have underperformed the  <textline bbox="79.224,94.490,682.251,120.530">&#61591; Illinois and the Rest of the Midwest have underperformed the  <text bbox="79.224,97.854,91.456,119.934" colourspace="DeviceGray" font="BCDGEE+Wingdings2" ncolour="(0.827, 0.282, 0.0902)" size="22.080">&#61591;</text>
+<curvetext bbox="79.224,94.490,682.251,120.530" id="1" size="22.08" Annotation_index="1">&#61591; Illinois and the Rest of the Midwest have underperformed the  <textline bbox="79.224,94.490,682.251,120.530">&#61591; Illinois and the Rest of the Midwest have underperformed the  <text bbox="79.224,97.854,91.456,119.934" colourspace="DeviceGray" font="BCDGEE+Wingdings2" ncolour="(0.827, 0.282, 0.0902)" size="22.080">&#61591;</text>
 <text bbox="100.700,94.490,107.470,120.530" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040">I</text>
 <text bbox="107.470,94.490,113.720,120.530" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040">l</text>
 <text bbox="113.720,94.490,119.970,120.530" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040">l</text>
@@ -65,12 +65,12 @@
 <text bbox="676.392,94.490,682.251,120.530" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040"> </text>
 </textline>
 </curvetext>
-<curvetext bbox="100.700,63.294,486.066,89.334" id="2" size="26.04">US economy for most of the last 20 years <textline bbox="100.700,63.294,486.066,89.334" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040">US economy for most of the last 20 years </textline>
+<curvetext bbox="100.700,63.294,486.066,89.334" id="2" size="26.04" Annotation_index="2">US economy for most of the last 20 years <textline bbox="100.700,63.294,486.066,89.334" colourspace="DeviceGray" font="BCDEEE+Perpetua" ncolour="0" size="26.040">US economy for most of the last 20 years </textline>
 </curvetext>
-<slide_number bbox="25.344,25.076,33.571,39.116" id="3" size="14.04">2 <textline bbox="25.344,25.076,33.571,39.116" colourspace="DeviceGray" font="BCDFEE+FranklinGothic-Book" ncolour="1" size="14.040">2 </textline>
+<slide_number bbox="25.344,25.076,33.571,39.116" id="3" size="14.04" Annotation_index="3">2 <textline bbox="25.344,25.076,33.571,39.116" colourspace="DeviceGray" font="BCDFEE+FranklinGothic-Book" ncolour="1" size="14.040">2 </textline>
 </slide_number>
-<curve bbox="5.040,7.440,714.720,534.480" linewidth="0" pts="5.040,508.500,5.040,522.850,16.671,534.480,31.018,534.480,688.740,534.480,703.090,534.480,714.720,522.850,714.720,508.500,714.720,33.418,714.720,19.071,703.090,7.440,688.740,7.440,31.018,7.440,16.671,7.440,5.040,19.071,5.040,33.418" />
-<curve bbox="5.040,7.440,714.720,534.480" linewidth="0" pts="5.040,508.500,5.040,522.850,16.671,534.480,31.018,534.480,688.740,534.480,703.090,534.480,714.720,522.850,714.720,508.500,714.720,33.418,714.720,19.071,703.090,7.440,688.740,7.440,31.018,7.440,16.671,7.440,5.040,19.071,5.040,33.418" />
-<curve bbox="11.520,15.000,47.520,51.000" linewidth="0" pts="11.520,33.000,11.520,42.941,19.579,51.000,29.520,51.000,39.461,51.000,47.520,42.941,47.520,33.000,47.520,23.059,39.461,15.000,29.520,15.000,19.579,15.000,11.520,23.059,11.520,33.000" />
+<curve bbox="5.040,7.440,714.720,534.480" linewidth="0" pts="5.040,508.500,5.040,522.850,16.671,534.480,31.018,534.480,688.740,534.480,703.090,534.480,714.720,522.850,714.720,508.500,714.720,33.418,714.720,19.071,703.090,7.440,688.740,7.440,31.018,7.440,16.671,7.440,5.040,19.071,5.040,33.418" Annotation_index="4" />
+<curve bbox="5.040,7.440,714.720,534.480" linewidth="0" pts="5.040,508.500,5.040,522.850,16.671,534.480,31.018,534.480,688.740,534.480,703.090,534.480,714.720,522.850,714.720,508.500,714.720,33.418,714.720,19.071,703.090,7.440,688.740,7.440,31.018,7.440,16.671,7.440,5.040,19.071,5.040,33.418" Annotation_index="5" />
+<curve bbox="11.520,15.000,47.520,51.000" linewidth="0" pts="11.520,33.000,11.520,42.941,19.579,51.000,29.520,51.000,39.461,51.000,47.520,42.941,47.520,33.000,47.520,23.059,39.461,15.000,29.520,15.000,19.579,15.000,11.520,23.059,11.520,33.000" Annotation_index="6" />
 </page>
 </pages>

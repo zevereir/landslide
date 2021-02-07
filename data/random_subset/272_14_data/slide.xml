@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[246.65790476190477, 447.752, 619.2420761904763, 498.83720000000005]" rotate="0">
-<title archetypal_index="0" bbox="236.860,424.872,640.618,521.751" id="0" size="44.052">Simple Interpreter  
+<title archetypal_index="0" bbox="236.860,424.872,640.618,521.751" id="0" size="44.052" Annotation_index="0">Simple Interpreter  
 Example <textline bbox="236.860,477.687,640.618,521.751" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.064">Simple Interpreter  </textline>
 <textline bbox="341.880,424.872,522.180,468.912" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.040">Example </textline>
 </title>
-<normal_text archetypal_index="1" bbox="23.448,54.264,710.782,423.940" id="1" size="24.004363636363635">[savage@d0ol30 ~]$ setup d0online 
+<normal_text archetypal_index="1" bbox="23.448,54.264,710.782,423.940" id="1" size="24.004363636363635" Annotation_index="1">[savage@d0ol30 ~]$ setup d0online 
 [savage@d0ol30 ~]$ python 
 Python 2.1 (#3, May 16 2001, 15:15:15)  
 [GCC 2.95.2 19991024 (release)] on linux2 
@@ -87,23 +87,23 @@ Type "copyright", "credits" or "license" for more information.
 <textline bbox="23.448,88.824,177.648,112.824" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">&gt;&gt;&gt; ch.getw() </textline>
 <textline bbox="23.448,54.264,110.112,78.264" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">123.456 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="283.250,123.981,498.434,183.986" id="2" size="24.012">Create the connection. 
+<normal_text archetypal_index="2" bbox="283.250,123.981,498.434,183.986" id="2" size="24.012" Annotation_index="2">Create the connection. 
 Write a value. <textline bbox="283.250,159.986,498.434,183.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Create the connection. </textline>
 <textline bbox="283.250,123.981,417.448,148.005" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">Write a value. </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="367.270,195.986,665.254,219.986" id="3" size="24.0">Make a connection via a name. <textline bbox="367.270,195.986,665.254,219.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Make a connection via a name. </textline>
+<normal_text archetypal_index="3" bbox="367.270,195.986,665.254,219.986" id="3" size="24.0" Annotation_index="3">Make a connection via a name. <textline bbox="367.270,195.986,665.254,219.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Make a connection via a name. </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="61.224,27.711,146.966,41.751" id="5" size="14.04">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
+<normal_text archetypal_index="4" bbox="61.224,27.711,146.966,41.751" id="5" size="14.04" Annotation_index="4">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="307.320,27.711,412.606,41.751" id="6" size="14.04">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
+<normal_text archetypal_index="5" bbox="307.320,27.711,412.606,41.751" id="6" size="14.04" Annotation_index="5">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
 </normal_text>
-<slide_number bbox="644.640,27.711,658.740,41.751" id="7" size="14.04">15 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">15 </textline>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="7" size="14.04" Annotation_index="6">15 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">15 </textline>
 </slide_number>
-<picture archetypal_index="6" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.13.200x106.bmp" width="147">
+<picture archetypal_index="6" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.13.200x106.bmp" width="147" Annotation_index="7">
 </picture>
-<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" />
-<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" />
-<table archetypal_index="7" bbox="276.0,84.0,510.0,192.0" dimensions="1/3"><cell bbox="276.0,156.0,510.0,192.0" /><cell bbox="276.0,120.0,510.0,156.0" /><cell bbox="276.0,84.0,510.0,120.0"><tabletext bbox="283.250,87.960,413.162,111.960" id="4" size="24.0">Read a value. <textline bbox="283.250,87.960,413.162,111.960" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Read a value. </textline>
+<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" Annotation_index="8" />
+<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" Annotation_index="9" />
+<table archetypal_index="7" bbox="276.0,84.0,510.0,192.0" dimensions="1/3" Annotation_index="10"><cell bbox="276.0,156.0,510.0,192.0" /><cell bbox="276.0,120.0,510.0,156.0" /><cell bbox="276.0,84.0,510.0,120.0"><tabletext bbox="283.250,87.960,413.162,111.960" id="4" size="24.0">Read a value. <textline bbox="283.250,87.960,413.162,111.960" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Read a value. </textline>
 </tabletext>
 </cell></table></page>
 </pages>

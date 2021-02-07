@@ -1,22 +1,22 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[55.06666666666668, 399.01722222222224, 573.8511555555556, 439.5346666666666]" rotate="0">
-<normal_text archetypal_index="0" bbox="31.200,315.962,175.809,336.002" id="3" size="20.04">Shared Catalog: <textline bbox="31.200,315.962,175.809,336.002" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="20.040">Shared Catalog: </textline>
+<normal_text archetypal_index="0" bbox="31.200,315.962,175.809,336.002" id="3" size="20.04" Annotation_index="0">Shared Catalog: <textline bbox="31.200,315.962,175.809,336.002" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="20.040">Shared Catalog: </textline>
 </normal_text>
-<normal_text archetypal_index="1" bbox="58.200,289.562,431.325,309.602" id="4" size="20.04">http://dvn.iq.harvard.edu/dvn/dv/datapass/ <textline bbox="58.200,289.562,431.325,309.602" colourspace="DeviceGray" font="Helvetica" ncolour="(0, 0.6, 0.6)" size="20.040">http://dvn.iq.harvard.edu/dvn/dv/datapass/ </textline>
+<normal_text archetypal_index="1" bbox="58.200,289.562,431.325,309.602" id="4" size="20.04" Annotation_index="1">http://dvn.iq.harvard.edu/dvn/dv/datapass/ <textline bbox="58.200,289.562,431.325,309.602" colourspace="DeviceGray" font="Helvetica" ncolour="(0, 0.6, 0.6)" size="20.040">http://dvn.iq.harvard.edu/dvn/dv/datapass/ </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="31.200,236.742,291.219,256.782" id="5" size="20.04">Dataverse Network Software: <textline bbox="31.200,236.742,291.219,256.782" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="20.040">Dataverse Network Software: </textline>
+<normal_text archetypal_index="2" bbox="31.200,236.742,291.219,256.782" id="5" size="20.04" Annotation_index="2">Dataverse Network Software: <textline bbox="31.200,236.742,291.219,256.782" colourspace="DeviceGray" font="Helvetica" ncolour="0" size="20.040">Dataverse Network Software: </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="58.200,210.342,224.171,230.382" id="6" size="20.04">http://TheData.Org <textline bbox="58.200,210.342,224.171,230.382" colourspace="DeviceGray" font="Helvetica" ncolour="(0, 0.6, 0.6)" size="20.040">http://TheData.Org </textline>
+<normal_text archetypal_index="3" bbox="58.200,210.342,224.171,230.382" id="6" size="20.04" Annotation_index="3">http://TheData.Org <textline bbox="58.200,210.342,224.171,230.382" colourspace="DeviceGray" font="Helvetica" ncolour="(0, 0.6, 0.6)" size="20.040">http://TheData.Org </textline>
 </normal_text>
-<slide_number bbox="21.240,20.568,34.632,32.568" id="7" size="12.0">18 <textline bbox="21.240,20.568,34.632,32.568" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.000">18 </textline>
+<slide_number bbox="21.240,20.568,34.632,32.568" id="7" size="12.0" Annotation_index="4">18 <textline bbox="21.240,20.568,34.632,32.568" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.000">18 </textline>
 </slide_number>
-<normal_text archetypal_index="4" bbox="55.200,19.320,174.624,31.320" id="8" size="12.0">NDIIPP Meeting 07/08 <textline bbox="55.200,19.320,174.624,31.320" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.000">NDIIPP Meeting 07/08 </textline>
+<normal_text archetypal_index="4" bbox="55.200,19.320,174.624,31.320" id="8" size="12.0" Annotation_index="5">NDIIPP Meeting 07/08 <textline bbox="55.200,19.320,174.624,31.320" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.000">NDIIPP Meeting 07/08 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="227.620,21.796,444.384,35.836" id="9" size="14.04">Micah Altman &amp; Jonathan Crabtree <textline bbox="227.620,21.796,444.384,35.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Micah Altman &amp; Jonathan Crabtree </textline>
+<normal_text archetypal_index="5" bbox="227.620,21.796,444.384,35.836" id="9" size="14.04" Annotation_index="6">Micah Altman &amp; Jonathan Crabtree <textline bbox="227.620,21.796,444.384,35.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">Micah Altman &amp; Jonathan Crabtree </textline>
 </normal_text>
-<picture archetypal_index="6" bbox="516.000,0.000,708.000,38.520" height="38" name="Image9" src="Image9.16.349x70.bmp" width="192">
+<picture archetypal_index="6" bbox="516.000,0.000,708.000,38.520" height="38" name="Image9" src="Image9.16.349x70.bmp" width="192" Annotation_index="7">
 </picture>
-<curve bbox="5.160,440.760,24.840,460.320" linewidth="0" pts="5.162,450.760,5.160,450.690,5.160,450.610,5.160,450.540,5.160,445.140,9.565,440.760,15.000,440.760,20.434,440.760,24.840,445.140,24.840,450.540,24.840,455.860,20.560,460.210,15.208,460.320" />
-<curve bbox="63.720,369.960,413.880,370.920" linewidth="0" pts="63.720,370.920,180.440,370.920,297.160,370.920,413.880,370.920,413.880,369.960,297.160,369.960,180.440,369.960,63.720,369.960" />
-<curve bbox="58.200,290.760,430.320,291.720" linewidth="0" pts="58.200,291.720,182.240,291.720,306.280,291.720,430.320,291.720,430.320,290.760,306.280,290.760,182.240,290.760,58.200,290.760" />
-<picture archetypal_index="7" bbox="0.0,462.6,720.0,540.0" caption="&#10;For More Information &#10;Data-PASS Project: &#10;http://www.icpsr.umich.edu/DATAPASS/ " combined_sources="['Image21.15.jpg', 'Image7.16.800x86.bmp']" name="combined_0" src="combined_18_0.png" /></page>
+<curve bbox="5.160,440.760,24.840,460.320" linewidth="0" pts="5.162,450.760,5.160,450.690,5.160,450.610,5.160,450.540,5.160,445.140,9.565,440.760,15.000,440.760,20.434,440.760,24.840,445.140,24.840,450.540,24.840,455.860,20.560,460.210,15.208,460.320" Annotation_index="8" />
+<curve bbox="63.720,369.960,413.880,370.920" linewidth="0" pts="63.720,370.920,180.440,370.920,297.160,370.920,413.880,370.920,413.880,369.960,297.160,369.960,180.440,369.960,63.720,369.960" Annotation_index="9" />
+<curve bbox="58.200,290.760,430.320,291.720" linewidth="0" pts="58.200,291.720,182.240,291.720,306.280,291.720,430.320,291.720,430.320,290.760,306.280,290.760,182.240,290.760,58.200,290.760" Annotation_index="10" />
+<picture archetypal_index="7" bbox="0.0,462.6,720.0,540.0" caption="&#10;For More Information &#10;Data-PASS Project: &#10;http://www.icpsr.umich.edu/DATAPASS/ " combined_sources="['Image21.15.jpg', 'Image7.16.800x86.bmp']" name="combined_0" src="combined_18_0.png" Annotation_index="11" /></page>
 </pages>

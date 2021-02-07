@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="20" mean_title="[64.9066432748538, 447.9683859649123, 567.690596491228, 492.88061403508766]" rotate="0">
-<title archetypal_index="0" bbox="43.200,449.368,633.924,485.368" id="0" size="36.0">Common pertussis misdiagnoses <textline bbox="43.200,449.368,633.924,485.368" colourspace="Pattern" font="BCDEEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">Common pertussis misdiagnoses </textline>
+<title archetypal_index="0" bbox="43.200,449.368,633.924,485.368" id="0" size="36.0" Annotation_index="0">Common pertussis misdiagnoses <textline bbox="43.200,449.368,633.924,485.368" colourspace="Pattern" font="BCDEEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">Common pertussis misdiagnoses </textline>
 </title>
-<enlisting archetypal_index="1" bbox="79.224,83.392,565.078,392.007" id="1" size="32.04685714285714">&#8226; Bronchitis 
+<enlisting archetypal_index="1" bbox="79.224,83.392,565.078,392.007" id="1" size="32.04685714285714" Annotation_index="1">&#8226; Bronchitis 
 &#8226; Asthma 
 &#8226; Gastroesophageal reflux 
 &#8226; Postviral bronchospasm 
@@ -142,7 +142,7 @@
 <text bbox="547.200,83.392,565.078,115.432" colourspace="Pattern" font="BCDGEE+Tahoma" ncolour="1" size="32.040">n</text>
 </textline>
 </enlisting>
-<picture archetypal_index="2" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.16.1999x205.bmp" width="719">
+<picture archetypal_index="2" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.16.1999x205.bmp" width="719" Annotation_index="2">
 </picture>
 </page>
 </pages>

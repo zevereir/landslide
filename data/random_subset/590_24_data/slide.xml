@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="25" mean_title="[169.03959999999998, 439.93805789473686, 551.1651105263157, 477.38727894736843]" rotate="0">
-<title archetypal_index="0" bbox="219.580,438.563,500.495,474.587" id="0" size="36.024">Example Scenario <textline bbox="219.580,438.563,500.495,474.587" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="36.024">Example Scenario </textline>
+<title archetypal_index="0" bbox="219.580,438.563,500.495,474.587" id="0" size="36.024" Annotation_index="0">Example Scenario <textline bbox="219.580,438.563,500.495,474.587" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="36.024">Example Scenario </textline>
 </title>
-<normal_text archetypal_index="1" bbox="119.180,208.682,639.142,405.532" id="1" size="24.00342857142857">Dad is bottle-feeding 3-month old Roberto as he  
+<normal_text archetypal_index="1" bbox="119.180,208.682,639.142,405.532" id="1" size="24.00342857142857" Annotation_index="1">Dad is bottle-feeding 3-month old Roberto as he  
 sits in your counseling office.  As you watch,  
 Roberto stops sucking, kicks his feet, starts to  
 fuss, and tries to turn his head away.  The  
@@ -15,7 +15,7 @@ Roberto to finish his bottle?&#8221;  <textline bbox="119.180,381.532,639.142,40
 <textline bbox="119.180,237.497,589.041,261.521" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="24.024">sucking again. The dad asks, &#8220;How do I get  </textline>
 <textline bbox="119.180,208.682,428.276,232.682" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="24.000">Roberto to finish his bottle?&#8221;  </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.18.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.18.jpg" width="720" Annotation_index="2">
 </background>
 </page>
 </pages>

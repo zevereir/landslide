@@ -1,12 +1,12 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" rotate="0">
-<enlisting archetypal_index="0" bbox="43.200,460.210,132.414,493.532" id="0" size="32.04">&#8226; TCLK <textline bbox="43.200,460.210,132.414,493.532">&#8226; TCLK <text bbox="43.200,461.492,54.414,493.532" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226;</text>
+<enlisting archetypal_index="0" bbox="43.200,460.210,132.414,493.532" id="0" size="32.04" Annotation_index="0">&#8226; TCLK <textline bbox="43.200,460.210,132.414,493.532">&#8226; TCLK <text bbox="43.200,461.492,54.414,493.532" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">&#8226;</text>
 <text bbox="70.224,460.210,85.827,492.250" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.040">T</text>
 <text bbox="85.219,460.210,102.296,492.250" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.040">C</text>
 <text bbox="102.296,460.210,115.753,492.250" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.040">L</text>
 <text bbox="115.753,460.210,132.414,492.250" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="32.040">K</text>
 </textline>
 </enlisting>
-<enlisting archetypal_index="1" bbox="115.22,74.664,653.444,453.46">&#8226; Provides high level machine coordination for complex 
+<enlisting archetypal_index="1" bbox="115.22,74.664,653.444,453.46" Annotation_index="1">&#8226; Provides high level machine coordination for complex 
 &#8211; Overall complex timing set via Timeline Generator (TLG) &#8226; Available in all machine locations 
 &#8226; 10MHz Carrier 
 &#8226; Modified Manchester Encoding 

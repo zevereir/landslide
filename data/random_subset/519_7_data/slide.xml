@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[124.37964285714285, 475.23789285714287, 626.7589285714284, 519.2993214285714]" rotate="0">
-<title archetypal_index="0" bbox="124.660,475.307,626.531,519.371" id="0" size="44.064">KC-46A Training Systems <textline bbox="124.660,475.307,626.531,519.371" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">KC-46A Training Systems </textline>
+<title archetypal_index="0" bbox="124.660,475.307,626.531,519.371" id="0" size="44.064" Annotation_index="0">KC-46A Training Systems <textline bbox="124.660,475.307,626.531,519.371" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="44.064">KC-46A Training Systems </textline>
 </title>
-<normal_text archetypal_index="1" bbox="51.096,378.177,269.869,410.241" id="1" size="32.064">End User POC <textline bbox="51.096,378.177,269.869,410.241" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="32.064">End User POC </textline>
+<normal_text archetypal_index="1" bbox="51.096,378.177,269.869,410.241" id="1" size="32.064" Annotation_index="1">End User POC <textline bbox="51.096,378.177,269.869,410.241" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="32.064">End User POC </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="65.472,231.240,141.436,359.660" id="2" size="24.006">Name: 
+<normal_text archetypal_index="2" bbox="65.472,231.240,141.436,359.660" id="2" size="24.006" Annotation_index="2">Name: 
 Org: 
 Phone: 
 E-mail: <textline bbox="65.472,335.660,136.080,359.660" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Name: </textline>
@@ -11,7 +11,7 @@ E-mail: <textline bbox="65.472,335.660,136.080,359.660" colourspace="DeviceGray"
 <textline bbox="65.472,266.055,141.436,290.079" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">Phone: </textline>
 <textline bbox="65.472,231.240,140.136,255.240" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">E-mail: </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="209.500,231.240,576.720,359.660" id="3" size="24.006">Col Chris Cantu 
+<normal_text archetypal_index="3" bbox="209.500,231.240,576.720,359.660" id="3" size="24.006" Annotation_index="3">Col Chris Cantu 
 HQ AMC/A3T, Scott AFB IL 
 618-229-2007 
 Christopher.Cantu-02@scott.af.mil <textline bbox="209.500,335.660,378.892,359.660" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Col Chris Cantu </textline>
@@ -19,7 +19,7 @@ Christopher.Cantu-02@scott.af.mil <textline bbox="209.500,335.660,378.892,359.66
 <textline bbox="209.500,266.055,358.889,290.079" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.024">618-229-2007 </textline>
 <textline bbox="209.500,231.240,576.720,255.240" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">Christopher.Cantu-02@scott.af.mil </textline>
 </normal_text>
-<picture archetypal_index="4" bbox="0.840,460.320,98.280,540.000" height="79" name="Image14" src="Image14.6.jpg" width="97">
+<picture archetypal_index="4" bbox="0.840,460.320,98.280,540.000" height="79" name="Image14" src="Image14.6.jpg" width="97" Annotation_index="4">
 </picture>
 </page>
 </pages>

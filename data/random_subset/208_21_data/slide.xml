@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="22" mean_title="[117.59369590643276, 442.3405263157895, 608.0307777777779, 521.5791461988305]" rotate="0">
-<title archetypal_index="0" bbox="112.510,442.420,613.464,521.388" id="0" size="37.992000000000004">Meeting the Nation&#8217;s Needs  
+<title archetypal_index="0" bbox="112.510,442.420,613.464,521.388" id="0" size="37.992000000000004" Annotation_index="0">Meeting the Nation&#8217;s Needs  
 Building a Weather-Ready Nation <textline bbox="131.830,481.404,603.161,521.388" colourspace="Pattern" font="BCDGEE+Calibri-Bold" ncolour="(0.18, 0.314, 0.478)" size="39.984">Meeting the Nation&#8217;s Needs  </textline>
 <textline bbox="112.510,442.420,613.464,478.420" colourspace="Pattern" font="BCDFEE+Calibri-BoldItalic" ncolour="(0.647, 0, 0.129)" size="36.000">Building a Weather-Ready Nation </textline>
 </title>
-<normal_text archetypal_index="1" bbox="85.752,303.318,647.783,411.967" id="1" size="27.972">GOAL 6: Sustain a highly-skilled,  
+<normal_text archetypal_index="1" bbox="85.752,303.318,647.783,411.967" id="1" size="27.972" Annotation_index="1">GOAL 6: Sustain a highly-skilled,  
 professional workforce equipped with the  
 training, tools, and infrastructure to meet  
 our mission <textline bbox="139.150,383.983,594.657,411.967">GOAL 6: Sustain a highly-skilled,  <text bbox="139.150,383.983,160.922,411.967" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.8, 0, 0)" size="27.984">G</text>
@@ -44,7 +44,7 @@ our mission <textline bbox="139.150,383.983,594.657,411.967">GOAL 6: Sustain a h
 <textline bbox="88.872,330.198,644.493,358.158" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.122, 0.286, 0.49)" size="27.960">training, tools, and infrastructure to meet  </textline>
 <textline bbox="283.660,303.318,442.305,331.278" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0.122, 0.286, 0.49)" size="27.960">our mission </textline>
 </normal_text>
-<enlisting archetypal_index="2" bbox="83.712,133.004,428.566,182.93" id="5" size="21.6">&#10146;Strengthen labor involvement in  <textline bbox="83.712,158.930,428.566,182.930">&#10146;Strengthen labor involvement in  <text bbox="83.712,160.502,100.862,182.102" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="(0.18, 0.314, 0.478)" size="21.600">&#10146;</text>
+<enlisting archetypal_index="2" bbox="83.712,133.004,428.566,182.93" id="5" size="21.6" Annotation_index="2">&#10146;Strengthen labor involvement in  <textline bbox="83.712,158.930,428.566,182.930">&#10146;Strengthen labor involvement in  <text bbox="83.712,160.502,100.862,182.102" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="(0.18, 0.314, 0.478)" size="21.600">&#10146;</text>
 <text bbox="101.710,158.930,113.062,182.930" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">S</text>
 <text bbox="113.062,158.930,121.390,182.930" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">t</text>
 <text bbox="121.390,158.930,129.910,182.930" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">r</text>
@@ -81,7 +81,7 @@ our mission <textline bbox="139.150,383.983,594.657,411.967">GOAL 6: Sustain a h
 <normal_text bbox="101.710,133.004,268.917,157.028" id="6" size="24.024">upfront planning <textline bbox="101.710,133.004,268.917,157.028" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">upfront planning </textline>
 </normal_text>
 </enlisting>
-<normal_text archetypal_index="3" bbox="83.712,66.744,346.630,116.664" id="7" size="22.8">&#10146;Integrate social sciences  
+<normal_text archetypal_index="3" bbox="83.712,66.744,346.630,116.664" id="7" size="22.8" Annotation_index="3">&#10146;Integrate social sciences  
 throughout the agency <textline bbox="83.712,92.664,346.630,116.664">&#10146;Integrate social sciences  <text bbox="83.712,94.236,100.862,115.836" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="(0.18, 0.314, 0.478)" size="21.600">&#10146;</text>
 <text bbox="101.710,92.664,108.118,116.664" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">I</text>
 <text bbox="108.118,92.664,121.006,116.664" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">n</text>
@@ -112,5 +112,5 @@ throughout the agency <textline bbox="83.712,92.664,346.630,116.664">&#10146;Int
 </textline>
 <textline bbox="101.710,66.744,328.774,90.744" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">throughout the agency </textline>
 </normal_text>
-<picture archetypal_index="4" bbox="68.4,12.3,719.82,426.12" caption="&#10;infrastructure  &#10;&#10146;Strengthen training, tools, and  &#10;&#10146; Hydrology, climate   " combined_sources="['Image395.417x173.bmp', 'Image397.699x173.bmp', 'Image349.1.129x173.bmp', 'Image399.389x173.bmp', 'Image401.1664x173.bmp', 'Image403.1647x173.bmp', 'Image405.543x173.bmp', 'Image407.jpg']" name="combined_0" src="combined_22_0.png" /></page>
+<picture archetypal_index="4" bbox="68.4,12.3,719.82,426.12" caption="&#10;infrastructure  &#10;&#10146;Strengthen training, tools, and  &#10;&#10146; Hydrology, climate   " combined_sources="['Image395.417x173.bmp', 'Image397.699x173.bmp', 'Image349.1.129x173.bmp', 'Image399.389x173.bmp', 'Image401.1664x173.bmp', 'Image403.1647x173.bmp', 'Image405.543x173.bmp', 'Image407.jpg']" name="combined_0" src="combined_22_0.png" Annotation_index="4" /></page>
 </pages>

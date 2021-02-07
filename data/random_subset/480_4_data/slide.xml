@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[160.463, 488.92479999999995, 592.5541999999999, 523.9456]" rotate="0">
-<title archetypal_index="0" bbox="101.710,512.632,561.322,532.672" id="0" size="20.04">Facilities For the Future: 20-Year Outlook &#8211; November 2003 <textline bbox="101.710,512.632,561.322,532.672">Facilities For the Future: 20-Year Outlook &#8211; November 2003 <text bbox="101.710,512.632,111.750,532.672" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(0, 0, 0.737)" size="20.040">F</text>
+<title archetypal_index="0" bbox="101.710,512.632,561.322,532.672" id="0" size="20.04" Annotation_index="0">Facilities For the Future: 20-Year Outlook &#8211; November 2003 <textline bbox="101.710,512.632,561.322,532.672">Facilities For the Future: 20-Year Outlook &#8211; November 2003 <text bbox="101.710,512.632,111.750,532.672" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(0, 0, 0.737)" size="20.040">F</text>
 <text bbox="111.750,512.632,120.888,532.672" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(0, 0, 0.737)" size="20.040">a</text>
 <text bbox="120.888,512.632,130.027,532.672" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(0, 0, 0.737)" size="20.040">c</text>
 <text bbox="130.027,512.632,134.596,532.672" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(0, 0, 0.737)" size="20.040">i</text>
@@ -58,19 +58,19 @@
 <text bbox="552.184,512.632,561.322,532.672" colourspace="DeviceGray" font="BCDJEE+ArialNarrow-Bold" ncolour="(0, 0, 0.737)" size="20.040">3</text>
 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="541.560,91.494,701.445,111.290" id="1" size="9.0">Programs: 
+<normal_text archetypal_index="1" bbox="541.560,91.494,701.445,111.290" id="1" size="9.0" Annotation_index="1">Programs: 
 ASCR = Advanced Scientific Computing <textline bbox="541.560,102.290,586.650,111.290" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.000">Programs: </textline>
 <textline bbox="541.560,91.494,701.445,100.494" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">ASCR = Advanced Scientific Computing </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="541.560,59.070,688.962,78.870" id="2" size="9.0">BES = Basic Energy Sciences 
+<normal_text archetypal_index="2" bbox="541.560,59.070,688.962,78.870" id="2" size="9.0" Annotation_index="2">BES = Basic Energy Sciences 
 BER = Biological and Environmental  <textline bbox="541.560,69.870,661.998,78.870" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">BES = Basic Energy Sciences </textline>
 <textline bbox="541.560,59.070,688.962,68.070" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">BER = Biological and Environmental  </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="577.560,80.689,616.273,89.713" id="3" size="9.024">Research <textline bbox="577.560,80.689,616.273,89.713" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.024">Research </textline>
+<normal_text archetypal_index="3" bbox="577.560,80.689,616.273,89.713" id="3" size="9.024" Annotation_index="3">Research <textline bbox="577.560,80.689,616.273,89.713" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.024">Research </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="577.560,48.270,616.251,57.270" id="4" size="9.0">Research <textline bbox="577.560,48.270,616.251,57.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">Research </textline>
+<normal_text archetypal_index="4" bbox="577.560,48.270,616.251,57.270" id="4" size="9.0" Annotation_index="4">Research <textline bbox="577.560,48.270,616.251,57.270" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">Research </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="541.560,15.870,666.408,46.470" id="5" size="9.0">FES = Fusion Energy Sciences 
+<normal_text archetypal_index="5" bbox="541.560,15.870,666.408,46.470" id="5" size="9.0" Annotation_index="5">FES = Fusion Energy Sciences 
 HEP = High Energy Physics 
 NP = Nuclear Physics <textline bbox="541.560,37.470,666.408,46.470" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">FES = Fusion Energy Sciences </textline>
 <textline bbox="541.560,26.670,653.385,35.670" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">HEP = High Energy Physics </textline>

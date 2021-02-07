@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[84.27133333333333, 484.69, 660.8903333333334, 522.034]" rotate="0">
-<title archetypal_index="0" bbox="50.232,486.293,707.441,522.317" id="0" size="36.024">(M)EIC@JLab: Basic Considerations   <textline bbox="50.232,486.293,707.441,522.317" colourspace="DeviceGray" font="BCDEEE+ComicSansMS-Bold" ncolour="(1, 0, 0)" size="36.024">(M)EIC@JLab: Basic Considerations   </textline>
+<title archetypal_index="0" bbox="50.232,486.293,707.441,522.317" id="0" size="36.024" Annotation_index="0">(M)EIC@JLab: Basic Considerations   <textline bbox="50.232,486.293,707.441,522.317" colourspace="DeviceGray" font="BCDEEE+ComicSansMS-Bold" ncolour="(1, 0, 0)" size="36.024">(M)EIC@JLab: Basic Considerations   </textline>
 </title>
-<enlisting archetypal_index="1" bbox="25.2,58.104,680.26,472.54">&#8226; Optimize for nucleon/nuclear structure in QCD &#8226; Not driven by gluon saturation (small-x physics) &#8230; 
+<enlisting archetypal_index="1" bbox="25.2,58.104,680.26,472.54" Annotation_index="1">&#8226; Optimize for nucleon/nuclear structure in QCD &#8226; Not driven by gluon saturation (small-x physics) &#8230; 
 &#8230; avoid fundamental conflict of &#8220;classical&#8221; EIC &#8226; &#8220;Sweet spot&#8221; for &#8226; Decrease R&amp;D needs, while maintaining high luminosities <normal_text bbox="25.200,446.980,569.544,472.540" id="1" size="24.0">&#8226; Optimize for nucleon/nuclear structure in QCD <textline bbox="25.200,446.980,569.544,472.540">&#8226; Optimize for nucleon/nuclear structure in QCD <text bbox="25.200,448.540,33.600,472.540" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226;</text>
 <text bbox="40.680,446.980,59.832,470.980" colourspace="DeviceGray" font="BCDGEE+ComicSansMS" ncolour="0" size="24.000">O</text>
 <text bbox="59.832,446.980,72.672,470.980" colourspace="DeviceGray" font="BCDGEE+ComicSansMS" ncolour="0" size="24.000">p</text>
@@ -181,7 +181,7 @@
 <text bbox="668.572,58.104,680.260,82.104" colourspace="DeviceGray" font="BCDEEE+ComicSansMS-Bold" ncolour="(0.149, 0.184, 0.902)" size="24.000">s</text>
 </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="2" bbox="97.224,10.226,651.776,439.309">- access to sea quarks/gluons (x &gt; 0.01 or so) 
+</enlisting><enlisting archetypal_index="2" bbox="97.224,10.226,651.776,439.309" Annotation_index="2">- access to sea quarks/gluons (x &gt; 0.01 or so) 
 - deep exclusive scattering at Q2 &gt; 10 
 - any QCD machine needs range in Q2 &#8594; s = 1000 or so to reach decade in Q2 
 &#8594; high luminosity, 1034 or so essential 

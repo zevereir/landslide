@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,793.800,595.200" id="2" mean_title="[293.78, 527.392, 483.937, 559.432]" rotate="0">
-<title archetypal_index="0" bbox="293.780,527.392,483.937,559.432" id="0" size="32.04">Some Details <textline bbox="293.780,527.392,483.937,559.432" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Some Details </textline>
+<title archetypal_index="0" bbox="293.780,527.392,483.937,559.432" id="0" size="32.04" Annotation_index="0">Some Details <textline bbox="293.780,527.392,483.937,559.432" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Some Details </textline>
 </title>
-<picture archetypal_index="1" bbox="144.000,433.200,432.000,469.200" height="36" name="Image19" src="Image19.187x21.bmp" width="288">
+<picture archetypal_index="1" bbox="144.000,433.200,432.000,469.200" height="36" name="Image19" src="Image19.187x21.bmp" width="288" Annotation_index="1">
 </picture>
-<enlisting archetypal_index="2" bbox="44.4,65.6,755.364,507.972">&#9899; Inflation factor scf (factor_t):  &#9899; Centering ensemble perturbations (wang et al 2004) &#9899; Rescaling (mask_pert)  &#9899; &#9899; &#9899; 1)  Climate KE variance at 500 hPa times 0.88 (globamplr) than compared with ensemble KE. if  
+<enlisting archetypal_index="2" bbox="44.4,65.6,755.364,507.972" Annotation_index="2">&#9899; Inflation factor scf (factor_t):  &#9899; Centering ensemble perturbations (wang et al 2004) &#9899; Rescaling (mask_pert)  &#9899; &#9899; &#9899; 1)  Climate KE variance at 500 hPa times 0.88 (globamplr) than compared with ensemble KE. if  
 ensemble KE is larger than the above value, it is scaled down. 2) the perturbations is inflated under the 500 hPa (nlevmask). The inflation decreases with  
 height from 1.2 (smax) to 1 from surface to 500hPa. 3) Extra rescaling on top levels <normal_text bbox="44.400,475.932,403.297,507.972" id="1" size="11.64">&#9899; Inflation factor scf (factor_t):  <textline bbox="44.400,475.932,403.297,507.972">&#9899; Inflation factor scf (factor_t):  <text bbox="44.400,480.274,53.095,491.914" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="0" size="11.640">&#9899;</text>
 <text bbox="69.960,477.192,77.199,503.232" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="26.040">I</text>

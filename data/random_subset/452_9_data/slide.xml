@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[72.024, 340.3043333333333, 602.6256666666667, 397.22433333333333]" rotate="0">
-<enlisting archetypal_index="0" bbox="51.84,326.245,654.036,418.045" id="0" size="18.36">&#61565; For each of the schools that you are serving  <textline bbox="51.840,391.045,654.036,418.045">&#61565; For each of the schools that you are serving  <text bbox="51.840,392.816,61.571,411.176" colourspace="Pattern" font="BCDFEE+Wingdings3" ncolour="(0.176, 0.635, 0.749)" size="18.360">&#61565;</text>
+<enlisting archetypal_index="0" bbox="51.84,326.245,654.036,418.045" id="0" size="18.36" Annotation_index="0">&#61565; For each of the schools that you are serving  <textline bbox="51.840,391.045,654.036,418.045">&#61565; For each of the schools that you are serving  <text bbox="51.840,392.816,61.571,411.176" colourspace="Pattern" font="BCDFEE+Wingdings3" ncolour="(0.176, 0.635, 0.749)" size="18.360">&#61565;</text>
 <text bbox="72.024,391.045,86.496,418.045" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">F</text>
 <text bbox="86.496,391.045,103.074,418.045" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">o</text>
 <text bbox="103.074,391.045,114.117,418.045" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">r</text>
@@ -51,21 +51,21 @@ together: <textline bbox="72.024,358.645,580.013,385.645" colourspace="Pattern" 
 <textline bbox="72.024,326.245,191.985,353.245" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">together: </textline>
 </title>
 </enlisting>
-<normal_text archetypal_index="1" bbox="84.024,221.095,673.279,280.495" id="2" size="27.0">the per pupil amount on their Title I-A basic  
+<normal_text archetypal_index="1" bbox="84.024,221.095,673.279,280.495" id="2" size="27.0" Annotation_index="1">the per pupil amount on their Title I-A basic  
 eligibility screen (burgundy)  <textline bbox="84.024,253.495,673.279,280.495" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">the per pupil amount on their Title I-A basic  </textline>
 <textline bbox="191.330,221.095,565.820,248.095" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">eligibility screen (burgundy)  </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="66.024,111.875,662.265,211.634" id="3" size="27.008">+ 
+<normal_text archetypal_index="2" bbox="66.024,111.875,662.265,211.634" id="3" size="27.008" Annotation_index="2">+ 
 the per pupil amount on their ARRA eligibility 
 screen (blue) <textline bbox="353.590,184.610,375.074,211.634" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.024">+ </textline>
 <textline bbox="66.024,148.235,662.265,175.235" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">the per pupil amount on their ARRA eligibility </textline>
 <textline bbox="280.250,111.875,448.244,138.875" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="27.000">screen (blue) </textline>
 </normal_text>
-<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" />
-<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" />
-<picture archetypal_index="3" bbox="0.000,0.180,267.420,84.120" height="83" name="Image22" src="Image22.7.jpg" width="267">
+<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" Annotation_index="3" />
+<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" Annotation_index="4" />
+<picture archetypal_index="3" bbox="0.000,0.180,267.420,84.120" height="83" name="Image22" src="Image22.7.jpg" width="267" Annotation_index="5">
 </picture>
-<picture archetypal_index="4" bbox="45.120,451.740,532.740,495.241" height="43" name="Image151" src="Image151.1356x122.bmp" width="487">
+<picture archetypal_index="4" bbox="45.120,451.740,532.740,495.241" height="43" name="Image151" src="Image151.1356x122.bmp" width="487" Annotation_index="6">
 </picture>
 </page>
 </pages>

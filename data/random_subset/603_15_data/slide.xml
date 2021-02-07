@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,828.000,540.000" id="16" mean_title="[58.742857142857154, 367.9736095238095, 505.2113619047619, 406.60193333333325]" rotate="0">
-<normal_text archetypal_index="0" bbox="7.200,433.484,417.010,495.044" id="0" size="27.96">DEPARTMENT OF HEALTH CARE  
+<normal_text archetypal_index="0" bbox="7.200,433.484,417.010,495.044" id="0" size="27.96" Annotation_index="0">DEPARTMENT OF HEALTH CARE  
 SERVICES  <textline bbox="7.200,467.084,417.010,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">DEPARTMENT OF HEALTH CARE  </textline>
 <textline bbox="7.200,433.484,138.528,461.444" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">SERVICES  </textline>
 </normal_text>
-<title archetypal_index="1" bbox="37.200,319.553,729.312,401.158" id="1" size="24.008">Operates a centralized data warehouse developed by Bull  
+<title archetypal_index="1" bbox="37.200,319.553,729.312,401.158" id="1" size="24.008" Annotation_index="1">Operates a centralized data warehouse developed by Bull  
 Services with Teradata software. It provides public policy  
 maker access to large scale data elements. <textline bbox="37.200,377.158,729.312,401.158" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.000">Operates a centralized data warehouse developed by Bull  </textline>
 <textline bbox="64.200,348.358,726.264,372.358" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.000">Services with Teradata software. It provides public policy  </textline>
 <textline bbox="64.200,319.553,575.407,343.577" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.024">maker access to large scale data elements. </textline>
 </title>
-<normal_text archetypal_index="2" bbox="37.200,163.988,731.664,274.418" id="2" size="24.006">Bull System converts flat (including Word) files into relational  
+<normal_text archetypal_index="2" bbox="37.200,163.988,731.664,274.418" id="2" size="24.006" Annotation_index="2">Bull System converts flat (including Word) files into relational  
 data via an identifier (Medi-Cal&#8217;s CIN).  It can explore  
 available data fields and pull relevant information about  
 benefits provided an individual. <textline bbox="37.200,250.418,731.664,274.418" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.000">Bull System converts flat (including Word) files into relational  </textline>
@@ -74,7 +74,7 @@ benefits provided an individual. <textline bbox="37.200,250.418,731.664,274.418"
 <textline bbox="64.200,192.813,728.656,216.837" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.024">available data fields and pull relevant information about  </textline>
 <textline bbox="64.200,163.988,430.848,187.988" colourspace="DeviceGray" font="BCDGEE+CenturyGothic" ncolour="0" size="24.000">benefits provided an individual. </textline>
 </normal_text>
-<background bbox="0.000,0.000,828.000,540.000" height="540" name="Image14" src="Image14.13.jpg" width="828">
+<background bbox="0.000,0.000,828.000,540.000" height="540" name="Image14" src="Image14.13.jpg" width="828" Annotation_index="3">
 </background>
-<picture archetypal_index="3" bbox="-1.56,413.82,436.62,509.4" caption="" combined_sources="['Image103.1218x173.bmp', 'Image105.444x173.bmp']" name="combined_0" src="combined_16_0.png" /></page>
+<picture archetypal_index="3" bbox="-1.56,413.82,436.62,509.4" caption="" combined_sources="['Image103.1218x173.bmp', 'Image105.444x173.bmp']" name="combined_0" src="combined_16_0.png" Annotation_index="4" /></page>
 </pages>

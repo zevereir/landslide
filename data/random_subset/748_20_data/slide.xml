@@ -1,21 +1,21 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="21" mean_title="[49.5164761904762, 478.7793142857143, 187.22161904761904, 515.1979857142857]" rotate="0">
-<ref bbox="582.120,524.588,676.790,534.548" id="1" size="9.96">[Enter Agency Name] <textline bbox="582.120,524.588,676.790,534.548" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">[Enter Agency Name] </textline>
+<ref bbox="582.120,524.588,676.790,534.548" id="1" size="9.96" Annotation_index="0">[Enter Agency Name] <textline bbox="582.120,524.588,676.790,534.548" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">[Enter Agency Name] </textline>
 </ref>
-<normal_text archetypal_index="0" bbox="187.220,470.568,233.912,480.528" id="2" size="9.96">Analysis:  <textline bbox="187.220,470.568,233.912,480.528" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Analysis:  </textline>
+<normal_text archetypal_index="0" bbox="187.220,470.568,233.912,480.528" id="2" size="9.96" Annotation_index="1">Analysis:  <textline bbox="187.220,470.568,233.912,480.528" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Analysis:  </textline>
 </normal_text>
-<normal_text archetypal_index="1" bbox="421.270,470.568,485.502,480.528" id="3" size="9.96">Action Steps: <textline bbox="421.270,470.568,485.502,480.528" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Action Steps: </textline>
+<normal_text archetypal_index="1" bbox="421.270,470.568,485.502,480.528" id="3" size="9.96" Annotation_index="2">Action Steps: <textline bbox="421.270,470.568,485.502,480.528" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Action Steps: </textline>
 </normal_text>
-<title archetypal_index="2" bbox="15.360,471.964,116.484,511.603" id="24" size="18.012">Deploy  
+<title archetypal_index="2" bbox="15.360,471.964,116.484,511.603" id="24" size="18.012" Annotation_index="3">Deploy  
 Workforce <textline bbox="32.520,493.579,105.211,511.603" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="(1, 0.98, 0.98)" size="18.024">Deploy  </textline>
 <textline bbox="15.360,471.964,116.484,489.964" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="(1, 0.98, 0.98)" size="18.000">Workforce </textline>
 </title>
-<ref bbox="142.220,6.808,432.263,14.848" id="43" size="8.04">Source: Labor &amp; Industries, Research and Data Services (data as of 09/03/2007 ) <textline bbox="142.220,6.808,432.263,14.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">Source: Labor &amp; Industries, Research and Data Services (data as of 09/03/2007 ) </textline>
+<ref bbox="142.220,6.808,432.263,14.848" id="43" size="8.04" Annotation_index="4">Source: Labor &amp; Industries, Research and Data Services (data as of 09/03/2007 ) <textline bbox="142.220,6.808,432.263,14.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">Source: Labor &amp; Industries, Research and Data Services (data as of 09/03/2007 ) </textline>
 </ref>
-<slide_number bbox="689.760,8.492,700.818,18.452" id="44" size="9.96">21 <textline bbox="689.760,8.492,700.818,18.452" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">21 </textline>
+<slide_number bbox="689.760,8.492,700.818,18.452" id="44" size="9.96" Annotation_index="5">21 <textline bbox="689.760,8.492,700.818,18.452" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">21 </textline>
 </slide_number>
-<rect bbox="180.060,212.460,372.060,485.940" linewidth="2" />
-<rect bbox="414.060,104.460,684.060,485.940" linewidth="2" />
-<table archetypal_index="3" bbox="0.0,0.0,726.0,540.0" dimensions="2/1"><cell bbox="0.0,0.0,132.0,540.0"><tabletext bbox="5.760,435.628,60.928,445.588" id="25" size="9.96">Outcomes <textline bbox="5.760,435.628,60.928,445.588" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="(1, 0.98, 0.98)" size="9.960">Outcomes </textline>
+<rect bbox="180.060,212.460,372.060,485.940" linewidth="2" Annotation_index="6" />
+<rect bbox="414.060,104.460,684.060,485.940" linewidth="2" Annotation_index="7" />
+<table archetypal_index="3" bbox="0.0,0.0,726.0,540.0" dimensions="2/1" Annotation_index="8"><cell bbox="0.0,0.0,132.0,540.0"><tabletext bbox="5.760,435.628,60.928,445.588" id="25" size="9.96">Outcomes <textline bbox="5.760,435.628,60.928,445.588" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="(1, 0.98, 0.98)" size="9.960">Outcomes </textline>
 </tabletext>
 <tabletext bbox="5.760,413.448,70.878,423.408" id="26" size="9.96">Staff know job  <textline bbox="5.760,413.448,70.878,423.408" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0.98, 0.98)" size="9.960">Staff know job  </textline>
 </tabletext>
@@ -67,7 +67,7 @@ and disposition outcomes <textline bbox="5.760,63.212,78.933,73.172" colourspace
 </tabletext>
 </cell><cell bbox="132.0,516.0,726.0,540.0"><tabletext bbox="262.060,517.500,595.852,535.500" id="0" size="18.0">Department of Social and Health Services <textline bbox="262.060,517.500,595.852,535.500" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Department of Social and Health Services </textline>
 </tabletext>
-</cell></table><enlisting archetypal_index="4" bbox="187.22,170.518,677.311,456.528">&#8226; The Overexertion category includes  &#8226; DSHS has a total of 13 residential  &#8226; Patient staff assaults accounts for  &#8226; The chart reflects the total injuries by  
+</cell></table><enlisting archetypal_index="4" bbox="187.22,170.518,677.311,456.528" Annotation_index="9">&#8226; The Overexertion category includes  &#8226; DSHS has a total of 13 residential  &#8226; Patient staff assaults accounts for  &#8226; The chart reflects the total injuries by  
 occupational injury and  illnesses  
 beginning October 2002 through  
 September 30, 2007. 22% of worker&#8217;s compensation claims  
@@ -119,7 +119,7 @@ measurements  <textline bbox="470.860,194.518,623.617,204.478" colourspace="Devi
 <textline bbox="470.860,182.518,677.311,192.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Developing accident prevention strategies and  </textline>
 <textline bbox="470.860,170.518,539.813,180.478" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">measurements  </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="5" bbox="421.27,110.488,677.152,456.528">&#8226; Continue to provide L&amp;I information to management  &#10003; 
+</enlisting><enlisting archetypal_index="5" bbox="421.27,110.488,677.152,456.528" Annotation_index="10">&#8226; Continue to provide L&amp;I information to management  &#10003; 
 &#10003; 
 &#10003; &#8226; Continue the recognition of safety performance as part  &#8226; Continue to provide guidance to all DSHS safety  &#8226; Continue training supervisors and managers on the  &#10003; 
 &#10003; &#8226; Continue to provide worksite safety training and  

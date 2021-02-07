@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[474.01, 391.5926666666667, 632.7143333333333, 416.55266666666665]" rotate="0">
-<title archetypal_index="0" bbox="536.260,393.340,628.787,418.300" id="0" size="24.96">Speakers <textline bbox="536.260,393.340,628.787,418.300" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.960">Speakers </textline>
+<title archetypal_index="0" bbox="536.260,393.340,628.787,418.300" id="0" size="24.96" Annotation_index="0">Speakers <textline bbox="536.260,393.340,628.787,418.300" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.960">Speakers </textline>
 </title>
-<normal_text archetypal_index="1" bbox="79.224,216.100,681.266,240.100" id="3" size="24.0">Sandy Scott, Corporation for National and Community Service <textline bbox="79.224,216.100,681.266,240.100">Sandy Scott, Corporation for National and Community Service <text bbox="79.224,216.100,90.576,240.100" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">S</text>
+<normal_text archetypal_index="1" bbox="79.224,216.100,681.266,240.100" id="3" size="24.0" Annotation_index="1">Sandy Scott, Corporation for National and Community Service <textline bbox="79.224,216.100,681.266,240.100">Sandy Scott, Corporation for National and Community Service <text bbox="79.224,216.100,90.576,240.100" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">S</text>
 <text bbox="90.576,216.100,102.432,240.100" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">a</text>
 <text bbox="102.480,216.100,115.368,240.100" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">n</text>
 <text bbox="115.368,216.100,128.256,240.100" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">d</text>
@@ -62,7 +62,7 @@
 <text bbox="669.314,216.100,681.266,240.100" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="24.000">e</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="79.224,172.900,561.458,196.900" id="4" size="24.0">Linda Brown Rivelis, Campaign Consultation, Inc.  <textline bbox="79.224,172.900,561.458,196.900">Linda Brown Rivelis, Campaign Consultation, Inc.  <text bbox="79.224,172.900,89.376,196.900" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">L</text>
+<normal_text archetypal_index="2" bbox="79.224,172.900,561.458,196.900" id="4" size="24.0" Annotation_index="2">Linda Brown Rivelis, Campaign Consultation, Inc.  <textline bbox="79.224,172.900,561.458,196.900">Linda Brown Rivelis, Campaign Consultation, Inc.  <text bbox="79.224,172.900,89.376,196.900" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">L</text>
 <text bbox="89.376,172.900,95.280,196.900" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">i</text>
 <text bbox="95.280,172.900,108.168,196.900" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">n</text>
 <text bbox="108.168,172.900,121.056,196.900" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">d</text>
@@ -113,7 +113,7 @@
 <text bbox="556.034,172.900,561.458,196.900" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="24.000"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="79.224,129.694,502.605,153.718" id="5" size="24.024">Erin Mazursky, Campaign Consultation, Inc. <textline bbox="79.224,129.694,502.605,153.718">Erin Mazursky, Campaign Consultation, Inc. <text bbox="79.224,129.694,90.948,153.718" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">E</text>
+<normal_text archetypal_index="3" bbox="79.224,129.694,502.605,153.718" id="5" size="24.024" Annotation_index="3">Erin Mazursky, Campaign Consultation, Inc. <textline bbox="79.224,129.694,502.605,153.718">Erin Mazursky, Campaign Consultation, Inc. <text bbox="79.224,129.694,90.948,153.718" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">E</text>
 <text bbox="90.948,129.694,99.476,153.718" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">r</text>
 <text bbox="99.476,129.694,105.386,153.718" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">i</text>
 <text bbox="105.386,129.694,118.287,153.718" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.024">n</text>
@@ -157,7 +157,7 @@
 <text bbox="496.551,129.694,502.605,153.718" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="24.024">.</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="79.224,86.472,551.522,110.472" id="6" size="24.0">Patrick Metzger, Western New York AmeriCorps  <textline bbox="79.224,86.472,551.522,110.472">Patrick Metzger, Western New York AmeriCorps  <text bbox="79.224,86.472,91.992,110.472" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">P</text>
+<normal_text archetypal_index="4" bbox="79.224,86.472,551.522,110.472" id="6" size="24.0" Annotation_index="4">Patrick Metzger, Western New York AmeriCorps  <textline bbox="79.224,86.472,551.522,110.472">Patrick Metzger, Western New York AmeriCorps  <text bbox="79.224,86.472,91.992,110.472" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">P</text>
 <text bbox="91.464,86.472,103.320,110.472" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">a</text>
 <text bbox="103.104,86.472,111.432,110.472" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">t</text>
 <text bbox="111.432,86.472,119.952,110.472" colourspace="DeviceGray" font="BCDEEE+Calibri-Bold" ncolour="0" size="24.000">r</text>
@@ -204,17 +204,17 @@
 <text bbox="546.098,86.472,551.522,110.472" colourspace="DeviceGray" font="BCDFEE+Calibri" ncolour="0" size="24.000"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="7.200,9.870,164.696,27.510" id="7" size="8.04">Corporation for National and Community Service 
+<normal_text archetypal_index="5" bbox="7.200,9.870,164.696,27.510" id="7" size="8.04" Annotation_index="5">Corporation for National and Community Service 
 Campaign Consultation, Inc. <textline bbox="7.200,19.470,164.696,27.510" colourspace="DeviceGray" font="BCDGEE+Calibri-Italic" ncolour="0.498" size="8.040">Corporation for National and Community Service </textline>
 <textline bbox="7.200,9.870,98.092,17.910" colourspace="DeviceGray" font="BCDGEE+Calibri-Italic" ncolour="0.498" size="8.040">Campaign Consultation, Inc. </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="284.260,11.324,435.461,21.284" id="8" size="9.96">WebChat #4: Media for the Public! <textline bbox="284.260,11.324,435.461,21.284" colourspace="DeviceGray" font="ArialMT" ncolour="0.651" size="9.960">WebChat #4: Media for the Public! </textline>
+<normal_text archetypal_index="6" bbox="284.260,11.324,435.461,21.284" id="8" size="9.96" Annotation_index="6">WebChat #4: Media for the Public! <textline bbox="284.260,11.324,435.461,21.284" colourspace="DeviceGray" font="ArialMT" ncolour="0.651" size="9.960">WebChat #4: Media for the Public! </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="517.300,21.808,536.885,29.848" id="9" size="8.04">Linda <textline bbox="517.300,21.808,536.885,29.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">Linda </textline>
+<normal_text archetypal_index="7" bbox="517.300,21.808,536.885,29.848" id="9" size="8.04" Annotation_index="7">Linda <textline bbox="517.300,21.808,536.885,29.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">Linda </textline>
 </normal_text>
-<slide_number bbox="670.080,18.067,676.765,30.091" id="10" size="12.024">3 <textline bbox="670.080,18.067,676.765,30.091" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.024">3 </textline>
+<slide_number bbox="670.080,18.067,676.765,30.091" id="10" size="12.024" Annotation_index="8">3 <textline bbox="670.080,18.067,676.765,30.091" colourspace="DeviceGray" font="ArialMT" ncolour="0.537" size="12.024">3 </textline>
 </slide_number>
-<picture archetypal_index="8" bbox="54.000,384.000,654.000,534.000" caption="Stephanie Grocott, Campaign Consultation, Inc.  &#10;Jackie Aker, Corporation for National and Community Service " height="150" name="Image15" src="Image15.1.jpg" width="600">
+<picture archetypal_index="8" bbox="54.000,384.000,654.000,534.000" caption="Stephanie Grocott, Campaign Consultation, Inc.  &#10;Jackie Aker, Corporation for National and Community Service " height="150" name="Image15" src="Image15.1.jpg" width="600" Annotation_index="9">
 </picture>
 </page>
 </pages>

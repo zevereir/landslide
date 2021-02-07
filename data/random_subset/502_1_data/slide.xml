@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[294.34, 484.493, 455.944, 520.517]" rotate="0">
-<title archetypal_index="0" bbox="294.340,484.493,455.944,520.517" id="0" size="36.024">Project X <textline bbox="294.340,484.493,455.944,520.517" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0.8, 0, 0)" size="36.024">Project X </textline>
+<title archetypal_index="0" bbox="294.340,484.493,455.944,520.517" id="0" size="36.024" Annotation_index="0">Project X <textline bbox="294.340,484.493,455.944,520.517" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0.8, 0, 0)" size="36.024">Project X </textline>
 </title>
-<normal_text archetypal_index="1" bbox="61.224,357.573,655.416,532.938" id="1" size="28.8096">f 
+<normal_text archetypal_index="1" bbox="61.224,357.573,655.416,532.938" id="1" size="28.8096" Annotation_index="1">f 
 &#9642; Fermilab envisions a 2.1 MW (upgradeable) proton  
 source for long baseline neutrino physics based on  
 an 8 GeV SRF h- linac injecting into the recycler  
@@ -110,7 +110,7 @@ and then the Main Injector (60-120 GeV) <textline bbox="61.224,484.914,75.871,53
 </textline>
 <textline bbox="88.224,357.573,550.323,381.597" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="24.024">and then the Main Injector (60-120 GeV) </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="156.790,9.116,539.181,23.180" id="7" size="14.064">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <textline bbox="156.790,9.116,539.181,23.180">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <text bbox="156.790,9.116,163.119,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
+<normal_text archetypal_index="2" bbox="156.790,9.116,539.181,23.180" id="7" size="14.064" Annotation_index="2">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <textline bbox="156.790,9.116,539.181,23.180">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <text bbox="156.790,9.116,163.119,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
 <text bbox="163.119,9.116,169.448,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
 <text bbox="169.490,9.116,176.691,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">/</text>
 <text bbox="176.691,9.116,185.270,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">2</text>
@@ -169,11 +169,11 @@ and then the Main Injector (60-120 GeV) <textline bbox="61.224,484.914,75.871,53
 <text bbox="532.557,9.116,539.181,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">t</text>
 </textline>
 </normal_text>
-<slide_number bbox="657.480,11.597,664.815,23.621" id="8" size="12.024">2 <textline bbox="657.480,11.597,664.815,23.621" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="12.024">2 </textline>
+<slide_number bbox="657.480,11.597,664.815,23.621" id="8" size="12.024" Annotation_index="3">2 <textline bbox="657.480,11.597,664.815,23.621" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="12.024">2 </textline>
 </slide_number>
-<picture archetypal_index="3" bbox="271.920,460.620,480.420,540.120" height="79" name="Image36" src="Image36.580x221.bmp" width="208">
+<picture archetypal_index="3" bbox="271.920,460.620,480.420,540.120" height="79" name="Image36" src="Image36.580x221.bmp" width="208" Annotation_index="4">
 </picture>
-<enlisting archetypal_index="4" bbox="61.224,80.064,621.902,348.67">&#9642; R&amp;D endorsed by HEPAP P5 
+<enlisting archetypal_index="4" bbox="61.224,80.064,621.902,348.67" Annotation_index="5">&#9642; R&amp;D endorsed by HEPAP P5 
 &#9642; R&amp;D to develop the front end of the linac is in  
 progress via the HINS program at Fermilab 
 &#10146; 325 MHz front end based on SRF &#8220;spoke resonators&#8221; &#9642; Design is synergistic with ILC &#10146; 7/8 of linac uses beta= 1 ILC-like cryomodules  

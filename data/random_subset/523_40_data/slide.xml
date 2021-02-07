@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="41" mean_title="[225.31221951219507, 470.4263243902439, 637.6670902439024, 509.9529073170732]" rotate="0">
-<title archetypal_index="0" bbox="290.930,477.832,585.149,509.896" id="0" size="32.064">Total Silicon Labor <textline bbox="290.930,477.832,585.149,509.896" colourspace="Pattern" font="BCDFEE+ComicSansMS-Bold" ncolour="(1, 0, 0)" size="32.064">Total Silicon Labor </textline>
+<title archetypal_index="0" bbox="290.930,477.832,585.149,509.896" id="0" size="32.064" Annotation_index="0">Total Silicon Labor <textline bbox="290.930,477.832,585.149,509.896" colourspace="Pattern" font="BCDFEE+ComicSansMS-Bold" ncolour="(1, 0, 0)" size="32.064">Total Silicon Labor </textline>
 </title>
-<normal_text archetypal_index="1" bbox="117.550,11.357,597.341,64.635" id="1" size="14.648000000000001">Includes all personnel, all categories - physicists, technical,  
+<normal_text archetypal_index="1" bbox="117.550,11.357,597.341,64.635" id="1" size="14.648000000000001" Annotation_index="1">Includes all personnel, all categories - physicists, technical,  
 and administrative &#8211; required to deliver silicon detector 
 Base need only - contingency not included <textline bbox="117.550,48.675,597.341,64.635" colourspace="Pattern" font="BCDFEE+ComicSansMS-Bold" ncolour="(0.6, 0, 0.2)" size="15.960">Includes all personnel, all categories - physicists, technical,  </textline>
 <textline bbox="136.150,29.475,571.794,45.435">and administrative &#8211; required to deliver silicon detector <text bbox="136.150,29.475,145.024,45.435" colourspace="Pattern" font="BCDFEE+ComicSansMS-Bold" ncolour="(0.6, 0, 0.2)" size="15.960">a</text>
@@ -63,13 +63,13 @@ Base need only - contingency not included <textline bbox="117.550,48.675,597.341
 </textline>
 <textline bbox="230.620,11.357,477.425,23.381" colourspace="Pattern" font="BCDFEE+ComicSansMS-Bold" ncolour="(0.6, 0, 0.2)" size="12.024">Base need only - contingency not included </textline>
 </normal_text>
-<slide_number bbox="7.200,3.221,19.931,15.245" id="2" size="12.024">41 <textline bbox="7.200,3.221,19.931,15.245" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">41 </textline>
+<slide_number bbox="7.200,3.221,19.931,15.245" id="2" size="12.024" Annotation_index="2">41 <textline bbox="7.200,3.221,19.931,15.245" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024">41 </textline>
 </slide_number>
-<normal_text archetypal_index="2" bbox="625.370,-2.698,720.617,19.269" id="3" size="9.972000000000001">DOE EIR of Run IIb 
+<normal_text archetypal_index="2" bbox="625.370,-2.698,720.617,19.269" id="3" size="9.972000000000001" Annotation_index="3">DOE EIR of Run IIb 
 Nov 4-8, 2002 <textline bbox="625.370,9.309,720.617,19.269" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="0" size="9.960">DOE EIR of Run IIb </textline>
 <textline bbox="625.370,-2.698,692.972,7.286" colourspace="Pattern" font="BCDEEE+ComicSansMS" ncolour="0" size="9.984">Nov 4-8, 2002 </textline>
 </normal_text>
-<picture archetypal_index="3" bbox="30.000,461.520,147.960,524.040" height="62" name="Image11" src="Image11.39.jpg" width="117">
+<picture archetypal_index="3" bbox="30.000,461.520,147.960,524.040" height="62" name="Image11" src="Image11.39.jpg" width="117" Annotation_index="4">
 </picture>
 </page>
 </pages>

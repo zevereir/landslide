@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[182.996, 468.57199999999995, 536.5895, 500.61199999999997]" rotate="0">
-<title archetypal_index="0" bbox="181.220,468.572,592.902,500.612" id="0" size="32.04">Sample PRISMA Scorecard <textline bbox="181.220,468.572,592.902,500.612" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">Sample PRISMA Scorecard </textline>
+<title archetypal_index="0" bbox="181.220,468.572,592.902,500.612" id="0" size="32.04" Annotation_index="0">Sample PRISMA Scorecard <textline bbox="181.220,468.572,592.902,500.612" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">Sample PRISMA Scorecard </textline>
 </title>
-<slide_number bbox="650.640,33.796,658.446,47.836" id="5" size="14.04">5 <textline bbox="650.640,33.796,658.446,47.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5 </textline>
+<slide_number bbox="650.640,33.796,658.446,47.836" id="5" size="14.04" Annotation_index="1">5 <textline bbox="650.640,33.796,658.446,47.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">5 </textline>
 </slide_number>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image9" src="Image9.3.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image9" src="Image9.3.jpg" width="720" Annotation_index="2">
 </background>
-<picture archetypal_index="1" bbox="60.000,144.960,684.480,420.000" caption="Legend:  Green = fully compliant &#10;Yellow = partially compliant &#10;Red = non compliant  &#10;Scorecards are also generated for subtopics in each of the 9 topic areas. &#10;J. Abeles &#8211; System 1, Inc., jabeles@syst1.com, PRISMA        " height="275" name="Image35" src="Image35.776x264.bmp" width="624">
+<picture archetypal_index="1" bbox="60.000,144.960,684.480,420.000" caption="Legend:  Green = fully compliant &#10;Yellow = partially compliant &#10;Red = non compliant  &#10;Scorecards are also generated for subtopics in each of the 9 topic areas. &#10;J. Abeles &#8211; System 1, Inc., jabeles@syst1.com, PRISMA        " height="275" name="Image35" src="Image35.776x264.bmp" width="624" Annotation_index="3">
 </picture>
 </page>
 </pages>

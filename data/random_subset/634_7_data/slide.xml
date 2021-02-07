@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[33.70285714285714, 437.46896428571426, 690.4188571428573, 503.4516785714286]" rotate="0">
-<title archetypal_index="0" bbox="23.448,433.427,705.360,503.872" id="0" size="32.052">Microarray for Detection of Blood-borne and  
+<title archetypal_index="0" bbox="23.448,433.427,705.360,503.872" id="0" size="32.052" Annotation_index="0">Microarray for Detection of Blood-borne and  
 BT Pathogens <textline bbox="23.448,471.832,705.360,503.872" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.040">Microarray for Detection of Blood-borne and  </textline>
 <textline bbox="252.340,433.427,467.489,465.491" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.064">BT Pathogens </textline>
 </title>
-<normal_text archetypal_index="1" bbox="381.890,393.814,387.932,399.814" id="1" size="6.0">IC <textline bbox="381.890,393.814,387.932,399.814" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
+<normal_text archetypal_index="1" bbox="381.890,393.814,387.932,399.814" id="1" size="6.0" Annotation_index="1">IC <textline bbox="381.890,393.814,387.932,399.814" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="476.900,392.804,482.942,398.804" id="2" size="6.0">IC <textline bbox="476.900,392.804,482.942,398.804" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
+<normal_text archetypal_index="2" bbox="476.900,392.804,482.942,398.804" id="2" size="6.0" Annotation_index="2">IC <textline bbox="476.900,392.804,482.942,398.804" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="23.952,346.248,230.716,417.947" id="3" size="12.4128">Bacteria, and Parasites 
+<normal_text archetypal_index="3" bbox="23.952,346.248,230.716,417.947" id="3" size="12.4128" Annotation_index="3">Bacteria, and Parasites 
 Ba: Bacillus anthracis (anthrax) 
 Ft:  Francisella tularensis (tularemia) 
 LT: Leishmania /Trypanosoma  
@@ -156,7 +156,7 @@ Yp: Yersinia pestes and pseudotuberculosis <textline bbox="23.952,403.907,162.24
 <text bbox="226.048,346.248,230.716,358.248" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="0" size="12.000">s</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="44.952,331.848,87.012,343.848" id="4" size="12.0">(plague) <textline bbox="44.952,331.848,87.012,343.848">(plague) <text bbox="44.952,331.848,48.948,343.848" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">(</text>
+<normal_text archetypal_index="4" bbox="44.952,331.848,87.012,343.848" id="4" size="12.0" Annotation_index="4">(plague) <textline bbox="44.952,331.848,87.012,343.848">(plague) <text bbox="44.952,331.848,48.948,343.848" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">(</text>
 <text bbox="48.912,331.848,55.584,343.848" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="12.000">p</text>
 <text bbox="55.620,331.848,58.956,343.848" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="12.000">l</text>
 <text bbox="58.956,331.848,64.956,343.848" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="12.000">a</text>
@@ -166,45 +166,45 @@ Yp: Yersinia pestes and pseudotuberculosis <textline bbox="23.952,403.907,162.24
 <text bbox="83.016,331.848,87.012,343.848" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="12.000">)</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="265.630,393.074,271.672,399.074" id="6" size="6.0">IC <textline bbox="265.630,393.074,271.672,399.074" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
+<normal_text archetypal_index="5" bbox="265.630,393.074,271.672,399.074" id="6" size="6.0" Annotation_index="5">IC <textline bbox="265.630,393.074,271.672,399.074" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="289.130,208.154,295.172,214.154" id="11" size="6.0">IC <textline bbox="289.130,208.154,295.172,214.154" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
+<normal_text archetypal_index="6" bbox="289.130,208.154,295.172,214.154" id="11" size="6.0" Annotation_index="6">IC <textline bbox="289.130,208.154,295.172,214.154" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="6.000">IC </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="23.952,70.791,78.680,101.631" id="15" size="14.04">Bacillus 
+<normal_text archetypal_index="7" bbox="23.952,70.791,78.680,101.631" id="15" size="14.04" Annotation_index="7">Bacillus 
 anthracis <textline bbox="23.952,87.591,71.716,101.631" colourspace="DeviceGray" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="14.040">Bacillus </textline>
 <textline bbox="23.952,70.791,78.680,84.831" colourspace="DeviceGray" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="14.040">anthracis </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="23.952,3.567,76.467,51.250" id="16" size="14.048">livestock 
+<normal_text archetypal_index="8" bbox="23.952,3.567,76.467,51.250" id="16" size="14.048" Annotation_index="8">livestock 
 vaccine 
 strain <textline bbox="23.952,37.186,76.467,51.250" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.064">livestock </textline>
 <textline bbox="23.952,20.367,68.543,34.407" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040">vaccine </textline>
 <textline bbox="23.952,3.567,59.192,17.607" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040">strain </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="270.000,3.567,316.290,51.250" id="18" size="14.048">Live  
+<normal_text archetypal_index="9" bbox="270.000,3.567,316.290,51.250" id="18" size="14.048" Annotation_index="9">Live  
 Vaccine 
 Strain <textline bbox="270.000,37.186,300.153,51.250" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.064">Live  </textline>
 <textline bbox="270.000,20.367,316.290,34.407" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040">Vaccine </textline>
 <textline bbox="270.000,3.567,307.543,17.607" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040">Strain </textline>
 </normal_text>
-<normal_text archetypal_index="10" bbox="504.050,70.791,566.977,101.631" id="19" size="14.04">Yersinia 
+<normal_text archetypal_index="10" bbox="504.050,70.791,566.977,101.631" id="19" size="14.04" Annotation_index="10">Yersinia 
 pseudotub. <textline bbox="504.050,87.591,551.112,101.631" colourspace="DeviceGray" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="14.040">Yersinia </textline>
 <textline bbox="504.050,70.791,566.977,84.831" colourspace="DeviceGray" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="14.040">pseudotub. </textline>
 </normal_text>
-<rect bbox="0.000,426.240,719.760,516.240" linewidth="0" />
-<curve bbox="23.950,404.080,162.430,405.400" linewidth="0" pts="23.950,405.400,70.110,405.400,116.270,405.400,162.430,405.400,162.430,404.080,116.270,404.080,70.110,404.080,23.950,404.080" />
-<picture archetypal_index="11" bbox="245.040,185.040,503.880,421.080" caption="IC &#10;4 internal control probes (Human rRNA gene) &#10;Francisella &#10;tularensis " height="236" name="Image49" src="Image49.jpg" width="258">
+<rect bbox="0.000,426.240,719.760,516.240" linewidth="0" Annotation_index="11" />
+<curve bbox="23.950,404.080,162.430,405.400" linewidth="0" pts="23.950,405.400,70.110,405.400,116.270,405.400,162.430,405.400,162.430,404.080,116.270,404.080,70.110,404.080,23.950,404.080" Annotation_index="12" />
+<picture archetypal_index="11" bbox="245.040,185.040,503.880,421.080" caption="IC &#10;4 internal control probes (Human rRNA gene) &#10;Francisella &#10;tularensis " height="236" name="Image49" src="Image49.jpg" width="258" Annotation_index="13">
 </picture>
-<curve bbox="231.120,160.920,244.800,174.360" linewidth="0" pts="231.120,167.640,231.120,171.350,234.180,174.360,237.960,174.360,241.740,174.360,244.800,171.350,244.800,167.640,244.800,163.930,241.740,160.920,237.960,160.920,234.180,160.920,231.120,163.930,231.120,167.640" />
-<curve bbox="231.120,160.920,244.800,174.360" linewidth="0" pts="231.120,167.640,231.120,171.350,234.180,174.360,237.960,174.360,241.740,174.360,244.800,171.350,244.800,167.640,244.800,163.930,241.740,160.920,237.960,160.920,234.180,160.920,231.120,163.930,231.120,167.640" />
-<curve bbox="513.950,329.210,637.190,330.530" linewidth="2" pts="513.950,330.530,555.030,330.530,596.110,330.530,637.190,330.530,637.190,329.210,596.110,329.210,555.030,329.210,513.950,329.210" />
-<picture archetypal_index="12" bbox="135.240,5.040,247.560,113.640" height="108" name="Image56" src="Image56.jpg" width="112">
+<curve bbox="231.120,160.920,244.800,174.360" linewidth="0" pts="231.120,167.640,231.120,171.350,234.180,174.360,237.960,174.360,241.740,174.360,244.800,171.350,244.800,167.640,244.800,163.930,241.740,160.920,237.960,160.920,234.180,160.920,231.120,163.930,231.120,167.640" Annotation_index="14" />
+<curve bbox="231.120,160.920,244.800,174.360" linewidth="0" pts="231.120,167.640,231.120,171.350,234.180,174.360,237.960,174.360,241.740,174.360,244.800,171.350,244.800,167.640,244.800,163.930,241.740,160.920,237.960,160.920,234.180,160.920,231.120,163.930,231.120,167.640" Annotation_index="15" />
+<curve bbox="513.950,329.210,637.190,330.530" linewidth="2" pts="513.950,330.530,555.030,330.530,596.110,330.530,637.190,330.530,637.190,329.210,596.110,329.210,555.030,329.210,513.950,329.210" Annotation_index="16" />
+<picture archetypal_index="12" bbox="135.240,5.040,247.560,113.640" height="108" name="Image56" src="Image56.jpg" width="112" Annotation_index="17">
 </picture>
-<picture archetypal_index="13" bbox="601.560,4.680,714.960,114.960" height="110" name="Image57" src="Image57.265x263.bmp" width="113">
+<picture archetypal_index="13" bbox="601.560,4.680,714.960,114.960" height="110" name="Image57" src="Image57.265x263.bmp" width="113" Annotation_index="18">
 </picture>
-<picture archetypal_index="14" bbox="367.920,5.160,477.960,114.240" height="109" name="Image58" src="Image58.jpg" width="110">
+<picture archetypal_index="14" bbox="367.920,5.160,477.960,114.240" height="109" name="Image58" src="Image58.jpg" width="110" Annotation_index="19">
 </picture>
-<curve bbox="22.950,310.080,127.470,311.400" linewidth="1" pts="22.950,311.400,57.790,311.400,92.630,311.400,127.470,311.400,127.470,310.080,92.630,310.080,57.790,310.080,22.950,310.080" />
-<table archetypal_index="15" bbox="257.04,197.52,719.94,407.52" dimensions="5/2"><cell bbox="308.7,242.46,443.7,384.66" /><cell bbox="308.7,199.74,394.98,240.54" /><cell bbox="308.64,384.72,326.76,407.52" /><cell bbox="308.7,384.66,326.82,407.46" /><cell bbox="506.82,234.54,719.94,349.14"><tabletext bbox="514.060,256.968,708.736,343.047" id="20" size="12.339999999999998">Blood Borne Viruses 
+<curve bbox="22.950,310.080,127.470,311.400" linewidth="1" pts="22.950,311.400,57.790,311.400,92.630,311.400,127.470,311.400,127.470,310.080,92.630,310.080,57.790,310.080,22.950,310.080" Annotation_index="20" />
+<table archetypal_index="15" bbox="257.04,197.52,719.94,407.52" dimensions="5/2" Annotation_index="21"><cell bbox="308.7,242.46,443.7,384.66" /><cell bbox="308.7,199.74,394.98,240.54" /><cell bbox="308.64,384.72,326.76,407.52" /><cell bbox="308.7,384.66,326.82,407.46" /><cell bbox="506.82,234.54,719.94,349.14"><tabletext bbox="514.060,256.968,708.736,343.047" id="20" size="12.339999999999998">Blood Borne Viruses 
 WNV: West Nile Viruses 
 HCV: Hepatitis C Viruses 
 HBV: Hepatitis B Viruses 
@@ -222,9 +222,9 @@ HTLV: Human T-cell Leukemia Viruses <textline bbox="514.060,329.007,637.149,343.
 </tabletext>
 </cell><cell bbox="257.04,197.52,279.6,261.12"><tabletext bbox="258.530,218.750,278.166,236.750" id="10" size="18.0">LT <textline bbox="258.530,218.750,278.166,236.750" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">LT </textline>
 </tabletext>
-</cell></table><table archetypal_index="16" bbox="280.32,343.92,326.82,407.52" dimensions="3/1"><cell bbox="280.32,343.92,303.0,407.52"><tabletext bbox="281.450,365.150,302.134,383.150" id="8" size="18.0">Yp <textline bbox="281.450,365.150,302.134,383.150" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Yp </textline>
+</cell></table><table archetypal_index="16" bbox="280.32,343.92,326.82,407.52" dimensions="3/1" Annotation_index="22"><cell bbox="280.32,343.92,303.0,407.52"><tabletext bbox="281.450,365.150,302.134,383.150" id="8" size="18.0">Yp <textline bbox="281.450,365.150,302.134,383.150" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Yp </textline>
 </tabletext>
-</cell><cell bbox="308.64,384.72,326.76,407.52" /><cell bbox="308.7,384.66,326.82,407.46" /></table><table archetypal_index="17" bbox="15.72,123.84,589.92,330.12" dimensions="1/2"><cell bbox="73.8,123.84,589.92,155.88"><tabletext bbox="80.976,128.531,582.138,148.571" id="14" size="20.04">Results of detection in pathogen-spiked blood &#8211; 50 cells/ml  <textline bbox="80.976,128.531,582.138,148.571" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040">Results of detection in pathogen-spiked blood &#8211; 50 cells/ml  </textline>
+</cell><cell bbox="308.64,384.72,326.76,407.52" /><cell bbox="308.7,384.66,326.82,407.46" /></table><table archetypal_index="17" bbox="15.72,123.84,589.92,330.12" dimensions="1/2" Annotation_index="23"><cell bbox="73.8,123.84,589.92,155.88"><tabletext bbox="80.976,128.531,582.138,148.571" id="14" size="20.04">Results of detection in pathogen-spiked blood &#8211; 50 cells/ml  <textline bbox="80.976,128.531,582.138,148.571" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040">Results of detection in pathogen-spiked blood &#8211; 50 cells/ml  </textline>
 </tabletext>
 </cell><cell bbox="15.72,161.4,219.36,330.12"><tabletext bbox="22.944,165.818,209.040,323.917" id="5" size="12.187636363636363">Bioterror Viruses 
 POX: Pox viruses 

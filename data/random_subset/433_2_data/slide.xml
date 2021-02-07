@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[79.224, 466.8296666666667, 560.9536666666667, 506.2136666666667]" rotate="0">
-<title archetypal_index="0" bbox="79.224,475.908,512.126,513.972" id="0" size="38.064">What is an EEO Complaint? <textline bbox="79.224,475.908,512.126,513.972" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.2, 0, 0.2)" size="38.064">What is an EEO Complaint? </textline>
+<title archetypal_index="0" bbox="79.224,475.908,512.126,513.972" id="0" size="38.064" Annotation_index="0">What is an EEO Complaint? <textline bbox="79.224,475.908,512.126,513.972" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0.2, 0, 0.2)" size="38.064">What is an EEO Complaint? </textline>
 </title>
-<normal_text archetypal_index="1" bbox="79.224,278.548,645.388,407.338" id="1" size="27.276000000000003">&#9724; It is the claim of discrimination against an  
+<normal_text archetypal_index="1" bbox="79.224,278.548,645.388,407.338" id="1" size="27.276000000000003" Annotation_index="1">&#9724; It is the claim of discrimination against an  
 employee or an applicant for employment  
 based on race, color, religion, sex, national  
 origin, disability or age. <textline bbox="79.224,379.378,624.766,407.338">&#9724; It is the claim of discrimination against an  <text bbox="79.224,380.084,98.048,405.284" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="0.698" size="25.200">&#9724;</text>
@@ -55,7 +55,7 @@ origin, disability or age. <textline bbox="79.224,379.378,624.766,407.338">&#972
 <textline bbox="106.220,312.173,645.388,340.157" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.984">based on race, color, religion, sex, national  </textline>
 <textline bbox="106.220,278.548,392.810,306.508" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="27.960">origin, disability or age. </textline>
 </normal_text>
-<picture archetypal_index="2" bbox="6.000,169.800,38.640,204.000" height="34" name="Image15" src="Image15.0.90x94.bmp" width="32">
+<picture archetypal_index="2" bbox="6.000,169.800,38.640,204.000" height="34" name="Image15" src="Image15.0.90x94.bmp" width="32" Annotation_index="2">
 </picture>
 </page>
 </pages>

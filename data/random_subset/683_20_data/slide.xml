@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="21" mean_title="[164.45592647058825, 470.792080882353, 555.5322647058824, 508.21425735294116]" rotate="0">
-<title archetypal_index="0" bbox="210.940,421.387,509.047,465.427" id="0" size="44.04">Three Key Traits <textline bbox="210.940,421.387,509.047,465.427" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="44.040">Three Key Traits </textline>
+<title archetypal_index="0" bbox="210.940,421.387,509.047,465.427" id="0" size="44.04" Annotation_index="0">Three Key Traits <textline bbox="210.940,421.387,509.047,465.427" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="44.040">Three Key Traits </textline>
 </title>
-<enlisting archetypal_index="1" bbox="61.224,190.874,615.876,373.774" id="1" size="36.0">&#8226; Experience living in the far north 
+<enlisting archetypal_index="1" bbox="61.224,190.874,615.876,373.774" id="1" size="36.0" Annotation_index="1">&#8226; Experience living in the far north 
 &#8226; Passion for outdoor athletics 
 &#8226; Theoretical attention to the upper  <textline bbox="61.224,337.774,600.540,373.774">&#8226; Experience living in the far north <text bbox="61.224,337.774,73.824,373.774" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="36.000">&#8226;</text>
 <text bbox="88.224,337.774,112.236,373.774" colourspace="DeviceGray" font="BCDHEE+Times,Bold" ncolour="0" size="36.000">E</text>
@@ -110,7 +110,7 @@
 <normal_text bbox="88.224,190.874,132.216,226.874" id="2" size="36.0">air <textline bbox="88.224,190.874,132.216,226.874" colourspace="DeviceGray" font="BCDHEE+Times,Bold" ncolour="0" size="36.000">air </textline>
 </normal_text>
 </enlisting>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.19.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.19.jpg" width="720" Annotation_index="2">
 </background>
 </page>
 </pages>

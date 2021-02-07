@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" rotate="0">
-<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" />
-<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" />
-<picture archetypal_index="0" bbox="0.000,0.180,267.420,84.120" height="83" name="Image22" src="Image22.jpg" width="267">
+<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" Annotation_index="0" />
+<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" Annotation_index="1" />
+<picture archetypal_index="0" bbox="0.000,0.180,267.420,84.120" height="83" name="Image22" src="Image22.jpg" width="267" Annotation_index="2">
 </picture>
-<picture archetypal_index="1" bbox="45.120,451.740,522.900,495.241" height="43" name="Image42" src="Image42.1328x122.bmp" width="477">
+<picture archetypal_index="1" bbox="45.120,451.740,522.900,495.241" height="43" name="Image42" src="Image42.1328x122.bmp" width="477" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="2" bbox="51.84,100.992,681.478,429.057">&#61565; On the Eligibility screen, for each of your Title I-A  eligible schools, you will be identifying the: 
+<enlisting archetypal_index="2" bbox="51.84,100.992,681.478,429.057" Annotation_index="4">&#61565; On the Eligibility screen, for each of your Title I-A  eligible schools, you will be identifying the: 
 &#9702; Title I-A Service Code (targeted, schoolwide, or not served) 
 &#9702; Per pupil Amount &#61565; Because you will be deciding the per pupil amount for  
 each of the schools you serve, you must first fill out  

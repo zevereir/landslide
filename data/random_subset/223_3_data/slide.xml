@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[30.340000000000003, 484.4148333333333, 394.4665, 519.2493333333333]" rotate="0">
-<normal_text archetypal_index="0" bbox="7.200,524.928,191.679,534.888" id="0" size="9.96">HR Management Report category: <textline bbox="7.200,524.928,191.679,534.888" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0.753" size="9.960">HR Management Report category: </textline>
+<normal_text archetypal_index="0" bbox="7.200,524.928,191.679,534.888" id="0" size="9.96" Annotation_index="0">HR Management Report category: <textline bbox="7.200,524.928,191.679,534.888" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0.753" size="9.960">HR Management Report category: </textline>
 </normal_text>
-<title archetypal_index="1" bbox="5.472,499.767,273.679,523.791" id="1" size="20.064">Plan &amp; Align Workforce | <textline bbox="5.472,499.767,273.679,523.791">Plan &amp; Align Workforce | <text bbox="5.472,500.606,19.958,520.670" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="20.064">P</text>
+<title archetypal_index="1" bbox="5.472,499.767,273.679,523.791" id="1" size="20.064" Annotation_index="1">Plan &amp; Align Workforce | <textline bbox="5.472,499.767,273.679,523.791">Plan &amp; Align Workforce | <text bbox="5.472,500.606,19.958,520.670" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="20.064">P</text>
 <text bbox="19.958,500.606,26.640,520.670" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="20.064">l</text>
 <text bbox="26.700,500.606,40.082,520.670" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="20.064">a</text>
 <text bbox="40.022,500.606,53.405,520.670" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="20.064">n</text>
@@ -26,11 +26,11 @@
 <text bbox="267.000,499.767,273.679,523.791" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="1" size="24.024">|</text>
 </textline>
 </title>
-<normal_text archetypal_index="2" bbox="283.250,496.944,701.193,527.784" id="2" size="14.04">Overall foundation &amp; management accountability  
+<normal_text archetypal_index="2" bbox="283.250,496.944,701.193,527.784" id="2" size="14.04" Annotation_index="2">Overall foundation &amp; management accountability  
 system to build &amp; sustain a high performing workforce <textline bbox="283.250,513.744,664.787,527.784" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="(0, 0.2, 0)" size="14.040">Overall foundation &amp; management accountability  </textline>
 <textline bbox="283.250,496.944,701.193,510.984" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="(0, 0.2, 0)" size="14.040">system to build &amp; sustain a high performing workforce </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="7.200,453.422,174.019,480.760" id="3" size="10.2">Performance Measures  
+<normal_text archetypal_index="3" bbox="7.200,453.422,174.019,480.760" id="3" size="10.2" Annotation_index="3">Performance Measures  
 &#9724; Percent current position/competency  <textline bbox="7.200,469.720,149.815,480.760" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="(0, 0.2, 0)" size="11.040">Performance Measures  </textline>
 <textline bbox="7.200,453.422,174.019,464.462">&#9724; Percent current position/competency  <text bbox="7.200,453.821,14.192,463.181" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="(0, 0.2, 0)" size="9.360">&#9724;</text>
 <text bbox="25.200,453.422,31.239,464.462" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">P</text>
@@ -71,9 +71,9 @@ system to build &amp; sustain a high performing workforce <textline bbox="283.25
 <text bbox="171.502,453.422,174.019,464.462" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="25.200,440.222,73.489,451.262" id="4" size="11.04">descriptions <textline bbox="25.200,440.222,73.489,451.262" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">descriptions </textline>
+<normal_text archetypal_index="4" bbox="25.200,440.222,73.489,451.262" id="4" size="11.04" Annotation_index="4">descriptions <textline bbox="25.200,440.222,73.489,451.262" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">descriptions </textline>
 </normal_text>
-<enlisting archetypal_index="5" bbox="7.2,397.982,185.931,435.422" id="5" size="9.36">&#9724; Percent supervisors with current  <textline bbox="7.200,424.382,156.289,435.422">&#9724; Percent supervisors with current  <text bbox="7.200,424.781,14.192,434.141" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="(0, 0.2, 0)" size="9.360">&#9724;</text>
+<enlisting archetypal_index="5" bbox="7.2,397.982,185.931,435.422" id="5" size="9.36" Annotation_index="5">&#9724; Percent supervisors with current  <textline bbox="7.200,424.382,156.289,435.422">&#9724; Percent supervisors with current  <text bbox="7.200,424.781,14.192,434.141" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="(0, 0.2, 0)" size="9.360">&#9724;</text>
 <text bbox="25.200,424.382,31.239,435.422" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">P</text>
 <text bbox="31.195,424.382,36.229,435.422" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">e</text>
 <text bbox="36.229,424.382,39.243,435.422" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">r</text>
@@ -113,21 +113,21 @@ management <textline bbox="25.200,411.182,185.931,422.222" colourspace="DeviceGr
 <textline bbox="25.200,397.982,78.082,409.022" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="(0, 0.2, 0)" size="11.040">management </textline>
 </normal_text>
 </enlisting>
-<normal_text archetypal_index="6" bbox="221.740,437.256,390.256,478.056" id="7" size="12.0">Agency-wide Percent  
+<normal_text archetypal_index="6" bbox="221.740,437.256,390.256,478.056" id="7" size="12.0" Annotation_index="6">Agency-wide Percent  
 Current Position &amp;  
 Competency Descriptions <textline bbox="236.380,466.056,379.768,478.056" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0" size="12.000">Agency-wide Percent  </textline>
 <textline bbox="245.020,451.656,370.816,463.656" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0" size="12.000">Current Position &amp;  </textline>
 <textline bbox="221.740,437.256,390.256,449.256" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0" size="12.000">Competency Descriptions </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="292.900,408.128,319.223,424.088" id="8" size="15.96">83% <textline bbox="292.900,408.128,319.223,424.088" colourspace="Pattern" font="BCDGEE+ArialNarrow" ncolour="0" size="15.960">83% </textline>
+<normal_text archetypal_index="7" bbox="292.900,408.128,319.223,424.088" id="8" size="15.96" Annotation_index="7">83% <textline bbox="292.900,408.128,319.223,424.088" colourspace="Pattern" font="BCDGEE+ArialNarrow" ncolour="0" size="15.960">83% </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="73.224,308.538,295.342,318.498" id="9" size="9.96">SPACE  FOR AGENCY&#8217;S DISCRETIONARY USE <textline bbox="73.224,308.538,295.342,318.498" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">SPACE  FOR AGENCY&#8217;S DISCRETIONARY USE </textline>
+<normal_text archetypal_index="8" bbox="73.224,308.538,295.342,318.498" id="9" size="9.96" Annotation_index="8">SPACE  FOR AGENCY&#8217;S DISCRETIONARY USE <textline bbox="73.224,308.538,295.342,318.498" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">SPACE  FOR AGENCY&#8217;S DISCRETIONARY USE </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="523.300,468.556,582.832,480.556" id="10" size="12.0">Analysis: <textline bbox="523.300,468.556,582.832,480.556" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0" size="12.000">Analysis: </textline>
+<normal_text archetypal_index="9" bbox="523.300,468.556,582.832,480.556" id="10" size="12.0" Annotation_index="9">Analysis: <textline bbox="523.300,468.556,582.832,480.556" colourspace="Pattern" font="BCDEEE+Arial-Black" ncolour="0" size="12.000">Analysis: </textline>
 </normal_text>
-<slide_number bbox="699.000,17.284,706.806,31.324" id="16" size="14.04">4 <textline bbox="699.000,17.284,706.806,31.324" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4 </textline>
+<slide_number bbox="699.000,17.284,706.806,31.324" id="16" size="14.04" Annotation_index="10">4 <textline bbox="699.000,17.284,706.806,31.324" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">4 </textline>
 </slide_number>
-<enlisting archetypal_index="10" bbox="523.3,36.144,703.778,458.68">&#9642; All WMS position descriptions  
+<enlisting archetypal_index="10" bbox="523.3,36.144,703.778,458.68" Annotation_index="11">&#9642; All WMS position descriptions  
 are current as the agency  
 recently reviewed each  
 position for mid-management  

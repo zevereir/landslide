@@ -37,12 +37,13 @@ import numpy as np
 
 
 
-def xml2image(photo, xml_tree, output):
+def xml2image(photo, tree, output):
 
-
+    xml_tree=ET.parse(tree)
     print("XML parsen")
     root = xml_tree.getroot()
     rectangles_per_page=[]
+    counter=0
     for page in root:
         attributes = page.attrib
         size = attributes.get("bbox").split(",")
@@ -50,23 +51,32 @@ def xml2image(photo, xml_tree, output):
 
         # print(size)
         for child in page:
-            arch_index=child.attrib.get("archetypal_index")
-            if  arch_index!=None:
-                child_attributes = child.attrib
-                if len(child_attributes)!=0:
-                    child_size = child_attributes.get("bbox").split(",")
-                    x1 = float(child_size[0])
-                    y1 = float(child_size[1])
-                    x2 = float(child_size[2])
-                    y2 = float(child_size[3])
-                    length = abs(x2 - x1)
-                    width = abs(y2 - y1)
-                    if child.tag=="title":
-                        color="y"
-                    else:
-                        color="r"
-                    rectangles.append([x1, y2, length, width,arch_index,color])
+            child.set("Annotation_index",str(counter))
+            counter+=1
+            child_attributes = child.attrib
+            if len(child_attributes)!=0:
+                child_size = child_attributes.get("bbox").split(",")
+                x1 = float(child_size[0])
+                y1 = float(child_size[1])
+                x2 = float(child_size[2])
+                y2 = float(child_size[3])
+                length = abs(x2 - x1)
+                width = abs(y2 - y1)
+                if child.tag=="title":
+                    color="y"
+                    text=str(counter-1)+" (title)"
+                elif child.tag=="image":
+                    color="b"
+                    text=str(counter-1)+" (image)"
+                elif child.tag=="curve":
+                    color="m"
+                    text=str(counter-1)+" (curve)"
+                else:
+                    color="r"
+                    text=str(counter-1)
 
+                rectangles.append([x1, y2, length, width,text,color])
+        xml_tree.write(tree)
         showImage_with_rectangles(output,photo,rectangles)
 #
 #
@@ -94,7 +104,7 @@ def showImage_with_rectangles(filename,path_to_image,rectangles):
         rect = patches.Rectangle((upper_left_x,upper_left_y), length,width, linewidth=1,edgecolor=color, facecolor='none')
         # Add the patch to the Axes
         ax.add_patch(rect)
-        plt.text(upper_left_x,upper_left_y,rectangle[4],bbox=dict(facecolor='white', alpha=0.5))
+        plt.text(upper_left_x,upper_left_y,rectangle[4],bbox=dict(facecolor=color, alpha=0.5))
     plt.axis("off")
     plt.savefig(filename)
 
@@ -108,7 +118,7 @@ all_slides = os.listdir("D://Thesis//landslide//data//random_subset")
 for sh in all_slides:
     input=("D://Thesis//landslide//data//random_subset//"+sh+"//image.jpg")
     target=("D://Thesis//landslide//data//random_subset//"+sh+"//image_new.jpg")
-    tree=ET.parse("D://Thesis//landslide//data//random_subset//"+sh+"//slide.xml")
+    tree="D://Thesis//landslide//data//random_subset//"+sh+"//slide.xml"
     xml2image(input,tree,target)
 
 

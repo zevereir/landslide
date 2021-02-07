@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="51" mean_title="[40.62086257928119, 447.5156754756872, 469.72753805496825, 498.8739164904863]" rotate="0">
-<title archetypal_index="0" bbox="25.200,451.528,624.952,487.528" id="0" size="36.0">California Pertussis Cases &#8211; 2010 <textline bbox="25.200,451.528,624.952,487.528">California Pertussis Cases &#8211; 2010 <text bbox="25.200,451.528,49.212,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">C</text>
+<title archetypal_index="0" bbox="25.200,451.528,624.952,487.528" id="0" size="36.0" Annotation_index="0">California Pertussis Cases &#8211; 2010 <textline bbox="25.200,451.528,624.952,487.528">California Pertussis Cases &#8211; 2010 <text bbox="25.200,451.528,49.212,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">C</text>
 <text bbox="49.212,451.528,70.776,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">a</text>
 <text bbox="70.776,451.528,81.648,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">l</text>
 <text bbox="81.648,451.528,92.520,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">i</text>
@@ -33,7 +33,7 @@
 <text bbox="602.020,451.528,624.952,487.528" colourspace="Pattern" font="BCDFEE+Tahoma-Bold" ncolour="(1, 1, 0.4)" size="36.000">0</text>
 </textline>
 </title>
-<enlisting archetypal_index="1" bbox="31.2,53.856,680.304,426.412" id="1" size="24.0">&#8226; As of 6/30/2010, 1,337 cases of pertussis have been  <textline bbox="31.200,402.412,632.210,426.412">&#8226; As of 6/30/2010, 1,337 cases of pertussis have been  <text bbox="31.200,402.412,42.120,426.412" colourspace="Pattern" font="BCDGEE+Tahoma" ncolour="(1, 0.502, 0)" size="24.000">&#8226;</text>
+<enlisting archetypal_index="1" bbox="31.2,53.856,680.304,426.412" id="1" size="24.0" Annotation_index="1">&#8226; As of 6/30/2010, 1,337 cases of pertussis have been  <textline bbox="31.200,402.412,632.210,426.412">&#8226; As of 6/30/2010, 1,337 cases of pertussis have been  <text bbox="31.200,402.412,42.120,426.412" colourspace="Pattern" font="BCDGEE+Tahoma" ncolour="(1, 0.502, 0)" size="24.000">&#8226;</text>
 <text bbox="58.200,402.412,72.600,426.412" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="1" size="24.000">A</text>
 <text bbox="72.600,402.412,83.304,426.412" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="1" size="24.000">s</text>
 <text bbox="83.304,402.412,90.816,426.412" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="1" size="24.000"> </text>
@@ -386,7 +386,7 @@ without middle school Tdap vaccination requirement  <textline bbox="58.200,105.6
 <textline bbox="58.200,53.856,619.776,77.856" colourspace="Pattern" font="BCDEEE+Tahoma" ncolour="1" size="24.000">without middle school Tdap vaccination requirement  </textline>
 </normal_text>
 </enlisting>
-<picture archetypal_index="2" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.49.1999x205.bmp" width="719">
+<picture archetypal_index="2" bbox="0.000,0.000,719.760,73.920" height="73" name="Image9" src="Image9.49.1999x205.bmp" width="719" Annotation_index="2">
 </picture>
 </page>
 </pages>

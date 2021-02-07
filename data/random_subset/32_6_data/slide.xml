@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[97.53990476190475, 454.84233333333344, 622.4944285714286, 494.5756666666667]" rotate="0">
-<title archetypal_index="0" bbox="15.528,482.995,704.631,519.019" id="0" size="36.024">Critical Limits Ex:  A. Hamburger Patties <textline bbox="15.528,482.995,704.631,519.019" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.024">Critical Limits Ex:  A. Hamburger Patties </textline>
+<title archetypal_index="0" bbox="15.528,482.995,704.631,519.019" id="0" size="36.024" Annotation_index="0">Critical Limits Ex:  A. Hamburger Patties <textline bbox="15.528,482.995,704.631,519.019" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.024">Critical Limits Ex:  A. Hamburger Patties </textline>
 </title>
-<normal_text archetypal_index="1" bbox="25.200,342.202,254.664,365.242" id="6" size="23.04">Satellite Hamburger  <textline bbox="25.200,342.202,254.664,365.242">Satellite Hamburger  <text bbox="25.200,342.202,40.568,365.242" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">S</text>
+<normal_text archetypal_index="1" bbox="25.200,342.202,254.664,365.242" id="6" size="23.04" Annotation_index="1">Satellite Hamburger  <textline bbox="25.200,342.202,254.664,365.242">Satellite Hamburger  <text bbox="25.200,342.202,40.568,365.242" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">S</text>
 <text bbox="40.568,342.202,53.378,365.242" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">a</text>
 <text bbox="53.378,342.202,61.050,365.242" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">t</text>
 <text bbox="61.050,342.202,73.860,365.242" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">e</text>
@@ -22,9 +22,9 @@
 <text bbox="248.259,342.202,254.664,365.242" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="265.250,342.202,490.705,365.242" id="7" size="23.04">Cooking Cook to an  <textline bbox="265.250,342.202,490.705,365.242" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">Cooking Cook to an  </textline>
+<normal_text archetypal_index="2" bbox="265.250,342.202,490.705,365.242" id="7" size="23.04" Annotation_index="2">Cooking Cook to an  <textline bbox="265.250,342.202,490.705,365.242" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">Cooking Cook to an  </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="265.250,117.562,570.865,169.094" id="11" size="23.04">Holding Hold food at 140oF  
+<normal_text archetypal_index="3" bbox="265.250,117.562,570.865,169.094" id="11" size="23.04" Annotation_index="3">Holding Hold food at 140oF  
 or above <textline bbox="265.250,145.162,570.865,169.094">Holding Hold food at 140oF  <text bbox="265.250,145.162,281.885,168.202" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">H</text>
 <text bbox="281.885,145.162,294.695,168.202" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">o</text>
 <text bbox="294.741,145.162,299.856,168.202" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">l</text>
@@ -54,7 +54,7 @@ or above <textline bbox="265.250,145.162,570.865,169.094">Holding Hold food at 1
 </textline>
 <textline bbox="373.270,117.562,462.734,140.602" colourspace="Pattern" font="ArialMT" ncolour="1" size="23.040">or above </textline>
 </normal_text>
-<table archetypal_index="4" bbox="18.0,102.0,702.0,456.0" dimensions="5/3"><cell bbox="18.0,373.0,126.0,456.0"><tabletext bbox="29.688,397.622,118.437,448.262" id="1" size="23.04">Type of  
+<table archetypal_index="4" bbox="18.0,102.0,702.0,456.0" dimensions="5/3" Annotation_index="4"><cell bbox="18.0,373.0,126.0,456.0"><tabletext bbox="29.688,397.622,118.437,448.262" id="1" size="23.04">Type of  
 Kitchen <textline bbox="31.968,425.222,118.437,448.262" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">Type of  </textline>
 <textline bbox="29.688,397.622,114.291,420.662" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="23.040">Kitchen </textline>
 </tabletext>

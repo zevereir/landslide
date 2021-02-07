@@ -1,17 +1,17 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[139.75, 473.39366666666666, 580.1386666666667, 532.0296666666667]" rotate="0">
-<title archetypal_index="0" bbox="125.470,458.299,594.242,536.907" id="0" size="36.012">NICMOS Coronagraph Pupil 
+<title archetypal_index="0" bbox="125.470,458.299,594.242,536.907" id="0" size="36.012" Annotation_index="0">NICMOS Coronagraph Pupil 
 Models <textline bbox="125.470,496.923,594.242,536.907" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.984">NICMOS Coronagraph Pupil </textline>
 <textline bbox="311.880,458.299,408.096,490.339" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="1" size="32.040">Models </textline>
 </title>
-<normal_text archetypal_index="1" bbox="43.200,373.705,214.154,401.689" id="1" size="27.984">Pupil after spot <textline bbox="43.200,373.705,214.154,401.689" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984">Pupil after spot </textline>
+<normal_text archetypal_index="1" bbox="43.200,373.705,214.154,401.689" id="1" size="27.984" Annotation_index="1">Pupil after spot <textline bbox="43.200,373.705,214.154,401.689" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984">Pupil after spot </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="266.620,373.735,457.335,435.301" id="2" size="27.972">With an Aligned  
+<normal_text archetypal_index="2" bbox="266.620,373.735,457.335,435.301" id="2" size="27.972" Annotation_index="2">With an Aligned  
 Lyot Stop <textline bbox="266.620,407.341,457.335,435.301" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960">With an Aligned  </textline>
 <textline bbox="307.080,373.735,416.749,401.719" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984">Lyot Stop </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="493.700,373.735,700.716,435.301" id="3" size="27.972">With a Misaligned 
+<normal_text archetypal_index="3" bbox="493.700,373.735,700.716,435.301" id="3" size="27.972" Annotation_index="3">With a Misaligned 
 Lyot Stop <textline bbox="493.700,407.341,700.716,435.301" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960">With a Misaligned </textline>
 <textline bbox="542.420,373.735,652.089,401.719" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984">Lyot Stop </textline>
 </normal_text>
-<picture archetypal_index="4" bbox="12.0,132.0,714.0,367.08" caption="" combined_sources="['Image29.jpg', 'Image29.0.jpg']" name="combined_0" src="combined_4_0.png" /></page>
+<picture archetypal_index="4" bbox="12.0,132.0,714.0,367.08" caption="" combined_sources="['Image29.jpg', 'Image29.0.jpg']" name="combined_0" src="combined_4_0.png" Annotation_index="4" /></page>
 </pages>

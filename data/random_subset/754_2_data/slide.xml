@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[72.432, 485.1983333333333, 639.549, 509.2863333333333]" rotate="0">
-<title archetypal_index="0" bbox="81.792,481.320,626.156,505.440" id="0" size="24.0">STAR &amp; PHENIX Counting House &#61683; RCF Network <textline bbox="81.792,481.320,626.156,505.440">STAR &amp; PHENIX Counting House &#61683; RCF Network <text bbox="81.792,481.320,97.800,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">S</text>
+<title archetypal_index="0" bbox="81.792,481.320,626.156,505.440" id="0" size="24.0" Annotation_index="0">STAR &amp; PHENIX Counting House &#61683; RCF Network <textline bbox="81.792,481.320,626.156,505.440">STAR &amp; PHENIX Counting House &#61683; RCF Network <text bbox="81.792,481.320,97.800,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">S</text>
 <text bbox="97.800,481.320,112.464,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">T</text>
 <text bbox="112.464,481.320,128.472,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">A</text>
 <text bbox="128.352,481.320,145.680,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">R</text>
@@ -42,13 +42,13 @@
 <text bbox="614.156,481.320,626.156,505.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">k</text>
 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="17.952,379.000,134.196,440.200" id="1" size="18.0">Transfer rates  
+<normal_text archetypal_index="1" bbox="17.952,379.000,134.196,440.200" id="1" size="18.0" Annotation_index="1">Transfer rates  
 observed last  
 week <textline bbox="17.952,422.200,134.196,440.200" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Transfer rates  </textline>
 <textline bbox="17.952,400.600,129.822,418.600" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">observed last  </textline>
 <textline bbox="17.952,379.000,59.478,397.000" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">week </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="397.270,383.080,476.218,401.080" id="2" size="18.0">100 Mbps <textline bbox="397.270,383.080,476.218,401.080" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">100 Mbps </textline>
+<normal_text archetypal_index="2" bbox="397.270,383.080,476.218,401.080" id="2" size="18.0" Annotation_index="2">100 Mbps <textline bbox="397.270,383.080,476.218,401.080" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">100 Mbps </textline>
 </normal_text>
-<picture archetypal_index="3" bbox="198.0,37.44,650.28,450.0" caption="&#10;1 Gbps " combined_sources="['Image25.603x250.bmp', 'Image26.603x286.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+<picture archetypal_index="3" bbox="198.0,37.44,650.28,450.0" caption="&#10;1 Gbps " combined_sources="['Image25.603x250.bmp', 'Image26.603x286.bmp']" name="combined_0" src="combined_3_0.png" Annotation_index="3" /></page>
 </pages>

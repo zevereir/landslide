@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[248.62, 447.58, 471.242, 491.62]" rotate="0">
-<title archetypal_index="0" bbox="248.620,447.580,471.242,491.620" id="0" size="44.04">Introduction <textline bbox="248.620,447.580,471.242,491.620" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="(0, 0, 1)" size="44.040">Introduction </textline>
+<title archetypal_index="0" bbox="248.620,447.580,471.242,491.620" id="0" size="44.04" Annotation_index="0">Introduction <textline bbox="248.620,447.580,471.242,491.620" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="(0, 0, 1)" size="44.040">Introduction </textline>
 </title>
-<slide_number bbox="670.680,17.946,676.776,29.970" id="5" size="12.024">2 <textline bbox="670.680,17.946,676.776,29.970" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0.537" size="12.024">2 </textline>
+<slide_number bbox="670.680,17.946,676.776,29.970" id="5" size="12.024" Annotation_index="1">2 <textline bbox="670.680,17.946,676.776,29.970" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0.537" size="12.024">2 </textline>
 </slide_number>
-<curve bbox="43.200,198.570,203.640,199.530" linewidth="0" pts="43.200,199.530,123.420,199.530,203.640,199.530,203.640,198.570,123.420,198.570,43.200,198.570" />
-<curve bbox="70.200,174.570,669.120,175.530" linewidth="0" pts="70.200,175.530,219.930,175.530,369.660,175.530,519.390,175.530,669.120,175.530,669.120,174.570,519.390,174.570,369.660,174.570,219.930,174.570,70.200,174.570" />
-<curve bbox="43.200,121.770,205.320,122.730" linewidth="0" pts="43.200,122.730,124.260,122.730,205.320,122.730,205.320,121.770,124.260,121.770,43.200,121.770" />
-<curve bbox="70.200,97.775,670.320,98.735" linewidth="0" pts="70.200,98.735,220.230,98.735,370.260,98.735,520.290,98.735,670.320,98.735,670.320,97.775,520.290,97.775,370.260,97.775,220.230,97.775,70.200,97.775" />
-<enlisting archetypal_index="1" bbox="43.2,17.946,677.67,420.081">&#8226; Recent interest in neutrino factory staging  &#8226; Meson Production at low proton beam energy  
+<curve bbox="43.200,198.570,203.640,199.530" linewidth="0" pts="43.200,199.530,123.420,199.530,203.640,199.530,203.640,198.570,123.420,198.570,43.200,198.570" Annotation_index="2" />
+<curve bbox="70.200,174.570,669.120,175.530" linewidth="0" pts="70.200,175.530,219.930,175.530,369.660,175.530,519.390,175.530,669.120,175.530,669.120,174.570,519.390,174.570,369.660,174.570,219.930,174.570,70.200,174.570" Annotation_index="3" />
+<curve bbox="43.200,121.770,205.320,122.730" linewidth="0" pts="43.200,122.730,124.260,122.730,205.320,122.730,205.320,121.770,124.260,121.770,43.200,121.770" Annotation_index="4" />
+<curve bbox="70.200,97.775,670.320,98.735" linewidth="0" pts="70.200,98.735,220.230,98.735,370.260,98.735,520.290,98.735,670.320,98.735,670.320,97.775,520.290,97.775,370.260,97.775,220.230,97.775,70.200,97.775" Annotation_index="5" />
+<enlisting archetypal_index="1" bbox="43.2,17.946,677.67,420.081" Annotation_index="6">&#8226; Recent interest in neutrino factory staging  &#8226; Meson Production at low proton beam energy  
 (below 4 GeV) seems  higher for Ga than Hg  
 from our previous simulation. 
 (1) X. Ding et al.,  

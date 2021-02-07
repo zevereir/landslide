@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[107.8984, 329.7715999999999, 623.3716000000001, 486.87000000000006]" rotate="0">
-<title archetypal_index="0" bbox="85.224,254.945,631.706,486.870" id="0" size="26.85257142857143">Mobile Device Equipment  
+<title archetypal_index="0" bbox="85.224,254.945,631.706,486.870" id="0" size="26.85257142857143" Annotation_index="0">Mobile Device Equipment  
 Security 
 As a reminder, Contractors are responsible for: 
 &#8226; The security of their assigned mobile device  
@@ -59,7 +59,7 @@ contain.  <textline bbox="150.190,452.910,591.772,486.870" colourspace="DeviceGr
 <textline bbox="112.220,283.750,555.596,307.750" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">personal information (data) that it may  </textline>
 <textline bbox="112.220,254.945,210.935,278.969" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.024">contain.  </textline>
 </title>
-<enlisting archetypal_index="1" bbox="85.224,105.14,638.544,244.37" id="1" size="24.0">&#8226; Any subcontractors and consultants under  <textline bbox="85.224,220.370,609.212,244.370">&#8226; Any subcontractors and consultants under  <text bbox="85.224,220.370,93.624,244.370" colourspace="DeviceGray" font="ArialMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">&#8226;</text>
+<enlisting archetypal_index="1" bbox="85.224,105.14,638.544,244.37" id="1" size="24.0" Annotation_index="1">&#8226; Any subcontractors and consultants under  <textline bbox="85.224,220.370,609.212,244.370">&#8226; Any subcontractors and consultants under  <text bbox="85.224,220.370,93.624,244.370" colourspace="DeviceGray" font="ArialMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">&#8226;</text>
 <text bbox="112.220,220.370,129.548,244.370" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">A</text>
 <text bbox="129.548,220.370,144.212,244.370" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">n</text>
 <text bbox="144.140,220.370,157.484,244.370" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">y</text>
@@ -152,7 +152,7 @@ information (data) that it may contain.  <textline bbox="112.220,191.570,637.220
 <textline bbox="112.220,105.140,547.868,129.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.31, 0.584, 0.2)" size="24.000">information (data) that it may contain.  </textline>
 </normal_text>
 </enlisting>
-<picture archetypal_index="2" bbox="528.000,0.000,720.000,112.440" height="112" name="Image14" src="Image14.2.jpg" width="192">
+<picture archetypal_index="2" bbox="528.000,0.000,720.000,112.440" height="112" name="Image14" src="Image14.2.jpg" width="192" Annotation_index="2">
 </picture>
 </page>
 </pages>

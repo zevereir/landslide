@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[234.256, 471.8392, 479.7371999999999, 511.817]" rotate="0">
-<title archetypal_index="0" bbox="227.020,472.532,486.879,524.667" id="0" size="24.012">AWIPS I to AWIPS II 
+<title archetypal_index="0" bbox="227.020,472.532,486.879,524.667" id="0" size="24.012" Annotation_index="0">AWIPS I to AWIPS II 
 Re-Architecture Approach <textline bbox="227.020,496.683,486.879,524.667" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.984">AWIPS I to AWIPS II </textline>
 <textline bbox="232.780,472.532,481.131,492.572" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Re-Architecture Approach </textline>
 </title>
-<slide_number bbox="669.720,3.706,676.752,17.770" id="15" size="14.064">5 <textline bbox="669.720,3.706,676.752,17.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">5 </textline>
+<slide_number bbox="669.720,3.706,676.752,17.770" id="15" size="14.064" Annotation_index="1">5 <textline bbox="669.720,3.706,676.752,17.770" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.064">5 </textline>
 </slide_number>
-<picture archetypal_index="1" bbox="30.000,456.000,95.880,522.000" height="66" name="Image7" src="Image7.3.120x120.bmp" width="65">
+<picture archetypal_index="1" bbox="30.000,456.000,95.880,522.000" height="66" name="Image7" src="Image7.3.120x120.bmp" width="65" Annotation_index="2">
 </picture>
-<picture archetypal_index="2" bbox="630.000,456.360,696.000,522.000" height="65" name="Image8" src="Image8.3.200x199.bmp" width="66">
+<picture archetypal_index="2" bbox="630.000,456.360,696.000,522.000" height="65" name="Image8" src="Image8.3.200x199.bmp" width="66" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="3" bbox="37.2,71.544,665.928,429.7">&#8226; Perform &#8220;black-box&#8221; conversion &#8211; Preserve existing functionality, look and feel on top of new  &#8226; Thorough field validation and acceptance before  &#8226; No loss of functionality &#8211; Deployed system current with deployed AWIPS capability (i.e.,  &#8226; Use open source projects - No proprietary code &#8211; JAVA and open source projects enable AWIPS II to be platform  &#8226; Objective is to make AWIPS II available for collaborative  <normal_text bbox="37.200,405.700,414.794,429.700" id="1" size="24.0">&#8226; Perform &#8220;black-box&#8221; conversion <textline bbox="37.200,405.700,414.794,429.700">&#8226; Perform &#8220;black-box&#8221; conversion <text bbox="37.200,405.700,45.600,429.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226;</text>
+<enlisting archetypal_index="3" bbox="37.2,71.544,665.928,429.7" Annotation_index="4">&#8226; Perform &#8220;black-box&#8221; conversion &#8211; Preserve existing functionality, look and feel on top of new  &#8226; Thorough field validation and acceptance before  &#8226; No loss of functionality &#8211; Deployed system current with deployed AWIPS capability (i.e.,  &#8226; Use open source projects - No proprietary code &#8211; JAVA and open source projects enable AWIPS II to be platform  &#8226; Objective is to make AWIPS II available for collaborative  <normal_text bbox="37.200,405.700,414.794,429.700" id="1" size="24.0">&#8226; Perform &#8220;black-box&#8221; conversion <textline bbox="37.200,405.700,414.794,429.700">&#8226; Perform &#8220;black-box&#8221; conversion <text bbox="37.200,405.700,45.600,429.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">&#8226;</text>
 <text bbox="64.224,405.700,80.232,429.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">P</text>
 <text bbox="80.232,405.700,93.576,429.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">e</text>
 <text bbox="93.504,405.700,101.496,429.700" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="24.000">r</text>

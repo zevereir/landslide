@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[162.79800000000003, 434.67280000000005, 654.5929333333333, 473.8408]" rotate="0">
-<title archetypal_index="0" bbox="140.710,434.671,691.239,474.631" id="0" size="39.96">ACS Mode Recommendations <textline bbox="140.710,434.671,691.239,474.631" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="39.960">ACS Mode Recommendations </textline>
+<title archetypal_index="0" bbox="140.710,434.671,691.239,474.631" id="0" size="39.96" Annotation_index="0">ACS Mode Recommendations <textline bbox="140.710,434.671,691.239,474.631" colourspace="DeviceGray" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="39.960">ACS Mode Recommendations </textline>
 </title>
-<enlisting archetypal_index="1" bbox="126.220,190.130,671.191,388.679" id="1" size="24.004">&#61613; Acquisition:  Acquire sun on the solar arrays &amp;  Null rates 
+<enlisting archetypal_index="1" bbox="126.220,190.130,671.191,388.679" id="1" size="24.004" Annotation_index="1">&#61613; Acquisition:  Acquire sun on the solar arrays &amp;  Null rates 
 &#61613; Science:  Track velocity vector &amp; Maintain zenith pointing 
 &#61613; Delta-V:  Orbit adjust 
 &#61613; Delta-H:  Momentum unloading 
@@ -248,11 +248,11 @@
 <text bbox="476.492,191.780,486.356,209.780" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="0" size="18.000">e</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="2" bbox="41.208,16.611,135.571,30.651" id="2" size="14.04">5 August 1999 <textline bbox="41.208,16.611,135.571,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">5 August 1999 </textline>
+<normal_text archetypal_index="2" bbox="41.208,16.611,135.571,30.651" id="2" size="14.04" Annotation_index="2">5 August 1999 <textline bbox="41.208,16.611,135.571,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">5 August 1999 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="294.700,16.611,425.314,30.651" id="3" size="14.04">NASA/GSFC/IMDC <textline bbox="294.700,16.611,425.314,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">NASA/GSFC/IMDC </textline>
+<normal_text archetypal_index="3" bbox="294.700,16.611,425.314,30.651" id="3" size="14.04" Annotation_index="3">NASA/GSFC/IMDC <textline bbox="294.700,16.611,425.314,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">NASA/GSFC/IMDC </textline>
 </normal_text>
-<slide_number bbox="664.270,16.611,672.834,30.651" id="4" size="14.04">6 <textline bbox="664.270,16.611,672.834,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">6 </textline>
+<slide_number bbox="664.270,16.611,672.834,30.651" id="4" size="14.04" Annotation_index="4">6 <textline bbox="664.270,16.611,672.834,30.651" colourspace="DeviceGray" font="BCDEEE+ComicSansMS" ncolour="(0.369, 0.341, 0.306)" size="14.040">6 </textline>
 </slide_number>
-<picture archetypal_index="4" bbox="0.0,406.2,720.0,540.0" caption="" combined_sources="['Image6.4.400x48.bmp', 'Image8.4.jpg', 'Image58.1675x245.bmp']" name="combined_0" src="combined_6_0.png" /></page>
+<picture archetypal_index="4" bbox="0.0,406.2,720.0,540.0" caption="" combined_sources="['Image6.4.400x48.bmp', 'Image8.4.jpg', 'Image58.1675x245.bmp']" name="combined_0" src="combined_6_0.png" Annotation_index="5" /></page>
 </pages>

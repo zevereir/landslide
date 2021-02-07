@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="26" mean_title="[129.32571014492754, 436.46554710144926, 572.0946521739131, 486.4405289855073]" rotate="0">
-<title archetypal_index="0" bbox="91.680,417.332,633.602,461.372" id="0" size="20.04">Observed departures from Gaussianity can be mimicked  
+<title archetypal_index="0" bbox="91.680,417.332,633.602,461.372" id="0" size="20.04" Annotation_index="0">Observed departures from Gaussianity can be mimicked  
 by linear multiplicative noise (can be part of L) <textline bbox="91.680,441.332,633.602,461.372" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="0" size="20.040">Observed departures from Gaussianity can be mimicked  </textline>
 <textline bbox="139.560,417.332,580.133,437.372">by linear multiplicative noise (can be part of L) <text bbox="139.560,417.332,151.804,437.372" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="0" size="20.040">b</text>
 <text bbox="151.804,417.332,162.947,437.372" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="0" size="20.040">y</text>
@@ -52,7 +52,7 @@ by linear multiplicative noise (can be part of L) <textline bbox="91.680,441.332
 <text bbox="573.460,417.332,580.133,437.372" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="0" size="20.040">)</text>
 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="404.520,3.791,712.015,17.855" id="3" size="14.064">Sura, Newman, Sardeshmukh, and Penland 2004 <textline bbox="404.520,3.791,712.015,17.855" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Sura, Newman, Sardeshmukh, and Penland 2004 </textline>
+<normal_text archetypal_index="1" bbox="404.520,3.791,712.015,17.855" id="3" size="14.064" Annotation_index="1">Sura, Newman, Sardeshmukh, and Penland 2004 <textline bbox="404.520,3.791,712.015,17.855" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.064">Sura, Newman, Sardeshmukh, and Penland 2004 </textline>
 </normal_text>
-<picture archetypal_index="2" bbox="70.92,146.52,648.96,390.0" caption="&#10;Departure from Gaussianity of joint  &#10;pdf derived from least damped  &#10;barotropic mode (period=33 days,  &#10;eft=14 days) with some stochastic  &#10;damping and steady forcing &#10;Departure from Gaussianity of &#10;Joint p.d.f of first two EOFs of  &#10;750 mb streamfunction, DJF  &#10;1950-2002 " combined_sources="['Image136.707x675.bmp', 'Image137.855x676.bmp']" name="combined_0" src="combined_26_0.png" /></page>
+<picture archetypal_index="2" bbox="70.92,146.52,648.96,390.0" caption="&#10;Departure from Gaussianity of joint  &#10;pdf derived from least damped  &#10;barotropic mode (period=33 days,  &#10;eft=14 days) with some stochastic  &#10;damping and steady forcing &#10;Departure from Gaussianity of &#10;Joint p.d.f of first two EOFs of  &#10;750 mb streamfunction, DJF  &#10;1950-2002 " combined_sources="['Image136.707x675.bmp', 'Image137.855x676.bmp']" name="combined_0" src="combined_26_0.png" Annotation_index="2" /></page>
 </pages>

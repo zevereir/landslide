@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="10" mean_title="[106.12007142857144, 440.4342857142857, 619.6733214285714, 519.6578571428572]" rotate="0">
-<title archetypal_index="0" bbox="137.110,444.580,588.838,519.498" id="0" size="36.012">A Changing World  
+<title archetypal_index="0" bbox="137.110,444.580,588.838,519.498" id="0" size="36.012" Annotation_index="0">A Changing World  
 Water Availability and Quality <textline bbox="229.180,483.474,505.016,519.498" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="(0.18, 0.314, 0.478)" size="36.024">A Changing World  </textline>
 <textline bbox="137.110,444.580,588.838,480.580" colourspace="Pattern" font="BCDFEE+Calibri-BoldItalic" ncolour="(0.647, 0, 0.129)" size="36.000">Water Availability and Quality </textline>
 </title>
-<enlisting archetypal_index="1" bbox="29.832,194.12,506.487,408.82">&#10146; Threat:  Too much, Too little, Poor Quality 
+<enlisting archetypal_index="1" bbox="29.832,194.12,506.487,408.82" Annotation_index="1">&#10146; Threat:  Too much, Too little, Poor Quality 
 &#10146; Goals:  &#10146; Improve Nation&#8217;s ability to manage water resources 
 &#10146; Reduce economic losses due to floods and droughts 
 &#10146; Increase economic benefits from water forecasts  &#10146; What we&#8217;re doing &#10146; IWRSS: Partnership of 21 federal agencies. <normal_text bbox="29.832,353.110,470.376,408.820" id="1" size="21.6">&#10146; Threat:  Too much, Too little, Poor Quality 
@@ -284,7 +284,7 @@ Water Availability and Quality <textline bbox="229.180,483.474,505.016,519.498" 
 </normal_text>
 <normal_text bbox="88.392,252.214,219.651,272.278" id="3" size="20.064">and information <textline bbox="88.392,252.214,219.651,272.278" colourspace="Pattern" font="BCDIEE+Calibri-Italic" ncolour="0" size="20.064">and information </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="2" bbox="101.86,17.004,488.032,188.39">&#10146; Improving warnings, better season and extended  &#10146; Developing Common Operating Picture 
+</enlisting><enlisting archetypal_index="2" bbox="101.86,17.004,488.032,188.39" Annotation_index="2">&#10146; Improving warnings, better season and extended  &#10146; Developing Common Operating Picture 
 &#10146; Creating Single portal for Water Information 
 &#10146; Sharing technology, information, models, best  &#10146; &#8220;Tool Box&#8221; for forecasts, data, mapping and  <normal_text bbox="101.860,170.390,488.032,188.390" id="6" size="16.2">&#10146; Improving warnings, better season and extended  <textline bbox="101.860,170.390,488.032,188.390">&#10146; Improving warnings, better season and extended  <text bbox="101.860,171.569,114.723,187.769" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="(0.18, 0.314, 0.478)" size="16.200">&#10146;</text>
 <text bbox="119.860,170.390,124.666,188.390" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="18.000">I</text>
@@ -523,5 +523,5 @@ Water Availability and Quality <textline bbox="229.180,483.474,505.016,519.498" 
 </normal_text>
 <normal_text bbox="119.860,17.004,190.636,35.004" id="11" size="18.0">programs <textline bbox="119.860,17.004,190.636,35.004" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="0" size="18.000">programs </textline>
 </normal_text>
-</enlisting><picture archetypal_index="3" bbox="522.0,28.68,720.0,412.68" caption="" combined_sources="['Image141.jpg', 'Image142.jpg', 'Image143.jpg']" name="combined_0" src="combined_10_0.png" /></page>
+</enlisting><picture archetypal_index="3" bbox="522.0,28.68,720.0,412.68" caption="" combined_sources="['Image141.jpg', 'Image142.jpg', 'Image143.jpg']" name="combined_0" src="combined_10_0.png" Annotation_index="3" /></page>
 </pages>

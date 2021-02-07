@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="100" mean_title="[162.11066609294323, 414.4996365461847, 584.6429879518073, 461.5152656339644]" rotate="0">
-<title archetypal_index="0" bbox="132.310,395.306,634.894,478.946" id="0" size="38.04">Now that the fire is under  
+<title archetypal_index="0" bbox="132.310,395.306,634.894,478.946" id="0" size="38.04" Annotation_index="0">Now that the fire is under  
 control&#8230; <textline bbox="132.310,440.906,634.894,478.946" colourspace="DeviceGray" font="BCDEEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="38.040">Now that the fire is under  </textline>
 <textline bbox="291.340,395.306,464.688,433.346" colourspace="DeviceGray" font="BCDHEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="38.040">control&#8230; </textline>
 </title>
-<normal_text archetypal_index="1" bbox="43.200,226.698,676.998,381.638" id="1" size="32.044799999999995">&#8226; Mop-up is the process of making a  
+<normal_text archetypal_index="1" bbox="43.200,226.698,676.998,381.638" id="1" size="32.044799999999995" Annotation_index="1">&#8226; Mop-up is the process of making a  
 controlled fire safe by removing or  
 extinguishing all burning material along or  
 near the perimeter edge of the burned  
@@ -48,7 +48,7 @@ area. <textline bbox="43.200,349.598,568.000,381.638">&#8226; Mop-up is the proc
 <textline bbox="70.224,257.433,627.112,289.497" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="32.064">near the perimeter edge of the burned  </textline>
 <textline bbox="70.224,226.698,141.801,258.738" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="32.040">area. </textline>
 </normal_text>
-<enlisting archetypal_index="2" bbox="43.2,88.432,683.095,220.338" id="2" size="32.04">&#8226; This is the last stage in fire suppression. 
+<enlisting archetypal_index="2" bbox="43.2,88.432,683.095,220.338" id="2" size="32.04" Annotation_index="2">&#8226; This is the last stage in fire suppression. 
 &#8226; Usually occurs when you are hot, dirty,  <textline bbox="43.200,188.298,639.062,220.338">&#8226; This is the last stage in fire suppression. <text bbox="43.200,188.298,57.778,220.338" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="0" size="32.040">&#8226;</text>
 <text bbox="70.224,188.298,88.935,220.338" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="32.040">T</text>
 <text bbox="88.935,188.298,106.814,220.338" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="32.040">h</text>
@@ -141,7 +141,7 @@ will pay off. <textline bbox="70.224,119.173,683.095,151.237" colourspace="Devic
 <textline bbox="70.224,88.432,231.321,120.472" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="32.040">will pay off. </textline>
 </normal_text>
 </enlisting>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image10" src="Image10.97.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image10" src="Image10.97.jpg" width="720" Annotation_index="3">
 </background>
 </page>
 </pages>

@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[167.647, 470.012, 552.5322, 502.05199999999996]" rotate="0">
-<title archetypal_index="0" bbox="106.990,470.372,613.058,502.412" id="0" size="32.04">Dose Reduction Methods (Cont&#8217;d) <textline bbox="106.990,470.372,613.058,502.412">Dose Reduction Methods (Cont&#8217;d) <text bbox="106.990,470.372,130.123,502.412" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">D</text>
+<title archetypal_index="0" bbox="106.990,470.372,613.058,502.412" id="0" size="32.04" Annotation_index="0">Dose Reduction Methods (Cont&#8217;d) <textline bbox="106.990,470.372,613.058,502.412">Dose Reduction Methods (Cont&#8217;d) <text bbox="106.990,470.372,130.123,502.412" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">D</text>
 <text bbox="130.123,470.372,149.699,502.412" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">o</text>
 <text bbox="149.699,470.372,167.514,502.412" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">s</text>
 <text bbox="167.514,470.372,185.328,502.412" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">e</text>
@@ -31,7 +31,7 @@
 <text bbox="602.389,470.372,613.058,502.412" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="32.040">)</text>
 </textline>
 </title>
-<enlisting archetypal_index="1" bbox="43.2,154.018,332.577,364.742" id="1" size="20.04">&#8211; Estimating/tracking dose  <textline bbox="43.200,344.702,289.210,364.742" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">&#8211; Estimating/tracking dose  </textline>
+<enlisting archetypal_index="1" bbox="43.2,154.018,332.577,364.742" id="1" size="20.04" Annotation_index="1">&#8211; Estimating/tracking dose  <textline bbox="43.200,344.702,289.210,364.742" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">&#8211; Estimating/tracking dose  </textline>
 <normal_text bbox="65.784,294.730,332.577,340.742" id="2" size="19.02">during special work evolutions 
 &#8226; Telemetry allows for remote  <textline bbox="65.784,320.702,332.577,340.742" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="20.040">during special work evolutions </textline>
 <textline bbox="79.224,294.730,324.042,312.730" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="18.000">&#8226; Telemetry allows for remote  </textline>
@@ -51,15 +51,15 @@ materials <textline bbox="115.220,250.033,331.502,266.017" colourspace="Pattern"
 <textline bbox="133.220,154.018,198.050,169.978" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="15.960">materials </textline>
 </normal_text>
 </enlisting>
-<slide_number bbox="356.160,11.236,363.966,25.276" id="5" size="14.04">5 <textline bbox="356.160,11.236,363.966,25.276" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">5 </textline>
+<slide_number bbox="356.160,11.236,363.966,25.276" id="5" size="14.04" Annotation_index="2">5 <textline bbox="356.160,11.236,363.966,25.276" colourspace="Pattern" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="14.040">5 </textline>
 </slide_number>
-<curve bbox="24.060,447.060,104.220,526.620" linewidth="0" pts="24.060,486.840,24.060,508.810,42.004,526.620,64.140,526.620,86.276,526.620,104.220,508.810,104.220,486.840,104.220,464.870,86.276,447.060,64.140,447.060,42.004,447.060,24.060,464.870,24.060,486.840" />
-<curve bbox="24.060,447.060,104.220,526.620" linewidth="3" pts="24.060,486.840,24.060,508.810,42.004,526.620,64.140,526.620,86.276,526.620,104.220,508.810,104.220,486.840,104.220,464.870,86.276,447.060,64.140,447.060,42.004,447.060,24.060,464.870,24.060,486.840" />
-<picture archetypal_index="2" bbox="25.560,448.200,103.560,526.200" height="78" name="Image13" src="Image13.3.104x104.bmp" width="78">
+<curve bbox="24.060,447.060,104.220,526.620" linewidth="0" pts="24.060,486.840,24.060,508.810,42.004,526.620,64.140,526.620,86.276,526.620,104.220,508.810,104.220,486.840,104.220,464.870,86.276,447.060,64.140,447.060,42.004,447.060,24.060,464.870,24.060,486.840" Annotation_index="3" />
+<curve bbox="24.060,447.060,104.220,526.620" linewidth="3" pts="24.060,486.840,24.060,508.810,42.004,526.620,64.140,526.620,86.276,526.620,104.220,508.810,104.220,486.840,104.220,464.870,86.276,447.060,64.140,447.060,42.004,447.060,24.060,464.870,24.060,486.840" Annotation_index="4" />
+<picture archetypal_index="2" bbox="25.560,448.200,103.560,526.200" height="78" name="Image13" src="Image13.3.104x104.bmp" width="78" Annotation_index="5">
 </picture>
-<picture archetypal_index="3" bbox="540.000,16.800,702.000,88.080" height="71" name="Image15" src="Image15.3.216x95.bmp" width="162">
+<picture archetypal_index="3" bbox="540.000,16.800,702.000,88.080" height="71" name="Image15" src="Image15.3.216x95.bmp" width="162" Annotation_index="6">
 </picture>
-<picture archetypal_index="4" bbox="366.000,147.000,690.000,390.000" height="243" name="Image62" src="Image62.jpg" width="324">
+<picture archetypal_index="4" bbox="366.000,147.000,690.000,390.000" height="243" name="Image62" src="Image62.jpg" width="324" Annotation_index="7">
 </picture>
 </page>
 </pages>

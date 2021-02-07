@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="16" mean_title="[196.17006666666668, 465.63801666666666, 523.3486333333333, 508.8582166666667]" rotate="0">
-<title archetypal_index="0" bbox="259.900,464.867,459.906,508.931" id="0" size="44.064">Job Types <textline bbox="259.900,464.867,459.906,508.931" colourspace="Pattern" font="ArialMT" ncolour="(0, 0, 0.4)" size="44.064">Job Types </textline>
+<title archetypal_index="0" bbox="259.900,464.867,459.906,508.931" id="0" size="44.064" Annotation_index="0">Job Types <textline bbox="259.900,464.867,459.906,508.931" colourspace="Pattern" font="ArialMT" ncolour="(0, 0, 0.4)" size="44.064">Job Types </textline>
 </title>
-<enlisting archetypal_index="1" bbox="61.104,179.59,591.982,374.512">&#8226; Batch jobs &#8226; &#8226; Regular jobs &#8211; use msub  
+<enlisting archetypal_index="1" bbox="61.104,179.59,591.982,374.512" Annotation_index="1">&#8226; Batch jobs &#8226; &#8226; Regular jobs &#8211; use msub  
 Interactive/Debug jobs 
 &#8226; Still use msub! &#8226; msub &#8211;I &#8211;X &#8211;l partition=c1ms,size=4000 <normal_text bbox="61.104,342.472,245.986,374.512" id="1" size="32.04">&#8226; Batch jobs <textline bbox="61.104,342.472,245.986,374.512">&#8226; Batch jobs <text bbox="61.104,342.472,72.318,374.512" colourspace="Pattern" font="ArialMT" ncolour="0" size="32.040">&#8226;</text>
 <text bbox="96.744,342.472,118.115,374.512" colourspace="Pattern" font="ArialMT" ncolour="(0, 0, 0.4)" size="32.040">B</text>
@@ -104,5 +104,5 @@ Interactive/Debug jobs
 <text bbox="578.638,179.590,591.982,203.590" colourspace="Pattern" font="ArialMT" ncolour="(0, 0, 0.4)" size="24.000">0</text>
 </textline>
 </normal_text>
-</enlisting><picture archetypal_index="2" bbox="16.56,457.32,59.28,527.16" caption="" combined_sources="['Image14.14.131x131.bmp', 'Image16.14.99x99.bmp']" name="combined_0" src="combined_16_0.png" /></page>
+</enlisting><picture archetypal_index="2" bbox="16.56,457.32,59.28,527.16" caption="" combined_sources="['Image14.14.131x131.bmp', 'Image16.14.99x99.bmp']" name="combined_0" src="combined_16_0.png" Annotation_index="2" /></page>
 </pages>

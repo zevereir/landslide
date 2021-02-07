@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[86.3799090909091, 442.1421818181818, 523.322196969697, 494.0550454545455]" rotate="0">
-<title archetypal_index="0" bbox="85.224,433.846,504.265,477.312" id="0" size="42.0">CX3 Farmers&#8217; Markets <textline bbox="85.224,433.846,504.265,477.312">CX3 Farmers&#8217; Markets <text bbox="85.224,433.846,113.238,475.846" colourspace="DeviceGray" font="BCDEEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="42.000">C</text>
+<title archetypal_index="0" bbox="85.224,433.846,504.265,477.312" id="0" size="42.0" Annotation_index="0">CX3 Farmers&#8217; Markets <textline bbox="85.224,433.846,504.265,477.312">CX3 Farmers&#8217; Markets <text bbox="85.224,433.846,113.238,475.846" colourspace="DeviceGray" font="BCDEEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="42.000">C</text>
 <text bbox="113.304,433.846,142.074,475.846" colourspace="DeviceGray" font="BCDEEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="42.000">X</text>
 <text bbox="142.100,449.352,159.911,477.312" colourspace="DeviceGray" font="BCDEEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="27.960">3</text>
 <text bbox="172.100,434.666,194.201,472.706" colourspace="DeviceGray" font="BCDGEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="38.040">F</text>
@@ -20,13 +20,13 @@
 <text bbox="484.675,434.666,504.265,472.706" colourspace="DeviceGray" font="BCDGEE+Tahoma-Bold" ncolour="(0.816, 0.424, 0.102)" size="38.040">s</text>
 </textline>
 </title>
-<picture archetypal_index="1" bbox="12.000,4.200,126.000,84.000" height="79" name="Image12" src="Image12.12.316x221.bmp" width="114">
+<picture archetypal_index="1" bbox="12.000,4.200,126.000,84.000" height="79" name="Image12" src="Image12.12.316x221.bmp" width="114" Annotation_index="1">
 </picture>
-<picture archetypal_index="2" bbox="528.000,0.000,720.000,112.440" height="112" name="Image17" src="Image17.11.jpg" width="192">
+<picture archetypal_index="2" bbox="528.000,0.000,720.000,112.440" height="112" name="Image17" src="Image17.11.jpg" width="192" Annotation_index="2">
 </picture>
-<picture archetypal_index="3" bbox="240.000,40.680,432.000,168.000" height="127" name="Image81" src="Image81.jpg" width="192">
+<picture archetypal_index="3" bbox="240.000,40.680,432.000,168.000" height="127" name="Image81" src="Image81.jpg" width="192" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="4" bbox="73.224,204.612,610.381,382.281">&#8226; &#8226; Number of farmers markets in the neighborhood  
+<enlisting archetypal_index="4" bbox="73.224,204.612,610.381,382.281" Annotation_index="4">&#8226; &#8226; Number of farmers markets in the neighborhood  
 and if accept EBT, WIC, Senior Vouchers 
 If no farmers markets in neighborhood, number  
 within 5 miles 

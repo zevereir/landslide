@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="22" mean_title="[38.33725490196078, 419.1769150326798, 546.191, 485.027843137255]" rotate="0">
-<title archetypal_index="0" bbox="25.200,442.172,569.935,512.651" id="0" size="32.052">Kentucky Average Scale Scores for  
+<title archetypal_index="0" bbox="25.200,442.172,569.935,512.651" id="0" size="32.052" Annotation_index="0">Kentucky Average Scale Scores for  
 Grade 4 Math 2000 to 2011 <textline bbox="25.200,480.587,569.935,512.651" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="32.064">Kentucky Average Scale Scores for  </textline>
 <textline bbox="25.200,442.172,424.685,474.212">Grade 4 Math 2000 to 2011 <text bbox="25.200,442.172,50.127,474.212" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="32.040">G</text>
 <text bbox="50.127,442.172,62.591,474.212" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="32.040">r</text>
@@ -27,9 +27,9 @@ Grade 4 Math 2000 to 2011 <textline bbox="25.200,480.587,569.935,512.651" colour
 <text bbox="406.871,442.172,424.685,474.212" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="32.040">1</text>
 </textline>
 </title>
-<picture archetypal_index="1" bbox="630.000,476.520,720.000,522.000" height="45" name="Image7" src="Image7.20.192x97.bmp" width="90">
+<picture archetypal_index="1" bbox="630.000,476.520,720.000,522.000" height="45" name="Image7" src="Image7.20.192x97.bmp" width="90" Annotation_index="1">
 </picture>
-<table archetypal_index="2" bbox="18.0,28.125,696.0,438.004" dimensions="2/8"><cell bbox="18.0,392.16,357.0,438.004"><tabletext bbox="157.870,397.808,224.806,425.768" id="2" size="27.96">Year  <textline bbox="157.870,397.808,224.806,425.768" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="27.960">Year  </textline>
+<table archetypal_index="2" bbox="18.0,28.125,696.0,438.004" dimensions="2/8" Annotation_index="2"><cell bbox="18.0,392.16,357.0,438.004"><tabletext bbox="157.870,397.808,224.806,425.768" id="2" size="27.96">Year  <textline bbox="157.870,397.808,224.806,425.768" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="27.960">Year  </textline>
 </tabletext>
 </cell><cell bbox="357.0,392.16,696.0,438.004"><tabletext bbox="364.270,397.808,648.064,425.768" id="1" size="27.96">Average Scale Score  <textline bbox="364.270,397.808,648.064,425.768" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="27.960">Average Scale Score  </textline>
 </tabletext>

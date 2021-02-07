@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[48.136, 436.77500000000003, 497.9293333333333, 460.7830000000001]" rotate="0">
-<title archetypal_index="0" bbox="47.640,483.050,480.336,507.050" id="0" size="24.0">Introduction to Santa Clara County Cont. <textline bbox="47.640,483.050,480.336,507.050" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">Introduction to Santa Clara County Cont. </textline>
+<title archetypal_index="0" bbox="47.640,483.050,480.336,507.050" id="0" size="24.0" Annotation_index="0">Introduction to Santa Clara County Cont. <textline bbox="47.640,483.050,480.336,507.050" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">Introduction to Santa Clara County Cont. </textline>
 </title>
-<normal_text archetypal_index="1" bbox="37.392,336.220,703.992,389.020" id="1" size="24.0">&#8226; Santa Clara County has one of the highest personal income  
+<normal_text archetypal_index="1" bbox="37.392,336.220,703.992,389.020" id="1" size="24.0" Annotation_index="1">&#8226; Santa Clara County has one of the highest personal income  
 levels in the state with a median household income of 74,335 <textline bbox="37.392,365.020,697.248,389.020" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">&#8226; Santa Clara County has one of the highest personal income  </textline>
 <textline bbox="55.392,336.220,703.992,360.220" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">levels in the state with a median household income of 74,335 </textline>
 </normal_text>
-<slide_number bbox="707.400,4.340,712.938,14.300" id="7" size="9.96">3 <textline bbox="707.400,4.340,712.938,14.300" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">3 </textline>
+<slide_number bbox="707.400,4.340,712.938,14.300" id="7" size="9.96" Annotation_index="2">3 <textline bbox="707.400,4.340,712.938,14.300" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">3 </textline>
 </slide_number>
-<picture archetypal_index="2" bbox="32.640,465.900,496.740,519.240" height="53" name="Image27" src="Image27.1290x149.bmp" width="464">
+<picture archetypal_index="2" bbox="32.640,465.900,496.740,519.240" height="53" name="Image27" src="Image27.1290x149.bmp" width="464" Annotation_index="3">
 </picture>
-<enlisting archetypal_index="3" bbox="37.392,98.57,683.76,309.82">&#8226; In the midst of prosperity, many families continue to  &#8226; Total births in the County in 2005 were 26,553 &#8226; African American births for the same year were 536 (2% of  <normal_text bbox="37.392,285.820,607.200,309.820" id="2" size="24.0">&#8226; In the midst of prosperity, many families continue to  <textline bbox="37.392,285.820,607.200,309.820" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">&#8226; In the midst of prosperity, many families continue to  </textline>
+<enlisting archetypal_index="3" bbox="37.392,98.57,683.76,309.82" Annotation_index="4">&#8226; In the midst of prosperity, many families continue to  &#8226; Total births in the County in 2005 were 26,553 &#8226; African American births for the same year were 536 (2% of  <normal_text bbox="37.392,285.820,607.200,309.820" id="2" size="24.0">&#8226; In the midst of prosperity, many families continue to  <textline bbox="37.392,285.820,607.200,309.820" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">&#8226; In the midst of prosperity, many families continue to  </textline>
 </normal_text>
 <normal_text bbox="37.392,177.790,543.720,201.790" id="4" size="24.0">&#8226; Total births in the County in 2005 were 26,553 <textline bbox="37.392,177.790,543.720,201.790" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">&#8226; Total births in the County in 2005 were 26,553 </textline>
 </normal_text>
@@ -21,5 +21,5 @@ health problems <textline bbox="55.392,256.990,677.424,280.990" colourspace="Dev
 </normal_text>
 <normal_text bbox="55.392,98.570,139.344,122.570" id="6" size="24.0">County) <textline bbox="55.392,98.570,139.344,122.570" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="24.000">County) </textline>
 </normal_text>
-</enlisting><picture archetypal_index="4" bbox="512.52,430.08,720.0,540.0" caption="" combined_sources="['Image9.1.jpg', 'Image10.1.jpg', 'Image11.1.jpg']" name="combined_0" src="combined_3_0.png" /></page>
+</enlisting><picture archetypal_index="4" bbox="512.52,430.08,720.0,540.0" caption="" combined_sources="['Image9.1.jpg', 'Image10.1.jpg', 'Image11.1.jpg']" name="combined_0" src="combined_3_0.png" Annotation_index="5" /></page>
 </pages>

@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[251.6571428571429, 437.0429523809524, 613.9542857142858, 473.0429523809524]" rotate="0">
-<title archetypal_index="0" bbox="258.220,431.372,623.548,467.372" id="0" size="36.0">Recruitment &amp; Training <textline bbox="258.220,431.372,623.548,467.372" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="(0.8, 0, 0)" size="36.000">Recruitment &amp; Training </textline>
+<title archetypal_index="0" bbox="258.220,431.372,623.548,467.372" id="0" size="36.0" Annotation_index="0">Recruitment &amp; Training <textline bbox="258.220,431.372,623.548,467.372" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="(0.8, 0, 0)" size="36.000">Recruitment &amp; Training </textline>
 </title>
-<picture archetypal_index="1" bbox="0.120,425.400,719.760,540.000" caption="Student Coordinator " height="114" name="Image13" src="Image13.6.jpg" width="719">
+<picture archetypal_index="1" bbox="0.120,425.400,719.760,540.000" caption="Student Coordinator " height="114" name="Image13" src="Image13.6.jpg" width="719" Annotation_index="1">
 </picture>
-<enlisting archetypal_index="2" bbox="37.2,157.618,725.394,331.3">&#9642; Out of pool of student volunteers 
+<enlisting archetypal_index="2" bbox="37.2,157.618,725.394,331.3" Annotation_index="2">&#9642; Out of pool of student volunteers 
 &#9642; Responsible for day-to-day operations of             &#9642; Paid position; one possible resource is FWS          <normal_text bbox="37.200,255.695,704.179,331.300" id="2" size="42.012">&#9642; Out of pool of student volunteers 
 &#9642; Responsible for day-to-day operations of             <textline bbox="37.200,289.300,506.048,331.300">&#9642; Out of pool of student volunteers <text bbox="37.200,289.300,56.436,331.300" colourspace="DeviceGray" font="BCDFEE+Wingdings-Regular" ncolour="(0.745, 0.0667, 0.114)" size="42.000">&#9642;</text>
 <text bbox="64.224,292.038,85.977,319.998" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">O</text>
@@ -154,5 +154,5 @@
 </normal_text>
 <normal_text bbox="64.224,157.618,177.602,185.578" id="5" size="27.96">program <textline bbox="64.224,157.618,177.602,185.578" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">program </textline>
 </normal_text>
-</enlisting><picture archetypal_index="3" bbox="0.12,0.0,719.76,72.24" caption="&#10;Session 21- 9 " combined_sources="['Image6.7.jpg', 'Image7.7.361x65.bmp']" name="combined_0" src="combined_9_0.png" /></page>
+</enlisting><picture archetypal_index="3" bbox="0.12,0.0,719.76,72.24" caption="&#10;Session 21- 9 " combined_sources="['Image6.7.jpg', 'Image7.7.361x65.bmp']" name="combined_0" src="combined_9_0.png" Annotation_index="3" /></page>
 </pages>

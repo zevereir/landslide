@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[155.79915555555556, 469.06562222222226, 529.0952222222223, 493.3269555555556]" rotate="0">
-<title archetypal_index="0" bbox="33.504,476.979,622.383,498.963" id="0" size="21.984">Quantum Efficiency Comparison: ACIS-S3 (BI) vs EDCCD (BI) <textline bbox="33.504,476.979,622.383,498.963" colourspace="DeviceGray" font="BCDEEE+BritannicBold" ncolour="(0, 0, 0.8)" size="21.984">Quantum Efficiency Comparison: ACIS-S3 (BI) vs EDCCD (BI) </textline>
+<title archetypal_index="0" bbox="33.504,476.979,622.383,498.963" id="0" size="21.984" Annotation_index="0">Quantum Efficiency Comparison: ACIS-S3 (BI) vs EDCCD (BI) <textline bbox="33.504,476.979,622.383,498.963" colourspace="DeviceGray" font="BCDEEE+BritannicBold" ncolour="(0, 0, 0.8)" size="21.984">Quantum Efficiency Comparison: ACIS-S3 (BI) vs EDCCD (BI) </textline>
 </title>
-<normal_text archetypal_index="1" bbox="49.392,370.258,95.117,424.638" id="2" size="15.96">Low 
+<normal_text archetypal_index="1" bbox="49.392,370.258,95.117,424.638" id="2" size="15.96" Annotation_index="1">Low 
 Yield 
 ~0.2% <textline bbox="57.672,408.678,86.955,424.638" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Low </textline>
 <textline bbox="54.912,389.458,89.689,405.418" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">Yield </textline>
 <textline bbox="49.392,370.258,95.117,386.218" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">~0.2% </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="247.250,323.193,427.912,346.742" id="6" size="20.04">= QEspec at 0.25 keV <textline bbox="247.250,323.193,427.912,346.742">= QEspec at 0.25 keV <text bbox="247.250,326.702,258.953,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040">=</text>
+<normal_text archetypal_index="2" bbox="247.250,323.193,427.912,346.742" id="6" size="20.04" Annotation_index="2">= QEspec at 0.25 keV <textline bbox="247.250,323.193,427.912,346.742">= QEspec at 0.25 keV <text bbox="247.250,326.702,258.953,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040">=</text>
 <text bbox="258.953,326.702,264.524,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040"> </text>
 <text bbox="264.404,326.702,279.995,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040">Q</text>
 <text bbox="279.995,326.702,293.362,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040">E</text>
@@ -28,9 +28,9 @@ Yield
 <text bbox="414.545,326.702,427.912,346.742" colourspace="DeviceGray" font="ArialMT" ncolour="(0.929, 0.0941, 0.118)" size="20.040">V</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="497.160,323.528,711.630,339.488" id="7" size="15.96">EDCCD + OBF:Predicted QE <textline bbox="497.160,323.528,711.630,339.488" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.0941, 0.133, 0.804)" size="15.960">EDCCD + OBF:Predicted QE </textline>
+<normal_text archetypal_index="3" bbox="497.160,323.528,711.630,339.488" id="7" size="15.96" Annotation_index="3">EDCCD + OBF:Predicted QE <textline bbox="497.160,323.528,711.630,339.488" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.0941, 0.133, 0.804)" size="15.960">EDCCD + OBF:Predicted QE </textline>
 </normal_text>
-<enlisting archetypal_index="4" bbox="240.24,152.16,443.35,235.04" id="11" size="36.0">* <textline bbox="240.240,186.624,258.240,222.624" colourspace="DeviceGray" font="SymbolMT" ncolour="(0.929, 0.0941, 0.118)" size="36.000">* </textline>
+<enlisting archetypal_index="4" bbox="240.24,152.16,443.35,235.04" id="11" size="36.0" Annotation_index="4">* <textline bbox="240.240,186.624,258.240,222.624" colourspace="DeviceGray" font="SymbolMT" ncolour="(0.929, 0.0941, 0.118)" size="36.000">* </textline>
 <normal_text bbox="404.860,152.160,433.684,178.560" id="15" size="12.0">Al 
 100&#197; <textline bbox="413.260,166.560,424.876,178.560" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.0941, 0.133, 0.804)" size="12.000">Al </textline>
 <textline bbox="404.860,152.160,433.684,164.160" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.0941, 0.133, 0.804)" size="12.000">100&#197; </textline>
@@ -40,9 +40,9 @@ Yield
 <textline bbox="394.750,195.420,443.350,213.420" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0.0941, 0.133, 0.804)" size="18.000">+OBF </textline>
 </normal_text>
 </enlisting>
-<normal_text archetypal_index="5" bbox="463.300,190.339,480.890,222.379" id="13" size="32.04">= <textline bbox="463.300,190.339,480.890,222.379" colourspace="DeviceGray" font="SymbolMT" ncolour="(0.929, 0.0941, 0.118)" size="32.040">= </textline>
+<normal_text archetypal_index="5" bbox="463.300,190.339,480.890,222.379" id="13" size="32.04" Annotation_index="5">= <textline bbox="463.300,190.339,480.890,222.379" colourspace="DeviceGray" font="SymbolMT" ncolour="(0.929, 0.0941, 0.118)" size="32.040">= </textline>
 </normal_text>
-<curvetext bbox="640.630,271.078,705.229,281.038" id="16" size="9.96">RGS Passband <textline bbox="640.630,271.078,705.229,281.038">RGS Passband <text bbox="640.630,271.078,647.821,281.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">R</text>
+<curvetext bbox="640.630,271.078,705.229,281.038" id="16" size="9.96" Annotation_index="6">RGS Passband <textline bbox="640.630,271.078,705.229,281.038">RGS Passband <text bbox="640.630,271.078,647.821,281.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">R</text>
 <text bbox="647.821,271.078,655.570,281.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">G</text>
 <text bbox="655.620,271.078,662.263,281.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">S</text>
 <text bbox="662.223,271.078,664.992,281.038" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960"> </text>
@@ -56,9 +56,9 @@ Yield
 <text bbox="700.225,271.280,705.229,280.280" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">d</text>
 </textline>
 </curvetext>
-<normal_text archetypal_index="6" bbox="569.060,199.148,626.509,209.108" id="17" size="9.96">Parameters: <textline bbox="569.060,199.148,626.509,209.108" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Parameters: </textline>
+<normal_text archetypal_index="6" bbox="569.060,199.148,626.509,209.108" id="17" size="9.96" Annotation_index="7">Parameters: <textline bbox="569.060,199.148,626.509,209.108" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Parameters: </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="580.100,139.128,687.659,197.108" id="18" size="9.96">45&#181;m Depletion Depth 
+<normal_text archetypal_index="7" bbox="580.100,139.128,687.659,197.108" id="18" size="9.96" Annotation_index="8">45&#181;m Depletion Depth 
 CC Back Illuminated 
 100&#197; Al OBF 
 50 &#197; SiO2 
@@ -77,7 +77,7 @@ CC Back Illuminated
 </textline>
 <textline bbox="582.860,139.128,619.413,149.088" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">10 &#197; Ag </textline>
 </normal_text>
-<enlisting archetypal_index="8" bbox="12.456,3.486,601.732,73.164" id="20" size="15.96">&#9642; An EDCCD can use  &gt;10x  thinner OBF than ACIS &gt;&gt;&gt; higher X-ray transmission at low Ex 
+<enlisting archetypal_index="8" bbox="12.456,3.486,601.732,73.164" id="20" size="15.96" Annotation_index="9">&#9642; An EDCCD can use  &gt;10x  thinner OBF than ACIS &gt;&gt;&gt; higher X-ray transmission at low Ex 
 &#9642; Back-illuminated EDCCD should meet Con-X  low energy QE specification <textline bbox="12.456,53.154,601.732,73.164">&#9642; An EDCCD can use  &gt;10x  thinner OBF than ACIS &gt;&gt;&gt; higher X-ray transmission at low Ex <text bbox="12.456,56.392,19.766,72.352" colourspace="DeviceGray" font="BCDFEE+Wingdings-Regular" ncolour="(0.0941, 0.133, 0.804)" size="15.960">&#9642;</text>
 <text bbox="23.376,55.674,33.048,71.634" colourspace="DeviceGray" font="BCDJEE+Calibri-Bold" ncolour="(0.0941, 0.133, 0.804)" size="15.960">A</text>
 <text bbox="33.080,55.674,41.650,71.634" colourspace="DeviceGray" font="BCDJEE+Calibri-Bold" ncolour="(0.0941, 0.133, 0.804)" size="15.960">n</text>
@@ -238,37 +238,37 @@ CC Back Illuminated
 <normal_text bbox="364.200,3.486,445.677,12.486" id="21" size="9.0">November 20, 2003 <textline bbox="364.200,3.486,445.677,12.486" colourspace="DeviceGray" font="Arial-BoldItalicMT" ncolour="(0.769, 0.624, 0.0941)" size="9.000">November 20, 2003 </textline>
 </normal_text>
 </enlisting>
-<picture archetypal_index="9" bbox="0.000,0.000,720.000,28.080" height="28" name="Image6" src="Image6.10.jpg" width="720">
+<picture archetypal_index="9" bbox="0.000,0.000,720.000,28.080" height="28" name="Image6" src="Image6.10.jpg" width="720" Annotation_index="10">
 </picture>
-<picture archetypal_index="10" bbox="0.000,495.960,720.000,540.000" caption="&#9642; Plots at left show QE of &#8220;bare CCD&#8221; ie no optical blocking filter (OBF)  &#10;RGS Passband &#10;ACIS &#10;&#8220;bare&#8221; " height="44" name="Image15" src="Image15.10.jpg" width="720">
+<picture archetypal_index="10" bbox="0.000,495.960,720.000,540.000" caption="&#9642; Plots at left show QE of &#8220;bare CCD&#8221; ie no optical blocking filter (OBF)  &#10;RGS Passband &#10;ACIS &#10;&#8220;bare&#8221; " height="44" name="Image15" src="Image15.10.jpg" width="720" Annotation_index="11">
 </picture>
-<picture archetypal_index="11" bbox="19.560,287.520,215.880,437.520" caption="High &#10;Yield &#10;&gt;20% &#10;RGS Passband &#10;ConX &#10;&#8220;bare&#8221; " height="150" name="Image113" src="Image113.jpg" width="196">
+<picture archetypal_index="11" bbox="19.560,287.520,215.880,437.520" caption="High &#10;Yield &#10;&gt;20% &#10;RGS Passband &#10;ConX &#10;&#8220;bare&#8221; " height="150" name="Image113" src="Image113.jpg" width="196" Annotation_index="12">
 </picture>
-<rect bbox="499.260,109.980,708.660,313.980" linewidth="2" />
-<picture archetypal_index="12" bbox="503.880,110.760,705.120,309.240" caption="GSFC FST Meeting&#8211;12 " height="198" name="Image114" src="Image114.jpg" width="201">
+<rect bbox="499.260,109.980,708.660,313.980" linewidth="2" Annotation_index="13" />
+<picture archetypal_index="12" bbox="503.880,110.760,705.120,309.240" caption="GSFC FST Meeting&#8211;12 " height="198" name="Image114" src="Image114.jpg" width="201" Annotation_index="14">
 </picture>
-<rect bbox="561.720,135.360,701.520,214.680" linewidth="2" />
-<curve bbox="636.120,265.800,720.000,288.120" linewidth="2" pts="636.120,288.120,699.080,288.120,720.000,276.960,699.080,265.800,636.120,265.800" />
-<curve bbox="633.360,273.600,639.000,279.240" linewidth="2" pts="633.360,276.420,633.360,277.980,634.620,279.240,636.180,279.240,637.740,279.240,639.000,277.980,639.000,276.420,639.000,274.860,637.740,273.600,636.180,273.600,634.620,273.600,633.360,274.860,633.360,276.420" />
-<curve bbox="633.360,273.600,639.000,279.240" linewidth="0" pts="633.360,276.420,633.360,277.980,634.620,279.240,636.180,279.240,637.740,279.240,639.000,277.980,639.000,276.420,639.000,274.860,637.740,273.600,636.180,273.600,634.620,273.600,633.360,274.860,633.360,276.420" />
-<curve bbox="236.520,335.040,242.520,341.040" linewidth="0" pts="236.520,338.040,236.520,339.700,237.860,341.040,239.520,341.040,241.180,341.040,242.520,339.700,242.520,338.040,242.520,336.380,241.180,335.040,239.520,335.040,237.860,335.040,236.520,336.380,236.520,338.040" />
-<curve bbox="236.520,335.040,242.520,341.040" linewidth="0" pts="236.520,338.040,236.520,339.700,237.860,341.040,239.520,341.040,241.180,341.040,242.520,339.700,242.520,338.040,242.520,336.380,241.180,335.040,239.520,335.040,237.860,335.040,236.520,336.380,236.520,338.040" />
-<picture archetypal_index="13" bbox="8.160,129.480,216.960,272.040" caption="Conclusions: " height="142" name="Image120" src="Image120.jpg" width="208">
+<rect bbox="561.720,135.360,701.520,214.680" linewidth="2" Annotation_index="15" />
+<curve bbox="636.120,265.800,720.000,288.120" linewidth="2" pts="636.120,288.120,699.080,288.120,720.000,276.960,699.080,265.800,636.120,265.800" Annotation_index="16" />
+<curve bbox="633.360,273.600,639.000,279.240" linewidth="2" pts="633.360,276.420,633.360,277.980,634.620,279.240,636.180,279.240,637.740,279.240,639.000,277.980,639.000,276.420,639.000,274.860,637.740,273.600,636.180,273.600,634.620,273.600,633.360,274.860,633.360,276.420" Annotation_index="17" />
+<curve bbox="633.360,273.600,639.000,279.240" linewidth="0" pts="633.360,276.420,633.360,277.980,634.620,279.240,636.180,279.240,637.740,279.240,639.000,277.980,639.000,276.420,639.000,274.860,637.740,273.600,636.180,273.600,634.620,273.600,633.360,274.860,633.360,276.420" Annotation_index="18" />
+<curve bbox="236.520,335.040,242.520,341.040" linewidth="0" pts="236.520,338.040,236.520,339.700,237.860,341.040,239.520,341.040,241.180,341.040,242.520,339.700,242.520,338.040,242.520,336.380,241.180,335.040,239.520,335.040,237.860,335.040,236.520,336.380,236.520,338.040" Annotation_index="19" />
+<curve bbox="236.520,335.040,242.520,341.040" linewidth="0" pts="236.520,338.040,236.520,339.700,237.860,341.040,239.520,341.040,241.180,341.040,242.520,339.700,242.520,338.040,242.520,336.380,241.180,335.040,239.520,335.040,237.860,335.040,236.520,336.380,236.520,338.040" Annotation_index="20" />
+<picture archetypal_index="13" bbox="8.160,129.480,216.960,272.040" caption="Conclusions: " height="142" name="Image120" src="Image120.jpg" width="208" Annotation_index="21">
 </picture>
-<picture archetypal_index="14" bbox="268.080,123.600,451.920,268.440" height="144" name="Image121" src="Image121.jpg" width="183">
+<picture archetypal_index="14" bbox="268.080,123.600,451.920,268.440" height="144" name="Image121" src="Image121.jpg" width="183" Annotation_index="22">
 </picture>
-<curve bbox="146.520,405.480,222.960,430.440" linewidth="0" pts="146.520,430.440,203.870,430.440,222.960,417.960,203.870,405.480,146.520,405.480" />
-<curve bbox="143.520,414.720,149.520,420.960" linewidth="0" pts="143.520,417.840,143.520,419.560,144.860,420.960,146.520,420.960,148.180,420.960,149.520,419.560,149.520,417.840,149.520,416.120,148.180,414.720,146.520,414.720,144.860,414.720,143.520,416.120,143.520,417.840" />
-<curve bbox="143.520,414.720,149.520,420.960" linewidth="0" pts="143.520,417.840,143.520,419.560,144.860,420.960,146.520,420.960,148.180,420.960,149.520,419.560,149.520,417.840,149.520,416.120,148.180,414.720,146.520,414.720,144.860,414.720,143.520,416.120,143.520,417.840" />
-<curve bbox="145.560,224.520,222.000,249.480" linewidth="0" pts="145.560,249.480,202.910,249.480,222.000,237.000,202.910,224.520,145.560,224.520" />
-<curve bbox="142.560,233.760,148.560,240.000" linewidth="0" pts="142.560,236.880,142.560,238.600,143.900,240.000,145.560,240.000,147.220,240.000,148.560,238.600,148.560,236.880,148.560,235.160,147.220,233.760,145.560,233.760,143.900,233.760,142.560,235.160,142.560,236.880" />
-<curve bbox="142.560,233.760,148.560,240.000" linewidth="0" pts="142.560,236.880,142.560,238.600,143.900,240.000,145.560,240.000,147.220,240.000,148.560,238.600,148.560,236.880,148.560,235.160,147.220,233.760,145.560,233.760,143.900,233.760,142.560,235.160,142.560,236.880" />
-<rect bbox="8.100,125.940,236.100,281.940" linewidth="1" />
-<table archetypal_index="15" bbox="0.0,312.48,213.0,407.04" dimensions="1/2"><cell bbox="99.0,312.48,213.0,343.8"><tabletext bbox="108.670,316.288,203.141,338.248" id="5" size="9.96">Actual: ACIS-S3 
+<curve bbox="146.520,405.480,222.960,430.440" linewidth="0" pts="146.520,430.440,203.870,430.440,222.960,417.960,203.870,405.480,146.520,405.480" Annotation_index="23" />
+<curve bbox="143.520,414.720,149.520,420.960" linewidth="0" pts="143.520,417.840,143.520,419.560,144.860,420.960,146.520,420.960,148.180,420.960,149.520,419.560,149.520,417.840,149.520,416.120,148.180,414.720,146.520,414.720,144.860,414.720,143.520,416.120,143.520,417.840" Annotation_index="24" />
+<curve bbox="143.520,414.720,149.520,420.960" linewidth="0" pts="143.520,417.840,143.520,419.560,144.860,420.960,146.520,420.960,148.180,420.960,149.520,419.560,149.520,417.840,149.520,416.120,148.180,414.720,146.520,414.720,144.860,414.720,143.520,416.120,143.520,417.840" Annotation_index="25" />
+<curve bbox="145.560,224.520,222.000,249.480" linewidth="0" pts="145.560,249.480,202.910,249.480,222.000,237.000,202.910,224.520,145.560,224.520" Annotation_index="26" />
+<curve bbox="142.560,233.760,148.560,240.000" linewidth="0" pts="142.560,236.880,142.560,238.600,143.900,240.000,145.560,240.000,147.220,240.000,148.560,238.600,148.560,236.880,148.560,235.160,147.220,233.760,145.560,233.760,143.900,233.760,142.560,235.160,142.560,236.880" Annotation_index="27" />
+<curve bbox="142.560,233.760,148.560,240.000" linewidth="0" pts="142.560,236.880,142.560,238.600,143.900,240.000,145.560,240.000,147.220,240.000,148.560,238.600,148.560,236.880,148.560,235.160,147.220,233.760,145.560,233.760,143.900,233.760,142.560,235.160,142.560,236.880" Annotation_index="28" />
+<rect bbox="8.100,125.940,236.100,281.940" linewidth="1" Annotation_index="29" />
+<table archetypal_index="15" bbox="0.0,312.48,213.0,407.04" dimensions="1/2" Annotation_index="30"><cell bbox="99.0,312.48,213.0,343.8"><tabletext bbox="108.670,316.288,203.141,338.248" id="5" size="9.96">Actual: ACIS-S3 
 (Prigozhin et al 1998) <textline bbox="120.070,328.288,191.872,338.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Actual: ACIS-S3 </textline>
 <textline bbox="108.670,316.288,203.141,326.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">(Prigozhin et al 1998) </textline>
 </tabletext>
-</cell><cell bbox="0.0,342.0,27.96,407.04" /></table><table archetypal_index="16" bbox="0.0,151.32,212.28,228.0" dimensions="1/2"><cell bbox="95.04,151.32,212.28,180.24"><tabletext bbox="117.740,153.741,189.426,174.718" id="12" size="9.0">Model: EDCCD 
+</cell><cell bbox="0.0,342.0,27.96,407.04" /></table><table archetypal_index="16" bbox="0.0,151.32,212.28,228.0" dimensions="1/2" Annotation_index="31"><cell bbox="95.04,151.32,212.28,180.24"><tabletext bbox="117.740,153.741,189.426,174.718" id="12" size="9.0">Model: EDCCD 
 (50&#197; SiO2 +10&#197; Ag) <textline bbox="119.540,164.758,187.736,174.718" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Model: EDCCD </textline>
 <textline bbox="117.740,153.741,189.426,163.122">(50&#197; SiO2 +10&#197; Ag) <text bbox="117.740,155.082,120.417,163.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">(</text>
 <text bbox="120.377,155.082,124.847,163.122" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">5</text>

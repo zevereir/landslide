@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<title archetypal_index="0" bbox="232.900,446.868,560.900,508.467" id="0" size="27.972">National Interoperability  
+<title archetypal_index="0" bbox="232.900,446.868,560.900,508.467" id="0" size="27.972" Annotation_index="0">National Interoperability  
 Information Exchange <textline bbox="232.900,480.483,560.900,508.467" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="27.984">National Interoperability  </textline>
 <textline bbox="245.980,446.868,539.868,474.828" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="27.960">Information Exchange </textline>
 </title>
-<enlisting archetypal_index="1" bbox="85.224,99.8,660.344,247.43" id="4" size="18.0">&#8226; NIIX is a free service that acts as a centralized clearinghouse for  <textline bbox="85.224,229.430,625.748,247.430" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; NIIX is a free service that acts as a centralized clearinghouse for  </textline>
+<enlisting archetypal_index="1" bbox="85.224,99.8,660.344,247.43" id="4" size="18.0" Annotation_index="1">&#8226; NIIX is a free service that acts as a centralized clearinghouse for  <textline bbox="85.224,229.430,625.748,247.430" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">&#8226; NIIX is a free service that acts as a centralized clearinghouse for  </textline>
 <normal_text bbox="107.780,99.800,660.344,225.830" id="5" size="18.004">interoperable communications-related information.  Interoperability  
 planning committee members can access peer-created documents  
 and share information with each other.  NIIX represents a  
@@ -17,7 +17,7 @@ related information through a web-based, secure location.  <textline bbox="107.7
 <textline bbox="107.780,99.800,571.678,117.800" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">related information through a web-based, secure location.  </textline>
 </normal_text>
 </enlisting>
-<normal_text archetypal_index="2" bbox="98.505,9.530,539.400,31.490" id="6" size="9.96">National Interoperability Information eXchange &#8211;www.NIIX.org&#8211;support@niix.org&#8211;866.807.4755 
+<normal_text archetypal_index="2" bbox="98.505,9.530,539.400,31.490" id="6" size="9.96" Annotation_index="2">National Interoperability Information eXchange &#8211;www.NIIX.org&#8211;support@niix.org&#8211;866.807.4755 
 National Public Safety Telecommunications Council - www.npstc.org <textline bbox="98.505,21.530,539.400,31.490">National Interoperability Information eXchange &#8211;www.NIIX.org&#8211;support@niix.org&#8211;866.807.4755 <text bbox="98.505,21.530,108.468,31.490" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="0" size="9.960">N</text>
 <text bbox="105.108,21.530,113.657,31.490" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="0" size="9.960">a</text>
 <text bbox="110.377,21.530,117.023,31.490" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="0" size="9.960">t</text>
@@ -175,10 +175,10 @@ National Public Safety Telecommunications Council - www.npstc.org <textline bbox
 <text bbox="463.199,9.530,472.027,19.490" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0, 0.6, 0.6)" size="9.960">g</text>
 </textline>
 </normal_text>
-<slide_number bbox="690.050,18.760,695.588,28.720" id="7" size="9.96">1 <textline bbox="690.050,18.760,695.588,28.720" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">1 </textline>
+<slide_number bbox="690.050,18.760,695.588,28.720" id="7" size="9.96" Annotation_index="3">1 <textline bbox="690.050,18.760,695.588,28.720" colourspace="DeviceGray" font="Arial-ItalicMT" ncolour="0" size="9.960">1 </textline>
 </slide_number>
-<rect bbox="42.000,60.000,672.000,408.000" linewidth="0" />
-<rect bbox="42.000,60.000,672.000,408.000" linewidth="0" />
-<rect bbox="379.440,305.640,487.800,306.960" linewidth="0" />
-<picture archetypal_index="3" bbox="42.0,427.02,685.56,528.0" caption="&#10;Welcome to the National Interoperability Information eXchange &#10;&#8226; The National Public Safety Telecommunications Council (NPSTC), at  &#10;the request of several Statewide Interoperability Planning  &#10;Committees, is offering a service (www.NIIX.org) that includes tools to  &#10;assist states with the development of their statewide communications  &#10;interoperability plans.  " combined_sources="['Image17.jpg', 'Image20.1016x173.bmp', 'Image24.919x173.bmp']" name="combined_0" src="combined_1_0.png" /></page>
+<rect bbox="42.000,60.000,672.000,408.000" linewidth="0" Annotation_index="4" />
+<rect bbox="42.000,60.000,672.000,408.000" linewidth="0" Annotation_index="5" />
+<rect bbox="379.440,305.640,487.800,306.960" linewidth="0" Annotation_index="6" />
+<picture archetypal_index="3" bbox="42.0,427.02,685.56,528.0" caption="&#10;Welcome to the National Interoperability Information eXchange &#10;&#8226; The National Public Safety Telecommunications Council (NPSTC), at  &#10;the request of several Statewide Interoperability Planning  &#10;Committees, is offering a service (www.NIIX.org) that includes tools to  &#10;assist states with the development of their statewide communications  &#10;interoperability plans.  " combined_sources="['Image17.jpg', 'Image20.1016x173.bmp', 'Image24.919x173.bmp']" name="combined_0" src="combined_1_0.png" Annotation_index="7" /></page>
 </pages>

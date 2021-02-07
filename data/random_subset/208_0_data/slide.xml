@@ -1,12 +1,12 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<title archetypal_index="0" bbox="106.150,231.860,613.894,279.860" id="0" size="48.0">National Weather Service <textline bbox="106.150,231.860,613.894,279.860" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="(0.18, 0.314, 0.478)" size="48.000">National Weather Service </textline>
+<title archetypal_index="0" bbox="106.150,231.860,613.894,279.860" id="0" size="48.0" Annotation_index="0">National Weather Service <textline bbox="106.150,231.860,613.894,279.860" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="(0.18, 0.314, 0.478)" size="48.000">National Weather Service </textline>
 </title>
-<normal_text archetypal_index="1" bbox="111.070,121.604,609.134,157.628" id="1" size="36.024">Building a Weather-Ready Nation <textline bbox="111.070,121.604,609.134,157.628" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="(0.31, 0.506, 0.741)" size="36.024">Building a Weather-Ready Nation </textline>
+<normal_text archetypal_index="1" bbox="111.070,121.604,609.134,157.628" id="1" size="36.024" Annotation_index="1">Building a Weather-Ready Nation <textline bbox="111.070,121.604,609.134,157.628" colourspace="Pattern" font="BCDEEE+Calibri-Bold" ncolour="(0.31, 0.506, 0.741)" size="36.024">Building a Weather-Ready Nation </textline>
 </normal_text>
-<picture archetypal_index="2" bbox="18.000,24.000,108.000,114.000" height="90" name="Image24" src="Image24.183x183.bmp" width="90">
+<picture archetypal_index="2" bbox="18.000,24.000,108.000,114.000" height="90" name="Image24" src="Image24.183x183.bmp" width="90" Annotation_index="2">
 </picture>
-<curve bbox="607.200,24.840,694.800,112.800" linewidth="4" pts="607.200,68.820,607.200,93.110,626.810,112.800,651.000,112.800,675.190,112.800,694.800,93.110,694.800,68.820,694.800,44.531,675.190,24.840,651.000,24.840,626.810,24.840,607.200,44.531,607.200,68.820" />
-<picture archetypal_index="3" bbox="606.000,24.000,696.000,114.000" height="90" name="Image28" src="Image28.200x199.bmp" width="90">
+<curve bbox="607.200,24.840,694.800,112.800" linewidth="4" pts="607.200,68.820,607.200,93.110,626.810,112.800,651.000,112.800,675.190,112.800,694.800,93.110,694.800,68.820,694.800,44.531,675.190,24.840,651.000,24.840,626.810,24.840,607.200,44.531,607.200,68.820" Annotation_index="3" />
+<picture archetypal_index="3" bbox="606.000,24.000,696.000,114.000" height="90" name="Image28" src="Image28.200x199.bmp" width="90" Annotation_index="4">
 </picture>
-<picture archetypal_index="4" bbox="18.36,311.76,703.32,528.72" caption="" combined_sources="['Image19.302x302.bmp', 'Image21.jpg', 'Image30.302x302.bmp', 'Image32.515x424.bmp', 'Image33.302x302.bmp', 'Image35.jpg']" name="combined_0" src="combined_1_0.png" /></page>
+<picture archetypal_index="4" bbox="18.36,311.76,703.32,528.72" caption="" combined_sources="['Image19.302x302.bmp', 'Image21.jpg', 'Image30.302x302.bmp', 'Image32.515x424.bmp', 'Image33.302x302.bmp', 'Image35.jpg']" name="combined_0" src="combined_1_0.png" Annotation_index="5" /></page>
 </pages>

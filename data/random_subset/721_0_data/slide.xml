@@ -1,19 +1,19 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<title archetypal_index="0" bbox="253.060,479.232,568.890,535.611" id="0" size="26.052">Data Taking Statistics 
+<title archetypal_index="0" bbox="253.060,479.232,568.890,535.611" id="0" size="26.052" Annotation_index="0">Data Taking Statistics 
 Week of 2003 Jun 30 - Jul 6 <textline bbox="253.060,503.547,568.890,535.611" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0.502, 0, 0)" size="32.064">Data Taking Statistics </textline>
 <textline bbox="278.860,479.232,543.132,499.272" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0.2, 0.2, 0.8)" size="20.040">Week of 2003 Jun 30 - Jul 6 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="52.152,217.342,148.344,237.382" id="1" size="20.04">This Week <textline bbox="52.152,217.342,148.344,237.382" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="20.040">This Week </textline>
+<normal_text archetypal_index="1" bbox="52.152,217.342,148.344,237.382" id="1" size="20.04" Annotation_index="1">This Week <textline bbox="52.152,217.342,148.344,237.382" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="20.040">This Week </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="435.940,212.690,544.308,287.558" id="6" size="18.648">Physics Events 
+<normal_text archetypal_index="2" bbox="435.940,212.690,544.308,287.558" id="6" size="18.648" Annotation_index="2">Physics Events 
 (million) 
 5.2 <textline bbox="435.940,271.598,544.308,287.558" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="15.960">Physics Events </textline>
 <textline bbox="458.620,248.553,521.453,264.537" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="15.984">(million) </textline>
 <textline bbox="471.700,212.690,508.564,236.690" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="24.000">5.2 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="52.392,178.962,147.983,199.002" id="7" size="20.04">Last Week <textline bbox="52.392,178.962,147.983,199.002" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="20.040">Last Week </textline>
+<normal_text archetypal_index="3" bbox="52.392,178.962,147.983,199.002" id="7" size="20.04" Annotation_index="3">Last Week <textline bbox="52.392,178.962,147.983,199.002" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="20.040">Last Week </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="49.848,116.975,150.643,163.002" id="8" size="19.032">Best Week 
+<normal_text archetypal_index="4" bbox="49.848,116.975,150.643,163.002" id="8" size="19.032" Annotation_index="4">Best Week 
 (2003 May 12-18) <textline bbox="51.552,142.962,148.806,163.002" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="20.040">Best Week </textline>
 <textline bbox="49.848,116.975,150.643,134.999">(2003 May 12-18) <text bbox="49.848,116.975,56.463,134.999" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="18.024">(</text>
 <text bbox="56.472,118.205,63.518,130.229" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="12.024">2</text>
@@ -33,7 +33,7 @@ Week of 2003 Jun 30 - Jul 6 <textline bbox="253.060,503.547,568.890,535.611" col
 <text bbox="146.230,118.205,150.643,130.229" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="12.024">)</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="207.190,138.310,294.783,199.118" id="9" size="24.0">6.9 pb-1 
+<normal_text archetypal_index="5" bbox="207.190,138.310,294.783,199.118" id="9" size="24.0" Annotation_index="5">6.9 pb-1 
 7.8 pb-1 <textline bbox="207.190,174.310,294.783,199.118">6.9 pb-1 <text bbox="207.190,174.310,221.254,198.310" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="24.000">6</text>
 <text bbox="221.254,174.310,230.062,198.310" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="24.000">.</text>
 <text bbox="229.990,174.310,244.054,198.310" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="24.000">9</text>
@@ -53,7 +53,7 @@ Week of 2003 Jun 30 - Jul 6 <textline bbox="253.060,503.547,568.890,535.611" col
 <text bbox="285.430,147.158,294.783,163.118" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="0" size="15.960">1</text>
 </textline>
 </normal_text>
-<enlisting archetypal_index="6" bbox="7.200,47.304,671.760,102.984" id="14" size="24.0">&#8226; Bad News: Lowest operating efficiency in three months 
+<enlisting archetypal_index="6" bbox="7.200,47.304,671.760,102.984" id="14" size="24.0" Annotation_index="6">&#8226; Bad News: Lowest operating efficiency in three months 
 &#8226; Good News: Lowest operating efficiency in three months <textline bbox="7.200,78.984,655.370,102.984">&#8226; Bad News: Lowest operating efficiency in three months <text bbox="7.200,78.984,19.776,102.984" colourspace="Pattern" font="BCDGEE+TrebuchetMS" ncolour="(0, 0, 0.6)" size="24.000">&#8226;</text>
 <text bbox="34.200,78.984,48.480,102.984" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="24.000">B</text>
 <text bbox="48.480,78.984,61.272,102.984" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="24.000">a</text>
@@ -164,7 +164,7 @@ Week of 2003 Jun 30 - Jul 6 <textline bbox="253.060,503.547,568.890,535.611" col
 <text bbox="661.416,47.304,671.760,71.304" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="24.000">s</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="7" bbox="31.200,15.866,311.334,29.906" id="15" size="14.04">07 July 2003  - All Experimenters&#8217; Meeting <textline bbox="31.200,15.866,311.334,29.906">07 July 2003  - All Experimenters&#8217; Meeting <text bbox="31.200,15.866,39.427,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">0</text>
+<normal_text archetypal_index="7" bbox="31.200,15.866,311.334,29.906" id="15" size="14.04" Annotation_index="7">07 July 2003  - All Experimenters&#8217; Meeting <textline bbox="31.200,15.866,311.334,29.906">07 July 2003  - All Experimenters&#8217; Meeting <text bbox="31.200,15.866,39.427,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">0</text>
 <text bbox="39.470,15.866,47.697,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">7</text>
 <text bbox="47.739,15.866,51.965,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040"> </text>
 <text bbox="51.965,15.866,59.448,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">J</text>
@@ -207,16 +207,16 @@ Week of 2003 Jun 30 - Jul 6 <textline bbox="253.060,503.547,568.890,535.611" col
 <text bbox="304.286,15.866,311.334,29.906" colourspace="DeviceGray" font="BCDFEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">g</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="393.240,15.866,668.973,29.906" id="16" size="14.04">Alan L. Stone  - Louisiana Tech University <textline bbox="393.240,15.866,668.973,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">Alan L. Stone  - Louisiana Tech University </textline>
+<normal_text archetypal_index="8" bbox="393.240,15.866,668.973,29.906" id="16" size="14.04" Annotation_index="8">Alan L. Stone  - Louisiana Tech University <textline bbox="393.240,15.866,668.973,29.906" colourspace="DeviceGray" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0.6, 0.8)" size="14.040">Alan L. Stone  - Louisiana Tech University </textline>
 </normal_text>
-<slide_number bbox="699.720,15.711,706.740,29.751" id="17" size="14.04">1 <textline bbox="699.720,15.711,706.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0.8)" size="14.040">1 </textline>
+<slide_number bbox="699.720,15.711,706.740,29.751" id="17" size="14.04" Annotation_index="9">1 <textline bbox="699.720,15.711,706.740,29.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0.6, 0.8)" size="14.040">1 </textline>
 </slide_number>
-<picture archetypal_index="9" bbox="0.000,486.000,102.000,540.000" height="54" name="Image6" src="Image6.jpg" width="102">
+<picture archetypal_index="9" bbox="0.000,486.000,102.000,540.000" height="54" name="Image6" src="Image6.jpg" width="102" Annotation_index="10">
 </picture>
-<rect bbox="102.000,480.000,720.000,540.000" linewidth="0" />
-<rect bbox="157.320,78.600,236.640,81.000" linewidth="0" />
-<rect bbox="520.440,46.920,582.000,49.320" linewidth="0" />
-<table archetypal_index="10" bbox="188.38,113.06,564.0,294.0" dimensions="3/4"><cell bbox="188.38,244.56,313.63,294.0"><tabletext bbox="203.110,252.393,298.934,287.558" id="4" size="15.972000000000001">Recorded  
+<rect bbox="102.000,480.000,720.000,540.000" linewidth="0" Annotation_index="11" />
+<rect bbox="157.320,78.600,236.640,81.000" linewidth="0" Annotation_index="12" />
+<rect bbox="520.440,46.920,582.000,49.320" linewidth="0" Annotation_index="13" />
+<table archetypal_index="10" bbox="188.38,113.06,564.0,294.0" dimensions="3/4" Annotation_index="14"><cell bbox="188.38,244.56,313.63,294.0"><tabletext bbox="203.110,252.393,298.934,287.558" id="4" size="15.972000000000001">Recorded  
 Physics Lumi <textline bbox="215.830,271.598,291.097,287.558" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="15.960">Recorded  </textline>
 <textline bbox="203.110,252.393,298.934,268.377" colourspace="Pattern" font="BCDEEE+TrebuchetMS-Bold" ncolour="(0, 0, 0.6)" size="15.984">Physics Lumi </textline>
 </tabletext>

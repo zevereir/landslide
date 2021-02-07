@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[80.592, 425.428, 593.998, 465.388]" rotate="0">
-<title archetypal_index="0" bbox="80.592,425.428,593.998,465.388" id="0" size="39.96">What were we talking about? <textline bbox="80.592,425.428,593.998,465.388" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">What were we talking about? </textline>
+<title archetypal_index="0" bbox="80.592,425.428,593.998,465.388" id="0" size="39.96" Annotation_index="0">What were we talking about? <textline bbox="80.592,425.428,593.998,465.388" colourspace="Pattern" font="ArialMT" ncolour="0" size="39.960">What were we talking about? </textline>
 </title>
-<enlisting archetypal_index="1" bbox="81.960,158.202,581.129,374.582" id="1" size="22.444799999999997">&#9724; Basic Financial Management 
+<enlisting archetypal_index="1" bbox="81.960,158.202,581.129,374.582" id="1" size="22.444799999999997" Annotation_index="1">&#9724; Basic Financial Management 
 &#9724; Non-Profit Food Service Account 
 &#9724; Revenues and Expenditures 
 &#9724; Financial Reports 
@@ -142,7 +142,7 @@
 <text bbox="527.500,158.202,534.613,190.242" colourspace="Pattern" font="ArialMT" ncolour="0.161" size="32.040">l</text>
 </textline>
 </enlisting>
-<curve bbox="66.000,411.720,78.000,495.720" linewidth="6" pts="78.000,411.720,66.000,411.720,66.000,495.720,78.000,495.720" />
-<curve bbox="650.640,434.280,662.640,518.760" linewidth="6" pts="650.640,518.760,662.640,518.760,662.640,434.280,650.640,434.280" />
+<curve bbox="66.000,411.720,78.000,495.720" linewidth="6" pts="78.000,411.720,66.000,411.720,66.000,495.720,78.000,495.720" Annotation_index="2" />
+<curve bbox="650.640,434.280,662.640,518.760" linewidth="6" pts="650.640,518.760,662.640,518.760,662.640,434.280,650.640,434.280" Annotation_index="3" />
 </page>
 </pages>

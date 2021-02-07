@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="4" mean_title="[169.43533333333332, 462.43499999999995, 550.3731666666666, 503.75500000000005]" rotate="0">
-<title archetypal_index="0" bbox="192.220,468.709,527.524,508.669" id="0" size="39.96">Extract Light Curves <textline bbox="192.220,468.709,527.524,508.669" colourspace="DeviceGray" font="BCDFEE+Times" ncolour="(0.898, 1, 1)" size="39.960">Extract Light Curves </textline>
+<title archetypal_index="0" bbox="192.220,468.709,527.524,508.669" id="0" size="39.96" Annotation_index="0">Extract Light Curves <textline bbox="192.220,468.709,527.524,508.669" colourspace="DeviceGray" font="BCDFEE+Times" ncolour="(0.898, 1, 1)" size="39.960">Extract Light Curves </textline>
 </title>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.2.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.2.jpg" width="720" Annotation_index="1">
 </background>
-<picture archetypal_index="1" bbox="60.000,18.000,287.160,438.000" height="420" name="Image90" src="Image90.519x960.bmp" width="227">
+<picture archetypal_index="1" bbox="60.000,18.000,287.160,438.000" height="420" name="Image90" src="Image90.519x960.bmp" width="227" Annotation_index="2">
 </picture>
-<enlisting archetypal_index="2" bbox="307.25,175.481,680.361,430.771">&#9724; OVII and Hard Band (2.5-12.0 keV) 
+<enlisting archetypal_index="2" bbox="307.25,175.481,680.361,430.771" Annotation_index="3">&#9724; OVII and Hard Band (2.5-12.0 keV) 
 &#9724; Scatter plot of OVII count rate versus hard  &#9724; Correlation indicates contamination =&gt;  &#9724; Add MOS1, MOS2 and PN count rates,  <normal_text bbox="307.250,381.931,680.361,430.771" id="1" size="12.96">&#9724; OVII and Hard Band (2.5-12.0 keV) 
 &#9724; Scatter plot of OVII count rate versus hard  <textline bbox="307.250,410.731,626.079,430.771">&#9724; OVII and Hard Band (2.5-12.0 keV) <text bbox="307.250,412.403,316.931,425.363" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="(0, 0.8, 1)" size="12.960">&#9724;</text>
 <text bbox="334.270,410.731,348.739,430.771" colourspace="DeviceGray" font="BCDFEE+Times" ncolour="(0.4, 1, 1)" size="20.040">O</text>

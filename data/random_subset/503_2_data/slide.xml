@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[51.792, 496.07366666666667, 668.1196666666666, 522.8763333333334]" rotate="0">
-<title archetypal_index="0" bbox="41.256,493.758,674.138,521.950" id="0" size="24.0">Phase dependence of the C2H2 layers and the dust shell <textline bbox="41.256,493.758,674.138,521.950">Phase dependence of the C2H2 layers and the dust shell <text bbox="41.256,497.950,57.264,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">P</text>
+<title archetypal_index="0" bbox="41.256,493.758,674.138,521.950" id="0" size="24.0" Annotation_index="0">Phase dependence of the C2H2 layers and the dust shell <textline bbox="41.256,493.758,674.138,521.950">Phase dependence of the C2H2 layers and the dust shell <text bbox="41.256,497.950,57.264,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">P</text>
 <text bbox="57.264,497.950,71.928,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">h</text>
 <text bbox="71.928,497.950,85.272,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">a</text>
 <text bbox="85.176,497.950,98.520,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">s</text>
@@ -55,13 +55,13 @@
 <text bbox="667.466,497.950,674.138,521.950" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 0.8, 0)" size="24.000">l</text>
 </textline>
 </title>
-<normal_text archetypal_index="1" bbox="131.900,118.040,559.634,157.640" id="3" size="18.0">Detailed description of the observations and modeling 
+<normal_text archetypal_index="1" bbox="131.900,118.040,559.634,157.640" id="3" size="18.0" Annotation_index="1">Detailed description of the observations and modeling 
 is given in Ohnaka et al. (2007, A&amp;A, 466, 1099)         <textline bbox="131.900,139.640,559.634,157.640" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0.8, 0)" size="18.000">Detailed description of the observations and modeling </textline>
 <textline bbox="133.820,118.040,557.756,136.040" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0.8, 0)" size="18.000">is given in Ohnaka et al. (2007, A&amp;A, 466, 1099)         </textline>
 </normal_text>
-<picture archetypal_index="2" bbox="6.240,332.400,714.360,477.960" caption="C2H2 layers                                  &#10;Smallest radius and smallest       &#10;column density at minimum light &#10;Dust shell (amorphous carbon + SiC)    &#10;Lowest optical depth at minimum light   " height="145" name="Image38" src="Image38.jpg" width="708">
+<picture archetypal_index="2" bbox="6.240,332.400,714.360,477.960" caption="C2H2 layers                                  &#10;Smallest radius and smallest       &#10;column density at minimum light &#10;Dust shell (amorphous carbon + SiC)    &#10;Lowest optical depth at minimum light   " height="145" name="Image38" src="Image38.jpg" width="708" Annotation_index="2">
 </picture>
-<curve bbox="257.130,260.780,345.900,389.100" linewidth="2" pts="258.990,260.780,341.090,380.120,339.230,381.400,257.130,262.060,344.160,376.640,345.900,389.100,334.890,383.020" />
-<curve bbox="422.460,243.780,497.090,360.660" linewidth="2" pts="495.190,243.780,426.930,351.510,428.830,352.710,497.090,244.980,423.730,348.150,422.460,360.660,433.230,354.170" />
+<curve bbox="257.130,260.780,345.900,389.100" linewidth="2" pts="258.990,260.780,341.090,380.120,339.230,381.400,257.130,262.060,344.160,376.640,345.900,389.100,334.890,383.020" Annotation_index="3" />
+<curve bbox="422.460,243.780,497.090,360.660" linewidth="2" pts="495.190,243.780,426.930,351.510,428.830,352.710,497.090,244.980,423.730,348.150,422.460,360.660,433.230,354.170" Annotation_index="4" />
 </page>
 </pages>

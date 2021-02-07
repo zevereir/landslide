@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="54" mean_title="[100.51901707317073, 433.12640000000005, 503.9452719512196, 506.90099512195127]" rotate="0">
-<title archetypal_index="0" bbox="184.780,421.210,433.210,465.250" id="0" size="44.04">POOL CLOSED <textline bbox="184.780,421.210,433.210,465.250" colourspace="DeviceGray" font="BCDJEE+Calibri" ncolour="(0.0235, 0.11, 0.384)" size="44.040">POOL CLOSED </textline>
+<title archetypal_index="0" bbox="184.780,421.210,433.210,465.250" id="0" size="44.04" Annotation_index="0">POOL CLOSED <textline bbox="184.780,421.210,433.210,465.250" colourspace="DeviceGray" font="BCDJEE+Calibri" ncolour="(0.0235, 0.11, 0.384)" size="44.040">POOL CLOSED </textline>
 </title>
-<enlisting archetypal_index="1" bbox="25.200,112.019,532.886,374.862" id="1" size="32.044">&#61609;No Chlorine 
+<enlisting archetypal_index="1" bbox="25.200,112.019,532.886,374.862" id="1" size="32.044" Annotation_index="1">&#61609;No Chlorine 
 &#61609;Excessive Chlorine 
 &#61609;High Temperature 
 &#61609;Main Drain Loose, Cracked, Missing 
@@ -151,6 +151,6 @@
 <text bbox="319.980,112.019,336.000,144.059" colourspace="DeviceGray" font="TimesNewRomanPS-ItalicMT" ncolour="(0.176, 0.145, 0.145)" size="32.040">n</text>
 </textline>
 </enlisting>
-<curve bbox="184.730,424.320,433.250,427.200" linewidth="0" pts="184.730,427.200,308.990,427.200,433.250,427.200,433.250,424.320,308.990,424.320,184.730,424.320" />
+<curve bbox="184.730,424.320,433.250,427.200" linewidth="0" pts="184.730,427.200,308.990,427.200,433.250,427.200,433.250,424.320,308.990,424.320,184.730,424.320" Annotation_index="2" />
 </page>
 </pages>

@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[40.63199999999999, 485.207, 144.6536, 511.271]" rotate="0">
-<title archetypal_index="0" bbox="40.632,485.207,134.697,511.271" id="0" size="26.064">Climate <textline bbox="40.632,485.207,134.697,511.271" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.064">Climate </textline>
+<title archetypal_index="0" bbox="40.632,485.207,134.697,511.271" id="0" size="26.064" Annotation_index="0">Climate <textline bbox="40.632,485.207,134.697,511.271" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.064">Climate </textline>
 </title>
-<normal_text archetypal_index="1" bbox="129.460,297.107,381.785,320.016" id="3" size="21.96">(avg ~45-50 oF; large s...) <textline bbox="129.460,297.107,381.785,320.016">(avg ~45-50 oF; large s...) <text bbox="129.460,297.238,136.773,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">(</text>
+<normal_text archetypal_index="1" bbox="129.460,297.107,381.785,320.016" id="3" size="21.96" Annotation_index="1">(avg ~45-50 oF; large s...) <textline bbox="129.460,297.107,381.785,320.016">(avg ~45-50 oF; large s...) <text bbox="129.460,297.238,136.773,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">(</text>
 <text bbox="136.773,297.238,148.982,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">a</text>
 <text bbox="148.982,297.238,159.962,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">v</text>
 <text bbox="159.962,297.238,172.172,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">g</text>
@@ -30,11 +30,11 @@
 <text bbox="374.472,297.238,381.785,319.198" colourspace="DeviceGray" font="ArialMT" ncolour="0.867" size="21.960">)</text>
 </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.4.1504x1127.bmp" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.4.1504x1127.bmp" width="720" Annotation_index="2">
 </background>
-<picture archetypal_index="2" bbox="0.000,438.120,720.000,540.000" caption="&#8226; Southeast has UK&#8217;s best weather &#10;&#8226; April often reasonably dry and mild  " height="101" name="Image7" src="Image7.4.1504x213.bmp" width="720">
+<picture archetypal_index="2" bbox="0.000,438.120,720.000,540.000" caption="&#8226; Southeast has UK&#8217;s best weather &#10;&#8226; April often reasonably dry and mild  " height="101" name="Image7" src="Image7.4.1504x213.bmp" width="720" Annotation_index="3">
 </picture>
-<picture archetypal_index="3" bbox="524.400,74.280,684.720,377.760" height="303" name="Image44" src="Image44.jpg" width="160">
+<picture archetypal_index="3" bbox="524.400,74.280,684.720,377.760" height="303" name="Image44" src="Image44.jpg" width="160" Annotation_index="4">
 </picture>
-<picture archetypal_index="4" bbox="93.48,56.04,370.92,258.6" caption="" combined_sources="['Image45.jpg', 'Image46.96x83.bmp']" name="combined_0" src="combined_6_0.png" /></page>
+<picture archetypal_index="4" bbox="93.48,56.04,370.92,258.6" caption="" combined_sources="['Image45.jpg', 'Image46.96x83.bmp']" name="combined_0" src="combined_6_0.png" Annotation_index="5" /></page>
 </pages>

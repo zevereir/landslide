@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[94.84716483516482, 474.52590109890116, 340.26075824175825, 529.5720769230769]" rotate="0">
-<title archetypal_index="0" bbox="61.224,484.914,75.871,532.938" id="0" size="48.024">f <textline bbox="61.224,484.914,75.871,532.938" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="48.024">f </textline>
+<title archetypal_index="0" bbox="61.224,484.914,75.871,532.938" id="0" size="48.024" Annotation_index="0">f <textline bbox="61.224,484.914,75.871,532.938" colourspace="DeviceGray" font="BCDEEE+Calibri" ncolour="0" size="48.024">f </textline>
 </title>
-<normal_text archetypal_index="1" bbox="169.990,491.993,580.416,516.017" id="1" size="24.024">Infrastructure for Elliptical cavities <textline bbox="169.990,491.993,580.416,516.017" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0.8, 0, 0)" size="24.024">Infrastructure for Elliptical cavities </textline>
+<normal_text archetypal_index="1" bbox="169.990,491.993,580.416,516.017" id="1" size="24.024" Annotation_index="1">Infrastructure for Elliptical cavities <textline bbox="169.990,491.993,580.416,516.017" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="(0.8, 0, 0)" size="24.024">Infrastructure for Elliptical cavities </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="156.790,9.116,539.181,23.180" id="8" size="14.064">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <textline bbox="156.790,9.116,539.181,23.180">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <text bbox="156.790,9.116,163.119,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
+<normal_text archetypal_index="2" bbox="156.790,9.116,539.181,23.180" id="8" size="14.064" Annotation_index="2">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <textline bbox="156.790,9.116,539.181,23.180">11/21/08     Project X Collaboration meeting &#8211; Bob Kephart <text bbox="156.790,9.116,163.119,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
 <text bbox="163.119,9.116,169.448,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">1</text>
 <text bbox="169.490,9.116,176.691,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">/</text>
 <text bbox="176.691,9.116,185.270,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">2</text>
@@ -62,11 +62,11 @@
 <text bbox="532.557,9.116,539.181,23.180" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="14.064">t</text>
 </textline>
 </normal_text>
-<slide_number bbox="652.080,11.597,664.815,23.621" id="9" size="12.024">15 <textline bbox="652.080,11.597,664.815,23.621" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="12.024">15 </textline>
+<slide_number bbox="652.080,11.597,664.815,23.621" id="9" size="12.024" Annotation_index="3">15 <textline bbox="652.080,11.597,664.815,23.621" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="12.024">15 </textline>
 </slide_number>
-<picture archetypal_index="3" bbox="154.920,475.860,596.700,529.200" height="53" name="Image130" src="Image130.1.1228x149.bmp" width="441">
+<picture archetypal_index="3" bbox="154.920,475.860,596.700,529.200" height="53" name="Image130" src="Image130.1.1228x149.bmp" width="441" Annotation_index="4">
 </picture>
-<enlisting archetypal_index="4" bbox="55.2,80.544,654.648,457.66">&#9642; Required throughput:  360 cavities in 36 months &#10132; &#9642; Currently we envision two b=1 elliptical cavity  &#9642; Assume all HTS testing is done at FNAL &#9642; Elliptical cavities must be &#8220;dressed&#8221; with Helium  
+<enlisting archetypal_index="4" bbox="55.2,80.544,654.648,457.66" Annotation_index="5">&#9642; Required throughput:  360 cavities in 36 months &#10132; &#9642; Currently we envision two b=1 elliptical cavity  &#9642; Assume all HTS testing is done at FNAL &#9642; Elliptical cavities must be &#8220;dressed&#8221; with Helium  
 vessels, couplers, tuners and HTS tested prior to  
 integration into cryomodules. 10 per month average (+ any rework) <normal_text bbox="55.200,305.110,654.648,330.790" id="3" size="24.0">&#9642; Required throughput:  360 cavities in 36 months &#10132; <textline bbox="55.200,305.110,654.648,330.790">&#9642; Required throughput:  360 cavities in 36 months &#10132; <text bbox="55.200,306.790,66.192,330.790" colourspace="DeviceGray" font="BCDIEE+Wingdings-Regular" ncolour="0" size="24.000">&#9642;</text>
 <text bbox="82.224,305.110,97.296,329.110" colourspace="DeviceGray" font="BCDFEE+ComicSansMS" ncolour="0" size="24.000">R</text>

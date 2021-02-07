@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[43.2, 458.20560000000006, 536.8724000000001, 505.8912]" rotate="0">
-<title archetypal_index="0" bbox="43.200,458.180,566.613,510.797" id="0" size="25.992">Quick Response Freight Manual (1996)  
+<title archetypal_index="0" bbox="43.200,458.180,566.613,510.797" id="0" size="25.992" Annotation_index="0">Quick Response Freight Manual (1996)  
 Usage <textline bbox="43.200,482.813,566.613,510.797" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="27.984">Quick Response Freight Manual (1996)  </textline>
 <textline bbox="43.200,458.180,115.152,482.180" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="24.000">Usage </textline>
 </title>
-<slide_number bbox="32.448,18.384,39.120,30.384" id="1" size="12.0">5 <textline bbox="32.448,18.384,39.120,30.384" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">5 </textline>
+<slide_number bbox="32.448,18.384,39.120,30.384" id="1" size="12.0" Annotation_index="1">5 <textline bbox="32.448,18.384,39.120,30.384" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">5 </textline>
 </slide_number>
-<rect bbox="-12.120,450.720,664.560,452.280" linewidth="0" />
-<rect bbox="34.920,37.080,36.360,546.240" linewidth="0" />
-<rect bbox="707.280,-12.840,707.760,176.880" linewidth="0" />
-<picture archetypal_index="1" bbox="608.640,20.400,700.800,42.720" height="22" name="Image6" src="Image6.4.369x89.bmp" width="92">
+<rect bbox="-12.120,450.720,664.560,452.280" linewidth="0" Annotation_index="2" />
+<rect bbox="34.920,37.080,36.360,546.240" linewidth="0" Annotation_index="3" />
+<rect bbox="707.280,-12.840,707.760,176.880" linewidth="0" Annotation_index="4" />
+<picture archetypal_index="1" bbox="608.640,20.400,700.800,42.720" height="22" name="Image6" src="Image6.4.369x89.bmp" width="92" Annotation_index="5">
 </picture>
-<rect bbox="348.820,221.260,708.740,440.420" linewidth="1" />
+<rect bbox="348.820,221.260,708.740,440.420" linewidth="1" Annotation_index="6" />
 </page>
 </pages>

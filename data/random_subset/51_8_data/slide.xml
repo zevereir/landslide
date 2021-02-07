@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[103.45222222222223, 459.45013888888894, 586.6603055555556, 508.40205555555553]" rotate="0">
-<title archetypal_index="0" bbox="94.512,484.257,625.524,516.321" id="0" size="32.064">Formation of furan from fatty acids <textline bbox="94.512,484.257,625.524,516.321" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.064">Formation of furan from fatty acids </textline>
+<title archetypal_index="0" bbox="94.512,484.257,625.524,516.321" id="0" size="32.064" Annotation_index="0">Formation of furan from fatty acids <textline bbox="94.512,484.257,625.524,516.321" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="32.064">Formation of furan from fatty acids </textline>
 </title>
-<normal_text archetypal_index="1" bbox="29.832,341.615,184.894,402.790" id="4" size="24.012">Linoleic 
+<normal_text archetypal_index="1" bbox="29.832,341.615,184.894,402.790" id="4" size="24.012" Annotation_index="1">Linoleic 
 Linoleic + Fe+3 <textline bbox="29.832,378.790,110.952,402.790" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Linoleic </textline>
 <textline bbox="29.832,341.615,184.894,366.468">Linoleic + Fe+3 <text bbox="29.832,341.615,43.189,365.639" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">L</text>
 <text bbox="43.189,341.615,48.523,365.639" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.024">i</text>
@@ -20,7 +20,7 @@ Linoleic + Fe+3 <textline bbox="29.832,378.790,110.952,402.790" colourspace="Pat
 <text bbox="176.020,350.508,184.894,366.468" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="29.832,267.290,198.334,328.460" id="5" size="24.0">Linolenic 
+<normal_text archetypal_index="2" bbox="29.832,267.290,198.334,328.460" id="5" size="24.0" Annotation_index="2">Linolenic 
 Linolenic + Fe+3 <textline bbox="29.832,304.460,124.272,328.460" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Linolenic </textline>
 <textline bbox="29.832,267.290,198.334,292.138">Linolenic + Fe+3 <text bbox="29.832,267.290,43.176,291.290" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">L</text>
 <text bbox="43.176,267.290,48.504,291.290" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">i</text>
@@ -40,7 +40,7 @@ Linolenic + Fe+3 <textline bbox="29.832,304.460,124.272,328.460" colourspace="Pa
 <text bbox="189.460,276.178,198.334,292.138" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="29.832,192.960,220.054,254.090" id="6" size="24.0">Trilinoleate 
+<normal_text archetypal_index="3" bbox="29.832,192.960,220.054,254.090" id="6" size="24.0" Annotation_index="3">Trilinoleate 
 Trilinoleate + Fe+3 <textline bbox="29.832,230.090,146.136,254.090" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Trilinoleate </textline>
 <textline bbox="29.832,192.960,220.054,217.808">Trilinoleate + Fe+3 <text bbox="29.832,192.960,44.496,216.960" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">T</text>
 <text bbox="43.632,192.960,51.624,216.960" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">r</text>
@@ -63,7 +63,7 @@ Trilinoleate + Fe+3 <textline bbox="29.832,230.090,146.136,254.090" colourspace=
 <text bbox="211.180,201.848,220.054,217.808" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="29.832,118.560,226.774,179.760" id="7" size="24.0">Trilinolenate 
+<normal_text archetypal_index="4" bbox="29.832,118.560,226.774,179.760" id="7" size="24.0" Annotation_index="4">Trilinolenate 
 Trilinolenate +Fe+3 <textline bbox="29.832,155.760,159.408,179.760" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">Trilinolenate </textline>
 <textline bbox="29.832,118.560,226.774,143.408">Trilinolenate +Fe+3 <text bbox="29.832,118.560,44.496,142.560" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">T</text>
 <text bbox="43.632,118.560,51.624,142.560" colourspace="Pattern" font="ArialMT" ncolour="0" size="24.000">r</text>
@@ -86,11 +86,11 @@ Trilinolenate +Fe+3 <textline bbox="29.832,155.760,159.408,179.760" colourspace=
 <text bbox="217.900,127.448,226.774,143.408" colourspace="Pattern" font="ArialMT" ncolour="0" size="15.960">3</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="59.376,2.832,163.644,29.232" id="8" size="12.0">Health        Sant&#233; 
+<normal_text archetypal_index="5" bbox="59.376,2.832,163.644,29.232" id="8" size="12.0" Annotation_index="5">Health        Sant&#233; 
 Canada      Canada <textline bbox="59.376,17.232,152.364,29.232" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Health        Sant&#233; </textline>
 <textline bbox="59.376,2.832,163.644,14.832" colourspace="Pattern" font="ArialMT" ncolour="1" size="12.000">Canada      Canada </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="313.390,30.248,687.818,104.437" id="34" size="13.32">aConcentration of furan in 0.5 mL  of reaction mixture 
+<normal_text archetypal_index="6" bbox="313.390,30.248,687.818,104.437" id="34" size="13.32" Annotation_index="6">aConcentration of furan in 0.5 mL  of reaction mixture 
 Reagent &#8211; 10 mg 
 Fe+3 &#8211; 100 &#181;g  
 b number of experiments <textline bbox="313.390,87.848,687.818,104.437">aConcentration of furan in 0.5 mL  of reaction mixture <text bbox="313.390,93.757,319.328,104.437" colourspace="Pattern" font="ArialMT" ncolour="1" size="10.680">a</text>
@@ -186,7 +186,7 @@ b number of experiments <textline bbox="313.390,87.848,687.818,104.437">aConcent
 <text bbox="479.272,30.248,487.252,46.208" colourspace="Pattern" font="ArialMT" ncolour="1" size="15.960">s</text>
 </textline>
 </normal_text>
-<table archetypal_index="7" bbox="22.625,114.12,688.87,448.625" dimensions="4/9"><cell bbox="22.625,411.5,287.875,448.625"><tabletext bbox="101.300,415.990,209.180,439.990" id="1" size="24.0">Reagents <textline bbox="101.300,415.990,209.180,439.990" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="24.000">Reagents </textline>
+<table archetypal_index="7" bbox="22.625,114.12,688.87,448.625" dimensions="4/9" Annotation_index="7"><cell bbox="22.625,411.5,287.875,448.625"><tabletext bbox="101.300,415.990,209.180,439.990" id="1" size="24.0">Reagents <textline bbox="101.300,415.990,209.180,439.990" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="24.000">Reagents </textline>
 </tabletext>
 </cell><cell bbox="287.88,411.5,494.88,448.625"><tabletext bbox="317.020,415.990,465.854,440.838" id="2" size="24.0">Furan (ng/g)a <textline bbox="317.020,415.990,465.854,440.838">Furan (ng/g)a <text bbox="317.020,415.990,331.684,439.990" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="24.000">F</text>
 <text bbox="331.684,415.990,346.348,439.990" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="24.000">u</text>

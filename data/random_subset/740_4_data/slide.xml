@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[182.41, 485.54133333333334, 537.5153333333334, 518.9013333333334]" rotate="0">
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.3.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image6" src="Image6.3.jpg" width="720" Annotation_index="0">
 </background>
-<background bbox="0.000,-1.320,721.320,540.000" height="541" name="Image7" src="Image7.0.jpg" width="721">
+<background bbox="0.000,-1.320,721.320,540.000" height="541" name="Image7" src="Image7.0.jpg" width="721" Annotation_index="1">
 </background>
-<table archetypal_index="0" bbox="0.0,10.837,720.0,558.03" dimensions="7/19"><cell bbox="0.0,529.23,83.641,558.03"><tabletext bbox="7.200,532.970,44.307,541.970" id="0" size="9.0">ALEAAD <textline bbox="7.200,532.970,44.307,541.970" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="9.000">ALEAAD </textline>
+<table archetypal_index="0" bbox="0.0,10.837,720.0,558.03" dimensions="7/19" Annotation_index="2"><cell bbox="0.0,529.23,83.641,558.03"><tabletext bbox="7.200,532.970,44.307,541.970" id="0" size="9.0">ALEAAD <textline bbox="7.200,532.970,44.307,541.970" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="9.000">ALEAAD </textline>
 </tabletext>
 </cell><cell bbox="83.641,529.23,167.282,558.03" /><cell bbox="167.28,529.23,250.921,558.03" /><cell bbox="250.92,529.23,334.561,558.03" /><cell bbox="334.56,529.23,418.201,558.03" /><cell bbox="418.2,529.23,501.841,558.03" /><cell bbox="501.84,529.23,720.0,558.03" /><cell bbox="0.0,500.43,83.641,529.23"><tabletext bbox="7.200,504.170,42.813,513.170" id="1" size="9.0">ALEAAJ <textline bbox="7.200,504.170,42.813,513.170" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="9.000">ALEAAJ </textline>
 </tabletext>

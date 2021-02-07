@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="17" mean_title="[160.66225, 481.3813235294117, 555.2941470588235, 516.1894411764706]" rotate="0">
-<title archetypal_index="0" bbox="175.630,477.723,544.522,517.707" id="0" size="39.984">U.S. Drought Portal <textline bbox="175.630,477.723,544.522,517.707" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.6, 0, 0)" size="39.984">U.S. Drought Portal </textline>
+<title archetypal_index="0" bbox="175.630,477.723,544.522,517.707" id="0" size="39.984" Annotation_index="0">U.S. Drought Portal <textline bbox="175.630,477.723,544.522,517.707" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.6, 0, 0)" size="39.984">U.S. Drought Portal </textline>
 </title>
-<normal_text archetypal_index="1" bbox="59.376,372.875,454.332,455.680" id="1" size="18.006">The USDP will provide county, regional and  
+<normal_text archetypal_index="1" bbox="59.376,372.875,454.332,455.680" id="1" size="18.006" Annotation_index="1">The USDP will provide county, regional and  
 national drought-related products (analysis,  
 forecasts, and research) to a variety of users  
 through a dynamic, Internet-based drought portal. <textline bbox="59.376,437.680,410.358,455.680" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">The USDP will provide county, regional and  </textline>
@@ -53,15 +53,15 @@ through a dynamic, Internet-based drought portal. <textline bbox="59.376,437.680
 <textline bbox="59.376,394.480,421.158,412.480" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">forecasts, and research) to a variety of users  </textline>
 <textline bbox="59.376,372.875,454.332,390.899" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.024">through a dynamic, Internet-based drought portal. </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="106.850,16.584,285.074,28.584" id="2" size="12.0">October 30 &#8211; November 2, 2006 <textline bbox="106.850,16.584,285.074,28.584" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="12.000">October 30 &#8211; November 2, 2006 </textline>
+<normal_text archetypal_index="2" bbox="106.850,16.584,285.074,28.584" id="2" size="12.0" Annotation_index="2">October 30 &#8211; November 2, 2006 <textline bbox="106.850,16.584,285.074,28.584" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="12.000">October 30 &#8211; November 2, 2006 </textline>
 </normal_text>
-<slide_number bbox="61.224,6.848,78.978,22.808" id="3" size="15.96">17 <textline bbox="61.224,6.848,78.978,22.808" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">17 </textline>
+<slide_number bbox="61.224,6.848,78.978,22.808" id="3" size="15.96" Annotation_index="3">17 <textline bbox="61.224,6.848,78.978,22.808" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="15.960">17 </textline>
 </slide_number>
-<normal_text archetypal_index="3" bbox="505.780,8.712,661.012,38.712" id="4" size="12.0">NCDC Report to WERA-102 
+<normal_text archetypal_index="3" bbox="505.780,8.712,661.012,38.712" id="4" size="12.0" Annotation_index="4">NCDC Report to WERA-102 
 DRI, Reno, NV <textline bbox="505.780,26.712,660.912,38.712" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="12.000">NCDC Report to WERA-102 </textline>
 <textline bbox="580.180,8.712,661.012,20.712" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 1)" size="12.000">DRI, Reno, NV </textline>
 </normal_text>
-<curve bbox="473.160,29.160,660.600,70.200" linewidth="4" pts="473.160,49.680,473.160,61.013,515.120,70.200,566.880,70.200,618.640,70.200,660.600,61.013,660.600,49.680,660.600,38.347,618.640,29.160,566.880,29.160,515.120,29.160,473.160,38.347,473.160,49.680" />
-<curve bbox="485.160,419.880,672.600,461.040" linewidth="4" pts="485.160,440.460,485.160,451.830,527.120,461.040,578.880,461.040,630.640,461.040,672.600,451.830,672.600,440.460,672.600,429.090,630.640,419.880,578.880,419.880,527.120,419.880,485.160,429.090,485.160,440.460" />
-<picture archetypal_index="4" bbox="0.0,0.0,720.0,466.68" caption="" combined_sources="['Image29.13.jpg', 'Image31.13.136x135.bmp', 'Image33.13.141x140.bmp', 'Image134.jpg']" name="combined_0" src="combined_17_0.png" /></page>
+<curve bbox="473.160,29.160,660.600,70.200" linewidth="4" pts="473.160,49.680,473.160,61.013,515.120,70.200,566.880,70.200,618.640,70.200,660.600,61.013,660.600,49.680,660.600,38.347,618.640,29.160,566.880,29.160,515.120,29.160,473.160,38.347,473.160,49.680" Annotation_index="5" />
+<curve bbox="485.160,419.880,672.600,461.040" linewidth="4" pts="485.160,440.460,485.160,451.830,527.120,461.040,578.880,461.040,630.640,461.040,672.600,451.830,672.600,440.460,672.600,429.090,630.640,419.880,578.880,419.880,527.120,419.880,485.160,429.090,485.160,440.460" Annotation_index="6" />
+<picture archetypal_index="4" bbox="0.0,0.0,720.0,466.68" caption="" combined_sources="['Image29.13.jpg', 'Image31.13.136x135.bmp', 'Image33.13.141x140.bmp', 'Image134.jpg']" name="combined_0" src="combined_17_0.png" Annotation_index="7" /></page>
 </pages>

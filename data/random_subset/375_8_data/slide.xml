@@ -1,13 +1,13 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="9" mean_title="[61.48064285714287, 451.3812857142857, 642.6581428571428, 508.46671428571426]" rotate="0">
-<title archetypal_index="0" bbox="19.248,404.732,672.614,505.668" id="0" size="26.679999999999996">Electronic Medical Record Statistics* 
+<title archetypal_index="0" bbox="19.248,404.732,672.614,505.668" id="0" size="26.679999999999996" Annotation_index="0">Electronic Medical Record Statistics* 
 Number of Items  
 per Workday <textline bbox="19.248,465.708,670.716,505.668" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="39.960">Electronic Medical Record Statistics* </textline>
 <textline bbox="509.180,428.732,672.614,448.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Number of Items  </textline>
 <textline bbox="527.780,404.732,648.681,424.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">per Workday </textline>
 </title>
-<enlisting archetypal_index="1" bbox="445.270,21.796,711.890,35.836" id="14" size="14.04">*Data source:  Office of Health Information  <textline bbox="445.270,21.796,711.890,35.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">*Data source:  Office of Health Information  </textline>
+<enlisting archetypal_index="1" bbox="445.270,21.796,711.890,35.836" id="14" size="14.04" Annotation_index="1">*Data source:  Office of Health Information  <textline bbox="445.270,21.796,711.890,35.836" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">*Data source:  Office of Health Information  </textline>
 </enlisting>
-<table archetypal_index="2" bbox="30.0,82.375,684.0,456.0" dimensions="3/4"><cell bbox="30.0,320.75,306.0,456.0"><tabletext bbox="104.590,404.732,231.223,424.772" id="2" size="20.04">Data Element <textline bbox="104.590,404.732,231.223,424.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Data Element </textline>
+<table archetypal_index="2" bbox="30.0,82.375,684.0,456.0" dimensions="3/4" Annotation_index="2"><cell bbox="30.0,320.75,306.0,456.0"><tabletext bbox="104.590,404.732,231.223,424.772" id="2" size="20.04">Data Element <textline bbox="104.590,404.732,231.223,424.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Data Element </textline>
 </tabletext>
 </cell><cell bbox="306.0,320.75,492.0,456.0"><tabletext bbox="320.160,404.732,483.564,448.772" id="1" size="20.04">Number of Items  
 per Workday <textline bbox="320.160,428.732,483.564,448.772" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="20.040">Number of Items  </textline>

@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="20" mean_title="[105.71051666666668, 399.4290166666667, 613.9091000000001, 452.5272166666667]" rotate="0">
-<title archetypal_index="0" bbox="86.832,379.535,639.624,461.140" id="0" size="24.008">Clinical Design Strategy 2: Improved Design of  
+<title archetypal_index="0" bbox="86.832,379.535,639.624,461.140" id="0" size="24.008" Annotation_index="0">Clinical Design Strategy 2: Improved Design of  
 Randomized Trials with Use of Information from  
 Historical Controls <textline bbox="93.432,437.140,633.192,461.140" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Clinical Design Strategy 2: Improved Design of  </textline>
 <textline bbox="86.832,408.340,639.624,432.340" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">Randomized Trials with Use of Information from  </textline>
 <textline bbox="252.700,379.535,467.378,403.559" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">Historical Controls </textline>
 </title>
-<normal_text archetypal_index="1" bbox="52.680,181.190,599.654,264.029" id="2" size="18.006">Flexible Bayesian nonparametric models allows one to include more  
+<normal_text archetypal_index="1" bbox="52.680,181.190,599.654,264.029" id="2" size="18.006" Annotation_index="1">Flexible Bayesian nonparametric models allows one to include more  
 relevant data sources than is possible when using other models; the  
 mixture approach will be more robust to data-source-specific  
 departures from a common, exchangeable hierarchical model.  <textline bbox="52.680,246.005,599.654,264.029" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">Flexible Bayesian nonparametric models allows one to include more  </textline>
@@ -13,7 +13,7 @@ departures from a common, exchangeable hierarchical model.  <textline bbox="52.6
 <textline bbox="52.680,202.790,580.642,220.790" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">mixture approach will be more robust to data-source-specific  </textline>
 <textline bbox="52.680,181.190,588.774,199.190" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="18.000">departures from a common, exchangeable hierarchical model.  </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="52.680,21.324,660.862,147.369" id="3" size="18.004">We will develop and test this model, using the RCTs in JANUS and data  
+<normal_text archetypal_index="2" bbox="52.680,21.324,660.862,147.369" id="3" size="18.004" Annotation_index="2">We will develop and test this model, using the RCTs in JANUS and data  
 from other databases. We will carry out simulation studies to test these  
 mixture prior models and compare the method to alternative  
 formulations for incorporating historical data. We will use patient-level data  
@@ -304,9 +304,9 @@ other databases. <textline bbox="52.680,129.345,648.663,147.369">We will develop
 <textline bbox="52.680,42.924,621.588,60.924" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">in FDA database, along with complementary data warehoused in these  </textline>
 <textline bbox="52.680,21.324,186.510,39.324" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">other databases. </textline>
 </normal_text>
-<slide_number bbox="661.200,28.036,676.806,42.076" id="4" size="14.04">20 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">20 </textline>
+<slide_number bbox="661.200,28.036,676.806,42.076" id="4" size="14.04" Annotation_index="3">20 <textline bbox="661.200,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">20 </textline>
 </slide_number>
-<picture archetypal_index="3" bbox="0.000,463.200,719.760,540.000" caption="Specific Aim: To develop mixture prior models for use when  &#10;incorporating historical control data with a concurrent control that is part  &#10;of a randomized controlled trial (RCT). " height="76" name="Image6" src="Image6.18.jpg" width="719">
+<picture archetypal_index="3" bbox="0.000,463.200,719.760,540.000" caption="Specific Aim: To develop mixture prior models for use when  &#10;incorporating historical control data with a concurrent control that is part  &#10;of a randomized controlled trial (RCT). " height="76" name="Image6" src="Image6.18.jpg" width="719" Annotation_index="4">
 </picture>
 </page>
 </pages>

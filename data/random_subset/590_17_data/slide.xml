@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[159.54022857142854, 439.547657142857, 562.4655142857143, 480.6774857142857]" rotate="0">
-<title archetypal_index="0" bbox="240.820,438.563,479.299,474.587" id="0" size="36.024">See it in Action <textline bbox="240.820,438.563,479.299,474.587" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="36.024">See it in Action </textline>
+<title archetypal_index="0" bbox="240.820,438.563,479.299,474.587" id="0" size="36.024" Annotation_index="0">See it in Action <textline bbox="240.820,438.563,479.299,474.587" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="36.024">See it in Action </textline>
 </title>
-<enlisting archetypal_index="1" bbox="103.220,289.342,599.492,408.412" id="1" size="24.0">Scenario 1 
+<enlisting archetypal_index="1" bbox="103.220,289.342,599.492,408.412" id="1" size="24.0" Annotation_index="1">Scenario 1 
 &#8226; What was the baby doing in the video clip? 
 &#8226; How did the mom react? 
 &#8226; What did the counselor do? <textline bbox="103.220,384.412,214.052,408.412" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="24.000">Scenario 1 </textline>
@@ -102,7 +102,7 @@
 <text bbox="422.468,289.342,433.844,313.342" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(0.494, 0.373, 0.231)" size="24.000">?</text>
 </textline>
 </enlisting>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.12.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.12.jpg" width="720" Annotation_index="2">
 </background>
 </page>
 </pages>

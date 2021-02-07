@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[102.43, 477.572, 617.569, 509.612]" rotate="0">
-<title archetypal_index="0" bbox="102.430,477.572,617.569,509.612" id="0" size="32.04">Error mode 1: additional junk byte(s) <textline bbox="102.430,477.572,617.569,509.612" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Error mode 1: additional junk byte(s) </textline>
+<title archetypal_index="0" bbox="102.430,477.572,617.569,509.612" id="0" size="32.04" Annotation_index="0">Error mode 1: additional junk byte(s) <textline bbox="102.430,477.572,617.569,509.612" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">Error mode 1: additional junk byte(s) </textline>
 </title>
-<normal_text archetypal_index="1" bbox="151.220,124.965,458.288,468.220" id="1" size="12.004">last time stamp = 692783 
+<normal_text archetypal_index="1" bbox="151.220,124.965,458.288,468.220" id="1" size="12.004" Annotation_index="1">last time stamp = 692783 
 current trigger time stamp = 692801 
 last bite 2 = 00001010 
 last bite 3 = 10010010 
@@ -49,7 +49,7 @@ byes received: byte 15 = 00010000 <textline bbox="151.220,456.220,285.680,468.22
 <textline bbox="151.220,139.370,337.952,151.370" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.000">byes received: byte 14 = 00000000 </textline>
 <textline bbox="151.220,124.965,338.061,136.989" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="12.024">byes received: byte 15 = 00010000 </textline>
 </normal_text>
-<enlisting archetypal_index="2" bbox="43.2,30.392,455.786,123.148" id="3" size="15.960000000000003">&#8226; 
+<enlisting archetypal_index="2" bbox="43.2,30.392,455.786,123.148" id="3" size="15.960000000000003" Annotation_index="2">&#8226; 
 &#8226; Gives error bit 1 and/or 2 or none 
 &#8226; Non-matching time stamp, may overflow 
 &#8226; On any DCON, and DCAL, although rates are different 

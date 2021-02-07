@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[43.2, 464.824, 267.522, 506.824]" rotate="0">
-<title archetypal_index="0" bbox="43.200,464.824,267.522,506.824" id="0" size="42.0">CIPA History <textline bbox="43.200,464.824,267.522,506.824" colourspace="DeviceGray" font="BCDFEE+Garamond" ncolour="(0, 0.4, 0.2)" size="42.000">CIPA History </textline>
+<title archetypal_index="0" bbox="43.200,464.824,267.522,506.824" id="0" size="42.0" Annotation_index="0">CIPA History <textline bbox="43.200,464.824,267.522,506.824" colourspace="DeviceGray" font="BCDFEE+Garamond" ncolour="(0, 0.4, 0.2)" size="42.000">CIPA History </textline>
 </title>
-<normal_text archetypal_index="1" bbox="67.224,374.915,483.778,404.939" id="1" size="30.024">THE LAW (47 USC 254 (h) (6)) <textline bbox="67.224,374.915,483.778,404.939">THE LAW (47 USC 254 (h) (6)) <text bbox="67.224,374.915,85.569,404.939" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">T</text>
+<normal_text archetypal_index="1" bbox="67.224,374.915,483.778,404.939" id="1" size="30.024" Annotation_index="1">THE LAW (47 USC 254 (h) (6)) <textline bbox="67.224,374.915,483.778,404.939">THE LAW (47 USC 254 (h) (6)) <text bbox="67.224,374.915,85.569,404.939" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">T</text>
 <text bbox="85.569,374.915,107.246,404.939" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">H</text>
 <text bbox="107.246,374.915,127.272,404.939" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">E</text>
 <text bbox="127.272,374.915,135.619,404.939" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024"> </text>
@@ -31,12 +31,12 @@
 <text bbox="473.780,374.915,483.778,404.939" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="30.024">)</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="67.224,165.642,643.158,274.521" id="2" size="32.048">Children's Internet Protection Act (CIPA)  
+<normal_text archetypal_index="2" bbox="67.224,165.642,643.158,274.521" id="2" size="32.048" Annotation_index="2">Children's Internet Protection Act (CIPA)  
 was signed into law on December 21,  
 2000  <textline bbox="67.224,242.457,643.158,274.521" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.064">Children's Internet Protection Act (CIPA)  </textline>
 <textline bbox="94.224,204.042,634.162,236.082" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">was signed into law on December 21,  </textline>
 <textline bbox="94.224,165.642,174.171,197.682" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="32.040">2000  </textline>
 </normal_text>
-<curve bbox="30.060,473.940,678.060,521.940" linewidth="1" pts="30.060,473.940,30.060,521.940,678.060,521.940" />
+<curve bbox="30.060,473.940,678.060,521.940" linewidth="1" pts="30.060,473.940,30.060,521.940,678.060,521.940" Annotation_index="3" />
 </page>
 </pages>

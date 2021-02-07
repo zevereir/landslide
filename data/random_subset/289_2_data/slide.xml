@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[31.368, 467.084, 415.42766666666665, 495.04400000000004]" rotate="0">
-<title archetypal_index="0" bbox="25.200,467.084,436.527,495.044" id="0" size="27.96">SIT/CDSS WORK REQUEST TO CPPR <textline bbox="25.200,467.084,436.527,495.044">SIT/CDSS WORK REQUEST TO CPPR <text bbox="25.200,467.084,39.739,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">S</text>
+<title archetypal_index="0" bbox="25.200,467.084,436.527,495.044" id="0" size="27.96" Annotation_index="0">SIT/CDSS WORK REQUEST TO CPPR <textline bbox="25.200,467.084,436.527,495.044">SIT/CDSS WORK REQUEST TO CPPR <text bbox="25.200,467.084,39.739,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">S</text>
 <text bbox="39.739,467.084,47.568,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">I</text>
 <text bbox="47.568,467.084,59.311,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">T</text>
 <text bbox="59.311,467.084,72.173,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">/</text>
@@ -27,9 +27,9 @@
 <text bbox="420.310,467.084,436.527,495.044" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="1" size="27.960">R</text>
 </textline>
 </title>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.0.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image12" src="Image12.0.jpg" width="720" Annotation_index="1">
 </background>
-<enlisting archetypal_index="1" bbox="54.216,74.704,649.807,415.22">&#8226; Assess possibilities and make recommendations for integration and  &#8226; Explore overlap of databases managed by different teams. &#8226; Identify information available on AB636-related issues. &#8226; Present findings and recommendations to SIT and CDSS/Child and Family  <normal_text bbox="54.216,399.260,606.252,415.220" id="1" size="15.96">&#8226; Assess possibilities and make recommendations for integration and  <textline bbox="54.216,399.260,606.252,415.220">&#8226; Assess possibilities and make recommendations for integration and  <text bbox="54.216,399.260,63.888,415.220" colourspace="DeviceGray" font="BCDFEE+CenturyGothic" ncolour="0" size="15.960">&#8226;</text>
+<enlisting archetypal_index="1" bbox="54.216,74.704,649.807,415.22" Annotation_index="2">&#8226; Assess possibilities and make recommendations for integration and  &#8226; Explore overlap of databases managed by different teams. &#8226; Identify information available on AB636-related issues. &#8226; Present findings and recommendations to SIT and CDSS/Child and Family  <normal_text bbox="54.216,399.260,606.252,415.220" id="1" size="15.96">&#8226; Assess possibilities and make recommendations for integration and  <textline bbox="54.216,399.260,606.252,415.220">&#8226; Assess possibilities and make recommendations for integration and  <text bbox="54.216,399.260,63.888,415.220" colourspace="DeviceGray" font="BCDFEE+CenturyGothic" ncolour="0" size="15.960">&#8226;</text>
 <text bbox="81.216,399.260,93.026,415.220" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="0" size="15.960">A</text>
 <text bbox="92.979,399.260,100.001,415.220" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="0" size="15.960">s</text>
 <text bbox="100.049,399.260,107.071,415.220" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="0" size="15.960">s</text>
@@ -361,5 +361,5 @@ departments are DMH, CDE, DDS, ADP, DHS, AOC, and CDSS. <textline bbox="54.216,3
 </normal_text>
 <normal_text bbox="81.216,74.704,212.694,90.664" id="7" size="15.96">Services Division. <textline bbox="81.216,74.704,212.694,90.664" colourspace="DeviceGray" font="BCDEEE+CenturyGothic-Bold" ncolour="0" size="15.960">Services Division. </textline>
 </normal_text>
-</enlisting><picture archetypal_index="2" bbox="7.8,447.42,455.82,509.4" caption="" combined_sources="['Image34.521x173.bmp', 'Image36.211x140.bmp', 'Image38.148x173.bmp', 'Image40.300x140.bmp', 'Image42.163x140.bmp', 'Image44.295x173.bmp']" name="combined_0" src="combined_3_0.png" /></page>
+</enlisting><picture archetypal_index="2" bbox="7.8,447.42,455.82,509.4" caption="" combined_sources="['Image34.521x173.bmp', 'Image36.211x140.bmp', 'Image38.148x173.bmp', 'Image40.300x140.bmp', 'Image42.163x140.bmp', 'Image44.295x173.bmp']" name="combined_0" src="combined_3_0.png" Annotation_index="3" /></page>
 </pages>

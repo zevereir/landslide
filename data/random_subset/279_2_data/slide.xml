@@ -1,10 +1,10 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[43.20000000000001, 464.89000000000004, 341.358, 506.89000000000004]" rotate="0">
-<title archetypal_index="0" bbox="43.200,464.890,230.016,506.890" id="0" size="42.0">DOCLINE <textline bbox="43.200,464.890,230.016,506.890" colourspace="Pattern" font="ArialMT" ncolour="1" size="42.000">DOCLINE </textline>
+<title archetypal_index="0" bbox="43.200,464.890,230.016,506.890" id="0" size="42.0" Annotation_index="0">DOCLINE <textline bbox="43.200,464.890,230.016,506.890" colourspace="Pattern" font="ArialMT" ncolour="1" size="42.000">DOCLINE </textline>
 </title>
-<curve bbox="30.060,473.940,678.060,521.940" linewidth="2" pts="30.060,473.940,30.060,521.940,678.060,521.940" />
-<picture archetypal_index="1" bbox="36.000,0.000,335.280,56.280" height="56" name="Image9" src="Image9.1.399x75.bmp" width="299">
+<curve bbox="30.060,473.940,678.060,521.940" linewidth="2" pts="30.060,473.940,30.060,521.940,678.060,521.940" Annotation_index="1" />
+<picture archetypal_index="1" bbox="36.000,0.000,335.280,56.280" height="56" name="Image9" src="Image9.1.399x75.bmp" width="299" Annotation_index="2">
 </picture>
-<enlisting archetypal_index="2" bbox="43.2,121.297,614.128,429.632">&#9724; ILL request routing and referral system 
+<enlisting archetypal_index="2" bbox="43.2,121.297,614.128,429.632" Annotation_index="3">&#9724; ILL request routing and referral system 
 &#9724; Launched in 1985 
 &#9724; 3,234 libraries participating in 2005 &#10065; 2,861 US libraries 
 &#10065; 325 Canadian libraries 

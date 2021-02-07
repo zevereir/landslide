@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="3" mean_title="[199.65333333333334, 465.932, 637.5033333333332, 523.908]" rotate="0">
-<normal_text archetypal_index="0" bbox="7.296,524.468,110.890,534.428" id="0" size="9.96">U.S. Department of Energy <textline bbox="7.296,524.468,110.890,534.428" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(1, 0.4, 0)" size="9.960">U.S. Department of Energy </textline>
+<normal_text archetypal_index="0" bbox="7.296,524.468,110.890,534.428" id="0" size="9.96" Annotation_index="0">U.S. Department of Energy <textline bbox="7.296,524.468,110.890,534.428" colourspace="DeviceGray" font="BCDEEE+ArialNarrow-BoldItalic" ncolour="(1, 0.4, 0)" size="9.960">U.S. Department of Energy </textline>
 </normal_text>
-<title archetypal_index="1" bbox="180.500,467.332,669.911,525.308" id="2" size="28.02">Facilities for the Future of Science: 
+<title archetypal_index="1" bbox="180.500,467.332,669.911,525.308" id="2" size="28.02" Annotation_index="1">Facilities for the Future of Science: 
 A Twenty-Year Outlook <textline bbox="180.500,493.268,669.911,525.308" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="(0, 0.2, 0.8)" size="32.040">Facilities for the Future of Science: </textline>
 <textline bbox="303.554,467.332,551.525,491.332" colourspace="DeviceGray" font="BCDGEE+Tahoma" ncolour="0" size="24.000">A Twenty-Year Outlook </textline>
 </title>
-<normal_text archetypal_index="2" bbox="140.230,312.535,653.518,416.940" id="3" size="18.0048">In November, 2003 DOE&#8217;s Office of Science proposed a portfolio 
+<normal_text archetypal_index="2" bbox="140.230,312.535,653.518,416.940" id="3" size="18.0048" Annotation_index="2">In November, 2003 DOE&#8217;s Office of Science proposed a portfolio 
 of 28 prioritized new scientific facilities and upgrades of current  
 facilities spanning scientific disciplines to ensure the U.S. retains 
 its primacy in critical areas of science and technology well into 
@@ -15,7 +15,7 @@ the next century. <textline bbox="140.230,398.940,653.518,416.940" colourspace="
 <textline bbox="140.230,334.140,634.078,352.140" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">its primacy in critical areas of science and technology well into </textline>
 <textline bbox="140.230,312.535,271.607,330.559" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">the next century. </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="140.230,204.520,669.904,287.356" id="4" size="18.0">The Facilities for the Future of Science: A Twenty-Year Outlook  
+<normal_text archetypal_index="3" bbox="140.230,204.520,669.904,287.356" id="4" size="18.0" Annotation_index="3">The Facilities for the Future of Science: A Twenty-Year Outlook  
 was the first long-range facilities plan prioritized across disciplinary 
 lines ever issued by a government science funding agency  
 anywhere in the world. <textline bbox="140.230,269.320,645.644,287.356">The Facilities for the Future of Science: A Twenty-Year Outlook  <text bbox="140.230,269.320,151.228,287.320" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">T</text>
@@ -87,17 +87,17 @@ anywhere in the world. <textline bbox="140.230,269.320,645.644,287.356">The Faci
 <textline bbox="140.230,226.120,610.786,244.120" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">lines ever issued by a government science funding agency  </textline>
 <textline bbox="140.230,204.520,319.708,222.520" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">anywhere in the world. </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="140.230,139.690,667.108,179.290" id="5" size="18.0">Significant progress has been made in implementing the plan and  
+<normal_text archetypal_index="4" bbox="140.230,139.690,667.108,179.290" id="5" size="18.0" Annotation_index="4">Significant progress has been made in implementing the plan and  
 deploying many of the planned facilities.  <textline bbox="140.230,161.290,667.108,179.290" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">Significant progress has been made in implementing the plan and  </textline>
 <textline bbox="140.230,139.690,463.996,157.690" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">deploying many of the planned facilities.  </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="140.230,96.490,660.646,114.490" id="6" size="18.0">We have just finished an update on where we are at now in 2007. <textline bbox="140.230,96.490,660.646,114.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">We have just finished an update on where we are at now in 2007. </textline>
+<normal_text archetypal_index="5" bbox="140.230,96.490,660.646,114.490" id="6" size="18.0" Annotation_index="5">We have just finished an update on where we are at now in 2007. <textline bbox="140.230,96.490,660.646,114.490" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">We have just finished an update on where we are at now in 2007. </textline>
 </normal_text>
-<slide_number bbox="669.000,28.036,676.806,42.076" id="7" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">3 </textline>
+<slide_number bbox="669.000,28.036,676.806,42.076" id="7" size="14.04" Annotation_index="6">3 <textline bbox="669.000,28.036,676.806,42.076" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="14.040">3 </textline>
 </slide_number>
-<picture archetypal_index="6" bbox="18.840,465.600,117.960,518.760" caption="Office of Science " height="53" name="Image7" src="Image7.1.200x110.bmp" width="99">
+<picture archetypal_index="6" bbox="18.840,465.600,117.960,518.760" caption="Office of Science " height="53" name="Image7" src="Image7.1.200x110.bmp" width="99" Annotation_index="7">
 </picture>
-<picture archetypal_index="7" bbox="11.280,277.440,116.400,413.760" height="136" name="Image36" src="Image36.jpg" width="105">
+<picture archetypal_index="7" bbox="11.280,277.440,116.400,413.760" height="136" name="Image36" src="Image36.jpg" width="105" Annotation_index="8">
 </picture>
 </page>
 </pages>

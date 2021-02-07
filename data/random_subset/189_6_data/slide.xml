@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="7" mean_title="[116.27093333333333, 430.0488000000001, 605.7821333333334, 499.4808]" rotate="0">
-<title archetypal_index="0" bbox="62.952,419.260,667.100,498.580" id="0" size="36.0">Defining the Gold STAMP Program  
+<title archetypal_index="0" bbox="62.952,419.260,667.100,498.580" id="0" size="36.0" Annotation_index="0">Defining the Gold STAMP Program  
 in New York State <textline bbox="62.952,462.580,667.100,498.580">Defining the Gold STAMP Program  <text bbox="62.952,462.580,88.944,498.580" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">D</text>
 <text bbox="88.944,462.580,108.960,498.580" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">e</text>
 <text bbox="108.960,462.580,120.948,498.580" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">f</text>
@@ -34,7 +34,7 @@ in New York State <textline bbox="62.952,462.580,667.100,498.580">Defining the G
 </textline>
 <textline bbox="207.940,419.260,512.032,455.260" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">in New York State </textline>
 </title>
-<normal_text archetypal_index="1" bbox="71.712,131.213,315.904,159.197" id="1" size="27.984">Success Through: <textline bbox="71.712,131.213,315.904,159.197">Success Through: <text bbox="71.712,131.213,90.377,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.984">S</text>
+<normal_text archetypal_index="1" bbox="71.712,131.213,315.904,159.197" id="1" size="27.984" Annotation_index="1">Success Through: <textline bbox="71.712,131.213,315.904,159.197">Success Through: <text bbox="71.712,131.213,90.377,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.984">S</text>
 <text bbox="90.312,131.213,107.410,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="27.984">u</text>
 <text bbox="107.410,131.213,122.969,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="27.984">c</text>
 <text bbox="122.969,131.213,138.528,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="27.984">c</text>
@@ -52,7 +52,7 @@ in New York State <textline bbox="62.952,462.580,667.100,498.580">Defining the G
 <text bbox="306.585,131.213,315.904,159.197" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="27.984">:</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="171.220,97.588,336.129,125.548" id="2" size="27.96">Assessment <textline bbox="171.220,97.588,336.129,125.548">Assessment <text bbox="171.220,97.588,191.407,125.548" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.960">A</text>
+<normal_text archetypal_index="2" bbox="171.220,97.588,336.129,125.548" id="2" size="27.96" Annotation_index="2">Assessment <textline bbox="171.220,97.588,336.129,125.548">Assessment <text bbox="171.220,97.588,191.407,125.548" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.960">A</text>
 <text bbox="191.380,97.588,206.926,125.548" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">s</text>
 <text bbox="206.926,97.588,222.472,125.548" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">s</text>
 <text bbox="222.555,97.588,238.101,125.548" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">e</text>
@@ -64,7 +64,7 @@ in New York State <textline bbox="62.952,462.580,667.100,498.580">Defining the G
 <text bbox="326.818,97.588,336.129,125.548" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">t</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="445.580,30.392,590.168,58.352" id="4" size="27.96">Prevention <textline bbox="445.580,30.392,590.168,58.352">Prevention <text bbox="445.580,30.392,464.229,58.352" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.960">P</text>
+<normal_text archetypal_index="3" bbox="445.580,30.392,590.168,58.352" id="4" size="27.96" Annotation_index="3">Prevention <textline bbox="445.580,30.392,590.168,58.352">Prevention <text bbox="445.580,30.392,464.229,58.352" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.753, 0)" size="27.960">P</text>
 <text bbox="464.180,30.392,475.056,58.352" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">r</text>
 <text bbox="475.056,30.392,490.602,58.352" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">e</text>
 <text bbox="490.658,30.392,506.204,58.352" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">v</text>
@@ -76,15 +76,15 @@ in New York State <textline bbox="62.952,462.580,667.100,498.580">Defining the G
 <text bbox="573.084,30.392,590.168,58.352" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="1" size="27.960">n</text>
 </textline>
 </normal_text>
-<slide_number bbox="670.200,13.164,676.752,25.164" id="5" size="12.0">7 <textline bbox="670.200,13.164,676.752,25.164" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="1" size="12.000">7 </textline>
+<slide_number bbox="670.200,13.164,676.752,25.164" id="5" size="12.0" Annotation_index="4">7 <textline bbox="670.200,13.164,676.752,25.164" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="1" size="12.000">7 </textline>
 </slide_number>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.5.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.5.jpg" width="720" Annotation_index="5">
 </background>
-<picture archetypal_index="4" bbox="139.500,103.440,158.460,123.000" height="19" name="Image77" src="Image77.9.15x15.bmp" width="18">
+<picture archetypal_index="4" bbox="139.500,103.440,158.460,123.000" height="19" name="Image77" src="Image77.9.15x15.bmp" width="18" Annotation_index="6">
 </picture>
-<picture archetypal_index="5" bbox="269.700,69.840,288.660,89.400" height="19" name="Image77" src="Image77.10.15x15.bmp" width="18">
+<picture archetypal_index="5" bbox="269.700,69.840,288.660,89.400" height="19" name="Image77" src="Image77.10.15x15.bmp" width="18" Annotation_index="7">
 </picture>
-<picture archetypal_index="6" bbox="409.500,36.240,428.460,55.800" height="19" name="Image77" src="Image77.11.15x15.bmp" width="18">
+<picture archetypal_index="6" bbox="409.500,36.240,428.460,55.800" height="19" name="Image77" src="Image77.11.15x15.bmp" width="18" Annotation_index="8">
 </picture>
-<picture archetypal_index="7" bbox="216.48,183.0,463.56,369.12" caption="&#10;Management " combined_sources="['Image310.609x484.bmp', 'Image312.609x484.bmp', 'Image264.0.jpg']" name="combined_0" src="combined_7_0.png" /></page>
+<picture archetypal_index="7" bbox="216.48,183.0,463.56,369.12" caption="&#10;Management " combined_sources="['Image310.609x484.bmp', 'Image312.609x484.bmp', 'Image264.0.jpg']" name="combined_0" src="combined_7_0.png" Annotation_index="9" /></page>
 </pages>

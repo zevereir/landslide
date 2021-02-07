@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="26" mean_title="[41.6, 492.50073333333336, 585.2460666666667, 533.4927333333333]" rotate="0">
-<title archetypal_index="0" bbox="42.480,173.287,686.033,405.057" id="0" size="23.042666666666662">Universal screening is a brief, reliable and easy-to 
+<title archetypal_index="0" bbox="42.480,173.287,686.033,405.057" id="0" size="23.042666666666662" Annotation_index="0">Universal screening is a brief, reliable and easy-to 
 administer school-wide assessment. The screening 
 consists of probes that are aligned to the core curriculum 
 and state academic standards. These screenings typically 
@@ -74,11 +74,11 @@ and time of year. <textline bbox="84.024,382.017,644.507,405.057" colourspace="P
 <textline bbox="59.400,199.447,669.753,222.487" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="23.040">classroom, grade, school and/or district) for the grade </textline>
 <textline bbox="269.330,173.287,459.110,196.327" colourspace="Pattern" font="BCDEEE+LucidaSansUnicode" ncolour="0" size="23.040">and time of year. </textline>
 </title>
-<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" />
-<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" />
-<picture archetypal_index="1" bbox="0.000,0.180,267.420,84.120" height="83" name="Image24" src="Image24.21.jpg" width="267">
+<curve bbox="39.360,-0.600,428.400,71.880" linewidth="0" pts="39.360,71.450,428.400,-0.600,328.240,-0.600,39.412,71.880" Annotation_index="1" />
+<curve bbox="38.280,-1.080,328.920,72.360" linewidth="0" pts="38.280,72.360,328.920,-0.705,267.790,-1.080,38.904,71.860" Annotation_index="2" />
+<picture archetypal_index="1" bbox="0.000,0.180,267.420,84.120" height="83" name="Image24" src="Image24.21.jpg" width="267" Annotation_index="3">
 </picture>
-<picture archetypal_index="2" bbox="38.880,463.140,424.980,506.641" height="43" name="Image349" src="Image349.jpg" width="386">
+<picture archetypal_index="2" bbox="38.880,463.140,424.980,506.641" height="43" name="Image349" src="Image349.jpg" width="386" Annotation_index="4">
 </picture>
 </page>
 </pages>

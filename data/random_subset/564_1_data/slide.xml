@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[72.936, 399.89, 233.028, 435.89]" rotate="0">
-<title archetypal_index="0" bbox="72.936,399.890,233.028,435.890" id="0" size="36.0">Overview <textline bbox="72.936,399.890,233.028,435.890" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.4, 0.4)" size="36.000">Overview </textline>
+<title archetypal_index="0" bbox="72.936,399.890,233.028,435.890" id="0" size="36.0" Annotation_index="0">Overview <textline bbox="72.936,399.890,233.028,435.890" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(0, 0.4, 0.4)" size="36.000">Overview </textline>
 </title>
-<enlisting archetypal_index="1" bbox="73.224,195.650,541.244,323.350" id="1" size="18.0">&#9899; BPA Agreements and Preferred Providers 
+<enlisting archetypal_index="1" bbox="73.224,195.650,541.244,323.350" id="1" size="18.0" Annotation_index="1">&#9899; BPA Agreements and Preferred Providers 
 &#9899; WTS Non-Refundable Ticket Pilot Study  
 &#9899; Fact Sheet for Reviewers  
 &#9899; FY 07 Flat Rate Fees <textline bbox="73.224,299.350,541.244,323.350">&#9899; BPA Agreements and Preferred Providers <text bbox="73.224,300.700,86.670,318.700" colourspace="DeviceGray" font="BCDEEE+Wingdings-Regular" ncolour="(0, 0.2, 0.4)" size="18.000">&#9899;</text>
@@ -134,9 +134,9 @@
 <text bbox="315.716,195.650,327.716,219.650" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.2, 0.4)" size="24.000">s</text>
 </textline>
 </enlisting>
-<slide_number bbox="22.512,13.900,36.990,39.940" id="2" size="26.04">2 <textline bbox="22.512,13.900,36.990,39.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.040">2 </textline>
+<slide_number bbox="22.512,13.900,36.990,39.940" id="2" size="26.04" Annotation_index="2">2 <textline bbox="22.512,13.900,36.990,39.940" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="26.040">2 </textline>
 </slide_number>
-<curve bbox="36.000,448.080,252.000,540.000" linewidth="0" pts="252.000,540.000,252.000,479.970,83.500,479.720,80.250,479.970,74.500,478.850,72.250,477.720,68.875,475.840,66.750,473.590,64.625,471.340,62.875,468.210,61.750,465.340,60.625,462.460,60.250,459.590,60.000,456.710,60.000,448.080,36.000,448.080,36.000,479.970,36.000,540.000,252.000,540.000" />
-<curve bbox="18.000,358.920,48.960,384.000" linewidth="0" pts="48.960,384.000,33.480,384.000,24.931,384.000,18.000,378.390,18.000,371.460,18.000,364.530,24.931,358.920,33.480,358.920,48.960,358.920" />
+<curve bbox="36.000,448.080,252.000,540.000" linewidth="0" pts="252.000,540.000,252.000,479.970,83.500,479.720,80.250,479.970,74.500,478.850,72.250,477.720,68.875,475.840,66.750,473.590,64.625,471.340,62.875,468.210,61.750,465.340,60.625,462.460,60.250,459.590,60.000,456.710,60.000,448.080,36.000,448.080,36.000,479.970,36.000,540.000,252.000,540.000" Annotation_index="3" />
+<curve bbox="18.000,358.920,48.960,384.000" linewidth="0" pts="48.960,384.000,33.480,384.000,24.931,384.000,18.000,378.390,18.000,371.460,18.000,364.530,24.931,358.920,33.480,358.920,48.960,358.920" Annotation_index="4" />
 </page>
 </pages>

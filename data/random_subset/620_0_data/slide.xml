@@ -1,11 +1,11 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
-<title archetypal_index="0" bbox="59.352,302.509,675.834,415.219" id="0" size="32.04">Evaluating Calibration of MODIS Thermal  
+<title archetypal_index="0" bbox="59.352,302.509,675.834,415.219" id="0" size="32.04" Annotation_index="0">Evaluating Calibration of MODIS Thermal  
 Emissive Bands Using Infrared Atmospheric  
 Sounding Interferometer Measurements <textline bbox="66.672,383.179,668.479,415.219" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.040">Evaluating Calibration of MODIS Thermal  </textline>
 <textline bbox="59.352,344.749,675.834,376.789" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.040">Emissive Bands Using Infrared Atmospheric  </textline>
 <textline bbox="88.536,302.509,638.054,334.549" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="32.040">Sounding Interferometer Measurements </textline>
 </title>
-<normal_text archetypal_index="1" bbox="119.780,175.407,600.114,200.548" id="1" size="24.024">Yonghong Lia, Aisheng Wua, Xiaoxiong Xiongb <textline bbox="119.780,175.407,600.114,200.548">Yonghong Lia, Aisheng Wua, Xiaoxiong Xiongb <text bbox="119.780,175.407,133.642,199.431" colourspace="DeviceGray" font="BCDEEE+Cambria-BoldItalic" ncolour="(0, 0.4, 0.8)" size="24.024">Y</text>
+<normal_text archetypal_index="1" bbox="119.780,175.407,600.114,200.548" id="1" size="24.024" Annotation_index="1">Yonghong Lia, Aisheng Wua, Xiaoxiong Xiongb <textline bbox="119.780,175.407,600.114,200.548">Yonghong Lia, Aisheng Wua, Xiaoxiong Xiongb <text bbox="119.780,175.407,133.642,199.431" colourspace="DeviceGray" font="BCDEEE+Cambria-BoldItalic" ncolour="(0, 0.4, 0.8)" size="24.024">Y</text>
 <text bbox="131.552,175.407,144.525,199.431" colourspace="DeviceGray" font="BCDEEE+Cambria-BoldItalic" ncolour="(0, 0.4, 0.8)" size="24.024">o</text>
 <text bbox="144.525,175.407,158.579,199.431" colourspace="DeviceGray" font="BCDEEE+Cambria-BoldItalic" ncolour="(0, 0.4, 0.8)" size="24.024">n</text>
 <text bbox="158.579,175.407,172.152,199.431" colourspace="DeviceGray" font="BCDEEE+Cambria-BoldItalic" ncolour="(0, 0.4, 0.8)" size="24.024">g</text>
@@ -50,7 +50,7 @@ Sounding Interferometer Measurements <textline bbox="66.672,383.179,668.479,415.
 <text bbox="591.240,184.588,600.114,200.548" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.439, 0.753)" size="15.960">b</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="47.424,103.512,672.372,147.248" id="2" size="15.96">aScience and Systems Applications, Inc., Lanham, MD 20706, USA 
+<normal_text archetypal_index="2" bbox="47.424,103.512,672.372,147.248" id="2" size="15.96" Annotation_index="2">aScience and Systems Applications, Inc., Lanham, MD 20706, USA 
 bSciences and Exploration Directorate, NASA/GSFC, Greenbelt, MD 20707, USA <textline bbox="103.820,123.552,616.016,147.248">aScience and Systems Applications, Inc., Lanham, MD 20706, USA <text bbox="103.820,131.288,112.694,147.248" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0.439, 0.753)" size="15.960">a</text>
 <text bbox="112.700,123.552,122.708,141.552" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="18.000">S</text>
 <text bbox="122.708,123.552,130.700,141.552" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="18.000">c</text>
@@ -190,7 +190,7 @@ bSciences and Exploration Directorate, NASA/GSFC, Greenbelt, MD 20707, USA <text
 <text bbox="659.376,103.512,672.372,121.512" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 0.8)" size="18.000">A</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="43.104,20.169,600.275,36.129" id="3" size="15.96">(2015 GSICS Data &amp; Research Working Group Meeting, March 16-20, 2015, New Delhi, India ) <textline bbox="43.104,20.169,600.275,36.129">(2015 GSICS Data &amp; Research Working Group Meeting, March 16-20, 2015, New Delhi, India ) <text bbox="43.104,20.169,48.419,36.129" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="15.960">(</text>
+<normal_text archetypal_index="3" bbox="43.104,20.169,600.275,36.129" id="3" size="15.96" Annotation_index="3">(2015 GSICS Data &amp; Research Working Group Meeting, March 16-20, 2015, New Delhi, India ) <textline bbox="43.104,20.169,600.275,36.129">(2015 GSICS Data &amp; Research Working Group Meeting, March 16-20, 2015, New Delhi, India ) <text bbox="43.104,20.169,48.419,36.129" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="15.960">(</text>
 <text bbox="48.384,20.583,55.404,34.623" colourspace="DeviceGray" font="BCDFEE+Times,BoldItalic" ncolour="(0, 0, 1)" size="14.040">2</text>
 <text bbox="55.446,20.583,62.466,34.623" colourspace="DeviceGray" font="BCDFEE+Times,BoldItalic" ncolour="(0, 0, 1)" size="14.040">0</text>
 <text bbox="62.508,20.583,69.528,34.623" colourspace="DeviceGray" font="BCDFEE+Times,BoldItalic" ncolour="(0, 0, 1)" size="14.040">1</text>
@@ -279,12 +279,12 @@ bSciences and Exploration Directorate, NASA/GSFC, Greenbelt, MD 20707, USA <text
 <text bbox="594.960,20.169,600.275,36.129" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="(0, 0, 1)" size="15.960">)</text>
 </textline>
 </normal_text>
-<slide_number bbox="698.760,8.121,706.740,24.081" id="4" size="15.96">1 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">1 </textline>
+<slide_number bbox="698.760,8.121,706.740,24.081" id="4" size="15.96" Annotation_index="4">1 <textline bbox="698.760,8.121,706.740,24.081" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="15.960">1 </textline>
 </slide_number>
-<picture archetypal_index="4" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.160x120.bmp" width="112">
+<picture archetypal_index="4" bbox="0.000,453.480,112.800,540.000" height="86" name="Image6" src="Image6.160x120.bmp" width="112" Annotation_index="5">
 </picture>
-<picture archetypal_index="5" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.jpg" width="62">
+<picture archetypal_index="5" bbox="654.240,445.680,716.520,540.000" height="94" name="Image7" src="Image7.jpg" width="62" Annotation_index="6">
 </picture>
-<curve bbox="48.367,21.567,592.090,22.287" linewidth="0" pts="48.367,22.287,184.300,22.287,320.230,22.287,456.160,22.287,592.090,22.287,592.090,21.567,456.160,21.567,320.230,21.567,184.300,21.567,48.367,21.567" />
+<curve bbox="48.367,21.567,592.090,22.287" linewidth="0" pts="48.367,22.287,184.300,22.287,320.230,22.287,456.160,22.287,592.090,22.287,592.090,21.567,456.160,21.567,320.230,21.567,184.300,21.567,48.367,21.567" Annotation_index="7" />
 </page>
 </pages>

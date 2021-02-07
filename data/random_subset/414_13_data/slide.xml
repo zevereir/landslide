@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="14" mean_title="[42.47272727272727, 420.67996969696964, 457.6482575757575, 480.004]" rotate="0">
-<title archetypal_index="0" bbox="43.200,435.964,399.396,480.004" id="0" size="44.04">Recommendations <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
+<title archetypal_index="0" bbox="43.200,435.964,399.396,480.004" id="0" size="44.04" Annotation_index="0">Recommendations <textline bbox="43.200,435.964,399.396,480.004" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="1" size="44.040">Recommendations </textline>
 </title>
-<enlisting archetypal_index="1" bbox="43.200,346.601,580.044,385.001" id="1" size="38.4">&#8226; Use statistical evaluation techniques <textline bbox="43.200,346.601,580.044,385.001">&#8226; Use statistical evaluation techniques <text bbox="43.200,346.601,60.672,385.001" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
+<enlisting archetypal_index="1" bbox="43.200,346.601,580.044,385.001" id="1" size="38.4" Annotation_index="1">&#8226; Use statistical evaluation techniques <textline bbox="43.200,346.601,580.044,385.001">&#8226; Use statistical evaluation techniques <text bbox="43.200,346.601,60.672,385.001" colourspace="DeviceGray" font="BCDFEE+Tahoma" ncolour="(1, 0.8, 0)" size="38.400">&#8226;</text>
 <text bbox="70.224,347.918,91.242,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">U</text>
 <text bbox="91.242,347.918,105.532,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">s</text>
 <text bbox="105.532,347.918,122.385,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">e</text>
@@ -41,13 +41,13 @@
 <text bbox="565.755,347.918,580.044,379.958" colourspace="DeviceGray" font="BCDEEE+Tahoma" ncolour="(1, 1, 0.4)" size="32.040">s</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="2" bbox="180.070,188.630,269.044,249.830" id="2" size="18.0">Statistical  
+<normal_text archetypal_index="2" bbox="180.070,188.630,269.044,249.830" id="2" size="18.0" Annotation_index="2">Statistical  
 Evalutaion  
 Technique <textline bbox="183.580,231.830,265.534,249.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Statistical  </textline>
 <textline bbox="180.070,210.230,269.044,228.230" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Evalutaion  </textline>
 <textline bbox="181.060,188.630,262.960,206.630" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Technique </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="405.720,156.230,535.320,260.669" id="3" size="18.0048">Quantifies  
+<normal_text archetypal_index="3" bbox="405.720,156.230,535.320,260.669" id="3" size="18.0048" Annotation_index="3">Quantifies  
 Uncertainty  
 Associated with  
 Use Support  
@@ -57,19 +57,19 @@ Determination <textline bbox="427.560,242.645,513.480,260.669" colourspace="Devi
 <textline bbox="418.080,177.830,522.876,195.830" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Use Support  </textline>
 <textline bbox="412.200,156.230,523.962,174.230" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="18.000">Determination </textline>
 </normal_text>
-<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.12.jpg" width="720">
+<background bbox="0.000,0.000,720.000,540.000" height="540" name="Image5" src="Image5.12.jpg" width="720" Annotation_index="4">
 </background>
-<rect bbox="144.000,114.000,300.000,306.000" linewidth="0" />
-<rect bbox="141.750,111.750,302.250,308.250" linewidth="0" />
-<rect bbox="144.450,114.450,299.550,305.550" linewidth="0" />
-<rect bbox="145.350,115.350,298.650,304.650" linewidth="0" />
-<rect bbox="146.250,116.250,297.750,303.750" linewidth="0" />
-<curve bbox="312.000,186.000,378.000,240.000" linewidth="0" pts="312.000,240.000,361.500,240.000,378.000,213.000,361.500,186.000,312.000,186.000,328.500,213.000" />
-<curve bbox="312.000,186.000,378.000,240.000" linewidth="0" pts="312.000,240.000,361.500,240.000,378.000,213.000,361.500,186.000,312.000,186.000,328.500,213.000" />
-<rect bbox="390.000,114.000,546.000,306.000" linewidth="0" />
-<rect bbox="387.750,111.750,548.250,308.250" linewidth="0" />
-<rect bbox="390.450,114.450,545.550,305.550" linewidth="0" />
-<rect bbox="391.350,115.350,544.650,304.650" linewidth="0" />
-<rect bbox="392.250,116.250,543.750,303.750" linewidth="0" />
+<rect bbox="144.000,114.000,300.000,306.000" linewidth="0" Annotation_index="5" />
+<rect bbox="141.750,111.750,302.250,308.250" linewidth="0" Annotation_index="6" />
+<rect bbox="144.450,114.450,299.550,305.550" linewidth="0" Annotation_index="7" />
+<rect bbox="145.350,115.350,298.650,304.650" linewidth="0" Annotation_index="8" />
+<rect bbox="146.250,116.250,297.750,303.750" linewidth="0" Annotation_index="9" />
+<curve bbox="312.000,186.000,378.000,240.000" linewidth="0" pts="312.000,240.000,361.500,240.000,378.000,213.000,361.500,186.000,312.000,186.000,328.500,213.000" Annotation_index="10" />
+<curve bbox="312.000,186.000,378.000,240.000" linewidth="0" pts="312.000,240.000,361.500,240.000,378.000,213.000,361.500,186.000,312.000,186.000,328.500,213.000" Annotation_index="11" />
+<rect bbox="390.000,114.000,546.000,306.000" linewidth="0" Annotation_index="12" />
+<rect bbox="387.750,111.750,548.250,308.250" linewidth="0" Annotation_index="13" />
+<rect bbox="390.450,114.450,545.550,305.550" linewidth="0" Annotation_index="14" />
+<rect bbox="391.350,115.350,544.650,304.650" linewidth="0" Annotation_index="15" />
+<rect bbox="392.250,116.250,543.750,303.750" linewidth="0" Annotation_index="16" />
 </page>
 </pages>

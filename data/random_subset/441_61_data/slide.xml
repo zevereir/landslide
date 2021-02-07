@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="62" mean_title="[101.94336653061222, 466.1898, 619.6064146938776, 526.4237624489796]" rotate="0">
-<title archetypal_index="0" bbox="199.030,492.890,521.050,528.890" id="0" size="36.0">The Future of MOS <textline bbox="199.030,492.890,521.050,528.890" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">The Future of MOS </textline>
+<title archetypal_index="0" bbox="199.030,492.890,521.050,528.890" id="0" size="36.0" Annotation_index="0">The Future of MOS <textline bbox="199.030,492.890,521.050,528.890" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="36.000">The Future of MOS </textline>
 </title>
-<enlisting archetypal_index="1" bbox="104.780,446.503,615.460,474.487" id="1" size="27.984">&#8220;Enhanced-Resolution&#8221; MOS Systems <textline bbox="104.780,446.503,615.460,474.487" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.878, 0.753)" size="27.984">&#8220;Enhanced-Resolution&#8221; MOS Systems </textline>
+<enlisting archetypal_index="1" bbox="104.780,446.503,615.460,474.487" id="1" size="27.984" Annotation_index="1">&#8220;Enhanced-Resolution&#8221; MOS Systems <textline bbox="104.780,446.503,615.460,474.487" colourspace="Pattern" font="Arial-BoldMT" ncolour="(1, 0.878, 0.753)" size="27.984">&#8220;Enhanced-Resolution&#8221; MOS Systems </textline>
 </enlisting>
-<enlisting archetypal_index="2" bbox="9.0,193.548,659.185,427.351" id="2" size="32.064">&#9679; &#8220;MOS at any point&#8221; <textline bbox="9.000,395.287,342.378,427.351">&#9679; &#8220;MOS at any point&#8221; <text bbox="9.000,395.287,28.367,427.351" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 1)" size="32.064">&#9679;</text>
+<enlisting archetypal_index="2" bbox="9.0,193.548,659.185,427.351" id="2" size="32.064" Annotation_index="2">&#9679; &#8220;MOS at any point&#8221; <textline bbox="9.000,395.287,342.378,427.351">&#9679; &#8220;MOS at any point&#8221; <text bbox="9.000,395.287,28.367,427.351" colourspace="Pattern" font="ArialMT" ncolour="(1, 0, 1)" size="32.064">&#9679;</text>
 <text bbox="48.960,395.287,64.992,427.351" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="32.064">&#8220;</text>
 <text bbox="64.992,395.287,91.701,427.351" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="32.064">M</text>
 <text bbox="91.701,395.287,116.647,427.351" colourspace="Pattern" font="Arial-BoldMT" ncolour="1" size="32.064">O</text>
@@ -36,7 +36,7 @@ Use high-resolution geophysical data  <textline bbox="72.264,227.148,638.790,255
 <textline bbox="72.264,193.548,578.392,221.508" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0.8, 0.902, 1)" size="27.960">Use high-resolution geophysical data  </textline>
 </normal_text>
 </enlisting>
-<curve bbox="8.160,481.200,711.720,486.600" linewidth="0" pts="8.160,481.200,711.720,481.200,711.720,486.600,709.850,484.720,709.850,483.080,10.035,483.080,8.160,481.200" />
-<curve bbox="8.160,481.200,711.720,486.600" linewidth="0" pts="8.160,481.200,8.160,486.600,711.720,486.600,709.850,484.720,10.035,484.720,10.035,483.080,8.160,481.200" />
+<curve bbox="8.160,481.200,711.720,486.600" linewidth="0" pts="8.160,481.200,711.720,481.200,711.720,486.600,709.850,484.720,709.850,483.080,10.035,483.080,8.160,481.200" Annotation_index="3" />
+<curve bbox="8.160,481.200,711.720,486.600" linewidth="0" pts="8.160,481.200,8.160,486.600,711.720,486.600,709.850,484.720,10.035,484.720,10.035,483.080,8.160,481.200" Annotation_index="4" />
 </page>
 </pages>

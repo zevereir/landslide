@@ -1,20 +1,20 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[202.08800000000002, 476.86800000000005, 520.2240666666667, 504.82800000000003]" rotate="0">
-<title archetypal_index="0" bbox="255.580,476.868,471.990,504.828" id="0" size="27.96">Beam Properties  <textline bbox="255.580,476.868,471.990,504.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">Beam Properties  </textline>
+<title archetypal_index="0" bbox="255.580,476.868,471.990,504.828" id="0" size="27.96" Annotation_index="0">Beam Properties  <textline bbox="255.580,476.868,471.990,504.828" colourspace="Pattern" font="ArialMT" ncolour="0" size="27.960">Beam Properties  </textline>
 </title>
-<normal_text archetypal_index="1" bbox="31.848,7.391,688.270,21.455" id="5" size="14.064">Steve Geer        High Intensity Proton Accelerators          Fermilab            19  October  2009                      6 <textline bbox="31.848,7.391,688.270,21.455" colourspace="Pattern" font="ArialMT" ncolour="0" size="14.064">Steve Geer        High Intensity Proton Accelerators          Fermilab            19  October  2009                      6 </textline>
+<normal_text archetypal_index="1" bbox="31.848,7.391,688.270,21.455" id="5" size="14.064" Annotation_index="1">Steve Geer        High Intensity Proton Accelerators          Fermilab            19  October  2009                      6 <textline bbox="31.848,7.391,688.270,21.455" colourspace="Pattern" font="ArialMT" ncolour="0" size="14.064">Steve Geer        High Intensity Proton Accelerators          Fermilab            19  October  2009                      6 </textline>
 </normal_text>
-<rect bbox="6.000,450.000,714.000,456.000" linewidth="0" />
-<rect bbox="6.000,450.000,714.000,456.000" linewidth="0" />
-<rect bbox="12.000,30.000,708.000,36.000" linewidth="0" />
-<rect bbox="12.000,30.000,708.000,36.000" linewidth="0" />
-<picture archetypal_index="2" bbox="630.000,462.600,683.160,522.000" height="59" name="Image13" src="Image13.4.jpg" width="53">
+<rect bbox="6.000,450.000,714.000,456.000" linewidth="0" Annotation_index="2" />
+<rect bbox="6.000,450.000,714.000,456.000" linewidth="0" Annotation_index="3" />
+<rect bbox="12.000,30.000,708.000,36.000" linewidth="0" Annotation_index="4" />
+<rect bbox="12.000,30.000,708.000,36.000" linewidth="0" Annotation_index="5" />
+<picture archetypal_index="2" bbox="630.000,462.600,683.160,522.000" height="59" name="Image13" src="Image13.4.jpg" width="53" Annotation_index="6">
 </picture>
-<rect bbox="327.600,285.840,632.520,329.280" linewidth="0" />
-<rect bbox="320.280,236.640,639.840,279.000" linewidth="0" />
-<rect bbox="310.080,228.000,648.000,336.000" linewidth="0" />
-<picture archetypal_index="3" bbox="310.080,348.000,648.000,435.600" height="87" name="Image53" src="Image53.0.729x189.bmp" width="337">
+<rect bbox="327.600,285.840,632.520,329.280" linewidth="0" Annotation_index="7" />
+<rect bbox="320.280,236.640,639.840,279.000" linewidth="0" Annotation_index="8" />
+<rect bbox="310.080,228.000,648.000,336.000" linewidth="0" Annotation_index="9" />
+<picture archetypal_index="3" bbox="310.080,348.000,648.000,435.600" height="87" name="Image53" src="Image53.0.729x189.bmp" width="337" Annotation_index="10">
 </picture>
-<enlisting archetypal_index="4" bbox="70.776,66.504,669.877,417.949">- Can search for ne&#8594;nm oscillations with very low  - Well known beam flux  
+<enlisting archetypal_index="4" bbox="70.776,66.504,669.877,417.949" Annotation_index="11">- Can search for ne&#8594;nm oscillations with very low  - Well known beam flux  
 &amp; spectra (low syst- 
 ematic uncertainties) - Can measure spectra  
 for events tagged by  

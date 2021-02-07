@@ -1,9 +1,9 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="12" mean_title="[292.4026666666666, 447.5591111111111, 557.9815777777778, 488.82640000000004]" rotate="0">
-<normal_text archetypal_index="0" bbox="5.472,231.718,78.280,253.678" id="2" size="9.96">Performance  
+<normal_text archetypal_index="0" bbox="5.472,231.718,78.280,253.678" id="2" size="9.96" Annotation_index="0">Performance  
 Measures: <textline bbox="5.472,243.718,78.280,253.678" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="9.960">Performance  </textline>
 <textline bbox="5.472,231.718,61.218,241.678" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="9.960">Measures: </textline>
 </normal_text>
-<normal_text archetypal_index="1" bbox="5.472,188.878,122.948,222.838" id="3" size="9.48">&#9642; Percent employees with  
+<normal_text archetypal_index="1" bbox="5.472,188.878,122.948,222.838" id="3" size="9.48" Annotation_index="1">&#9642; Percent employees with  
 current performance  
 expectations <textline bbox="5.472,212.878,122.948,222.838">&#9642; Percent employees with  <text bbox="5.472,213.223,9.374,221.743" colourspace="DeviceGray" font="BCDHEE+Wingdings-Regular" ncolour="1" size="8.520">&#9642;</text>
 <text bbox="14.832,212.878,21.475,222.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">P</text>
@@ -33,16 +33,16 @@ expectations <textline bbox="5.472,212.878,122.948,222.838">&#9642; Percent empl
 <textline bbox="14.832,200.878,107.540,210.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">current performance  </textline>
 <textline bbox="14.832,188.878,70.658,198.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">expectations </textline>
 </normal_text>
-<title archetypal_index="2" bbox="310.200,453.872,541.848,496.852" id="11" size="19.02">Deploy Workforce 
+<title archetypal_index="2" bbox="310.200,453.872,541.848,496.852" id="11" size="19.02" Annotation_index="2">Deploy Workforce 
 Sick Leave Usage <textline bbox="310.200,472.852,541.848,496.852" colourspace="DeviceGray" font="BCDEEE+Arial-Black" ncolour="1" size="24.000">Deploy Workforce </textline>
 <textline bbox="367.080,453.872,485.044,467.912" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="14.040">Sick Leave Usage </textline>
 </title>
-<slide_number bbox="697.320,6.116,706.422,16.076" id="41" size="9.96">12 <textline bbox="697.320,6.116,706.422,16.076" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="0" size="9.960">12 </textline>
+<slide_number bbox="697.320,6.116,706.422,16.076" id="41" size="9.96" Annotation_index="3">12 <textline bbox="697.320,6.116,706.422,16.076" colourspace="DeviceGray" font="BCDGEE+ArialNarrow" ncolour="0" size="9.960">12 </textline>
 </slide_number>
-<rect bbox="0.000,0.000,131.760,540.000" linewidth="0" />
-<rect bbox="0.000,444.000,720.000,540.000" linewidth="0" />
-<rect bbox="138.000,170.640,443.640,438.000" linewidth="0" />
-<table archetypal_index="3" bbox="138.0,32.425,595.0,136.75" dimensions="6/3"><cell bbox="138.0,110.35,252.0,136.75"><tabletext bbox="145.220,113.972,225.387,131.612" id="22" size="8.04">Avg Hrs SL Used (per  
+<rect bbox="0.000,0.000,131.760,540.000" linewidth="0" Annotation_index="4" />
+<rect bbox="0.000,444.000,720.000,540.000" linewidth="0" Annotation_index="5" />
+<rect bbox="138.000,170.640,443.640,438.000" linewidth="0" Annotation_index="6" />
+<table archetypal_index="3" bbox="138.0,32.425,595.0,136.75" dimensions="6/3" Annotation_index="7"><cell bbox="138.0,110.35,252.0,136.75"><tabletext bbox="145.220,113.972,225.387,131.612" id="22" size="8.04">Avg Hrs SL Used (per  
 capita) - Agency <textline bbox="145.220,123.572,225.387,131.612" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">Avg Hrs SL Used (per  </textline>
 <textline bbox="145.220,113.972,203.217,122.012" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">capita) - Agency </textline>
 </tabletext>
@@ -107,7 +107,7 @@ who took SL) &#8211; Statewide* <textline bbox="491.040,62.440,579.842,70.480" c
 </tabletext>
 </cell><cell bbox="483.75,32.425,595.0,49.225"><tabletext bbox="525.790,36.040,552.965,44.080" id="38" size="8.04">148.4% <textline bbox="525.790,36.040,552.965,44.080" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">148.4% </textline>
 </tabletext>
-</cell></table><enlisting archetypal_index="4" bbox="5.472,15.476,385.117,180.838">&#9642; Employee survey ratings  &#9642; Overtime usage &#9642; Sick leave usage &#9642; Non-disciplinary  &#9642; Worker safety <normal_text bbox="5.472,170.878,126.484,180.838" id="4" size="8.52">&#9642; Employee survey ratings  <textline bbox="5.472,170.878,126.484,180.838">&#9642; Employee survey ratings  <text bbox="5.472,171.223,9.374,179.743" colourspace="DeviceGray" font="BCDHEE+Wingdings-Regular" ncolour="1" size="8.520">&#9642;</text>
+</cell></table><enlisting archetypal_index="4" bbox="5.472,15.476,385.117,180.838" Annotation_index="8">&#9642; Employee survey ratings  &#9642; Overtime usage &#9642; Sick leave usage &#9642; Non-disciplinary  &#9642; Worker safety <normal_text bbox="5.472,170.878,126.484,180.838" id="4" size="8.52">&#9642; Employee survey ratings  <textline bbox="5.472,170.878,126.484,180.838">&#9642; Employee survey ratings  <text bbox="5.472,171.223,9.374,179.743" colourspace="DeviceGray" font="BCDHEE+Wingdings-Regular" ncolour="1" size="8.520">&#9642;</text>
 <text bbox="14.832,170.878,21.475,180.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">E</text>
 <text bbox="21.435,170.878,29.732,180.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">m</text>
 <text bbox="29.941,170.878,35.479,180.838" colourspace="DeviceGray" font="ArialMT" ncolour="1" size="9.960">p</text>
@@ -222,7 +222,7 @@ filed and disposition
 </normal_text>
 <normal_text bbox="145.220,78.116,382.935,88.076" id="30" size="9.96">Sick Leave Hrs Used / Earned (those who took SL) <textline bbox="145.220,78.116,382.935,88.076" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">Sick Leave Hrs Used / Earned (those who took SL) </textline>
 </normal_text>
-</enlisting><enlisting archetypal_index="5" bbox="409.27,1.206,695.6,394.178">Action Steps: 
+</enlisting><enlisting archetypal_index="5" bbox="409.27,1.206,695.6,394.178" Annotation_index="9">Action Steps: 
 &#9642; DOR continues to expand its wellness program.  
 &#9642; Agency Wellness Committee participated in the  
 Tumwater Wellness Event at the Tumwater  
@@ -556,5 +556,5 @@ participation goal.  <textline bbox="476.500,214.918,671.039,224.878" colourspac
 </normal_text>
 <normal_text bbox="476.500,157.318,552.794,167.278" id="20" size="9.96">November, 2007. <textline bbox="476.500,157.318,552.794,167.278" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">November, 2007. </textline>
 </normal_text>
-</enlisting><picture archetypal_index="6" bbox="0.0,443.76,720.0,540.0" caption="&#10;Outcomes: &#10;Staff know job  &#10;expectations, how they&#8217;re  &#10;doing, &amp; are supported.  &#10;Workplace is safe, gives  &#10;capacity to perform,  &#10;&amp; fosters productive  &#10;relations. Employee  &#10;time and talent is used  &#10;effectively. Employees  &#10;are motivated. &#10;Analysis: &#10;&#9642; DOR per capita sick leave use continues to  &#10;mirror the statewide trend. " combined_sources="['Image77.2.jpg', 'Image26.9.1583x58.bmp']" name="combined_0" src="combined_12_0.png" /></page>
+</enlisting><picture archetypal_index="6" bbox="0.0,443.76,720.0,540.0" caption="&#10;Outcomes: &#10;Staff know job  &#10;expectations, how they&#8217;re  &#10;doing, &amp; are supported.  &#10;Workplace is safe, gives  &#10;capacity to perform,  &#10;&amp; fosters productive  &#10;relations. Employee  &#10;time and talent is used  &#10;effectively. Employees  &#10;are motivated. &#10;Analysis: &#10;&#9642; DOR per capita sick leave use continues to  &#10;mirror the statewide trend. " combined_sources="['Image77.2.jpg', 'Image26.9.1583x58.bmp']" name="combined_0" src="combined_12_0.png" Annotation_index="10" /></page>
 </pages>

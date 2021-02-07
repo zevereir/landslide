@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[25.582857142857147, 483.96054285714297, 341.4493523809524, 516.0218]" rotate="0">
-<title archetypal_index="0" bbox="25.200,484.761,470.607,516.825" id="0" size="32.064">Data Transfer: Main Server - Nodes <textline bbox="25.200,484.761,470.607,516.825" colourspace="DeviceGray" font="BCDGEE+GoudyOldStyleT-Regular" ncolour="(0.812, 0.898, 0.702)" size="32.064">Data Transfer: Main Server - Nodes </textline>
+<title archetypal_index="0" bbox="25.200,484.761,470.607,516.825" id="0" size="32.064" Annotation_index="0">Data Transfer: Main Server - Nodes <textline bbox="25.200,484.761,470.607,516.825" colourspace="DeviceGray" font="BCDGEE+GoudyOldStyleT-Regular" ncolour="(0.812, 0.898, 0.702)" size="32.064">Data Transfer: Main Server - Nodes </textline>
 </title>
-<normal_text archetypal_index="1" bbox="184.300,19.524,483.048,31.524" id="11" size="12.0">Mar&#237;a Nieto-Santisteban &#8211; AISRP 2003 / Pittsburgh  <textline bbox="184.300,19.524,483.048,31.524">Mar&#237;a Nieto-Santisteban &#8211; AISRP 2003 / Pittsburgh  <text bbox="184.300,19.524,194.632,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">M</text>
+<normal_text archetypal_index="1" bbox="184.300,19.524,483.048,31.524" id="11" size="12.0" Annotation_index="1">Mar&#237;a Nieto-Santisteban &#8211; AISRP 2003 / Pittsburgh  <textline bbox="184.300,19.524,483.048,31.524">Mar&#237;a Nieto-Santisteban &#8211; AISRP 2003 / Pittsburgh  <text bbox="184.300,19.524,194.632,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">M</text>
 <text bbox="194.632,19.524,201.256,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">a</text>
 <text bbox="201.220,19.524,206.128,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">r</text>
 <text bbox="206.128,19.524,209.596,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">&#237;</text>
@@ -52,19 +52,19 @@
 <text bbox="479.256,19.524,483.048,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="2" bbox="552.700,5.119,638.536,31.524" id="12" size="12.012">November 30,  
+<normal_text archetypal_index="2" bbox="552.700,5.119,638.536,31.524" id="12" size="12.012" Annotation_index="2">November 30,  
 2020 <textline bbox="552.700,19.524,638.536,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">November 30,  </textline>
 <textline bbox="604.560,5.119,634.839,17.143" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.024">2020 </textline>
 </normal_text>
-<slide_number bbox="691.080,19.524,706.224,31.524" id="13" size="12.0">15 <textline bbox="691.080,19.524,706.224,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">15 </textline>
+<slide_number bbox="691.080,19.524,706.224,31.524" id="13" size="12.0" Annotation_index="3">15 <textline bbox="691.080,19.524,706.224,31.524" colourspace="DeviceGray" font="BCDEEE+LucidaSansUnicode" ncolour="1" size="12.000">15 </textline>
 </slide_number>
-<picture archetypal_index="3" bbox="60.000,12.000,129.000,42.000" height="30" name="Image6" src="Image6.13.191x83.bmp" width="69">
+<picture archetypal_index="3" bbox="60.000,12.000,129.000,42.000" height="30" name="Image6" src="Image6.13.191x83.bmp" width="69" Annotation_index="4">
 </picture>
-<picture archetypal_index="4" bbox="18.000,6.000,51.240,48.240" height="42" name="Image9" src="Image9.13.100x125.bmp" width="33">
+<picture archetypal_index="4" bbox="18.000,6.000,51.240,48.240" height="42" name="Image9" src="Image9.13.100x125.bmp" width="33" Annotation_index="5">
 </picture>
-<picture archetypal_index="5" bbox="442.560,480.000,721.560,534.000" height="54" name="Image10" src="Image10.13.jpg" width="278">
+<picture archetypal_index="5" bbox="442.560,480.000,721.560,534.000" height="54" name="Image10" src="Image10.13.jpg" width="278" Annotation_index="6">
 </picture>
-<enlisting archetypal_index="6" bbox="7.2,126.405,688.901,450.94">the ServerZones table.  
+<enlisting archetypal_index="6" bbox="7.2,126.405,688.901,450.94" Annotation_index="7">the ServerZones table.  
 &#8211; Can be done in parallel.  
 &#8211; &#8211; &#8211; 1. Replicate the database schema on each server to  2. Member servers pull data from the main server using  3. Asymmetric partitioning:  4. Rebuild indexes. <normal_text bbox="43.200,276.522,316.177,358.750" id="4" size="21.36">the ServerZones table.  
 &#8211; Can be done in parallel.  

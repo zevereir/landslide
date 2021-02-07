@@ -1,5 +1,5 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="54" mean_title="[80.72410175763183, 449.06958834412575, 615.8855800185013, 511.70988436632757]" rotate="0">
-<normal_text archetypal_index="0" bbox="184.970,511.639,604.415,533.599" id="0" size="9.96">Observational Requirements:   Land/Atmosphere Exchange of Water and Carbon from HES on GOES R 
+<normal_text archetypal_index="0" bbox="184.970,511.639,604.415,533.599" id="0" size="9.96" Annotation_index="0">Observational Requirements:   Land/Atmosphere Exchange of Water and Carbon from HES on GOES R 
 *Alan Barr, Guillaume Drolet, Jan Gervin, Forrest G. Hall, Karl F. Hummerich, Robert Knox, Alexei Lyapustin, Hank Margolis, and Elizabeth Middleton. <textline bbox="184.970,523.639,604.415,533.599" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.960">Observational Requirements:   Land/Atmosphere Exchange of Water and Carbon from HES on GOES R </textline>
 <textline bbox="238.370,511.639,551.397,521.599">*Alan Barr, Guillaume Drolet, Jan Gervin, Forrest G. Hall, Karl F. Hummerich, Robert Knox, Alexei Lyapustin, Hank Margolis, and Elizabeth Middleton. <text bbox="238.370,511.639,243.350,521.599" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.960">*</text>
 <text bbox="243.170,512.701,246.809,517.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="5.040">A</text>
@@ -151,11 +151,11 @@
 <text bbox="550.137,512.701,551.397,517.741" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="5.040">.</text>
 </textline>
 </normal_text>
-<title archetypal_index="1" bbox="315.550,494.806,474.247,503.806" id="1" size="9.0">Current Technology    GOES R Technology <textline bbox="315.550,494.806,474.247,503.806" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.000">Current Technology    GOES R Technology </textline>
+<title archetypal_index="1" bbox="315.550,494.806,474.247,503.806" id="1" size="9.0" Annotation_index="1">Current Technology    GOES R Technology <textline bbox="315.550,494.806,474.247,503.806" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="9.000">Current Technology    GOES R Technology </textline>
 </title>
-<normal_text archetypal_index="2" bbox="431.350,444.831,507.827,449.871" id="2" size="5.04">Photosynthetic rate (Pc) = Par x Fapar <textline bbox="431.350,444.831,507.827,449.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="5.040">Photosynthetic rate (Pc) = Par x Fapar </textline>
+<normal_text archetypal_index="2" bbox="431.350,444.831,507.827,449.871" id="2" size="5.04" Annotation_index="2">Photosynthetic rate (Pc) = Par x Fapar <textline bbox="431.350,444.831,507.827,449.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="5.040">Photosynthetic rate (Pc) = Par x Fapar </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="507.580,438.831,574.027,443.871" id="3" size="5.04">x Light Use Efficiency(GOES R) <textline bbox="507.580,438.831,574.027,443.871">x Light Use Efficiency(GOES R) <text bbox="507.580,438.831,510.100,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(1, 0.2, 0)" size="5.040">x</text>
+<normal_text archetypal_index="3" bbox="507.580,438.831,574.027,443.871" id="3" size="5.04" Annotation_index="3">x Light Use Efficiency(GOES R) <textline bbox="507.580,438.831,574.027,443.871">x Light Use Efficiency(GOES R) <text bbox="507.580,438.831,510.100,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(1, 0.2, 0)" size="5.040">x</text>
 <text bbox="510.100,438.831,511.360,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(1, 0.2, 0)" size="5.040"> </text>
 <text bbox="511.420,438.831,514.499,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(0.882, 0.0471, 0)" size="5.040">L</text>
 <text bbox="514.419,438.831,515.820,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(0.882, 0.0471, 0)" size="5.040">i</text>
@@ -187,11 +187,11 @@
 <text bbox="572.349,438.831,574.027,443.871" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="(0.882, 0.0471, 0)" size="5.040">)</text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="4" bbox="540.500,421.972,581.690,428.572" id="4" size="3.0">PRI = Ref (531nm) - Ref (570nm) 
+<normal_text archetypal_index="4" bbox="540.500,421.972,581.690,428.572" id="4" size="3.0" Annotation_index="4">PRI = Ref (531nm) - Ref (570nm) 
 Ref(531nm) +Ref (570nm) <textline bbox="540.500,425.572,581.690,428.572" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.000">PRI = Ref (531nm) - Ref (570nm) </textline>
 <textline bbox="548.780,421.972,581.315,424.972" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.000">Ref(531nm) +Ref (570nm) </textline>
 </normal_text>
-<normal_text archetypal_index="5" bbox="405.260,289.743,588.196,309.303" id="6" size="8.04">&#8226;For Improved ET and Carbon Flux Monitoring GOES R 
+<normal_text archetypal_index="5" bbox="405.260,289.743,588.196,309.303" id="6" size="8.04" Annotation_index="5">&#8226;For Improved ET and Carbon Flux Monitoring GOES R 
 Should Include  <textline bbox="405.260,301.263,588.196,309.303">&#8226;For Improved ET and Carbon Flux Monitoring GOES R <text bbox="405.260,301.263,408.074,309.303" colourspace="DeviceGray" font="BCEDEE+Times" ncolour="0" size="8.040">&#8226;</text>
 <text bbox="408.020,301.263,412.490,309.303" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="8.040">F</text>
 <text bbox="412.337,301.263,416.357,309.303" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="8.040">o</text>
@@ -245,11 +245,11 @@ Should Include  <textline bbox="405.260,301.263,588.196,309.303">&#8226;For Impr
 </textline>
 <textline bbox="471.500,289.743,522.224,297.783" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="8.040">Should Include  </textline>
 </normal_text>
-<normal_text archetypal_index="6" bbox="242.300,348.094,355.478,361.294" id="10" size="6.0">Impacts 
+<normal_text archetypal_index="6" bbox="242.300,348.094,355.478,361.294" id="10" size="6.0" Annotation_index="6">Impacts 
 Overestimation of ET, cloudiness, precipitation <textline bbox="289.460,355.294,308.342,361.294" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">Impacts </textline>
 <textline bbox="242.300,348.094,355.478,354.094" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">Overestimation of ET, cloudiness, precipitation </textline>
 </normal_text>
-<normal_text archetypal_index="7" bbox="297.020,168.164,367.238,174.164" id="28" size="6.0">Amthor et al. 2001 JGRBOREAS  <textline bbox="297.020,168.164,367.238,174.164">Amthor et al. 2001 JGRBOREAS  <text bbox="297.020,168.164,301.352,174.164" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">A</text>
+<normal_text archetypal_index="7" bbox="297.020,168.164,367.238,174.164" id="28" size="6.0" Annotation_index="7">Amthor et al. 2001 JGRBOREAS  <textline bbox="297.020,168.164,367.238,174.164">Amthor et al. 2001 JGRBOREAS  <text bbox="297.020,168.164,301.352,174.164" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">A</text>
 <text bbox="301.220,168.164,305.888,174.164" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">m</text>
 <text bbox="305.660,168.164,307.328,174.164" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">t</text>
 <text bbox="307.454,168.164,310.454,174.164" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">h</text>
@@ -280,11 +280,11 @@ Overestimation of ET, cloudiness, precipitation <textline bbox="289.460,355.294,
 <text bbox="366.248,168.605,367.238,172.565" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960"> </text>
 </textline>
 </normal_text>
-<normal_text archetypal_index="8" bbox="214.560,163.325,235.267,167.285" id="29" size="3.96">Special Issue <textline bbox="214.560,163.325,235.267,167.285" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960">Special Issue </textline>
+<normal_text archetypal_index="8" bbox="214.560,163.325,235.267,167.285" id="29" size="3.96" Annotation_index="8">Special Issue <textline bbox="214.560,163.325,235.267,167.285" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960">Special Issue </textline>
 </normal_text>
-<normal_text archetypal_index="9" bbox="632.160,155.354,688.080,161.354" id="30" size="6.0">From MODIS Analysis <textline bbox="632.160,155.354,688.080,161.354" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">From MODIS Analysis </textline>
+<normal_text archetypal_index="9" bbox="632.160,155.354,688.080,161.354" id="30" size="6.0" Annotation_index="9">From MODIS Analysis <textline bbox="632.160,155.354,688.080,161.354" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">From MODIS Analysis </textline>
 </normal_text>
-<normal_text archetypal_index="10" bbox="170.570,7.881,613.347,16.641" id="33" size="3.96">&#8226;In alphabetical  order.   Roles: Alan Barr provided  flux data, Guillaume Drolet conducted  the MODIS analyses. Jan Gervin provided  engineering  analysis support.  Forrest  Hall provided  overall conceptual  framework.  Fred Huemmrich  provided  helicopter  analyses. Robert Knox  
+<normal_text archetypal_index="10" bbox="170.570,7.881,613.347,16.641" id="33" size="3.96" Annotation_index="10">&#8226;In alphabetical  order.   Roles: Alan Barr provided  flux data, Guillaume Drolet conducted  the MODIS analyses. Jan Gervin provided  engineering  analysis support.  Forrest  Hall provided  overall conceptual  framework.  Fred Huemmrich  provided  helicopter  analyses. Robert Knox  
 developed  Satellite requirements  analysis. Alexi Lyapustin  provided  atmospheric  radiative transfer  requirements  analysis. Hank Margolis  provided  access to fluxnet  Canada data. Elizabeth  Middleton  coordinated  the overall effort  and provided  biological  consultation. <textline bbox="170.570,12.681,613.347,16.641">&#8226;In alphabetical  order.   Roles: Alan Barr provided  flux data, Guillaume Drolet conducted  the MODIS analyses. Jan Gervin provided  engineering  analysis support.  Forrest  Hall provided  overall conceptual  framework.  Fred Huemmrich  provided  helicopter  analyses. Robert Knox  <text bbox="170.570,12.681,171.956,16.641" colourspace="DeviceGray" font="BCEDEE+Times" ncolour="0" size="3.960">&#8226;</text>
 <text bbox="171.890,12.681,173.209,16.641" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960">I</text>
 <text bbox="173.209,12.681,175.189,16.641" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960">n</text>
@@ -556,27 +556,27 @@ developed  Satellite requirements  analysis. Alexi Lyapustin  provided  atmosphe
 </textline>
 <textline bbox="170.570,7.881,596.073,11.841" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.960">developed  Satellite requirements  analysis. Alexi Lyapustin  provided  atmospheric  radiative transfer  requirements  analysis. Hank Margolis  provided  access to fluxnet  Canada data. Elizabeth  Middleton  coordinated  the overall effort  and provided  biological  consultation. </textline>
 </normal_text>
-<curve bbox="548.320,425.750,581.560,425.870" linewidth="0" pts="548.320,425.870,556.630,425.870,564.940,425.870,573.250,425.870,581.560,425.870,581.560,425.750,573.250,425.750,564.940,425.750,556.630,425.750,548.320,425.750" />
-<curve bbox="523.400,416.640,536.510,433.850" linewidth="0" pts="531.270,433.850,532.670,428.100,528.300,427.030,526.890,432.790,536.510,431.360,533.160,416.640,523.400,428.150" />
-<curve bbox="453.000,411.600,465.910,439.020" linewidth="0" pts="461.530,439.020,456.650,423.020,460.950,421.700,465.830,437.700,453.000,426.480,455.520,411.600,465.910,422.540" />
-<picture archetypal_index="11" bbox="226.320,344.880,364.080,476.640" height="131" name="Image484" src="Image484.jpg" width="137">
+<curve bbox="548.320,425.750,581.560,425.870" linewidth="0" pts="548.320,425.870,556.630,425.870,564.940,425.870,573.250,425.870,581.560,425.870,581.560,425.750,573.250,425.750,564.940,425.750,556.630,425.750,548.320,425.750" Annotation_index="11" />
+<curve bbox="523.400,416.640,536.510,433.850" linewidth="0" pts="531.270,433.850,532.670,428.100,528.300,427.030,526.890,432.790,536.510,431.360,533.160,416.640,523.400,428.150" Annotation_index="12" />
+<curve bbox="453.000,411.600,465.910,439.020" linewidth="0" pts="461.530,439.020,456.650,423.020,460.950,421.700,465.830,437.700,453.000,426.480,455.520,411.600,465.910,422.540" Annotation_index="13" />
+<picture archetypal_index="11" bbox="226.320,344.880,364.080,476.640" height="131" name="Image484" src="Image484.jpg" width="137" Annotation_index="14">
 </picture>
-<rect bbox="559.660,21.345,715.330,142.575" linewidth="0" />
-<curve bbox="593.160,305.040,647.760,363.360" linewidth="0" pts="632.390,305.040,647.760,322.520,640.400,322.520,640.400,329.810,640.400,348.340,629.930,363.360,617.030,363.360,593.160,363.360,593.160,345.880,617.030,345.880,621.090,345.880,624.390,338.680,624.390,329.810,624.390,322.520,617.030,322.520" />
-<curve bbox="593.160,305.040,647.760,363.360" linewidth="0" pts="632.390,305.040,647.760,322.520,640.400,322.520,640.400,329.810,640.400,348.340,629.930,363.360,617.030,363.360,593.160,363.360,593.160,345.880,617.030,345.880,621.090,345.880,624.390,338.680,624.390,329.810,624.390,322.520,617.030,322.520" />
-<picture archetypal_index="12" bbox="17.640,348.360,122.160,531.600" height="183" name="Image487" src="Image487.jpg" width="104">
+<rect bbox="559.660,21.345,715.330,142.575" linewidth="0" Annotation_index="15" />
+<curve bbox="593.160,305.040,647.760,363.360" linewidth="0" pts="632.390,305.040,647.760,322.520,640.400,322.520,640.400,329.810,640.400,348.340,629.930,363.360,617.030,363.360,593.160,363.360,593.160,345.880,617.030,345.880,621.090,345.880,624.390,338.680,624.390,329.810,624.390,322.520,617.030,322.520" Annotation_index="16" />
+<curve bbox="593.160,305.040,647.760,363.360" linewidth="0" pts="632.390,305.040,647.760,322.520,640.400,322.520,640.400,329.810,640.400,348.340,629.930,363.360,617.030,363.360,593.160,363.360,593.160,345.880,617.030,345.880,621.090,345.880,624.390,338.680,624.390,329.810,624.390,322.520,617.030,322.520" Annotation_index="17" />
+<picture archetypal_index="12" bbox="17.640,348.360,122.160,531.600" height="183" name="Image487" src="Image487.jpg" width="104" Annotation_index="18">
 </picture>
-<rect bbox="9.480,501.600,132.240,536.640" linewidth="0" />
-<picture archetypal_index="13" bbox="16.320,223.200,124.080,328.320" height="105" name="Image488" src="Image488.jpg" width="107">
+<rect bbox="9.480,501.600,132.240,536.640" linewidth="0" Annotation_index="19" />
+<picture archetypal_index="13" bbox="16.320,223.200,124.080,328.320" height="105" name="Image488" src="Image488.jpg" width="107" Annotation_index="20">
 </picture>
-<picture archetypal_index="14" bbox="237.240,40.080,366.840,163.320" height="123" name="Image497" src="Image497.339x342.bmp" width="129">
+<picture archetypal_index="14" bbox="237.240,40.080,366.840,163.320" height="123" name="Image497" src="Image497.339x342.bmp" width="129" Annotation_index="21">
 </picture>
-<curve bbox="264.480,495.000,313.680,503.400" linewidth="0" pts="264.480,499.200,276.800,503.400,276.800,501.300,313.680,501.300,313.680,497.100,276.800,497.100,276.800,495.000" />
-<curve bbox="264.480,495.000,313.680,503.400" linewidth="0" pts="264.480,499.200,276.800,503.400,276.800,501.300,313.680,501.300,313.680,497.100,276.800,497.100,276.800,495.000" />
-<curve bbox="470.520,493.320,519.480,501.600" linewidth="0" pts="519.480,497.460,507.190,501.600,507.190,499.530,470.520,499.530,470.520,495.390,507.190,495.390,507.190,493.320" />
-<curve bbox="470.520,493.320,519.480,501.600" linewidth="0" pts="519.480,497.460,507.190,501.600,507.190,499.530,470.520,499.530,470.520,495.390,507.190,495.390,507.190,493.320" />
-<rect bbox="415.540,79.665,545.890,202.575" linewidth="0" />
-<table archetypal_index="15" bbox="17.64,203.52,376.32,370.08" dimensions="1/2"><cell bbox="213.6,203.52,376.32,328.32" /><cell bbox="17.64,338.4,122.76,370.08"><tabletext bbox="22.512,339.914,119.220,367.514" id="9" size="6.0">The vegetated land surface and climate  
+<curve bbox="264.480,495.000,313.680,503.400" linewidth="0" pts="264.480,499.200,276.800,503.400,276.800,501.300,313.680,501.300,313.680,497.100,276.800,497.100,276.800,495.000" Annotation_index="22" />
+<curve bbox="264.480,495.000,313.680,503.400" linewidth="0" pts="264.480,499.200,276.800,503.400,276.800,501.300,313.680,501.300,313.680,497.100,276.800,497.100,276.800,495.000" Annotation_index="23" />
+<curve bbox="470.520,493.320,519.480,501.600" linewidth="0" pts="519.480,497.460,507.190,501.600,507.190,499.530,470.520,499.530,470.520,495.390,507.190,495.390,507.190,493.320" Annotation_index="24" />
+<curve bbox="470.520,493.320,519.480,501.600" linewidth="0" pts="519.480,497.460,507.190,501.600,507.190,499.530,470.520,499.530,470.520,495.390,507.190,495.390,507.190,493.320" Annotation_index="25" />
+<rect bbox="415.540,79.665,545.890,202.575" linewidth="0" Annotation_index="26" />
+<table archetypal_index="15" bbox="17.64,203.52,376.32,370.08" dimensions="1/2" Annotation_index="27"><cell bbox="213.6,203.52,376.32,328.32" /><cell bbox="17.64,338.4,122.76,370.08"><tabletext bbox="22.512,339.914,119.220,367.514" id="9" size="6.0">The vegetated land surface and climate  
 are linked through the carbon and water  
 cycle at time scales from seconds to  
 centuries <textline bbox="23.832,361.514,117.918,367.514" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="1" size="6.000">The vegetated land surface and climate  </textline>
@@ -584,7 +584,7 @@ centuries <textline bbox="23.832,361.514,117.918,367.514" colourspace="DeviceGra
 <textline bbox="27.192,347.114,114.660,353.114" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="1" size="6.000">cycle at time scales from seconds to  </textline>
 <textline bbox="59.472,339.914,80.874,345.914" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="1" size="6.000">centuries </textline>
 </tabletext>
-</cell></table><table archetypal_index="16" bbox="16.32,171.0,706.69,299.66" dimensions="2/2"><cell bbox="212.76,171.0,376.32,204.96"><tabletext bbox="217.680,175.364,372.794,202.964" id="27" size="6.0">Model predictions (lines) of land/atmosphere CO2 exchange and  
+</cell></table><table archetypal_index="16" bbox="16.32,171.0,706.69,299.66" dimensions="2/2" Annotation_index="28"><cell bbox="212.76,171.0,376.32,204.96"><tabletext bbox="217.680,175.364,372.794,202.964" id="27" size="6.0">Model predictions (lines) of land/atmosphere CO2 exchange and  
 evapo- transpiration at the BOREAS NSA spruce site versus  
 tower measurements (dots).  Models inputs from tower-based  
 data.  <textline bbox="217.680,195.965,372.794,202.964">Model predictions (lines) of land/atmosphere CO2 exchange and  <text bbox="217.680,196.964,223.014,202.964" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">M</text>
@@ -657,7 +657,7 @@ data.  <textline bbox="217.680,195.965,372.794,202.964">Model predictions (lines
 through leaf physiology <textline bbox="25.032,215.544,116.958,221.544" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="1" size="6.000">The carbon and water cycle are linked  </textline>
 <textline bbox="41.952,208.344,98.670,214.344" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="1" size="6.000">through leaf physiology </textline>
 </tabletext>
-</cell></table><table archetypal_index="17" bbox="17.64,170.04,201.84,370.08" dimensions="1/2"><cell bbox="130.92,170.04,201.84,348.24"><tabletext bbox="140.110,325.874,202.258,346.274" id="11" size="6.0">Satellite Monitoring of    
+</cell></table><table archetypal_index="17" bbox="17.64,170.04,201.84,370.08" dimensions="1/2" Annotation_index="29"><cell bbox="130.92,170.04,201.84,348.24"><tabletext bbox="140.110,325.874,202.258,346.274" id="11" size="6.0">Satellite Monitoring of    
 Surface/Atmosphere  
 Exchange of  <textline bbox="143.110,340.274,202.258,346.274" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">Satellite Monitoring of    </textline>
 <textline bbox="143.110,333.074,193.420,339.074" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">Surface/Atmosphere  </textline>
@@ -912,7 +912,7 @@ inputs <textline bbox="156.670,202.244,176.782,208.244" colourspace="DeviceGray"
 <textline bbox="135.670,187.839,190.314,193.863" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.024">Difficulty in obtaining  </textline>
 <textline bbox="132.670,180.624,147.118,186.624" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">inputs </textline>
 </tabletext>
-</cell><cell bbox="17.64,338.4,122.76,370.08" /></table><table archetypal_index="18" bbox="17.76,5.04,366.84,163.32" dimensions="2/2"><cell bbox="17.76,5.04,117.24,48.36"><tabletext bbox="21.120,3.273,114.723,49.119" id="31" size="4.32">Reduction of  canopy conductance from  
+</cell><cell bbox="17.64,338.4,122.76,370.08" /></table><table archetypal_index="18" bbox="17.76,5.04,366.84,163.32" dimensions="2/2" Annotation_index="30"><cell bbox="17.76,5.04,117.24,48.36"><tabletext bbox="21.120,3.273,114.723,49.119" id="31" size="4.32">Reduction of  canopy conductance from  
 afternoon boundary layer warming and  
 drying  
 Average  diurnal variation in air temperature  Ta, Relative  
@@ -994,7 +994,7 @@ L <textline bbox="230.016,76.986,236.016,78.486" colourspace="DeviceGray" font="
 <textline bbox="230.016,67.872,236.016,69.540" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="1.668">i </textline>
 <textline bbox="230.016,64.272,236.016,67.938" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="3.666">L </textline>
 </tabletext>
-</cell></table><enlisting archetypal_index="19" bbox="407.78,232.104,594.677,286.617">&#8211;570 nm band as threshold requirement 
+</cell></table><enlisting archetypal_index="19" bbox="407.78,232.104,594.677,286.617" Annotation_index="31">&#8211;570 nm band as threshold requirement 
 &#8211;Radiometric requirements as in CW task  
 &#8211;Dynamic range; modify threshold to not saturate over vegetation. 
 &#8211;Geographic coverage &#8226;As in CW task 
@@ -1236,5 +1236,5 @@ L <textline bbox="230.016,76.986,236.016,78.486" colourspace="DeviceGray" font="
 <text bbox="565.778,232.104,568.442,238.104" colourspace="DeviceGray" font="BCEBEE+Times" ncolour="0" size="6.000">e</text>
 </textline>
 </normal_text>
-</enlisting><picture archetypal_index="20" bbox="406.92,344.76,698.16,516.6" caption="&#10;From Helicopter Analysis &#10;In BOREAS " combined_sources="['Image476.272x190.bmp', 'Image480.273x190.bmp', 'Image482.276x290.bmp']" name="combined_0" src="combined_54_0.png" /><picture archetypal_index="21" bbox="415.92,21.72,714.96,202.2" caption="" combined_sources="['Image485.430x334.bmp', 'Image498.jpg']" name="combined_1" src="combined_54_1.png" /></page>
+</enlisting><picture archetypal_index="20" bbox="406.92,344.76,698.16,516.6" caption="&#10;From Helicopter Analysis &#10;In BOREAS " combined_sources="['Image476.272x190.bmp', 'Image480.273x190.bmp', 'Image482.276x290.bmp']" name="combined_0" src="combined_54_0.png" Annotation_index="32" /><picture archetypal_index="21" bbox="415.92,21.72,714.96,202.2" caption="" combined_sources="['Image485.430x334.bmp', 'Image498.jpg']" name="combined_1" src="combined_54_1.png" Annotation_index="33" /></page>
 </pages>

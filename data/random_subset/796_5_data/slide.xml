@@ -1,15 +1,15 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[167.744, 479.13739999999996, 528.6167333333334, 506.32939999999996]" rotate="0">
-<normal_text archetypal_index="0" bbox="57.072,474.130,63.091,504.750" id="0" size="9.008000000000001">S 
+<normal_text archetypal_index="0" bbox="57.072,474.130,63.091,504.750" id="0" size="9.008000000000001" Annotation_index="0">S 
 P 
 I <textline bbox="57.072,495.750,63.075,504.750" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="9.000">S </textline>
 <textline bbox="57.072,484.945,63.091,493.969" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="9.024">P </textline>
 <textline bbox="57.072,474.130,59.574,483.130" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="9.000">I </textline>
 </normal_text>
-<title archetypal_index="1" bbox="177.220,478.683,506.620,506.667" id="1" size="27.984">Talk to the Stakeholders  <textline bbox="177.220,478.683,506.620,506.667" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="27.984">Talk to the Stakeholders  </textline>
+<title archetypal_index="1" bbox="177.220,478.683,506.620,506.667" id="1" size="27.984" Annotation_index="1">Talk to the Stakeholders  <textline bbox="177.220,478.683,506.620,506.667" colourspace="Pattern" font="Arial-BoldMT" ncolour="(0, 0, 0.6)" size="27.984">Talk to the Stakeholders  </textline>
 </title>
-<normal_text archetypal_index="2" bbox="669.190,471.840,702.574,483.840" id="2" size="12.0">GSFC <textline bbox="669.190,471.840,702.574,483.840" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.6)" size="12.000">GSFC </textline>
+<normal_text archetypal_index="2" bbox="669.190,471.840,702.574,483.840" id="2" size="12.0" Annotation_index="2">GSFC <textline bbox="669.190,471.840,702.574,483.840" colourspace="Pattern" font="Arial-BoldItalicMT" ncolour="(0, 0, 0.6)" size="12.000">GSFC </textline>
 </normal_text>
-<enlisting archetypal_index="3" bbox="88.224,47.039,657.458,424.531" id="3" size="24.912">Talk with stakeholders early in planning 
+<enlisting archetypal_index="3" bbox="88.224,47.039,657.458,424.531" id="3" size="24.912" Annotation_index="3">Talk with stakeholders early in planning 
 Find out what the stakeholder needs from you 
 Discuss what you need from the stakeholder  
 Find out &#8230; 
@@ -219,11 +219,11 @@ Negotiate for what you need  <textline bbox="119.780,84.432,398.324,108.432" col
 <textline bbox="88.224,47.039,443.945,73.103" colourspace="Pattern" font="Arial-BoldMT" ncolour="0" size="26.064">Negotiate for what you need  </textline>
 </normal_text>
 </enlisting>
-<slide_number bbox="652.080,17.256,658.752,29.256" id="5" size="12.0">6 <textline bbox="652.080,17.256,658.752,29.256" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">6 </textline>
+<slide_number bbox="652.080,17.256,658.752,29.256" id="5" size="12.0" Annotation_index="4">6 <textline bbox="652.080,17.256,658.752,29.256" colourspace="Pattern" font="ArialMT" ncolour="0" size="12.000">6 </textline>
 </slide_number>
-<picture archetypal_index="4" bbox="16.560,470.640,69.480,522.720" height="52" name="Image13" src="Image13.4.146x144.bmp" width="52">
+<picture archetypal_index="4" bbox="16.560,470.640,69.480,522.720" height="52" name="Image13" src="Image13.4.146x144.bmp" width="52" Annotation_index="5">
 </picture>
-<picture archetypal_index="5" bbox="61.224,46.392,91.464,77.496" height="31" name="Image60" src="Image60.0.2x2.bmp" width="30">
+<picture archetypal_index="5" bbox="61.224,46.392,91.464,77.496" height="31" name="Image60" src="Image60.0.2x2.bmp" width="30" Annotation_index="6">
 </picture>
 </page>
 </pages>

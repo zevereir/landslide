@@ -1,7 +1,7 @@
 <pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[115.15, 434.817, 565.66, 478.881]" rotate="0">
-<title archetypal_index="0" bbox="115.150,434.817,565.660,478.881" id="0" size="44.064">Presentation Coverage <textline bbox="115.150,434.817,565.660,478.881" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.4, 1)" size="44.064">Presentation Coverage </textline>
+<title archetypal_index="0" bbox="115.150,434.817,565.660,478.881" id="0" size="44.064" Annotation_index="0">Presentation Coverage <textline bbox="115.150,434.817,565.660,478.881" colourspace="Pattern" font="ArialMT" ncolour="(0, 0.4, 1)" size="44.064">Presentation Coverage </textline>
 </title>
-<enlisting archetypal_index="1" bbox="133.270,182.172,632.668,398.601" id="1" size="32.044799999999995">&#8226; SEBAL/METRIC approach(es) 
+<enlisting archetypal_index="1" bbox="133.270,182.172,632.668,398.601" id="1" size="32.044799999999995" Annotation_index="1">&#8226; SEBAL/METRIC approach(es) 
 &#8226; Operational needs 
 &#8226; Model Calibration via Inversion 
 &#8226; Interpolation in Time 
@@ -122,13 +122,13 @@
 <text bbox="334.568,182.172,352.382,214.212" colourspace="Pattern" font="Arial-BoldMT" ncolour="0.753" size="32.040">s</text>
 </textline>
 </enlisting>
-<normal_text archetypal_index="2" bbox="43.248,9.706,107.042,23.770" id="2" size="14.064">11/30/2020 <textline bbox="43.248,9.706,107.042,23.770" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0.2, 0.4, 0.6)" size="14.064">11/30/2020 </textline>
+<normal_text archetypal_index="2" bbox="43.248,9.706,107.042,23.770" id="2" size="14.064" Annotation_index="2">11/30/2020 <textline bbox="43.248,9.706,107.042,23.770" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="(0.2, 0.4, 0.6)" size="14.064">11/30/2020 </textline>
 </normal_text>
-<normal_text archetypal_index="3" bbox="338.400,18.072,561.740,30.072" id="3" size="12.0">Evapotranspiration Workshop  April 5-7, 2011 <textline bbox="338.400,18.072,561.740,30.072" colourspace="Pattern" font="TimesNewRomanPS-ItalicMT" ncolour="(0.2, 0.4, 0.6)" size="12.000">Evapotranspiration Workshop  April 5-7, 2011 </textline>
+<normal_text archetypal_index="3" bbox="338.400,18.072,561.740,30.072" id="3" size="12.0" Annotation_index="3">Evapotranspiration Workshop  April 5-7, 2011 <textline bbox="338.400,18.072,561.740,30.072" colourspace="Pattern" font="TimesNewRomanPS-ItalicMT" ncolour="(0.2, 0.4, 0.6)" size="12.000">Evapotranspiration Workshop  April 5-7, 2011 </textline>
 </normal_text>
-<curve bbox="0.359,-0.600,31.920,503.400" linewidth="0" pts="31.920,-0.600,14.489,-0.600,0.360,112.230,0.360,251.400,0.359,390.580,14.489,503.400,31.919,503.400,31.920,251.400" />
-<curve bbox="105.000,-0.600,136.560,503.400" linewidth="0" pts="105.000,503.400,122.430,503.400,136.560,390.580,136.560,251.400,136.560,112.230,122.430,-0.588,105.000,-0.600,105.000,251.400" />
-<curve bbox="50.893,440.840,100.160,496.970" linewidth="0" pts="60.791,496.970,100.160,461.100,50.893,440.840" />
-<curve bbox="44.893,446.840,94.159,502.970" linewidth="0" pts="54.791,502.970,94.159,467.100,44.893,446.840" />
+<curve bbox="0.359,-0.600,31.920,503.400" linewidth="0" pts="31.920,-0.600,14.489,-0.600,0.360,112.230,0.360,251.400,0.359,390.580,14.489,503.400,31.919,503.400,31.920,251.400" Annotation_index="4" />
+<curve bbox="105.000,-0.600,136.560,503.400" linewidth="0" pts="105.000,503.400,122.430,503.400,136.560,390.580,136.560,251.400,136.560,112.230,122.430,-0.588,105.000,-0.600,105.000,251.400" Annotation_index="5" />
+<curve bbox="50.893,440.840,100.160,496.970" linewidth="0" pts="60.791,496.970,100.160,461.100,50.893,440.840" Annotation_index="6" />
+<curve bbox="44.893,446.840,94.159,502.970" linewidth="0" pts="54.791,502.970,94.159,467.100,44.893,446.840" Annotation_index="7" />
 </page>
 </pages>
