@@ -1,0 +1,83 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="49" mean_title="[148.57398639455783, 407.4244285714287, 572.6993452380954, 473.7975306122448]" rotate="0">
+<title archetypal_index="0" bbox="186.340,402.092,533.860,484.532" id="0" size="38.04">Pediatric Dosing 
+Example: Nelfinavir <textline bbox="186.340,440.492,533.860,484.532" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="44.040">Pediatric Dosing </textline>
+<textline bbox="211.660,402.092,508.511,434.132" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="32.040">Example: Nelfinavir </textline>
+</title>
+<enlisting archetypal_index="1" bbox="55.2,39.032,681.742,399.247" id="1" size="27.968">&#8226; Pediatric dose: 20-30 mg/kg TID 
+&#8226; Compare to Adults: 750 mg TID 
+&#8226; Age 2-7 yr (n=6) <textline bbox="55.200,371.263,483.970,399.247" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.984">&#8226; Pediatric dose: 20-30 mg/kg TID </textline>
+<textline bbox="55.200,330.918,474.111,358.878" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">&#8226; Compare to Adults: 750 mg TID </textline>
+<textline bbox="55.200,290.598,285.483,318.558" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">&#8226; Age 2-7 yr (n=6) </textline>
+<normal_text bbox="91.224,186.626,239.642,279.929" id="2" size="24.008">AUC &#61611; 
+Cmax &#61613; 30% 
+Cmin  &#61613; 12% <textline bbox="91.224,255.761,175.053,279.929">AUC &#61611; <text bbox="91.224,255.905,108.569,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">A</text>
+<text bbox="108.504,255.905,125.849,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">U</text>
+<text bbox="125.784,255.905,143.129,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">C</text>
+<text bbox="143.064,255.905,149.743,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text bbox="150.020,255.761,175.053,279.785" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.024">&#61611;</text>
+</textline>
+<textline bbox="91.224,221.186,232.484,245.330">Cmax &#61613; 30% <text bbox="91.224,221.330,108.552,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">C</text>
+<text bbox="108.552,221.330,129.888,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">m</text>
+<text bbox="129.888,221.330,143.232,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">a</text>
+<text bbox="143.232,221.330,156.576,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">x</text>
+<text bbox="156.504,221.330,163.176,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text bbox="163.340,221.186,177.812,245.186" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.000">&#61613;</text>
+<text bbox="184.460,221.330,197.804,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">3</text>
+<text bbox="197.804,221.330,211.148,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">0</text>
+<text bbox="211.148,221.330,232.484,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">%</text>
+</textline>
+<textline bbox="91.224,186.626,239.642,210.770">Cmin  &#61613; 12% <text bbox="91.224,186.770,108.552,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">C</text>
+<text bbox="108.552,186.770,129.888,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">m</text>
+<text bbox="129.888,186.770,136.560,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">i</text>
+<text bbox="136.560,186.770,151.224,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">n</text>
+<text bbox="151.224,186.770,157.896,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text bbox="170.420,186.626,184.892,210.626" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.000">&#61613;</text>
+<text bbox="191.570,186.770,204.914,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">1</text>
+<text bbox="204.914,186.770,218.258,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">2</text>
+<text bbox="218.306,186.770,239.642,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">%</text>
+</textline>
+</normal_text>
+<normal_text bbox="55.200,39.032,681.742,174.538" id="4" size="27.96">&#8226; Greater PK variability in pediatric patients 
+&#8226; No BID PK data available for pediatric patients.   
+Thus, cannot extrapolate from adult BID safety  
+and efficacy data. <textline bbox="55.200,146.578,596.101,174.538" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">&#8226; Greater PK variability in pediatric patients </textline>
+<textline bbox="55.200,106.228,681.742,134.188" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">&#8226; No BID PK data available for pediatric patients.   </textline>
+<textline bbox="82.224,72.632,667.818,100.592" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">Thus, cannot extrapolate from adult BID safety  </textline>
+<textline bbox="82.224,39.032,301.235,66.992" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">and efficacy data. </textline>
+</normal_text>
+<normal_text bbox="415.270,186.626,634.109,318.558" id="3" size="24.996000000000002">Age 7-13 yr (n=8) 
+AUC &#61611; 
+Cmax &#61615; 15% 
+Cmin  &#61613; 16% <textline bbox="415.270,290.598,634.109,318.558" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 1, 0)" size="27.960">Age 7-13 yr (n=8) </textline>
+<textline bbox="415.270,255.761,499.133,279.929">AUC &#61611; <text bbox="415.270,255.905,432.615,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">A</text>
+<text bbox="432.550,255.905,449.895,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">U</text>
+<text bbox="449.830,255.905,467.175,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024">C</text>
+<text bbox="467.110,255.905,473.789,279.929" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text bbox="474.100,255.761,499.133,279.785" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.024">&#61611;</text>
+</textline>
+<textline bbox="415.270,221.186,556.516,245.330">Cmax &#61615; 15% <text bbox="415.270,221.330,432.598,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">C</text>
+<text bbox="432.598,221.330,453.934,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">m</text>
+<text bbox="453.934,221.330,467.278,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">a</text>
+<text bbox="467.278,221.330,480.622,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">x</text>
+<text bbox="480.550,221.330,487.222,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text bbox="487.420,221.186,501.892,245.186" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.000">&#61615;</text>
+<text bbox="508.540,221.330,521.884,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">1</text>
+<text bbox="521.860,221.330,535.204,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">5</text>
+<text bbox="535.180,221.330,556.516,245.330" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">%</text>
+</textline>
+<textline bbox="415.270,186.626,563.692,210.770">Cmin  &#61613; 16% <text bbox="415.270,186.770,432.598,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">C</text>
+<text bbox="432.598,186.770,453.934,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">m</text>
+<text bbox="453.934,186.770,460.606,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">i</text>
+<text bbox="460.606,186.770,475.270,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">n</text>
+<text bbox="475.270,186.770,481.942,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text bbox="494.500,186.626,508.972,210.626" colourspace="DeviceGray" font="SymbolMT" ncolour="(1, 1, 0)" size="24.000">&#61613;</text>
+<text bbox="515.620,186.770,528.964,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">1</text>
+<text bbox="528.964,186.770,542.308,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">6</text>
+<text bbox="542.356,186.770,563.692,210.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000">%</text>
+</textline>
+</normal_text>
+</enlisting>
+<curve bbox="82.200,291.480,285.600,293.520" linewidth="0" pts="82.200,293.520,183.900,293.520,285.600,293.520,285.600,291.480,183.900,291.480,82.200,291.480" />
+<curve bbox="415.200,291.480,634.200,293.520" linewidth="0" pts="415.200,293.520,524.700,293.520,634.200,293.520,634.200,291.480,524.700,291.480,415.200,291.480" />
+</page>
+</pages>

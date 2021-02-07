@@ -1,0 +1,104 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="5" mean_title="[309.863, 457.8553, 636.9802, 512.2068]" rotate="0">
+<title archetypal_index="0" bbox="311.450,456.305,628.654,514.870" id="0" size="24.012">VIS/NIR netCDF Convention 
+- Global Attributes (2) <textline bbox="311.450,490.870,628.654,514.870" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">VIS/NIR netCDF Convention </textline>
+<textline bbox="311.450,456.305,555.735,480.329" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">- Global Attributes (2) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="39.576,382.960,639.465,426.880" id="1" size="18.0">:history = "Blend 2016-01-27T13:09:12Z v1.0.0; &#8230;" ; 
+:id = "W_XX-EUMETSAT-Darmstadt,SATCAL+RAC+GEOLEOVNIR,MSG3+SEVIRI- <textline bbox="39.576,408.880,457.934,426.880" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:history = "Blend 2016-01-27T13:09:12Z v1.0.0; &#8230;" ; </textline>
+<textline bbox="39.576,382.960,639.465,400.960">:id = "W_XX-EUMETSAT-Darmstadt,SATCAL+RAC+GEOLEOVNIR,MSG3+SEVIRI- <text bbox="39.576,382.960,44.580,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:</text>
+<text bbox="44.580,382.960,48.576,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">i</text>
+<text bbox="48.576,382.960,58.584,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">d</text>
+<text bbox="58.584,382.960,63.588,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="63.588,382.960,74.100,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">=</text>
+<text bbox="74.100,382.960,79.104,400.960" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000"> </text>
+<text bbox="79.056,383.388,84.722,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">"</text>
+<text bbox="84.722,383.388,99.788,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">W</text>
+<text bbox="99.788,383.388,108.662,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">_</text>
+<text bbox="108.662,383.388,119.307,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">X</text>
+<text bbox="119.355,383.388,130.000,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">X</text>
+<text bbox="130.060,383.388,135.375,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+<text bbox="135.340,383.388,145.985,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">E</text>
+<text bbox="145.985,383.388,157.508,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">U</text>
+<text bbox="157.508,383.388,170.803,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">M</text>
+<text bbox="170.867,383.388,181.512,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">E</text>
+<text bbox="181.512,383.388,191.264,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">T</text>
+<text bbox="191.264,383.388,201.909,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">S</text>
+<text bbox="201.909,383.388,212.554,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">A</text>
+<text bbox="211.421,383.388,221.173,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">T</text>
+<text bbox="220.320,383.388,225.635,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+<text bbox="225.600,383.388,237.123,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">D</text>
+<text bbox="237.123,383.388,245.997,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">a</text>
+<text bbox="245.997,383.388,251.312,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">r</text>
+<text bbox="251.312,383.388,264.606,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">m</text>
+<text bbox="264.606,383.388,272.586,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">s</text>
+<text bbox="272.618,383.388,277.055,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">t</text>
+<text bbox="277.055,383.388,285.929,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">a</text>
+<text bbox="285.929,383.388,294.803,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">d</text>
+<text bbox="294.803,383.388,299.239,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">t</text>
+<text bbox="299.239,383.388,303.676,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="303.676,383.388,314.322,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">S</text>
+<text bbox="314.370,383.388,325.015,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">A</text>
+<text bbox="323.850,383.388,333.601,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">T</text>
+<text bbox="333.601,383.388,345.124,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">C</text>
+<text bbox="345.124,383.388,355.770,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">A</text>
+<text bbox="355.770,383.388,364.644,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">L</text>
+<text bbox="364.644,383.388,373.964,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">+</text>
+<text bbox="373.964,383.388,385.487,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">R</text>
+<text bbox="385.487,383.388,396.133,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">A</text>
+<text bbox="396.196,383.388,407.720,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">C</text>
+<text bbox="407.720,383.388,417.040,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">+</text>
+<text bbox="417.040,383.388,429.457,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">G</text>
+<text bbox="429.457,383.388,440.102,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">E</text>
+<text bbox="440.102,383.388,452.519,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">O</text>
+<text bbox="452.519,383.388,461.393,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">L</text>
+<text bbox="461.393,383.388,472.038,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">E</text>
+<text bbox="472.038,383.388,484.455,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">O</text>
+<text bbox="484.391,383.388,495.037,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">V</text>
+<text bbox="495.037,383.388,506.560,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">N</text>
+<text bbox="506.560,383.388,510.997,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">I</text>
+<text bbox="510.997,383.388,522.520,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">R</text>
+<text bbox="522.520,383.388,526.957,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">,</text>
+<text bbox="526.957,383.388,540.251,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">M</text>
+<text bbox="540.299,383.388,550.945,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">S</text>
+<text bbox="550.945,383.388,563.361,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">G</text>
+<text bbox="563.361,383.388,572.235,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">3</text>
+<text bbox="572.235,383.388,581.556,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">+</text>
+<text bbox="581.556,383.388,592.201,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">S</text>
+<text bbox="592.249,383.388,602.894,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">E</text>
+<text bbox="602.894,383.388,613.540,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">V</text>
+<text bbox="613.588,383.388,618.024,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">I</text>
+<text bbox="618.024,383.388,629.548,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">R</text>
+<text bbox="629.548,383.388,633.984,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">I</text>
+<text bbox="634.150,383.388,639.465,399.348" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">-</text>
+</textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="81.696,359.628,510.557,375.588" id="2" size="15.96">AQUA+MODIS_C_EUMG_20160123000000_demo_01.nc" ; <textline bbox="81.696,359.628,510.557,375.588" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">AQUA+MODIS_C_EUMG_20160123000000_demo_01.nc" ; </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="39.576,282.130,672.330,352.000" id="3" size="18.0">:institution = "EUMETSAT" ; 
+:keywords = "GSICS, satellites, inter-calibration, reflective solar bands" ; 
+:license = "Calibration information delivered as a GSICS operational product  is  <textline bbox="39.576,334.000,260.418,352.000" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:institution = "EUMETSAT" ; </textline>
+<textline bbox="39.576,308.080,612.776,326.080" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:keywords = "GSICS, satellites, inter-calibration, reflective solar bands" ; </textline>
+<textline bbox="39.576,282.130,672.330,300.130" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:license = "Calibration information delivered as a GSICS operational product  is  </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="81.696,256.210,493.040,274.210" id="4" size="18.0">generated in accordance with GSICS principles&#8230;" ; <textline bbox="81.696,256.210,493.040,274.210" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">generated in accordance with GSICS principles&#8230;" ; </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="39.576,100.670,520.880,248.290" id="5" size="18.004">:local_data_subcategory = 3s ; 
+:metadata_conventions = "Unidata Dataset Discovery v1.0" ; 
+:monitored_instrument = "SEVIRI" ; 
+:monitored_instrument_wmo_code = "57 207" ; 
+:naming_authority = "int.eumetsat.gsics" ; 
+:processing_level = "demonstration/v1.0.0" ; <textline bbox="39.576,230.290,284.082,248.290" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:local_data_subcategory = 3s ; </textline>
+<textline bbox="39.576,204.370,520.880,222.370" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:metadata_conventions = "Unidata Dataset Discovery v1.0" ; </textline>
+<textline bbox="39.576,178.445,320.836,196.469" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.024">:monitored_instrument = "SEVIRI" ; </textline>
+<textline bbox="39.576,152.510,413.864,170.510" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:monitored_instrument_wmo_code = "57 207" ; </textline>
+<textline bbox="39.576,126.590,369.818,144.590" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:naming_authority = "int.eumetsat.gsics" ; </textline>
+<textline bbox="39.576,100.670,389.826,118.670" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">:processing_level = "demonstration/v1.0.0" ; </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="43.200,20.492,391.524,30.452" id="6" size="9.96">2016 GSCIS annual meeting, 29 February - 4 March, 2016, Tsukuba, Japan <textline bbox="43.200,20.492,391.524,30.452" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2016 GSCIS annual meeting, 29 February - 4 March, 2016, Tsukuba, Japan </textline>
+</normal_text>
+<slide_number bbox="678.360,22.816,682.830,30.856" id="7" size="8.04">5 <textline bbox="678.360,22.816,682.830,30.856" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">5 </textline>
+</slide_number>
+<picture archetypal_index="7" bbox="28.800,457.320,250.560,513.960" height="56" name="Image9" src="Image9.3.jpg" width="221">
+</picture>
+</page>
+</pages>

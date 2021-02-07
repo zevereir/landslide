@@ -1,0 +1,43 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="1" rotate="0">
+<title archetypal_index="0" bbox="73.224,495.535,557.992,525.559" id="0" size="30.024">Personnel Time Recording Report <textline bbox="73.224,495.535,557.992,525.559" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="30.024">Personnel Time Recording Report </textline>
+</title>
+<normal_text archetypal_index="1" bbox="25.200,4.811,67.480,12.875" id="14" size="8.064">March 2007 <textline bbox="25.200,4.811,67.480,12.875" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.064">March 2007 </textline>
+</normal_text>
+<slide_number bbox="686.400,6.087,691.951,16.071" id="15" size="9.984">1 <textline bbox="686.400,6.087,691.951,16.071" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">1 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="8.400,498.960,60.000,528.000" height="29" name="Image9" src="Image9.109x61.bmp" width="51">
+</picture>
+<table archetypal_index="3" bbox="6.0,66.0,708.0,210.0" dimensions="1/13"><cell bbox="6.0,183.6,708.0,210.0"><tabletext bbox="260.740,187.378,453.281,203.338" id="1" size="15.96">Time Report and Process <textline bbox="260.740,187.378,453.281,203.338" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="1" size="15.960">Time Report and Process </textline>
+</tabletext>
+</cell><cell bbox="6.0,147.6,186.0,183.6"><tabletext bbox="76.632,165.770,115.296,177.770" id="2" size="12.0">Report <textline bbox="76.632,165.770,115.296,177.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Report </textline>
+</tabletext>
+</cell><cell bbox="186.0,147.6,294.0,183.6"><tabletext bbox="206.260,151.370,277.144,177.770" id="3" size="12.0">Transaction  
+Code <textline bbox="206.260,165.770,277.144,177.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Transaction  </textline>
+<textline bbox="224.980,151.370,254.944,163.370" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Code </textline>
+</tabletext>
+</cell><cell bbox="294.0,147.6,708.0,183.6"><tabletext bbox="489.980,165.770,511.988,177.770" id="4" size="12.0">Use <textline bbox="489.980,165.770,511.988,177.770" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="12.000">Use </textline>
+</tabletext>
+</cell><cell bbox="6.0,116.4,186.0,147.6"><tabletext bbox="13.200,132.118,152.700,142.078" id="5" size="9.96">Leave Activity Summary Report <textline bbox="13.200,132.118,152.700,142.078" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Leave Activity Summary Report </textline>
+</tabletext>
+</cell><cell bbox="186.0,116.4,294.0,147.6"><tabletext bbox="201.340,132.118,278.719,142.078" id="6" size="9.96">ZHR_RPTTM398 <textline bbox="201.340,132.118,278.719,142.078" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">ZHR_RPTTM398 </textline>
+</tabletext>
+</cell><cell bbox="294.0,116.4,708.0,147.6"><tabletext bbox="301.250,120.113,682.738,142.078" id="7" size="9.972000000000001">Displays leave accrual, leave balances, monetary value of leave, employees on Leave  
+Without Pay, and percentages of leave usage <textline bbox="301.250,132.118,682.738,142.078" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Displays leave accrual, leave balances, monetary value of leave, employees on Leave  </textline>
+<textline bbox="301.250,120.113,501.609,130.097" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.984">Without Pay, and percentages of leave usage </textline>
+</tabletext>
+</cell><cell bbox="6.0,85.2,186.0,116.4"><tabletext bbox="13.200,100.888,169.393,110.848" id="8" size="9.96">Attendance System Change Report <textline bbox="13.200,100.888,169.393,110.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Attendance System Change Report </textline>
+</tabletext>
+</cell><cell bbox="186.0,85.2,294.0,116.4"><tabletext bbox="201.340,100.888,278.719,110.848" id="9" size="9.96">ZHR_RPTTM084 <textline bbox="201.340,100.888,278.719,110.848" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">ZHR_RPTTM084 </textline>
+</tabletext>
+</cell><cell bbox="294.0,85.2,708.0,116.4"><tabletext bbox="301.250,88.892,688.883,110.848" id="10" size="9.96">Displays all employees who had attendance activity during the current reporting period.   
+Monthly quota balance report per employee(s). <textline bbox="301.250,100.888,688.883,110.848" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Displays all employees who had attendance activity during the current reporting period.   </textline>
+<textline bbox="301.250,88.892,507.203,98.852" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Monthly quota balance report per employee(s). </textline>
+</tabletext>
+</cell><cell bbox="6.0,66.0,186.0,85.2"><tabletext bbox="13.200,69.692,142.859,79.652" id="11" size="9.96">Display Working Time Report <textline bbox="13.200,69.692,142.859,79.652" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Display Working Time Report </textline>
+</tabletext>
+</cell><cell bbox="186.0,66.0,294.0,85.2"><tabletext bbox="216.700,69.692,263.602,79.652" id="12" size="9.96">CATS_DA <textline bbox="216.700,69.692,263.602,79.652" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">CATS_DA </textline>
+</tabletext>
+</cell><cell bbox="294.0,66.0,708.0,85.2"><tabletext bbox="301.250,69.692,644.033,79.652" id="13" size="9.96">Displays all absence types and wages types that have been keyed into CATS. <textline bbox="301.250,69.692,644.033,79.652" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.960">Displays all absence types and wages types that have been keyed into CATS. </textline>
+</tabletext>
+</cell></table></page>
+</pages>

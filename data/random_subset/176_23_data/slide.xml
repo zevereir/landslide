@@ -1,0 +1,342 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="24" mean_title="[57.00161264822133, 453.21476679841896, 529.0656245059289, 492.81789723320156]" rotate="0">
+<title archetypal_index="0" bbox="59.832,451.300,627.810,491.260" id="0" size="39.96">Briefly: Diagnosis for PVFS <textline bbox="59.832,451.300,627.810,491.260" colourspace="Pattern" font="BCDGEE+Consolas" ncolour="0.973" size="39.960">Briefly: Diagnosis for PVFS </textline>
+</title>
+<normal_text archetypal_index="1" bbox="392.350,9.639,502.772,20.679" id="8" size="11.04">http://www.pdl.cmu.edu/ <textline bbox="392.350,9.639,502.772,20.679" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0.973" size="11.040">http://www.pdl.cmu.edu/ </textline>
+</normal_text>
+<slide_number bbox="517.300,9.639,528.340,20.679" id="9" size="11.04">20 <textline bbox="517.300,9.639,528.340,20.679" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0.973" size="11.040">20 </textline>
+</slide_number>
+<slide_number bbox="685.320,9.739,698.725,21.763" id="10" size="12.024">24 <textline bbox="685.320,9.739,698.725,21.763" colourspace="Pattern" font="ArialMT" ncolour="0.973" size="12.024">24 </textline>
+</slide_number>
+<normal_text archetypal_index="2" bbox="525.580,22.839,670.193,33.879" id="11" size="11.04">Priya Narasimhan  &#169; November  <textline bbox="525.580,22.839,670.193,33.879" colourspace="Pattern" font="TimesNewRomanPSMT" ncolour="0.973" size="11.040">Priya Narasimhan  &#169; November  </textline>
+</normal_text>
+<enlisting archetypal_index="3" bbox="67.368,86.424,653.444,402.759">&#9642; PVFS: High-performance file system 
+&#9642; Focus on different kinds of problems &#61690; Disk-related and network-related problems 
+&#61690; Motivated by anecdotal experiences of Argonne  &#9642; Exploit the peer-similarity principle across I/O  &#9642; Diagnosis based on different instrumentation &#61690; Black-box OS performance metrics, system-call traces <normal_text bbox="67.368,333.742,514.076,402.759" id="1" size="26.64">&#9642; PVFS: High-performance file system 
+&#9642; Focus on different kinds of problems <textline bbox="67.368,374.422,513.147,402.759">&#9642; PVFS: High-performance file system <text bbox="67.368,376.119,79.569,402.759" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.973" size="26.640">&#9642;</text>
+<text bbox="94.368,374.422,110.305,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">P</text>
+<text bbox="110.305,374.422,127.277,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">V</text>
+<text bbox="127.277,374.422,141.369,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">F</text>
+<text bbox="141.369,374.422,156.803,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">S</text>
+<text bbox="156.859,374.422,164.240,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">:</text>
+<text bbox="164.240,374.422,169.832,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="169.916,374.422,188.565,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">H</text>
+<text bbox="188.565,374.422,195.052,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="195.052,374.422,209.899,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">g</text>
+<text bbox="209.955,374.422,224.829,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">h</text>
+<text bbox="224.950,374.422,234.261,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">-</text>
+<text bbox="234.190,374.422,249.037,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="249.037,374.422,262.961,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="262.961,374.422,272.327,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="272.327,374.422,281.219,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="281.219,374.422,296.121,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="296.121,374.422,305.488,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="305.488,374.422,328.667,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">m</text>
+<text bbox="328.667,374.422,342.367,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="342.367,374.422,357.102,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="357.102,374.422,369.349,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">c</text>
+<text bbox="369.349,374.422,383.273,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="383.273,374.422,388.865,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="388.949,374.422,397.840,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="397.840,374.422,404.327,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="404.327,374.422,410.813,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">l</text>
+<text bbox="410.813,374.422,424.737,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="424.737,374.422,430.329,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="430.329,374.422,441.625,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="441.625,374.422,455.046,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">y</text>
+<text bbox="455.046,374.422,466.342,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="466.342,374.422,476.044,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="476.044,374.422,489.968,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="489.968,374.422,513.147,402.382" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">m</text>
+</textline>
+<textline bbox="67.368,333.742,514.076,362.079">&#9642; Focus on different kinds of problems <text bbox="67.368,335.439,79.569,362.079" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.973" size="26.640">&#9642;</text>
+<text bbox="94.368,333.742,108.460,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">F</text>
+<text bbox="108.460,333.742,123.363,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="123.363,333.742,135.609,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">c</text>
+<text bbox="135.609,333.742,150.092,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">u</text>
+<text bbox="150.092,333.742,161.388,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="161.388,333.742,166.980,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="167.064,333.742,181.967,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="181.967,333.742,196.702,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="196.702,333.742,202.294,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="202.294,333.742,217.280,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">d</text>
+<text bbox="217.280,333.742,223.767,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="223.767,333.742,232.658,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="232.658,333.742,241.549,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="241.549,333.742,255.474,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="255.474,333.742,264.840,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="264.840,333.742,278.764,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="278.764,333.742,293.499,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="293.499,333.742,303.201,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="303.201,333.742,308.793,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="308.877,333.742,322.494,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">k</text>
+<text bbox="322.494,333.742,328.980,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="328.980,333.742,343.715,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="343.715,333.742,358.702,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">d</text>
+<text bbox="358.702,333.742,369.998,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="369.998,333.742,375.590,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="375.702,333.742,390.604,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="390.604,333.742,399.495,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="399.495,333.742,405.087,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="405.087,333.742,419.934,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="419.934,333.742,429.301,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="429.301,333.742,444.204,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="444.204,333.742,459.190,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">b</text>
+<text bbox="459.190,333.742,465.677,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">l</text>
+<text bbox="465.677,333.742,479.601,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="479.601,333.742,502.780,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">m</text>
+<text bbox="502.780,333.742,514.076,361.702" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+</textline>
+</normal_text>
+<normal_text bbox="97.728,264.526,597.314,323.134" id="2" size="21.612000000000002">&#61690; Disk-related and network-related problems 
+&#61690; Motivated by anecdotal experiences of Argonne  <textline bbox="97.728,299.110,548.069,323.134">&#61690; Disk-related and network-related problems <text bbox="97.728,300.827,106.053,322.451" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.698" size="21.624">&#61690;</text>
+<text bbox="120.170,299.110,136.290,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">D</text>
+<text bbox="136.290,299.110,141.864,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">i</text>
+<text bbox="141.768,299.110,151.473,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">s</text>
+<text bbox="151.473,299.110,163.173,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">k</text>
+<text bbox="163.150,299.110,171.150,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">-</text>
+<text bbox="171.190,299.110,179.238,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">r</text>
+<text bbox="179.238,299.110,191.202,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="191.202,299.110,196.776,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">l</text>
+<text bbox="196.776,299.110,208.547,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">a</text>
+<text bbox="208.547,299.110,216.884,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">t</text>
+<text bbox="216.788,299.110,228.752,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="228.752,299.110,241.628,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">d</text>
+<text bbox="241.628,299.110,246.433,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024"> </text>
+<text bbox="246.649,299.110,258.421,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">a</text>
+<text bbox="258.421,299.110,271.082,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">n</text>
+<text bbox="271.010,299.110,283.887,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">d</text>
+<text bbox="283.887,299.110,288.691,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024"> </text>
+<text bbox="288.691,299.110,301.352,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">n</text>
+<text bbox="301.256,299.110,313.220,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="313.220,299.110,321.556,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">t</text>
+<text bbox="321.556,299.110,338.661,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">w</text>
+<text bbox="338.565,299.110,351.370,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">o</text>
+<text bbox="351.370,299.110,359.418,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">r</text>
+<text bbox="359.418,299.110,371.118,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">k</text>
+<text bbox="371.140,299.110,379.140,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">-</text>
+<text bbox="379.180,299.110,387.228,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">r</text>
+<text bbox="387.228,299.110,399.192,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="399.192,299.110,404.766,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">l</text>
+<text bbox="404.766,299.110,416.537,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">a</text>
+<text bbox="416.537,299.110,424.874,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">t</text>
+<text bbox="424.778,299.110,436.742,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="436.742,299.110,449.618,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">d</text>
+<text bbox="449.618,299.110,454.423,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024"> </text>
+<text bbox="454.519,299.110,467.276,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">p</text>
+<text bbox="467.276,299.110,475.324,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">r</text>
+<text bbox="475.324,299.110,488.129,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">o</text>
+<text bbox="488.129,299.110,501.006,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">b</text>
+<text bbox="501.006,299.110,506.579,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">l</text>
+<text bbox="506.483,299.110,518.447,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">e</text>
+<text bbox="518.447,299.110,538.363,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">m</text>
+<text bbox="538.363,299.110,548.069,323.134" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.024">s</text>
+</textline>
+<textline bbox="97.728,264.526,597.314,288.526">&#61690; Motivated by anecdotal experiences of Argonne  <text bbox="97.728,266.242,106.044,287.842" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.698" size="21.600">&#61690;</text>
+<text bbox="120.170,264.526,139.898,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">M</text>
+<text bbox="139.898,264.526,152.690,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="152.690,264.526,161.018,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="161.018,264.526,166.586,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">i</text>
+<text bbox="166.490,264.526,177.578,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">v</text>
+<text bbox="177.578,264.526,189.338,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="189.338,264.526,197.666,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="197.570,264.526,209.522,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="209.522,264.526,222.386,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">d</text>
+<text bbox="222.386,264.526,227.186,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="227.546,264.526,240.410,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">b</text>
+<text bbox="240.410,264.526,251.930,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">y</text>
+<text bbox="251.930,264.526,256.730,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="256.730,264.526,268.490,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="268.490,264.526,281.138,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">n</text>
+<text bbox="281.066,264.526,293.018,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="293.018,264.526,303.530,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="303.602,264.526,316.466,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">d</text>
+<text bbox="316.466,264.526,329.258,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="329.258,264.526,337.586,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="337.586,264.526,349.346,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="349.346,264.526,354.914,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">l</text>
+<text bbox="354.842,264.526,359.642,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="359.642,264.526,371.594,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="371.594,264.526,382.514,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">x</text>
+<text bbox="382.514,264.526,395.258,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">p</text>
+<text bbox="395.258,264.526,407.210,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="407.258,264.526,415.298,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="415.298,264.526,420.866,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">i</text>
+<text bbox="420.866,264.526,432.818,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="432.818,264.526,445.466,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">n</text>
+<text bbox="445.466,264.526,455.978,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="455.978,264.526,467.930,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="467.930,264.526,477.626,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">s</text>
+<text bbox="477.674,264.526,482.474,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="482.474,264.526,495.266,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="495.266,264.526,502.898,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">f</text>
+<text bbox="502.970,264.526,507.770,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="506.450,264.526,521.690,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">A</text>
+<text bbox="521.690,264.526,529.730,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="529.730,264.526,542.474,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">g</text>
+<text bbox="542.474,264.526,555.266,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="555.266,264.526,567.914,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">n</text>
+<text bbox="567.914,264.526,580.562,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">n</text>
+<text bbox="580.562,264.526,592.514,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="592.514,264.526,597.314,288.526" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="67.368,195.232,623.453,223.569" id="4" size="26.64">&#9642; Exploit the peer-similarity principle across I/O  <textline bbox="67.368,195.232,623.453,223.569">&#9642; Exploit the peer-similarity principle across I/O  <text bbox="67.368,196.929,79.569,223.569" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.973" size="26.640">&#9642;</text>
+<text bbox="94.368,195.232,109.774,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">E</text>
+<text bbox="109.774,195.232,122.496,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">x</text>
+<text bbox="122.496,195.232,137.343,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="137.343,195.232,143.829,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">l</text>
+<text bbox="143.829,195.232,158.732,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="158.732,195.232,165.219,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="165.219,195.232,174.921,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="174.921,195.232,180.513,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="180.625,195.232,190.327,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="190.327,195.232,205.201,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">h</text>
+<text bbox="205.201,195.232,219.126,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="219.126,195.232,224.718,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="224.718,195.232,239.564,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="239.564,195.232,253.488,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="253.488,195.232,267.412,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="267.412,195.232,276.779,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="276.790,195.232,286.101,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">-</text>
+<text bbox="286.030,195.232,297.326,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="297.334,195.232,303.821,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="303.829,195.232,327.008,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">m</text>
+<text bbox="327.016,195.232,333.503,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="333.511,195.232,339.997,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">l</text>
+<text bbox="340.006,195.232,353.706,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="353.714,195.232,363.081,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="363.089,195.232,369.576,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="369.584,195.232,379.286,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="379.294,195.232,392.715,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">y</text>
+<text bbox="392.807,195.232,398.399,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="398.687,195.232,413.533,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="413.542,195.232,422.908,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="422.916,195.232,429.403,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="429.411,195.232,444.146,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="444.238,195.232,456.485,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">c</text>
+<text bbox="456.493,195.232,462.980,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="462.988,195.232,477.835,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">p</text>
+<text bbox="477.843,195.232,484.329,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">l</text>
+<text bbox="484.338,195.232,498.262,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="498.326,195.232,503.918,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="503.926,195.232,517.626,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="517.634,195.232,529.881,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">c</text>
+<text bbox="529.889,195.232,539.256,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="539.264,195.232,554.167,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="554.175,195.232,565.471,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="565.479,195.232,576.775,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="576.783,195.232,582.375,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="582.858,195.232,589.736,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">I</text>
+<text bbox="589.744,195.232,597.433,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">/</text>
+<text bbox="597.442,195.232,617.852,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">O</text>
+<text bbox="617.861,195.232,623.453,223.192" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text bbox="67.368,121.052,616.241,149.389" id="6" size="26.64">&#9642; Diagnosis based on different instrumentation <textline bbox="67.368,121.052,616.241,149.389">&#9642; Diagnosis based on different instrumentation <text bbox="67.368,122.749,79.569,149.389" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.973" size="26.640">&#9642;</text>
+<text bbox="94.368,121.052,113.129,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">D</text>
+<text bbox="113.129,121.052,119.616,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="119.616,121.052,133.316,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="133.316,121.052,148.163,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">g</text>
+<text bbox="148.163,121.052,162.898,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="162.898,121.052,177.801,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="177.801,121.052,189.096,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="189.096,121.052,195.583,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="195.583,121.052,206.879,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="206.879,121.052,212.471,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="212.667,121.052,227.653,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">b</text>
+<text bbox="227.653,121.052,241.354,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="241.354,121.052,252.650,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="252.650,121.052,266.574,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="266.574,121.052,281.560,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">d</text>
+<text bbox="281.560,121.052,287.152,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="287.292,121.052,302.195,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="302.195,121.052,316.930,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="316.930,121.052,322.522,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="322.522,121.052,337.508,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">d</text>
+<text bbox="337.508,121.052,343.995,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="343.995,121.052,352.886,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="352.886,121.052,361.777,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">f</text>
+<text bbox="361.777,121.052,375.702,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="375.702,121.052,385.068,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="385.068,121.052,398.992,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="398.992,121.052,413.727,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="413.727,121.052,423.429,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="423.429,121.052,429.021,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960"> </text>
+<text bbox="429.105,121.052,435.592,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="435.592,121.052,450.327,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="450.327,121.052,461.623,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">s</text>
+<text bbox="461.623,121.052,471.325,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="471.325,121.052,480.691,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">r</text>
+<text bbox="480.691,121.052,495.175,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">u</text>
+<text bbox="495.175,121.052,518.353,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">m</text>
+<text bbox="518.353,121.052,532.278,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">e</text>
+<text bbox="532.278,121.052,547.012,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+<text bbox="547.012,121.052,556.715,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="556.715,121.052,570.415,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">a</text>
+<text bbox="570.415,121.052,580.117,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">t</text>
+<text bbox="580.117,121.052,586.604,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">i</text>
+<text bbox="586.604,121.052,601.506,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">o</text>
+<text bbox="601.506,121.052,616.241,149.012" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.960">n</text>
+</textline>
+</normal_text>
+<normal_text bbox="97.728,86.424,653.444,110.424" id="7" size="21.6">&#61690; Black-box OS performance metrics, system-call traces <textline bbox="97.728,86.424,653.444,110.424">&#61690; Black-box OS performance metrics, system-call traces <text bbox="97.728,88.140,106.044,109.740" colourspace="Pattern" font="BCDHEE+Wingdings-Regular" ncolour="0.698" size="21.600">&#61690;</text>
+<text bbox="120.170,86.424,134.402,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">B</text>
+<text bbox="134.402,86.424,139.970,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">l</text>
+<text bbox="139.970,86.424,151.730,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="151.730,86.424,162.242,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="162.242,86.424,173.930,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">k</text>
+<text bbox="173.950,86.424,181.942,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">-</text>
+<text bbox="181.990,86.424,194.854,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">b</text>
+<text bbox="194.854,86.424,207.646,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="207.646,86.424,218.566,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">x</text>
+<text bbox="218.566,86.424,223.366,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="222.190,86.424,239.710,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">O</text>
+<text bbox="239.710,86.424,252.958,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">S</text>
+<text bbox="252.958,86.424,257.758,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="257.758,86.424,270.502,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">p</text>
+<text bbox="270.430,86.424,282.382,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="282.382,86.424,290.422,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="290.422,86.424,298.054,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">f</text>
+<text bbox="298.126,86.424,310.918,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">o</text>
+<text bbox="310.918,86.424,318.958,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="318.958,86.424,338.854,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">m</text>
+<text bbox="338.902,86.424,350.662,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="350.662,86.424,363.310,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">n</text>
+<text bbox="363.310,86.424,373.822,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="373.822,86.424,385.774,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="385.774,86.424,390.574,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="390.382,86.424,410.278,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">m</text>
+<text bbox="410.278,86.424,422.230,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="422.230,86.424,430.558,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="430.558,86.424,438.598,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="438.598,86.424,444.166,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">i</text>
+<text bbox="444.166,86.424,454.678,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="454.678,86.424,464.374,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">s</text>
+<text bbox="464.374,86.424,470.710,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">,</text>
+<text bbox="470.710,86.424,475.510,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="475.510,86.424,485.206,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">s</text>
+<text bbox="485.278,86.424,496.798,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">y</text>
+<text bbox="496.798,86.424,506.494,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">s</text>
+<text bbox="506.494,86.424,514.822,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="514.822,86.424,526.774,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="526.774,86.424,546.670,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">m</text>
+<text bbox="546.840,86.424,554.832,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">-</text>
+<text bbox="554.900,86.424,565.412,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="565.412,86.424,577.172,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="577.172,86.424,582.740,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">l</text>
+<text bbox="582.740,86.424,588.308,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">l</text>
+<text bbox="588.308,86.424,593.108,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000"> </text>
+<text bbox="593.156,86.424,601.484,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">t</text>
+<text bbox="601.484,86.424,609.524,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">r</text>
+<text bbox="609.524,86.424,621.284,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">a</text>
+<text bbox="621.284,86.424,631.796,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">c</text>
+<text bbox="631.796,86.424,643.748,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">e</text>
+<text bbox="643.748,86.424,653.444,110.424" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">s</text>
+</textline>
+</normal_text>
+<normal_text bbox="120.170,235.726,376.250,259.726" id="3" size="24.0">National Labs researchers <textline bbox="120.170,235.726,376.250,259.726" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="24.000">National Labs researchers </textline>
+</normal_text>
+<normal_text bbox="94.368,161.626,431.827,189.610" id="5" size="27.984">servers and metadata servers <textline bbox="94.368,161.626,431.827,189.610" colourspace="Pattern" font="BCDFEE+Corbel" ncolour="1" size="27.984">servers and metadata servers </textline>
+</normal_text>
+</enlisting></page>
+</pages>

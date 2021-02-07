@@ -1,0 +1,44 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="8" mean_title="[166.50857142857143, 456.4901785714286, 621.2215714285713, 525.0938571428571]" rotate="0">
+<title archetypal_index="0" bbox="179.020,452.404,591.967,531.643" id="0" size="36.012">200-hPa Velocity Potential  
+Anomalies <textline bbox="179.020,495.619,591.967,531.643" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="36.024">200-hPa Velocity Potential  </textline>
+<textline bbox="300.000,452.404,462.000,488.404" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="36.000">Anomalies </textline>
+</title>
+<normal_text archetypal_index="1" bbox="427.270,383.053,703.777,437.413" id="1" size="15.96">Positive anomalies (orange/red shading)  
+indicate unfavorable conditions for  
+precipitation. <textline bbox="427.270,421.453,703.777,437.413" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">Positive anomalies (orange/red shading)  </textline>
+<textline bbox="427.270,402.253,670.756,418.213" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">indicate unfavorable conditions for  </textline>
+<textline bbox="427.270,383.053,518.833,399.013" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">precipitation. </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="427.270,299.023,664.803,353.383" id="2" size="15.96">Negative anomalies (blue shading)  
+indicate favorable conditions for  
+precipitation. <textline bbox="427.270,337.423,664.803,353.383" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">Negative anomalies (blue shading)  </textline>
+<textline bbox="427.270,318.223,652.992,334.183" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">indicate favorable conditions for  </textline>
+<textline bbox="427.270,299.023,518.833,314.983" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">precipitation. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="427.270,152.603,716.098,245.363" id="3" size="15.960000000000003">The eastward propagation of negative  
+anomalies over the Indian ocean and  
+positive anomalies over Indonesia and the  
+Pacific during December/early January  
+was associated with the MJO.  <textline bbox="427.270,229.403,689.573,245.363" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">The eastward propagation of negative  </textline>
+<textline bbox="427.270,210.203,681.417,226.163" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">anomalies over the Indian ocean and  </textline>
+<textline bbox="427.270,191.003,716.098,206.963" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">positive anomalies over Indonesia and the  </textline>
+<textline bbox="427.270,171.803,701.367,187.763" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">Pacific during December/early January  </textline>
+<textline bbox="427.270,152.603,633.441,168.563" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">was associated with the MJO.  </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="427.270,104.573,681.735,139.781" id="4" size="15.972000000000001">A more stationary pattern developed  
+during February.  <textline bbox="427.270,123.797,681.735,139.781" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.984">A more stationary pattern developed  </textline>
+<textline bbox="427.270,104.573,549.476,120.533" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">during February.  </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="427.270,37.377,669.591,91.737" id="5" size="15.96">An area of positive anomalies has  
+developed over East Africa and the  
+Indian Ocean. <textline bbox="427.270,75.777,659.201,91.737" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">An area of positive anomalies has  </textline>
+<textline bbox="427.270,56.577,669.591,72.537" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">developed over East Africa and the  </textline>
+<textline bbox="427.270,37.377,523.988,53.337" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="15.960">Indian Ocean. </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="25.968,207.931,70.116,227.971" id="6" size="20.04">Time <textline bbox="25.968,207.931,70.116,227.971" colourspace="DeviceGray" font="TimesNewRomanPS-BoldMT" ncolour="1" size="20.040">Time </textline>
+</normal_text>
+<curve bbox="44.685,125.940,51.435,191.940" linewidth="0" pts="46.935,191.940,46.935,131.570,49.185,131.570,49.185,191.940,44.685,132.690,48.060,125.940,51.435,132.690" />
+<curve bbox="306.060,101.940,324.060,155.940" linewidth="3" pts="306.060,155.940,311.030,155.940,315.060,153.930,315.060,151.440,315.060,133.440,315.060,130.950,319.090,128.940,324.060,128.940,319.090,128.940,315.060,126.930,315.060,124.440,315.060,106.440,315.060,103.950,311.030,101.940,306.060,101.940" />
+<curve bbox="324.060,122.570,426.060,129.320" linewidth="3" pts="426.060,127.070,329.680,127.070,329.680,124.820,426.060,124.820,330.810,129.320,324.060,125.940,330.810,122.570" />
+<picture archetypal_index="7" bbox="0.0,48.0,408.96,540.0" caption="&#10;Longitude " combined_sources="['Image6.6.jpg', 'Image38.513x616.bmp']" name="combined_0" src="combined_8_0.png" /></page>
+</pages>

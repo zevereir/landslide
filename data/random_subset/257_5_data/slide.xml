@@ -1,0 +1,47 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="6" mean_title="[310.392, 457.3385333333333, 634.2048, 513.0945333333333]" rotate="0">
+<title archetypal_index="0" bbox="311.450,456.305,628.654,514.870" id="0" size="24.012">VIS/NIR netCDF Convention 
+- Global Attributes (3) <textline bbox="311.450,490.870,628.654,514.870" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.000">VIS/NIR netCDF Convention </textline>
+<textline bbox="311.450,456.305,555.735,480.329" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="24.024">- Global Attributes (3) </textline>
+</title>
+<normal_text archetypal_index="1" bbox="39.576,319.208,666.314,427.328" id="1" size="15.960000000000003">:reference_instrument = "MODIS" ; 
+:reference_instrument_wmo_code = "784 389" ; 
+:references = "ATBD, Unidata NetCDF, Climate Format Conventions" ; 
+:standard_name_vocabulary = "CF Standard Name Table (Version 19, 22 March 2012)" ; 
+:summary = "Coefficients of the GSICS Correction for the reflective solar bands of a  <textline bbox="39.576,411.368,286.399,427.328" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:reference_instrument = "MODIS" ; </textline>
+<textline bbox="39.576,388.328,377.766,404.288" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:reference_instrument_wmo_code = "784 389" ; </textline>
+<textline bbox="39.576,365.288,535.469,381.248" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:references = "ATBD, Unidata NetCDF, Climate Format Conventions" ; </textline>
+<textline bbox="39.576,342.248,666.314,358.208" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:standard_name_vocabulary = "CF Standard Name Table (Version 19, 22 March 2012)" ; </textline>
+<textline bbox="39.576,319.208,635.238,335.168" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:summary = "Coefficients of the GSICS Correction for the reflective solar bands of a  </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="117.220,273.108,667.479,312.108" id="2" size="15.96">GEOstationary imager using a LEO imager reference instrument. The current  
+version includes deseasonalisation in the processing." ; <textline bbox="117.220,296.148,667.479,312.108" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">GEOstationary imager using a LEO imager reference instrument. The current  </textline>
+<textline bbox="117.220,273.108,508.413,289.068" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">version includes deseasonalisation in the processing." ; </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="39.576,88.760,703.696,266.028" id="3" size="15.963000000000005">:time_coverage_end = "2016-01-27T13:09:11Z" ; 
+:time_coverage_start = "2016-01-27T13:09:11Z" ; 
+:title = "MSG3+SEVIRI vs Aqua+MODIS GSICS Re-Analysis Correction" ; 
+:window_period = "P-15D+15D" ; 
+:wmo_data_category = 30s ; 
+:wmo_international_data_subcategory = 5s ; 
+:project = "Global Space-based Inter-Calibration System " ; 
+:srf_url = &#8220;SRF (netCDF) URL&#8221;; // Optional Global Attribute, to be discussed in GDWG session <textline bbox="39.576,250.068,385.309,266.028" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:time_coverage_end = "2016-01-27T13:09:11Z" ; </textline>
+<textline bbox="39.576,227.028,390.276,242.988" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:time_coverage_start = "2016-01-27T13:09:11Z" ; </textline>
+<textline bbox="39.576,203.988,560.326,219.948" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:title = "MSG3+SEVIRI vs Aqua+MODIS GSICS Re-Analysis Correction" ; </textline>
+<textline bbox="39.576,180.943,272.885,196.927" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.984">:window_period = "P-15D+15D" ; </textline>
+<textline bbox="39.576,157.878,241.166,173.838" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:wmo_data_category = 30s ; </textline>
+<textline bbox="39.576,134.838,353.897,150.798" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:wmo_international_data_subcategory = 5s ; </textline>
+<textline bbox="39.576,111.798,456.047,127.758" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="15.960">:project = "Global Space-based Inter-Calibration System " ; </textline>
+<textline bbox="39.576,88.760,703.696,104.720" colourspace="DeviceGray" font="ArialMT" ncolour="(1, 0, 0)" size="15.960">:srf_url = &#8220;SRF (netCDF) URL&#8221;; // Optional Global Attribute, to be discussed in GDWG session </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="139.900,65.044,683.034,79.084" id="4" size="14.04">GDWG_2015.6a5:The GEOLEOVNIR or LEOLEOVNIR shall include an optional global  <textline bbox="139.900,65.044,683.034,79.084" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="14.040">GDWG_2015.6a5:The GEOLEOVNIR or LEOLEOVNIR shall include an optional global  </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="253.200,48.239,671.556,62.303" id="5" size="14.064">attribute referencing the location of the associated SRF netCDF file. <textline bbox="253.200,48.239,671.556,62.303" colourspace="DeviceGray" font="ArialMT" ncolour="(0, 0, 1)" size="14.064">attribute referencing the location of the associated SRF netCDF file. </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="43.200,20.492,391.524,30.452" id="6" size="9.96">2016 GSCIS annual meeting, 29 February - 4 March, 2016, Tsukuba, Japan <textline bbox="43.200,20.492,391.524,30.452" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="9.960">2016 GSCIS annual meeting, 29 February - 4 March, 2016, Tsukuba, Japan </textline>
+</normal_text>
+<slide_number bbox="678.360,22.816,682.830,30.856" id="7" size="8.04">6 <textline bbox="678.360,22.816,682.830,30.856" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="8.040">6 </textline>
+</slide_number>
+<picture archetypal_index="7" bbox="28.800,457.320,250.560,513.960" height="56" name="Image9" src="Image9.4.jpg" width="221">
+</picture>
+</page>
+</pages>

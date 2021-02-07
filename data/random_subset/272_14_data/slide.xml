@@ -1,0 +1,109 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="15" mean_title="[246.65790476190477, 447.752, 619.2420761904763, 498.83720000000005]" rotate="0">
+<title archetypal_index="0" bbox="236.860,424.872,640.618,521.751" id="0" size="44.052">Simple Interpreter  
+Example <textline bbox="236.860,477.687,640.618,521.751" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.064">Simple Interpreter  </textline>
+<textline bbox="341.880,424.872,522.180,468.912" colourspace="DeviceGray" font="BCDEEE+LucidaBright" ncolour="(0, 0, 0.4)" size="44.040">Example </textline>
+</title>
+<normal_text archetypal_index="1" bbox="23.448,54.264,710.782,423.940" id="1" size="24.004363636363635">[savage@d0ol30 ~]$ setup d0online 
+[savage@d0ol30 ~]$ python 
+Python 2.1 (#3, May 16 2001, 15:15:15)  
+[GCC 2.95.2 19991024 (release)] on linux2 
+Type "copyright", "credits" or "license" for more information. 
+&gt;&gt;&gt; from CaChannel import * 
+&gt;&gt;&gt; ch = CaChannel('catest') 
+&gt;&gt;&gt; ch.searchw() 
+&gt;&gt;&gt; ch.putw(123.456) 
+&gt;&gt;&gt; ch.getw() 
+123.456 <textline bbox="23.448,399.940,430.224,423.940" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">[savage@d0ol30 ~]$ setup d0online </textline>
+<textline bbox="23.448,365.375,340.661,389.399" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.024">[savage@d0ol30 ~]$ python </textline>
+<textline bbox="23.448,330.790,463.440,354.790" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">Python 2.1 (#3, May 16 2001, 15:15:15)  </textline>
+<textline bbox="23.448,296.230,497.160,320.230" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">[GCC 2.95.2 19991024 (release)] on linux2 </textline>
+<textline bbox="23.448,261.670,710.782,285.670">Type "copyright", "credits" or "license" for more information. <text bbox="23.448,261.670,38.112,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">T</text>
+<text bbox="36.288,261.670,49.632,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">y</text>
+<text bbox="49.368,261.670,64.032,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">p</text>
+<text bbox="64.032,261.670,77.376,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">e</text>
+<text bbox="77.376,261.670,84.048,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="84.264,261.670,95.640,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="95.640,261.670,108.984,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">c</text>
+<text bbox="108.984,261.670,123.648,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">o</text>
+<text bbox="123.648,261.670,138.312,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">p</text>
+<text bbox="138.312,261.670,151.656,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">y</text>
+<text bbox="151.344,261.670,160.680,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">r</text>
+<text bbox="160.680,261.670,167.352,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">i</text>
+<text bbox="167.352,261.670,182.016,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">g</text>
+<text bbox="182.016,261.670,196.680,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">h</text>
+<text bbox="196.680,261.670,204.672,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">t</text>
+<text bbox="204.720,261.670,216.096,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="216.096,261.670,222.768,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">,</text>
+<text bbox="222.816,261.670,229.488,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="229.488,261.670,240.864,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="240.864,261.670,254.208,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">c</text>
+<text bbox="254.208,261.670,263.544,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">r</text>
+<text bbox="263.544,261.670,276.888,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">e</text>
+<text bbox="276.816,261.670,291.480,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">d</text>
+<text bbox="291.480,261.670,298.152,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">i</text>
+<text bbox="298.152,261.670,306.144,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">t</text>
+<text bbox="306.192,261.670,319.536,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">s</text>
+<text bbox="319.536,261.670,330.912,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="330.912,261.670,337.584,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="337.584,261.670,352.248,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">o</text>
+<text bbox="352.248,261.670,361.584,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">r</text>
+<text bbox="361.584,261.670,368.256,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="368.256,261.670,379.632,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="379.632,261.670,386.304,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">l</text>
+<text bbox="386.304,261.670,392.976,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">i</text>
+<text bbox="393.048,261.670,406.392,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">c</text>
+<text bbox="406.392,261.670,419.736,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">e</text>
+<text bbox="419.736,261.670,434.400,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">n</text>
+<text bbox="434.328,261.670,447.672,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">s</text>
+<text bbox="447.672,261.670,461.016,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">e</text>
+<text bbox="461.016,261.670,472.392,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">"</text>
+<text bbox="472.392,261.670,479.064,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="478.968,261.670,486.960,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">f</text>
+<text bbox="486.960,261.670,501.624,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">o</text>
+<text bbox="501.624,261.670,510.960,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">r</text>
+<text bbox="510.960,261.670,517.632,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="517.632,261.670,538.968,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">m</text>
+<text bbox="538.968,261.670,553.632,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">o</text>
+<text bbox="553.632,261.670,562.968,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">r</text>
+<text bbox="562.968,261.670,576.312,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">e</text>
+<text bbox="576.312,261.670,582.984,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000"> </text>
+<text bbox="583.130,262.098,589.235,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">i</text>
+<text bbox="589.235,262.098,602.652,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">n</text>
+<text bbox="602.652,262.098,609.965,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">f</text>
+<text bbox="609.965,262.098,623.383,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">o</text>
+<text bbox="623.427,262.098,631.969,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">r</text>
+<text bbox="631.969,262.098,651.491,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">m</text>
+<text bbox="651.491,262.098,663.701,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">a</text>
+<text bbox="663.701,262.098,671.014,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">t</text>
+<text bbox="671.014,262.098,677.119,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">i</text>
+<text bbox="677.163,262.098,690.580,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">o</text>
+<text bbox="690.580,262.098,703.998,284.058" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="21.960">n</text>
+<text bbox="704.110,261.670,710.782,285.670" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">.</text>
+</textline>
+<textline bbox="23.448,227.090,354.552,251.090" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">&gt;&gt;&gt; from CaChannel import * </textline>
+<textline bbox="23.448,192.530,349.368,216.530" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">&gt;&gt;&gt; ch = CaChannel('catest') </textline>
+<textline bbox="23.448,157.970,218.928,181.970" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">&gt;&gt;&gt; ch.searchw() </textline>
+<textline bbox="23.448,123.405,265.586,147.429" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.024">&gt;&gt;&gt; ch.putw(123.456) </textline>
+<textline bbox="23.448,88.824,177.648,112.824" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">&gt;&gt;&gt; ch.getw() </textline>
+<textline bbox="23.448,54.264,110.112,78.264" colourspace="DeviceGray" font="Helvetica,Bold" ncolour="0" size="24.000">123.456 </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="283.250,123.981,498.434,183.986" id="2" size="24.012">Create the connection. 
+Write a value. <textline bbox="283.250,159.986,498.434,183.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Create the connection. </textline>
+<textline bbox="283.250,123.981,417.448,148.005" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.024">Write a value. </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="367.270,195.986,665.254,219.986" id="3" size="24.0">Make a connection via a name. <textline bbox="367.270,195.986,665.254,219.986" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Make a connection via a name. </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="61.224,27.711,146.966,41.751" id="5" size="14.04">27 March 2003 <textline bbox="61.224,27.711,146.966,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">27 March 2003 </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="307.320,27.711,412.606,41.751" id="6" size="14.04">Python CA Clients <textline bbox="307.320,27.711,412.606,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">Python CA Clients </textline>
+</normal_text>
+<slide_number bbox="644.640,27.711,658.740,41.751" id="7" size="14.04">15 <textline bbox="644.640,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">15 </textline>
+</slide_number>
+<picture archetypal_index="6" bbox="18.000,437.520,165.960,516.000" height="78" name="Image6" src="Image6.13.200x106.bmp" width="147">
+</picture>
+<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" />
+<rect bbox="360.000,192.000,678.000,228.000" linewidth="0" />
+<table archetypal_index="7" bbox="276.0,84.0,510.0,192.0" dimensions="1/3"><cell bbox="276.0,156.0,510.0,192.0" /><cell bbox="276.0,120.0,510.0,156.0" /><cell bbox="276.0,84.0,510.0,120.0"><tabletext bbox="283.250,87.960,413.162,111.960" id="4" size="24.0">Read a value. <textline bbox="283.250,87.960,413.162,111.960" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="24.000">Read a value. </textline>
+</tabletext>
+</cell></table></page>
+</pages>

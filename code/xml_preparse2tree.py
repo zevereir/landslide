@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
-from thesis_sieben_bocklandt.code.prototyping.BMP import check_if_all_same_color
-from thesis_sieben_bocklandt.code.prototyping.tree2features import amount_of_overlap
+from BMP import check_if_all_same_color
+from tree2features import amount_of_overlap
 import os
 from PIL import Image
 

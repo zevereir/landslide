@@ -1,0 +1,73 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="61" mean_title="[132.1819967213115, 457.5503071038252, 502.41164098360656, 498.1307939890711]" rotate="0">
+<title archetypal_index="0" bbox="193.870,457.041,442.009,485.001" id="0" size="27.96">Front-End Electronics <textline bbox="193.870,457.041,442.009,485.001" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="(0.0314, 0.114, 0.345)" size="27.960">Front-End Electronics </textline>
+</title>
+<normal_text archetypal_index="1" bbox="507.790,216.590,593.650,277.790" id="2" size="18.0">strip 
+occupancy 
+per spill <textline bbox="507.790,259.790,541.792,277.790" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">strip </textline>
+<textline bbox="507.790,238.190,593.650,256.190" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">occupancy </textline>
+<textline bbox="507.790,216.590,569.638,234.590" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="18.000">per spill </textline>
+</normal_text>
+<slide_number bbox="662.640,15.831,676.740,29.871" id="8" size="14.04">69 <textline bbox="662.640,15.831,676.740,29.871" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="14.040">69 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="630.000,451.200,708.000,522.000" height="70" name="Image7" src="Image7.59.jpg" width="78">
+</picture>
+<picture archetypal_index="3" bbox="42.000,101.640,377.640,306.000" height="204" name="Image1575" src="Image1575.jpg" width="335">
+</picture>
+<picture archetypal_index="4" bbox="403.680,90.480,620.520,312.000" height="221" name="Image1576" src="Image1576.jpg" width="216">
+</picture>
+<enlisting archetypal_index="5" bbox="70.128,57.48,486.406,422.256">FE Readout Based on existing TriP ASIC 
+builds on FNAL work.  existing submission &#8220;free&#8221;.   
+ADC (dual range) plus few ns resolution timing 
+TriP ASIC provides sample and hold slices four-sample mode works on bench; this is our default 
+each time over threshold also recorded in spill <normal_text bbox="70.128,319.036,482.352,422.256" id="1" size="21.0">FE Readout Based on existing TriP ASIC 
+builds on FNAL work.  existing submission &#8220;free&#8221;.   
+ADC (dual range) plus few ns resolution timing 
+TriP ASIC provides sample and hold slices <textline bbox="70.128,398.256,466.920,422.256" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">FE Readout Based on existing TriP ASIC </textline>
+<textline bbox="101.710,374.352,478.432,392.352" colourspace="DeviceGray" font="BCDGEE+Times" ncolour="0" size="18.000">builds on FNAL work.  existing submission &#8220;free&#8221;.   </textline>
+<textline bbox="101.710,350.592,446.068,368.592" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="18.000">ADC (dual range) plus few ns resolution timing </textline>
+<textline bbox="70.128,319.036,482.352,343.036" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="24.000">TriP ASIC provides sample and hold slices </textline>
+</normal_text>
+<normal_text bbox="101.710,57.480,486.406,99.240" id="7" size="18.0">four-sample mode works on bench; this is our default 
+each time over threshold also recorded in spill <textline bbox="101.710,81.240,486.406,99.240" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="18.000">four-sample mode works on bench; this is our default </textline>
+<textline bbox="101.710,57.480,434.116,75.480" colourspace="DeviceGray" font="BCDEEE+Times" ncolour="0" size="18.000">each time over threshold also recorded in spill </textline>
+</normal_text>
+<normal_text bbox="396.970,260.782,414.970,264.778" id="3" size="3.996">l <textline bbox="396.970,260.782,414.970,264.778" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="3.996">l </textline>
+</normal_text>
+<normal_text bbox="396.970,223.306,414.970,274.696" id="4" size="7.835999999999999">e 
+a 
+c 
+s 
+  
+l <textline bbox="396.970,264.688,414.970,274.696" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">e </textline>
+<textline bbox="396.970,250.774,414.970,260.782" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">a </textline>
+<textline bbox="396.970,241.774,414.970,250.774" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">c </textline>
+<textline bbox="396.970,232.774,414.970,241.774" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">s </textline>
+<textline bbox="396.970,227.302,414.970,232.306" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="5.004">  </textline>
+<textline bbox="396.970,223.306,414.970,227.302" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="3.996">l </textline>
+</normal_text>
+<normal_text bbox="396.970,200.392,414.970,204.388" id="5" size="3.996">i <textline bbox="396.970,200.392,414.970,204.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="3.996">i </textline>
+</normal_text>
+<normal_text bbox="396.970,122.740,414.970,223.396" id="6" size="8.821636363636362">a 
+c 
+s 
+y 
+h 
+p 
+o 
+r 
+t 
+s 
+a <textline bbox="396.970,213.388,414.970,223.396" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">a </textline>
+<textline bbox="396.970,204.388,414.970,213.388" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">c </textline>
+<textline bbox="396.970,191.392,414.970,200.392" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">s </textline>
+<textline bbox="396.970,182.626,414.970,191.626" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">y </textline>
+<textline bbox="396.970,172.708,414.970,182.716" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">h </textline>
+<textline bbox="396.970,162.700,414.970,172.708" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">p </textline>
+<textline bbox="396.970,152.746,414.970,162.754" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">o </textline>
+<textline bbox="396.970,146.752,414.970,152.746" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="5.994">r </textline>
+<textline bbox="396.970,141.748,414.970,146.752" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="5.004">t </textline>
+<textline bbox="396.970,132.748,414.970,141.748" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="9.000">s </textline>
+<textline bbox="396.970,122.740,414.970,132.748" colourspace="DeviceGray" font="ArialMT" ncolour="0" size="10.008">a </textline>
+</normal_text>
+</enlisting></page>
+</pages>

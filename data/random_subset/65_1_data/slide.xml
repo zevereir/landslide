@@ -1,0 +1,62 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="2" mean_title="[113.26, 480.298, 607.229, 508.258]" rotate="0">
+<title archetypal_index="0" bbox="113.260,480.298,607.229,508.258" id="0" size="27.96">Integrated Approach to Observations <textline bbox="113.260,480.298,607.229,508.258" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">Integrated Approach to Observations </textline>
+</title>
+<curvetext bbox="279.550,388.758,433.554,416.718" id="1" size="27.96">User Needs <textline bbox="279.550,388.758,433.554,416.718" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="27.960">User Needs </textline>
+</curvetext>
+<normal_text archetypal_index="1" bbox="455.330,264.952,602.343,310.622" id="10" size="20.04">Other Data 
+Other Satellites <textline bbox="492.100,290.582,594.344,310.622" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Other Data </textline>
+<textline bbox="455.330,264.952,602.343,284.992" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Other Satellites </textline>
+</normal_text>
+<slide_number bbox="651.720,27.711,658.740,41.751" id="15" size="14.04">2 <textline bbox="651.720,27.711,658.740,41.751" colourspace="DeviceGray" font="TimesNewRomanPSMT" ncolour="0" size="14.040">2 </textline>
+</slide_number>
+<picture archetypal_index="2" bbox="1.080,463.320,73.080,534.960" height="71" name="Image6" src="Image6.0.jpg" width="72">
+</picture>
+<picture archetypal_index="3" bbox="647.040,462.840,717.480,534.960" height="72" name="Image8" src="Image8.0.jpg" width="70">
+</picture>
+<rect bbox="472.080,40.080,633.480,314.160" linewidth="0" />
+<rect bbox="472.080,40.080,633.480,314.160" linewidth="0" />
+<curve bbox="149.880,262.010,199.920,264.170" linewidth="0" pts="149.880,264.170,166.550,264.170,183.240,264.170,199.920,264.170,199.920,262.010,183.240,262.010,166.550,262.010,149.880,262.010" />
+<curve bbox="285.040,264.010,419.440,266.170" linewidth="0" pts="285.040,266.170,318.640,266.170,352.240,266.170,385.840,266.170,419.440,266.170,419.440,264.010,385.840,264.010,352.240,264.010,318.640,264.010,285.040,264.010" />
+<curve bbox="237.070,295.690,352.020,354.720" linewidth="0" pts="237.070,295.690,259.990,319.930,262.570,314.510,346.850,354.720,352.020,343.890,267.740,303.680,270.330,298.270" />
+<curve bbox="351.480,296.440,466.430,355.470" linewidth="0" pts="466.430,296.440,443.510,320.680,440.930,315.260,356.650,355.470,351.480,344.640,435.760,304.430,433.170,299.020" />
+<curve bbox="341.280,291.720,363.720,399.720" linewidth="0" pts="352.500,291.720,341.280,318.650,346.890,318.650,346.890,399.720,358.110,399.720,358.110,318.650,363.720,318.650" />
+<curve bbox="245.760,369.000,455.760,436.440" linewidth="0" pts="279.540,436.440,421.980,436.440,440.630,436.440,455.760,421.340,455.760,402.720,455.760,384.100,440.630,369.000,421.980,369.000,279.540,369.000,260.890,369.000,245.760,384.100,245.760,402.720,245.760,421.340,260.890,436.440,279.540,436.440" />
+<curve bbox="245.760,369.000,455.760,436.440" linewidth="0" pts="279.540,436.440,421.980,436.440,440.630,436.440,455.760,421.340,455.760,402.720,455.760,384.100,440.630,369.000,421.980,369.000,279.540,369.000,260.890,369.000,245.760,384.100,245.760,402.720,245.760,421.340,260.890,436.440,279.540,436.440" />
+<table archetypal_index="4" bbox="97.2,38.88,602.01,285.84" dimensions="3/1"><cell bbox="97.2,38.88,257.28,285.84"><tabletext bbox="149.900,262.072,199.920,282.112" id="2" size="20.04">Polar <textline bbox="149.900,262.072,199.920,282.112" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Polar </textline>
+</tabletext>
+<tabletext bbox="139.580,190.052,210.201,234.131" id="4" size="20.052">POES 
+(Today) <textline bbox="147.140,214.067,202.757,234.131" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.064">POES </textline>
+<textline bbox="139.580,190.052,210.201,210.092" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">(Today) </textline>
+</tabletext>
+<tabletext bbox="128.900,118.052,220.944,162.092" id="5" size="20.04">w/METOP 
+(2005) <textline bbox="128.900,142.052,220.944,162.092" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">w/METOP </textline>
+<textline bbox="145.940,118.052,203.896,138.092" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">(2005) </textline>
+</tabletext>
+<tabletext bbox="133.220,46.024,216.667,90.064" id="6" size="20.04">NPOESS 
+(2009) <textline bbox="133.220,70.024,216.667,90.064" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">NPOESS </textline>
+<textline bbox="145.940,46.024,203.896,66.064" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">(2009) </textline>
+</tabletext>
+</cell><cell bbox="271.2,38.88,431.28,285.84"><tabletext bbox="285.100,264.062,419.789,284.102" id="3" size="20.04">Geostationary <textline bbox="285.100,264.062,419.789,284.102" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Geostationary </textline>
+</tabletext>
+<tabletext bbox="284.500,192.062,420.080,236.102" id="7" size="20.04">GOES I-Series 
+(Today) <textline bbox="284.500,216.062,420.080,236.102" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">GOES I-Series </textline>
+<textline bbox="317.020,192.062,387.641,212.102" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">(Today) </textline>
+</tabletext>
+<tabletext bbox="280.060,120.042,424.640,164.082" id="8" size="20.04">GOES N-Series 
+(2004) <textline bbox="280.060,144.042,424.640,164.082" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">GOES N-Series </textline>
+<textline bbox="323.260,120.042,381.216,140.082" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">(2004) </textline>
+</tabletext>
+<tabletext bbox="280.060,48.035,424.640,92.080" id="9" size="20.052">GOES R-Series 
+(2012) <textline bbox="280.060,72.040,424.640,92.080" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">GOES R-Series </textline>
+<textline bbox="323.260,48.035,381.245,68.099" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.064">(2012) </textline>
+</tabletext>
+</cell><cell bbox="455.25,264.89,602.01,267.05" /></table><table archetypal_index="5" bbox="443.88,40.08,602.4,287.16" dimensions="1/2"><cell bbox="443.88,40.08,602.4,287.16"><tabletext bbox="500.230,216.932,557.083,236.972" id="11" size="20.04">NASA <textline bbox="500.230,216.932,557.083,236.972" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">NASA </textline>
+</tabletext>
+<tabletext bbox="508.030,168.932,549.212,188.972" id="12" size="20.04">DoD <textline bbox="508.030,168.932,549.212,188.972" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">DoD </textline>
+</tabletext>
+<tabletext bbox="468.550,120.927,588.834,140.991" id="13" size="20.064">International <textline bbox="468.550,120.927,588.834,140.991" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.064">International </textline>
+</tabletext>
+<tabletext bbox="471.310,72.904,585.959,92.944" id="14" size="20.04">Commercial <textline bbox="471.310,72.904,585.959,92.944" colourspace="DeviceGray" font="Arial-BoldMT" ncolour="0" size="20.040">Commercial </textline>
+</tabletext>
+</cell><cell bbox="455.25,264.89,602.01,267.05" /></table></page>
+</pages>

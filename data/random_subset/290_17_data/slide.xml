@@ -1,0 +1,115 @@
+<pages><page bbox="0.000,0.000,720.000,540.000" id="18" mean_title="[223.62772058823526, 429.1538823529412, 532.7194117647059, 492.98216911764706]" rotate="0">
+<normal_text archetypal_index="0" bbox="25.248,470.568,95.725,480.528" id="0" size="9.96">SURVEY DATA <textline bbox="25.248,470.568,95.725,480.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">SURVEY DATA </textline>
+</normal_text>
+<normal_text archetypal_index="1" bbox="35.760,405.808,78.429,427.768" id="1" size="9.96">TYPE OF 
+DATA <textline bbox="35.760,417.808,78.429,427.768" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">TYPE OF </textline>
+<textline bbox="43.680,405.808,70.363,415.768" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">DATA </textline>
+</normal_text>
+<normal_text archetypal_index="2" bbox="431.330,419.178,487.584,429.138" id="5" size="9.96">30&lt;CV&lt;50% <textline bbox="431.330,419.178,487.584,429.138" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">30&lt;CV&lt;50% </textline>
+</normal_text>
+<normal_text archetypal_index="3" bbox="459.720,479.948,485.374,489.908" id="7" size="9.96">&lt;30% <textline bbox="459.720,479.948,485.374,489.908" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&lt;30% </textline>
+</normal_text>
+<normal_text archetypal_index="4" bbox="459.720,354.048,485.374,364.008" id="9" size="9.96">&gt;50% <textline bbox="459.720,354.048,485.374,364.008" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&gt;50% </textline>
+</normal_text>
+<normal_text archetypal_index="5" bbox="544.850,348.788,616.841,370.768" id="10" size="9.96">SUPPRESS OR 
+AGGREGATE <textline bbox="544.850,360.808,616.841,370.768" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">SUPPRESS OR </textline>
+<textline bbox="549.170,348.788,612.426,358.748" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">AGGREGATE </textline>
+</normal_text>
+<normal_text archetypal_index="6" bbox="63.264,306.423,128.350,316.407" id="11" size="9.984">COUNT DATA <textline bbox="63.264,306.423,128.350,316.407" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.984">COUNT DATA </textline>
+</normal_text>
+<normal_text archetypal_index="7" bbox="519.720,233.898,545.374,243.858" id="13" size="9.96">&lt;30% <textline bbox="519.720,233.898,545.374,243.858" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&lt;30% </textline>
+</normal_text>
+<normal_text archetypal_index="8" bbox="402.340,164.518,457.289,198.478" id="17" size="11.97">CV=100 x     
+) 
+100,000 . 
+PR <textline bbox="402.340,188.518,457.289,198.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">CV=100 x     </textline>
+<textline bbox="447.170,169.520,453.164,187.520" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">) </textline>
+<textline bbox="410.500,176.518,451.789,186.478">100,000 . <text bbox="410.500,176.518,416.038,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">1</text>
+<text bbox="416.020,176.518,421.558,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="421.540,176.518,427.078,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="427.060,176.518,429.829,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">,</text>
+<text bbox="429.811,176.518,435.349,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="435.331,176.518,440.869,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="440.851,176.518,446.389,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="446.371,176.518,449.140,186.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="449.020,176.518,451.789,186.478" colourspace="Pattern" font="ArialMT" ncolour="(0.996, 0.992, 0.89)" size="9.960">.</text>
+</textline>
+<textline bbox="422.860,164.518,436.651,174.478" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">PR </textline>
+</normal_text>
+<normal_text archetypal_index="9" bbox="296.980,102.498,346.680,112.458" id="19" size="9.96">CELL SIZE <textline bbox="296.980,102.498,346.680,112.458" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">CELL SIZE </textline>
+</normal_text>
+<normal_text archetypal_index="10" bbox="519.720,107.998,545.374,117.958" id="20" size="9.96">&gt;30% <textline bbox="519.720,107.998,545.374,117.958" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&gt;30% </textline>
+</normal_text>
+<normal_text archetypal_index="11" bbox="604.870,102.738,676.845,124.747" id="21" size="9.972000000000001">SUPPRESS OR 
+AGGREGATE <textline bbox="604.870,114.763,676.845,124.747" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.984">SUPPRESS OR </textline>
+<textline bbox="609.190,102.738,672.446,112.698" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">AGGREGATE </textline>
+</normal_text>
+<normal_text archetypal_index="12" bbox="325.800,10.988,362.044,20.948" id="22" size="9.96">&lt;20/100 <textline bbox="325.800,10.988,362.044,20.948" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&lt;20/100 </textline>
+</normal_text>
+<normal_text archetypal_index="13" bbox="405.820,10.239,477.811,32.204" id="23" size="9.972000000000001">SUPPRESS OR 
+AGGREGATE <textline bbox="405.820,22.244,477.811,32.204" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">SUPPRESS OR </textline>
+<textline bbox="410.140,10.239,473.389,20.223" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.984">AGGREGATE </textline>
+</normal_text>
+<rect bbox="41.640,14.880,702.840,524.160" linewidth="0" />
+<rect bbox="541.800,342.000,619.800,378.000" linewidth="0" />
+<rect bbox="402.000,2.520,480.000,38.520" linewidth="0" />
+<curve bbox="132.000,309.000,186.000,315.000" linewidth="0" pts="132.000,312.500,181.000,312.500,181.000,311.500,132.000,311.500,180.000,315.000,186.000,312.000,180.000,309.000" />
+<curve bbox="276.000,423.000,324.000,429.000" linewidth="0" pts="276.000,426.500,319.000,426.500,319.000,425.500,276.000,425.500,318.000,429.000,324.000,426.000,318.000,423.000" />
+<curve bbox="234.000,109.200,276.000,115.200" linewidth="0" pts="234.000,112.700,271.000,112.700,271.000,111.700,234.000,111.700,270.000,115.200,276.000,112.200,270.000,109.200" />
+<curve bbox="366.000,15.000,402.000,21.000" linewidth="0" pts="366.000,18.500,397.000,18.500,397.000,17.500,366.000,17.500,396.000,21.000,402.000,18.000,396.000,15.000" />
+<curve bbox="494.640,422.160,536.640,428.160" linewidth="0" pts="494.640,425.660,531.640,425.660,531.640,424.660,494.640,424.660,530.640,428.160,536.640,425.160,530.640,422.160" />
+<curve bbox="488.400,481.800,537.000,487.800" linewidth="0" pts="488.400,485.300,532.000,485.300,532.000,484.300,488.400,484.300,531.000,487.800,537.000,484.800,531.000,481.800" />
+<curve bbox="491.040,355.920,539.640,361.920" linewidth="0" pts="491.040,359.420,534.640,359.420,534.640,358.420,491.040,358.420,533.640,361.920,539.640,358.920,533.640,355.920" />
+<curve bbox="53.640,487.680,59.640,523.680" linewidth="0" pts="57.140,487.680,57.140,518.680,56.140,518.680,56.140,487.680,59.640,517.680,56.640,523.680,53.640,517.680" />
+<curve bbox="347.650,422.880,388.930,423.600" linewidth="0" pts="347.650,423.600,357.970,423.600,368.290,423.600,378.610,423.600,388.930,423.600,388.930,422.880,378.610,422.880,368.290,422.880,357.970,422.880,347.650,422.880" />
+<rect bbox="601.800,96.000,679.800,132.000" linewidth="0" />
+<curve bbox="548.400,235.800,597.000,241.800" linewidth="0" pts="548.400,239.300,592.000,239.300,592.000,238.300,548.400,238.300,591.000,241.800,597.000,238.800,591.000,235.800" />
+<curve bbox="551.040,109.920,599.640,115.920" linewidth="0" pts="551.040,113.420,594.640,113.420,594.640,112.420,551.040,112.420,593.640,115.920,599.640,112.920,593.640,109.920" />
+<curve bbox="407.650,176.880,448.930,177.600" linewidth="0" pts="407.650,177.600,417.970,177.600,428.290,177.600,438.610,177.600,448.930,177.600,448.930,176.880,438.610,176.880,428.290,176.880,417.970,176.880,407.650,176.880" />
+<rect bbox="448.930,176.880,451.690,177.600" linewidth="0" />
+<curve bbox="360.000,176.280,382.680,182.280" linewidth="0" pts="360.000,179.780,377.680,179.780,377.680,178.780,360.000,178.780,376.680,182.280,382.680,179.280,376.680,176.280" />
+<table archetypal_index="14" bbox="47.04,178.8,675.36,252.0" dimensions="2/2"><cell bbox="47.04,178.8,129.0,214.8" /><cell bbox="597.36,216.0,675.36,252.0"><tabletext bbox="615.360,228.768,656.833,238.728" id="14" size="9.96">REPORT <textline bbox="615.360,228.768,656.833,238.728" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">REPORT </textline>
+</tabletext>
+</cell><cell bbox="519.63,234.26,525.39,234.98" /></table><table archetypal_index="15" bbox="459.63,462.0,615.36,498.0" dimensions="1/2"><cell bbox="537.36,462.0,615.36,498.0"><tabletext bbox="555.360,474.833,596.854,484.817" id="8" size="9.984">REPORT <textline bbox="555.360,474.833,596.854,484.817" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.984">REPORT </textline>
+</tabletext>
+</cell><cell bbox="459.63,480.25,465.39,480.97" /></table><table archetypal_index="16" bbox="388.93,408.96,613.92,444.96" dimensions="1/3"><cell bbox="535.92,408.96,613.92,444.96"><tabletext bbox="540.500,414.188,613.547,436.148" id="6" size="9.96">REPORT WITH  
+WARNING <textline bbox="540.500,426.188,613.547,436.148" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">REPORT WITH  </textline>
+<textline bbox="551.420,414.188,599.945,424.148" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">WARNING </textline>
+</tabletext>
+</cell><cell bbox="461.85,419.5,467.61,420.22" /><cell bbox="388.93,422.88,391.69,423.6" /></table><enlisting archetypal_index="17" bbox="180.65,149.248,407.104,444.528">&#8730;( &#8805;20/100 &#8730;( <normal_text bbox="331.270,414.830,347.104,432.830" id="4" size="18.0">&#8730;( <textline bbox="331.270,414.830,347.104,432.830" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">&#8730;( </textline>
+</normal_text>
+<normal_text bbox="322.320,174.018,358.209,183.978" id="16" size="9.96">&#8805;20/100 <textline bbox="322.320,174.018,358.209,183.978" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">&#8805;20/100 </textline>
+</normal_text>
+<normal_text bbox="391.270,168.780,407.104,186.780" id="18" size="18.0">&#8730;( <textline bbox="391.270,168.780,407.104,186.780" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">&#8730;( </textline>
+</normal_text>
+<normal_text bbox="186.530,149.248,278.610,171.208" id="15" size="9.96">VULNERABLE 
+(STRICT CRITERIA) <textline bbox="199.850,161.248,265.566,171.208" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">VULNERABLE </textline>
+<textline bbox="186.530,149.248,278.610,159.208" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">(STRICT CRITERIA) </textline>
+</normal_text>
+<title bbox="342.310,410.568,397.259,444.528" id="3" size="11.97">CV= 100 x    
+) 
+100,000 . 
+PR <textline bbox="342.310,434.568,397.259,444.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">CV= 100 x    </textline>
+<textline bbox="387.140,415.570,393.134,433.570" colourspace="Pattern" font="ArialMT" ncolour="0" size="18.000">) </textline>
+<textline bbox="350.470,422.568,391.759,432.528">100,000 . <text bbox="350.470,422.568,356.008,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">1</text>
+<text bbox="355.990,422.568,361.528,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="361.510,422.568,367.048,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="367.030,422.568,369.799,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">,</text>
+<text bbox="369.781,422.568,375.319,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="375.301,422.568,380.839,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="380.821,422.568,386.359,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">0</text>
+<text bbox="386.341,422.568,389.110,432.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960"> </text>
+<text bbox="388.990,422.568,391.759,432.528" colourspace="Pattern" font="ArialMT" ncolour="(0.996, 0.992, 0.89)" size="9.960">.</text>
+</textline>
+<textline bbox="362.830,410.568,376.621,420.528" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">PR </textline>
+</title>
+<normal_text bbox="180.650,414.068,281.963,436.028" id="2" size="9.96">GENERAL 
+(MINIMUM CRITERIA) <textline bbox="207.550,426.068,255.089,436.028" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">GENERAL </textline>
+<textline bbox="180.650,414.068,281.963,424.028" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">(MINIMUM CRITERIA) </textline>
+</normal_text>
+<normal_text bbox="200.900,304.288,265.192,326.248" id="12" size="9.96">KIND OF 
+POPULATION <textline bbox="212.660,316.288,253.257,326.248" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">KIND OF </textline>
+<textline bbox="200.900,304.288,265.192,314.248" colourspace="Pattern" font="ArialMT" ncolour="0" size="9.960">POPULATION </textline>
+</normal_text>
+</enlisting><picture archetypal_index="18" bbox="0.0,5.04,93.0,536.04" caption="" combined_sources="['Image8.1.93x600.bmp', 'Image11.16.93x360.bmp']" name="combined_0" src="combined_18_0.png" /></page>
+</pages>
