@@ -109,17 +109,77 @@ def showImage_with_rectangles(filename,path_to_image,rectangles):
     plt.savefig(filename)
 
     plt.close()
+def map_tag(tag):
+    if tag == "title":
+        return "Title"
+    elif tag == "normal_text":
+        return "Normal Text"
+    elif tag =="curve":
+        return "Curve"
+    elif tag=="table":
+        return "Table"
+    elif tag=="ref":
+        return "Reference"
+    elif tag=="curvetext":
+        return "Text in curve"
+    elif tag=="tabletext":
+        return "Text in table"
+    elif tag=="picture":
+        return "Image"
+    elif tag=="enlisting":
+        return "Listing"
+    elif tag=="enlisting_image":
+        return "Listing Image"
+    elif tag=="caption":
+        return "Caption"
+    elif tag=="background":
+        return "Background"
+    elif "rect":
+        return "Rect"
+    else:
+        raise(ValueError(tag))
+
+
 
 import os
 from shutil import copyfile
 from pathlib import Path
 import xml.etree.ElementTree as ET
-all_slides = os.listdir("D://Thesis//landslide//data//random_subset")
+import json
+all_slides = [x for x in os.listdir("D://Thesis//landslide//data//random_subset") if "annotated" not in x and "images" not in x and "annotations" not in x]
+new_dict={}
 for sh in all_slides:
-    input=("D://Thesis//landslide//data//random_subset//"+sh+"//image.jpg")
-    target=("D://Thesis//landslide//data//random_subset//"+sh+"//image_new.jpg")
+
+#     print(sh)
+#
+    image="D://Thesis//landslide//data//random_subset//"+sh+"//"+sh.replace("_data","")+".jpg"
+
+    img_size=os.path.getsize(image)
     tree="D://Thesis//landslide//data//random_subset//"+sh+"//slide.xml"
-    xml2image(input,tree,target)
+    parsed= ET.parse(tree)
+    rectangles=[]
+    tags=[]
+    for page in parsed.getroot():
+        bbox=[float(x) for x in page.attrib.get("bbox").split(",")]
+        slide_size=(int(bbox[2]),int(bbox[3]))
+        for child in page:
+            rectangles.append([float(x) for x in child.attrib.get("bbox").split(",")])
+            tags.append(map_tag(child.tag))
+    regions=[]
+
+    for id in range(0,len(rectangles)):
+        rect=rectangles[id]
+        shape_attributes={"name":"rect"}
+        shape_attributes["x"]=rect[0]
+        shape_attributes["y"]=slide_size[1]-rect[3]
+        shape_attributes["width"]=rect[2]-rect[0]
+        shape_attributes["height"]=rect[3]-rect[1]
+        region_attributes={"Type":tags[id]}
+        regions.append({"shape_attributes":shape_attributes,"region_attributes":region_attributes})
+    new_dict[sh.replace("_data","")+".jpg"+str(img_size)]={"filename":sh.replace("_data","")+".jpg","filesize":img_size,"regions":regions,"file_attributes":{}}
+with open("D://Thesis//landslide//data//random_subset//annotated_data.json", 'w') as fp:
+    json.dump(new_dict, fp)
+
 
 
 

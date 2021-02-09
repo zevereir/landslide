@@ -1,0 +1,60 @@
+{
+    "region": {
+        "Role": {
+            "type": "dropdown",
+            "description": "The role that an element has in the slide",
+            "options": {
+                "Title": "",
+                "Leftsubtitle": "",
+                "MiddleSubtitle": "",
+                "RightSubtitle": "",
+                "LeftContent": "",
+                "MiddleContent": "",
+                "RightContent": "",
+                "Background": "",
+                "Noise": ""
+            },
+            "default_options": {}
+        },
+        "Type": {
+            "type": "dropdown",
+            "description": "What does the element represent",
+            "options": {
+                "Title": "",
+                "Curve": "",
+                "Reference": "",
+                "Image": "",
+                "Caption": "",
+                "Normal Text": "",
+                "Listing": "",
+                "Background": "",
+                "Listing Image": "",
+                "Text in table": "",
+                "Text in curve": "",
+                "Table":"",
+                "Rect":""
+            },
+            "default_options": {}
+        }
+    },
+    "file": {
+        "Done": {
+            "type": "dropdown",
+            "description": "",
+            "options": {
+                "Yes": "",
+                "No": ""
+            },
+            "default_options": {}
+        },
+        "Interesting": {
+            "type": "dropdown",
+            "description": "",
+            "options": {
+                "Yes": "",
+                "No": ""
+            },
+            "default_options": {}
+        }
+    }
+}
