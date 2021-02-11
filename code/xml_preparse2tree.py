@@ -35,8 +35,7 @@ def preparse_xml(xml_file, output_directory):
                     child.remove(child[0])
                     if len(child)!=1:
                         to_remove.add(child)
-                elif child[0].tag == "curve":
-                    page.append(child[0])
+                elif {x.tag for x in child}.issubset({"textbox","curve","line", "rect"}):
                     to_remove.add(child)
                 else:
                     child_attributes = child[0].attrib
@@ -61,14 +60,7 @@ def preparse_xml(xml_file, output_directory):
                         child.set("width", child_attributes.get("width"))
                         child.set("height", child_attributes.get("height"))
                         child.remove(child[0])
-            if child.tag == "rect":  #removing the rect that is the background
-                child_box = [float(x) for x in child.attrib.get("bbox").split(",")]
-                overlap=amount_of_overlap(child_box,page_box)
-                if overlap[1]>0.9:
-                    to_remove.add(child)
-                else:
-                    rect_counter+=1
-            if child.tag == "layout": #removing the layout part
+            if child.tag in ["layout","line","rect","curve"]:
                 to_remove.add(child)
             if child.tag == "textbox": #combining the info from the text into the text-lines. If the line is all the same size etc, the text wil be deleted
                 child_text=""
@@ -123,9 +115,6 @@ def preparse_xml(xml_file, output_directory):
                 child_text=child_text[:-1]
                 if child_text!=None:
                     child.text=child_text
-        if rect_counter<6:
-            for rect in page.findall("rect"):
-                to_remove.add(rect)
 
         for child in to_remove:
             page.remove(child)
