@@ -13,18 +13,8 @@ def pdf2xml(pdf_file, output_directory):
         filename = "\\"+pdf_file.split("\\")[-1].replace(".pdf", ".xml")
     output_file=output_directory+filename
     output_images=output_directory+"\\images"
-
-    while os.path.isdir(output_directory):
-        try:
-            shutil.rmtree(output_directory)
-        except:
-            pass
-    while not os.path.isdir(output_directory):
-        try:
-            os.mkdir(output_directory)
-        except:
-            pass
-    os.mkdir(output_directory+"\\images")
+    if not os.path.exists(output_images):
+        os.mkdir(output_images)
     open(output_file, 'a').close()
     os.system("python D:\\User\\Documents\\School\\Thesis\\thesis_sieben_bocklandt\\code\\prototyping\\pdf2txt.py -t xml -O "+output_images+" -o "+output_file+" -A "+pdf_file)
     return output_file
