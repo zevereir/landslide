@@ -14,6 +14,7 @@ Slide = FrozenSet["Predicate"]
 Move = Set[Tuple["Predicate", "Predicate"]]
 Substitution = Dict[int, int]
 Similarity = Callable[[Slide, Slide], Tuple[float, Substitution]]
+verbose = False
 
 
 class Predicate:
@@ -70,7 +71,7 @@ class Searcher(ABC):
         predicates: List[List[str]],
         similarity: Similarity = None,
         max_depth: int = 2,
-        size: int = 0
+        size: int = 0,
     ):
         """
 
@@ -82,6 +83,7 @@ class Searcher(ABC):
         self.similarity = similarity or similarity_optimal
         self.max_depth = max_depth
         self.size = size
+        self.comparisons = 0
 
     @abstractmethod
     def search(
@@ -101,23 +103,6 @@ class Searcher(ABC):
 class BreadthSearcher(Searcher):
     """Breadth first in terms of number of replaced objects."""
 
-    # def __init__(
-    #     self,
-    #     predicates: List[List[str]],
-    #     similarity: Similarity = None,
-    #     max_depth: int = 2,
-    #     size: int = 0,
-    # ):
-    #     """
-
-    #     Args:
-    #         beam: Beam width. If not set, defaults to
-    #             not using a beam.
-
-    #     """
-    #     super().__init__(predicates, similarity, max_depth)
-    #     self.beam = beam
-
     def search(
         self,
         slide: Set[Predicate],
@@ -130,28 +115,43 @@ class BreadthSearcher(Searcher):
             index in archetypes.
 
         """
+        # reset number of comparisons
+        self.comparisons = 0
+        # current slide
         slide = frozenset(slide)
+        # set of conditions to enforce the beam
         conditions = set()
+        # keep track of best encountered so far
+        best = [()]
+        best_score = 0
         for depth in range(self.max_depth + 1):
             scores = list()
             moves = self.expansions(slide, depth, conditions)
-            for move in tqdm.tqdm(moves, desc="depth {}".format(depth), disable=True):
+            for move in tqdm.tqdm(
+                moves, desc="depth {}".format(depth), disable=not verbose
+            ):
                 new_slide = apply(slide, move)
                 score, matches = best_matches(new_slide, archetypes, self.similarity)
                 heappush(scores, (-score, matches, move))
+                if score > best_score:
+                    best = [(score, matches, move)]
+                    best_score = score
+                elif score == best_score:
+                    best.append((score, matches, move))
+            self.comparisons += len(moves) * len(archetypes)
             # perfect solution, stop
-            if len(scores) > 0 and scores[0][0] == -1:
+            if best_score == 1:
                 break
             # apply beam, get best scores
             if depth < self.max_depth and self.size > 0:
                 conditions = set()
                 bestscores = set()
                 while len(scores) > 0 and len(bestscores) < self.size:
-                    d, _, move = heappop(scores)
-                    bestscores.add(d)
+                    score, matches, move = heappop(scores)
+                    bestscores.add(score)
                     conditions.add(move)
         # get top scores
-        return [s for s in scores if s[0] == min(s for s, _, _ in scores)]
+        return best
 
     def expansions(
         self,
@@ -219,16 +219,14 @@ class GreedySearcher(Searcher):
             # perfect score, add back to heap and break
             # from search
             if score == -1:
-                heappush(heap, (score, matches, moves))
                 break
             # get moves of objects that were not moved before
             # by checking arguments
             moved = {move[0].arguments for move in moves}
             moves_left = {move for move in all_moves if move[0].arguments not in moved}
-            # print(len(moves_left), len(archetypes), len(moves_left) * len(archetypes))
             # apply move and add to queue
             for move in tqdm.tqdm(
-                moves_left, desc="{}/{}".format(n_moves, m_moves), disable=True
+                moves_left, desc="{}/{}".format(n_moves, m_moves), disable=not verbose
             ):
                 new_move = moves | {move}
                 new_slide = apply(slide, new_move)
@@ -243,7 +241,8 @@ class GreedySearcher(Searcher):
                 elif new_score == best_score:
                     best.append((new_score, new_matches, new_move))
             # count number of moves
-            n_moves += (len(moves_left) * len(archetypes))
+            n_moves += len(moves_left) * len(archetypes)
+        self.comparisons = n_moves
         return best
 
     def moves(self, slide: Slide) -> List[Tuple[Predicate, Predicate]]:
@@ -253,14 +252,6 @@ class GreedySearcher(Searcher):
             for replacement in self.replacements(predicate):
                 expansions.append((predicate, replacement))
         return expansions
-
-    # def max_moves_old(self, slide: Slide) -> int:
-    #     """Compute number of elements."""
-    #     if self.max_depth == 0:
-    #         return 0
-    #     N = [len(self.pmap[p.name]) for p in slide if p.name in self.pmap]
-    #     C = combinations(N, self.max_depth)
-    #     return sum(prod(c) for c in C)
 
     def max_moves(self, slide: Slide) -> int:
         return self.size
@@ -460,6 +451,7 @@ def count_objects(slide: Slide) -> int:
 def heapbest(heap: List[Any]) -> List[Any]:
     pass
 
+
 interchangable = [
     ["b-x", "f-x", "m-x", "o-x", "s-x", "d-x", "eq-x"],
     ["b-y", "f-y", "m-y", "o-y", "s-y", "d-y", "eq-y"],
@@ -521,11 +513,19 @@ if __name__ == "__main__":
             archetype for archetype in archetypes if n == count_objects(archetype)
         ]
 
-    # searcher = BreadthSearcher(
-    #     interchangable, max_depth=1, similarity=similarity_optimal, beam=2
-    # )
-    searcher = GreedySearcher(
-        interchangable, max_depth=2, size=20000, similarity=similarity_optimal
+    # turn on verbosity
+    verbose = True
+
+    searcher = BreadthSearcher(
+        interchangable, max_depth=3, similarity=similarity_optimal, size=1
     )
     print(searcher)
     print(searcher.search(slide, archetypes))
+    print(searcher.comparisons)
+
+    searcher = GreedySearcher(
+        interchangable, max_depth=3, size=100000, similarity=similarity_optimal
+    )
+    print(searcher)
+    print(searcher.search(slide, archetypes))
+    print(searcher.comparisons)
