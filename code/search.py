@@ -339,9 +339,7 @@ def jaccard(S1: Set[Any], S2: Set[Any]):
 def generate_functions(S1, S2):
     # generate initial and prune
     possibilities = generate_mappings(S1, S2)
-    print("possibilities", possibilities)
     pruned = prune_mappings(possibilities)
-    print("pruned", pruned)
     # generate combinations of remaining possible mappigns
     solutions = decide_mappings(pruned)
     # turn them into functional mappings
