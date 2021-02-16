@@ -71,11 +71,11 @@ def save_data(results, output_directory,name_output, force_override, results_jso
         name_output+=".dat"
     header = "Responsive score, Archetype-ID, Computational time"
     output_directory.mkdir(exist_ok=True)
-    if not (output_directory/name_output).is_file():
-        Path.touch(output_directory/name_output)
-        np.savetxt(output_directory / name_output, results, header=header)
-    elif force_override:
-        np.savetxt(output_directory/name_output, results, header=header)
+    # if not (output_directory/name_output).is_file():
+    #     Path.touch(output_directory/name_output)
+    #     np.savetxt(output_directory / name_output, results, header=header)
+    # elif force_override:
+    #     np.savetxt(output_directory/name_output, results, header=header)
     with open(output_directory/name_output.replace(".dat",".json"),"w") as fp:
         json.dump(results_json,fp)
 
