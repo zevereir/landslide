@@ -57,8 +57,8 @@ def main():
 
 
     output = source
-    if ".dat" not in name_output:
-        name_output+=".dat"
+    if ".json" not in name_output:
+        name_output+=".json"
     # print(output /"results"/ name_output)
     if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)

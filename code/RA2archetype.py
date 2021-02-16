@@ -84,7 +84,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
     for page in list(powerpoint.pages):
 
         counter+=1
-        
+
         start=datetime.now()
         slide=frozenset(Predicate.from_string_sieben(s) for s in page.RA)
 
