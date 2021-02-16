@@ -339,7 +339,9 @@ def jaccard(S1: Set[Any], S2: Set[Any]):
 def generate_functions(S1, S2):
     # generate initial and prune
     possibilities = generate_mappings(S1, S2)
+    print("possibilities", possibilities)
     pruned = prune_mappings(possibilities)
+    print("pruned", pruned)
     # generate combinations of remaining possible mappigns
     solutions = decide_mappings(pruned)
     # turn them into functional mappings
@@ -359,12 +361,29 @@ def generate_mappings(
         to possible substitutions in S2.
 
     """
+    # candidate anchors
+    candidates = defaultdict(set)
+    for p1 in S1:
+        if p1.arity == 1:
+            for p2 in S2:
+                if p1.name == p2.name:
+                    candidates[p1.arguments[0]].add(p2.arguments[0])
+    # keep ones with just one possibility
+    anchors = defaultdict(set)
+    for key, values in candidates.items():
+        if len(values) == 1:
+            for v in values:
+                anchors[key] = v
+    # determine the rest
     possibilities = defaultdict(set)
     for p1 in S1:
         for p2 in S2:
             if p1.name == p2.name:
                 for i, a in enumerate(p1.arguments):
-                    possibilities[a].add(p2[i])
+                    b = p2[i]
+                    if a not in anchors.keys() and b not in anchors.values():
+                        possibilities[a].add(b)
+    possibilities.update({k: {v} for k, v in anchors.items()})
     return possibilities
 
 
@@ -516,16 +535,36 @@ if __name__ == "__main__":
     # turn on verbosity
     verbose = True
 
-    searcher = BreadthSearcher(
-        interchangable, max_depth=3, similarity=similarity_optimal, size=1
-    )
-    print(searcher)
-    print(searcher.search(slide, archetypes))
-    print(searcher.comparisons)
+    # searcher = BreadthSearcher(
+    #     interchangable, max_depth=3, similarity=similarity_optimal, size=1
+    # )
+    # print(searcher)
+    # print(searcher.search(slide, archetypes))
+    # print(searcher.comparisons)
 
-    searcher = GreedySearcher(
-        interchangable, max_depth=3, size=100000, similarity=similarity_optimal
+    # searcher = GreedySearcher(
+    #     interchangable, max_depth=3, size=100000, similarity=similarity_optimal
+    # )
+    # print(searcher)
+    # print(searcher.search(slide, archetypes))
+    # print(searcher.comparisons)
+
+    s1 = frozenset(
+        Predicate.from_string_sieben(s)
+        for s in {
+            "o-x+1_0",
+            "d-y+1_2",
+            "d-x+1_2",
+            "title+0",
+            "d-y+0_2",
+            "d-y+1_0",
+            "o-x+2_0",
+        }
     )
-    print(searcher)
-    print(searcher.search(slide, archetypes))
-    print(searcher.comparisons)
+
+    s2 = frozenset(
+        Predicate.from_string_sieben(s)
+        for s in {"background+1", "d-y+0_1", "d-x+0_1", "title+0"}
+    )
+
+    print(generate_functions(s1, s2))
