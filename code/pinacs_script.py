@@ -18,6 +18,7 @@ def main():
     parser.add_argument("--equal-size",action="store_true")
     parser.add_argument("--beam-size",default=None)
     parser.add_argument("--set",default="all")
+    parser.add_argument("--run",default="1-1")
     parser.add_argument("--searcher",default="greedy")
     parser.add_argument("--single-content",action="store_true")
     args = parser.parse_args()
@@ -46,7 +47,7 @@ def main():
         set_name="morethanfive"
 
 
-    name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(args.equal_size)
+    name_output = args.searcher+"_"+set_name + "_" + args.archetypes + "_" + str(args.cutoff) + "_" + beam_name + "_" + str(args.equal_size)+"_"+args.run
     if args.single_content:
         name_output="filtered_"+name_output
     source = Path(args.data).resolve()
@@ -61,6 +62,13 @@ def main():
     # print(output /"results"/ name_output)
     if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
+        i, n = map(int, args.run.split("-"))
+        size = len(powerpoint.pages) // n
+        if i==n:
+            powerpoint.pages = powerpoint.pages[(i-1) * size : ]
+        else:
+            powerpoint.pages = powerpoint.pages[(i-1) * size : min(i * size, len(powerpoint.pages))]
+        print(len(powerpoint.pages))
         results, results_json= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)

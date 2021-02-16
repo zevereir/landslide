@@ -82,6 +82,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
     results={x:{} for x in range(1,len(powerpoint.pages)+1)}
     counter=0
     for page in list(powerpoint.pages):
+        print("index:",page.RA)
         counter+=1
         print(counter)
         start=datetime.now()
@@ -135,6 +136,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         current_result["Master"]=best_master
         current_result["Best mapping"]=best_mapping
         current_result["Best role mapping"]=best_role_mapping
+        current_result["Comparisons"]=searcher.comparisons
         results[counter]=current_result
 
     return list(zip(responsivities,archetypes,times,)), results
