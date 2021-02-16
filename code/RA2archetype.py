@@ -17,16 +17,20 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
     if arch_to_use=="baseline":
         with open('code/archetypes/baseline.json') as json_file:
             arch_dict = json.load(json_file)
-        for i in range(0, len(arch_dict)):
-            if (not single_content) or i in [1,7,9]:
-                baseline_archetypes=arch_dict[str(i)]
-                for arch in baseline_archetypes:
-                    base_arch=frozenset(Predicate.from_string_sieben(s) for s in arch)
-                    archs_to_use.append(base_arch)
-                    if base_arch in master_archetypes.keys():
-                        master_archetypes[base_arch].add((i,-1))
-                    else:
-                        master_archetypes[base_arch]={(i,-1)}
+        for i in range(0, len(arch_dict)): #archetype
+            if (not single_content) or i in [1, 7, 9]:
+                arch = arch_dict[str(i)]
+                for key in arch: #master
+                    master=arch[key]
+                    for z in master:
+                        base_arch = frozenset(Predicate.from_string_sieben(s) for s in z["Representation"])
+                        mapping=z["Mapping"]
+                        if base_arch not in archs_to_use:
+                            archs_to_use.append(base_arch)
+                        if base_arch in master_archetypes.keys():
+                            master_archetypes[base_arch].append((i, key, mapping))
+                        else:
+                            master_archetypes[base_arch] = [(i, key, mapping)]
 
     elif arch_to_use=="learned":
         with open('code/archetypes/learned.json') as json_file:
@@ -34,33 +38,34 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         for i in range(0, len(arch_dict)): #archetype
             if (not single_content) or i in [1, 7, 9]:
                 arch = arch_dict[str(i)]
-                for key in range(0, len(arch)): #master
-                    master=arch[str(key)]
+                for key in arch: #master
+                    master=arch[key]
                     for z in master:
-                        base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
+                        base_arch = frozenset(Predicate.from_string_sieben(s) for s in z["Representation"])
+                        mapping=z["Mapping"]
                         if base_arch not in archs_to_use:
                             archs_to_use.append(base_arch)
-                        if base_arch in master_archetypes.keys():
-                            master_archetypes[base_arch].add((i, key))
-                        else:
-                            master_archetypes[base_arch] = {(i, key)}
+                            if base_arch in master_archetypes.keys():
+                                master_archetypes[base_arch].append((i, key, mapping))
+                            else:
+                                master_archetypes[base_arch] = [(i, key, mapping)]
     elif arch_to_use=="masters":
         with open('code/archetypes/masters.json') as json_file:
             arch_dict = json.load(json_file)
         for i in range(0, len(arch_dict)):
             if (not single_content) or i in [1, 7, 9]:
                 arch = arch_dict[str(i)]
-                for key in range(0, len(arch)+1):
-                    if key!=25:
-                        master=arch[str(key)]
-                        for z in master:
-                            base_arch = frozenset(Predicate.from_string_sieben(s) for s in z)
-                            if base_arch not in archs_to_use:
-                                archs_to_use.append(base_arch)
-                            if base_arch in master_archetypes.keys():
-                                master_archetypes[base_arch].add((i, key))
-                            else:
-                                master_archetypes[base_arch] = {(i, key)}
+                for key in arch: #master
+                    master=arch[key]
+                    for z in master:
+                        base_arch = frozenset(Predicate.from_string_sieben(s) for s in z["Representation"])
+                        mapping=z["Mapping"]
+                        if base_arch not in archs_to_use:
+                            archs_to_use.append(base_arch)
+                        if base_arch in master_archetypes.keys():
+                            master_archetypes[base_arch].append((i, key, mapping))
+                        else:
+                            master_archetypes[base_arch] = [(i, key, mapping)]
 
    
     times=[]
@@ -74,9 +79,14 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         searcher=GreedySearcher(interchangable,max_depth=cutoff, size=beam)
     else:
         searcher = BreadthSearcher(interchangable, max_depth=cutoff, size=beam)
-    for page in powerpoint.pages:
+    results={x:{} for x in range(1,len(powerpoint.pages)+1)}
+    counter=0
+    for page in list(powerpoint.pages):
+        counter+=1
+        print(counter)
         start=datetime.now()
         slide=frozenset(Predicate.from_string_sieben(s) for s in page.RA)
+
         if equal_size:
             n = count_objects(slide)
             archs_to_use_per_slide = [
@@ -87,24 +97,47 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         result = searcher.search(slide,archs_to_use_per_slide)
         amount_placeholders=-1
         best_archetype=None
+        best_archetype_repr=None
+        best_master=None
+        best_new_slide=None
+        best_mapping=None
+        best_role_mapping=None
+
         for res in result:
             moves=res[2]
             new_slide=apply(slide, moves)
             for solution in res[1]:
                 archetype=archs_to_use_per_slide[solution]
-
-                placeholders = len(similarity_optimal(archetype,slide)[1])
+                mapping=similarity_optimal(new_slide,archetype)[1]
+                placeholders = len(mapping)
                 if placeholders>amount_placeholders:
                     amount_placeholders=placeholders
                     best_archetype=list(master_archetypes[archetype])[0][0]
+                    best_archetype_repr=archetype
+                    best_master=list(master_archetypes[archetype])[0][1]
+                    best_role_mapping=list(master_archetypes[archetype])[0][2]
+                    best_new_slide=new_slide
+                    best_mapping=mapping
         responsivity=amount_placeholders/max(1,count_objects(slide))
         if responsivity<=0:
             best_archetype=11
             responsivity=0
         responsivities.append(responsivity)
         archetypes.append(best_archetype)
-        times.append((datetime.now()-start).total_seconds())
-    return list(zip(responsivities,archetypes,times))[0:5]
+        duration=(datetime.now()-start).total_seconds()
+        times.append(duration)
+        current_result= {}
+        current_result["Responsitivity"]=responsivity
+        current_result["Time"]=duration
+        current_result["New slide"]=str(best_new_slide)
+        current_result["Archetype representation"]=str(best_archetype_repr)
+        current_result["Archetype"]=best_archetype
+        current_result["Master"]=best_master
+        current_result["Best mapping"]=best_mapping
+        current_result["Best role mapping"]=best_role_mapping
+        results[counter]=current_result
+
+    return list(zip(responsivities,archetypes,times,)), results
 
 
 

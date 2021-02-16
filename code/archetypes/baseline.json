@@ -1,1 +1,180 @@
-{"0": [["title+0", "first_slide"]], "1": [["title+0", "eq-x+0_1", "b-y+1_0"]], "2": [["title+0", "eq-y+1_2", "b-x+1_2", "f-x+2_0", "b-y+2_0", "b-y+1_0", "s-x+1_0"]], "3": [["title+0", "b-y+3_0", "eq-y+1_2", "eq-y+2_3", "b-x+2_3", "b-x+1_2", "b-y+2_0", "eq-y+1_3", "f-x+3_0", "b-y+1_0", "s-x+1_0", "b-x+1_3", "d-x+2_0"]], "4": [["title+0", "eq-y+1_2", "b-x+1_2", "b-y+2_0", "eq-x+1_3", "f-x+2_0", "b-y+4_2", "b-y+1_0", "b-y+3_1", "s-x+1_0", "b-x+3_4", "eq-x+2_4", "eq-y+3_4"]], "5": [["title+0"]], "6": [["title+0", "no_content"]], "7": [["no_title", "b-x+1_2", "eq-x+0_1", "b-y+1_0", "o-y+0_2", "o-y+2_1", "b-x+0_2"]], "8": [["title+0", "background+1"]], "9": [["no_title", "background+0"]]}
+{
+    "0": {
+        "-1": [
+            {
+                "Representation": [
+                    "first_slide",
+                    "eq-x+0_1",
+                    "title+0",
+                    "b-y+1_0"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Subtitle"
+                }
+            }
+        ]
+    },
+    "1": {
+        "-1": [
+            {
+                "Representation": [
+                    "eq-x+1_0",
+                    "title+0",
+                    "b-y+1_0"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Content"
+                }
+            }
+        ]
+    },
+    "2": {
+        "-1": [
+            {
+                "Representation": [
+                    "title+0",
+                    "eq-y+1_2",
+                    "b-x+1_2",
+                    "f-x+2_0",
+                    "b-y+2_0",
+                    "b-y+1_0",
+                    "s-x+1_0"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Left Content",
+                    "2": "Right Content"
+                }
+            }
+        ]
+    },
+    "3": {
+        "-1": [
+            {
+                "Representation": [
+                  
+            "title+0",
+            "b-y+3_0",
+            "eq-y+1_2",
+            "eq-y+2_3",
+            "b-x+2_3",
+            "b-x+1_2",
+            "b-y+2_0",
+            "eq-y+1_3",
+            "f-x+3_0",
+            "b-y+1_0",
+            "s-x+1_0",
+            "b-x+1_3",
+            "d-x+2_0"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Left Content",
+                    "2": "Middle Content",
+                    "3": "Right Content"
+                }
+            }
+        ]
+    },
+    "4": {
+        "-1": [
+            {
+                "Representation": [
+                    "title+0",
+            "eq-y+1_2",
+            "b-x+1_2",
+            "b-y+2_0",
+            "eq-x+1_3",
+            "f-x+2_0",
+            "b-y+4_2",
+            "b-y+1_0",
+            "b-y+3_1",
+            "s-x+1_0",
+            "b-x+3_4",
+            "eq-x+2_4",
+            "eq-y+3_4"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Left Subtitle",
+                    "2": "Right Subtitle",
+                    "3": "Left Content",
+                    "4": "Right Content"
+                }
+            }
+        ]
+    },
+    "5": {
+        "-1": [
+            {
+                "Representation": [
+                    "eq-x+0_1",
+                    "title+0",
+                    "b-y+1_0"
+                ],
+                "Mapping": {
+                    "0": "Title",
+                    "1": "Subtitle"
+                }
+            }
+        ]
+    },
+    "6": {
+        "-1": [
+            {
+                "Representation": [
+                    "no_content",
+                    "title+0"
+                ],
+                "Mapping": {
+                    "0": "Title"
+                }
+            }
+        ]
+    },
+    "7": {
+        "-1": [{
+            "Representation":[
+                "no_title",
+                "b-x+1_2",
+                "eq-x+0_1",
+                "b-y+1_0",
+                "o-y+0_2",
+                "o-y+2_1",
+                "b-x+0_2"],
+                "Mapping":{
+                    "0":"Left subtitle",
+                    "1":"Left Content",
+                    "2":"Right Content"
+                }
+        }]
+    },
+    "8": {
+        "-1": [
+            {
+                "Representation": [
+                    "d-y+0_1",
+                    "background+1",
+                    "d-x+0_1",
+                    "title+0"
+                ],
+                "Mapping": {
+                    "0": "Title"
+                }
+            }
+        ]
+    },
+    "9": {
+        "-1": [
+            {
+                "Representation": [
+                    "no_title",
+                    "background+0"
+                ],
+                "Mapping": {}
+            }
+        ]
+    }
+}

@@ -2,9 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 from pathlib import Path
-def work_with_scores(results, output_directory,name_output="responsive_scores.dat", make_images=True, force_override=False):
+def work_with_scores(results, output_directory,name_output="responsive_scores.dat", make_images=True, force_override=False,results_json={}):
     """Slaat de scores op in de jusite file en maakt er een plot van"""
-    save_data(results, output_directory, name_output, force_override)
+    save_data(results, output_directory, name_output, force_override, results_json)
     # if make_images:
     #     get_score_chart(scores,output_directory)
 
@@ -60,8 +60,8 @@ def get_score_chart(scores,output_directory):
     plt.xlabel("Dianummer")
     fig.savefig(output_directory + "\\responsieve_scores.png")
     plt.close(fig)
-
-def save_data(results, output_directory,name_output, force_override):
+import json
+def save_data(results, output_directory,name_output, force_override, results_json):
     
     # y_data=[i.internal_id for i in archetypes]
     # data = np.column_stack(([score[0] for score in scores], y_data))
@@ -76,4 +76,6 @@ def save_data(results, output_directory,name_output, force_override):
         np.savetxt(output_directory / name_output, results, header=header)
     elif force_override:
         np.savetxt(output_directory/name_output, results, header=header)
+    with open(output_directory/name_output.replace(".dat",".json"),"w") as fp:
+        json.dump(results_json,fp)
 

@@ -61,11 +61,12 @@ def main():
     # print(output /"results"/ name_output)
     if not (output /"results"/ name_output).is_file() or force_override:
         powerpoint, tree_with_indexes, one_background = tree2RA(feature_tree, data+categorized)
-        results= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
+        results, results_json= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
         # scores = ppt_pdf_similarity(used_info, source / (data + preparsed), one_background)
-        work_with_scores(results, source/"results",name_output, False,force_override)
+        work_with_scores(results, source/"results",name_output, False,force_override, results_json)
+
     else:
         print(output /"results"/ name_output)
 

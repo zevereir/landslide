@@ -1,0 +1,49 @@
+<pages>
+   <page bbox="0, 0, 720, 540" id="6">
+      <title Role="Title" bbox="61.224, 501.58, 659.736, 621.46" id="0" archetypal_index="0" />
+      <enlisting Role="MiddleContent" bbox="61.224, 94.584, 658.542, 415.27" id="1" archetypal_index="1" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="16">
+      <title Role="Title" bbox="61.224, 482.088, 614.806, 597.653" id="0" archetypal_index="0" />
+      <normal_text Role="MiddleContent" bbox="61.224, 318.858, 643.4, 393.62300000000005" id="1" archetypal_index="1" />
+      <enlisting Role="MiddleContent" bbox="61.224, 170.58100000000002, 595.124, 248.746" id="2" archetypal_index="2" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="12">
+      <picture Role="MiddleContent" bbox="114.0, 516.0, 591.84, 979.56" id="2" archetypal_index="0" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="5">
+      <title Role="Title" bbox="117.36, 489.441, 605.118, 521.5049999999999" id="0" archetypal_index="0" />
+      <normal_text Role="Leftsubtitle" bbox="31.32, 345.68, 123.40799999999999, 363.68" id="3" archetypal_index="1" />
+      <normal_text Role="Leftsubtitle" bbox="32.592, 178.39999999999998, 113.502, 196.39999999999998" id="4" archetypal_index="2" />
+      <normal_text Role="LeftContent" bbox="19.2, 36.14999999999998, 204.645, 67.70999999999998" id="7" archetypal_index="3" />
+      <picture Role="RightContent" bbox="360.0, 228.12, 716.28, 372.12" id="11" archetypal_index="4" />
+      <picture Role="LeftContent" bbox="169.08, 403.44, 268.56, 547.9200000000001" id="12" archetypal_index="5" />
+      <picture Role="LeftContent" bbox="150.84, 228.12, 342.96, 372.24" id="13" archetypal_index="6" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="20">
+      <title Role="Title" bbox="125.23, 379.87, 594.96, 494.415" id="0" archetypal_index="0" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="16">
+      <title Role="Title" bbox="83.832, 533.284, 696.286, 604.886" id="0" archetypal_index="0" />
+      <normal_text Role="Leftsubtitle" bbox="81.72, 461.47, 183.816, 473.47" id="1" archetypal_index="1" />
+      <enlisting Role="MiddleContent" bbox="33.84, 165.762, 558.312, 613.567" id="2" archetypal_index="2" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="26">
+      <title Role="Title" bbox="43.2, 489.598, 526.27, 525.598" id="0" archetypal_index="0" />
+      <normal_text Role="Leftsubtitle" bbox="55.2, 396.031, 258.721, 423.991" id="1" archetypal_index="1" />
+      <enlisting Role="MiddleContent" bbox="55.2, 118.80000000000001, 679.824, 367.544" id="2" archetypal_index="2" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="7">
+      <title Role="Title" bbox="99.312, 491.481, 620.633, 535.5450000000001" id="0" archetypal_index="0" />
+      <enlisting Role="MiddleContent" bbox="70.224, 220.24199999999996, 519.713, 436.69499999999994" id="1" archetypal_index="1" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="11">
+      <title Role="Title" bbox="174.79, 491.481, 545.368, 535.5450000000001" id="0" archetypal_index="0" />
+      <enlisting Role="MiddleContent" bbox="70.224, 116.904, 678.212, 707.9939999999999" id="1" archetypal_index="1" />
+   </page>
+   <page bbox="0, 0, 720, 540" id="9">
+      <title Role="Title" bbox="47.016, 480.079, 676.226, 520.039" id="0" archetypal_index="0" />
+      <picture Role="MiddleContent" bbox="30.0, 419.28, 573.0, 808.56" id="2" archetypal_index="1" />
+      <picture Role="MiddleContent" bbox="258.0, 384.0, 696.0, 749.28" id="3" archetypal_index="2" />
+   </page>
+</pages>
