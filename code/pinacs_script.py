@@ -68,7 +68,7 @@ def main():
             powerpoint.pages = powerpoint.pages[(i-1) * size : ]
         else:
             powerpoint.pages = powerpoint.pages[(i-1) * size : min(i * size, len(powerpoint.pages))]
-        print(len(powerpoint.pages))
+
         results, results_json= RA2archetype(powerpoint, args.archetypes, int(args.cutoff), args.equal_size, beam, args.searcher, args.single_content)
         # used_info = archetypes2slides(archetypes, tree_with_indexes, output,ppt_path,
         #                               [(page.RA, page.n) for page in powerpoint.pages],False)
