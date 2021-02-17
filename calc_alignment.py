@@ -63,10 +63,10 @@ def check_rules(alignment,elements,repr, element):
                                     return False
         return True
 
-
+rules_counter=0
 with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_80000_False.json") as fp:
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_masters_0_10000_False.json") as fp:
     results=json.load(fp)
     with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
         roles=json.load(rp)
@@ -84,7 +84,7 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
             #print("Arch",arch)
             print("Mapping",mapping)
             print("role_mapping",role_mapping)
-            #print("Slide roles",slide_roles)
+            print("Slide roles",slide_roles)
             if arch<9:
                 pass
                 print("Alignments",alignments[str(arch)])
@@ -101,7 +101,10 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
                 if str(element) in mapping:
                     if str(-mapping[str(element)]) in role_mapping:
                         print(slide_roles[element] +"--> "+role_mapping[str(-mapping[str(element)])].upper())
-                        if slide_roles[element] in alignments[str(arch)][role_mapping[str(-mapping[str(element)])].upper()] and check_rules(role_mapping[str(-mapping[str(element)])].upper(),current_mappings,slide_repr,element):
+                        rule=check_rules(role_mapping[str(-mapping[str(element)])].upper(),current_mappings,slide_repr,element)
+                        if not rule:
+                            rules_counter+=1
+                        if slide_roles[element] in alignments[str(arch)][role_mapping[str(-mapping[str(element)])].upper()] and rule:
                             score+=1
                         current_mappings.add((element,role_mapping[str(-mapping[str(element)])].upper()))
 
@@ -116,8 +119,9 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
             else:
                 print(score/max(1,len(mapping)))
                 total_score+=(score/max(1,len(mapping)))
-print("TOTAL SCORE",total_score/len(results))
 print("TOTAL RESP",total_resp/len(results))
+print("TOTAL SCORE",total_score/len(results))
+print("RULES EFFECT",rules_counter)
 
 
 
