@@ -1,11 +1,12 @@
 import json
 with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_1000_1_False.json") as fp:
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_10000_False.json") as fp:
     results=json.load(fp)
     with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
         roles=json.load(rp)
         total_score=0
+        total_resp=0
         for slide_id in range(1,len(results)+1):
             print("----------------------------")
             slide=results[str(slide_id)]
@@ -14,6 +15,7 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
             mapping=slide["Best mapping"]
             role_mapping=slide["Best role mapping"]
             print("Responsitivity",slide["Responsitivity"])
+            total_resp+=slide["Responsitivity"]
             #print("Arch",arch)
             print("Mapping",mapping)
             #print("role_mapping",role_mapping)
@@ -42,6 +44,7 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
                 print(score/max(1,len(mapping)))
                 total_score+=(score/max(1,len(mapping)))
 print("TOTAL SCORE",total_score/len(results))
+print("TOTAL RESP",total_resp/len(results))
 
 
 

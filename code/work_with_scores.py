@@ -67,7 +67,7 @@ def save_data(results, output_directory,name_output, force_override, results_jso
     # data = np.column_stack(([score[0] for score in scores], y_data))
     # header = "Score, Archetype-ID"
     # np.savetxt(output_directory+"\\scores.dat", data, header=header)
-    
+
     header = "Responsive score, Archetype-ID, Computational time"
     output_directory.mkdir(exist_ok=True)
     # if not (output_directory/name_output).is_file():
