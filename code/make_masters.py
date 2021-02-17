@@ -7,7 +7,7 @@ from search import similarity_optimal, Predicate, count_objects
 import json
 masters={x:{} for x in range(0,10)}
 removed_count=0
-
+length_of_archetype=[2,2,3,4,5,2,1,3,2,1]
 for ind in range(0,35):
     print(ind)
     index=str(ind)
@@ -48,90 +48,125 @@ for ind in range(0,35):
     # mappings=[]
     # for page in feature_tree.getroot():
     #     mapping={}
+    #     page_len=len(page)
+    #     ele_counter=0
+    #     arch=None
     #     if counter<6:
+    #         arch=0
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Subtitle"
+    #                     ele_counter+=1
     #     elif counter<12:
+    #         arch=1
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Content"
+    #                     ele_counter+=1
     #     elif counter<30:
+    #         arch=2
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
+    #                     ele_counter+=1
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Content"
+    #                     ele_counter+=1
     #     elif counter<84:
+    #         arch=3
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
+    #                     ele_counter+=1
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Middle Content"
+    #                     ele_counter+=1
     #                 if element.text.startswith("D"):
     #                     mapping[element.attrib.get("id")]="Right Content"
+    #                     ele_counter+=1
     #     elif counter<246:
+    #         arch=4
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Subtitle"
+    #                     ele_counter+=1
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Subtitle"
+    #                     ele_counter+=1
     #                 if element.text.startswith("D"):
     #                     mapping[element.attrib.get("id")]="Left Content"
+    #                     ele_counter+=1
     #                 if element.text.startswith("E"):
     #                     mapping[element.attrib.get("id")]="Right Content"
+    #                     ele_counter+=1
     #     elif counter<252:
+    #         arch=5
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Subtitle"
+    #                     ele_counter+=1
     #     elif counter<254:
+    #         arch=6
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #     elif counter<272:
+    #         arch=7
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Left Subtitle"
+    #                     ele_counter+=1
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
+    #                     ele_counter+=1
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Content"
+    #                     ele_counter+=1
     #     elif counter<274:
+    #         arch=8
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
+    #                     ele_counter+=1
     #     else:
     #         pass
-    #     mappings.append(mapping)
+    #     mappings.append((mapping,arch==None or (page_len==length_of_archetype[arch] and page_len==ele_counter)))
     #     counter+=1
     # f = open("D:\\Thesis\\landslide\\new_multiple_masters\\new_"+index+"_data\\mappings.txt", "w")
     # for mapping in mappings:
     #     f.write(str(mapping)+"\n")
     # f.close()
 
-#     #REMOVING DUPLICATES
-# #
+    #REMOVING DUPLICATES
+
 #     file1 = open('D:\\Thesis\\landslide\\new_multiple_masters\\new_' + index + '_data\\set.txt', 'r')
 #     Lines = file1.readlines()
 #     file2 = open('D:\\Thesis\\landslide\\new_multiple_masters\\new_' + index + '_data\\mappings.txt', 'r')
@@ -139,7 +174,7 @@ for ind in range(0,35):
 #     print("LEN1",len(Lines))
 #
 #     archetypes=[6,6,18,54,162,6,2,18,2,1]
-#     length_of_archetype=[2,2,3,4,5,2,1,3,2,1]
+#
 #     finalized=[]
 #     line_count=0
 #     total_lines=len(Lines)
@@ -155,7 +190,8 @@ for ind in range(0,35):
 #             already_in=False
 #             repr = set([x.strip().replace("'","") for x in line[1:-2].split(",")])
 #             good_repr=frozenset(Predicate.from_string_sieben(s) for s in repr)
-#             if count_objects(good_repr)==length_of_archetype[i]:
+#             good = bool(line2[len(line2) - 1 - line2[::-1].index(',')+2:-1])
+#             if count_objects(good_repr)==length_of_archetype[i] and good:
 #                 for al in result:
 #                     good_al=frozenset(Predicate.from_string_sieben(s) for s in al[0])
 #                     sol,_=similarity_optimal(good_al,good_repr)
@@ -164,18 +200,18 @@ for ind in range(0,35):
 #                         removed_count+=1
 #                         break
 #                 if not already_in:
-#                     result.append((repr,line2))
+#                     print("OUTPUT",line2[1:line2.find(str(good))-2].replace(", Fals",""))
+#                     result.append((repr,line2[1:line2.find(str(good))-2].replace(", Fals","")))
 #             else:
 #                 print("REMOVED BY COUNT", count_objects(good_repr))
 #         finalized.append(result)
 #     f = open("D:\\Thesis\\landslide\\new_multiple_masters\\new_"+index+"_data\\set_archetypes.txt", "w")
 #     for i in finalized:
-#         print(str(i))
 #         f.write(str(i)+"\n\n")
 #     f.close()
 # print(removed_count)
 
-    #MAKING THE JSON
+#     #MAKING THE JSON
     with open("D:\\Thesis\\landslide\\new_multiple_masters\\new_"+index+"_data\\set_archetypes.txt", "r") as f:
         lines=[x for x in f.readlines() if x!="\n"]
 
@@ -183,11 +219,12 @@ for ind in range(0,35):
         for arch in range(0,10):
             masters[arch][ind]=[]
             for line in [x+")" for x in lines[arch][1:-1].split(")")][:-1]:
+                print(line)
                 count+=1
                 new_dict={}
                 if line.startswith(", "):
                     line=line[2:]
-                split_line=line[1:-4].split("\"")
+                split_line=line[1:-2].split("\"")
                 if len(split_line)==1:
                     split_line.append("{}")
                     split_line[0]=split_line[0][:-3]
@@ -196,16 +233,16 @@ for ind in range(0,35):
                 new_dict["Representation"]=list(repr)
                 dict={}
                 if "{}" not in split_line[1]:
+                    print("split",split_line[1])
                     for i in split_line[1][1:-1].split(","):
-                        key=int(i[:i.find(":")].replace("'",""))
-                        value=str(i[i.find(":")+1:][2:-1])
-                        dict[key]=value
-
-                new_dict["Mapping"]=dict
-
+                      key=int(i[:i.find(":")].replace("'",""))
+                      value=str(i[i.find(":")+1:][2:-1])
+                      dict[key]=value
+                      print("KEYVALUE",key,value)
+                    new_dict["Mapping"]=dict
                 masters[arch][ind].append(new_dict)
 
 with open("D://Thesis//landslide//new_multiple_masters//masters.json","w") as fp:
     json.dump(masters,fp)
-
-
+#
+#
