@@ -4,7 +4,7 @@ import os
 new_dict={}
 path=Path("D://Thesis//landslide//data//Annotations//results//annotated_data//results")
 count=1
-exp="greedy_all_baseline_0_40000_False_"
+exp="greedy_all_baseline_0_80000_False_"
 for i in os.listdir(path):
     if exp in i:
         with open(path/i) as fp:

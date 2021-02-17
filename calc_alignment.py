@@ -1,7 +1,7 @@
 import json
 with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_20000_False.json") as fp:
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_80000_False.json") as fp:
     results=json.load(fp)
     with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
         roles=json.load(rp)
