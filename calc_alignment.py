@@ -1,7 +1,7 @@
 import json
 with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_10000_False.json") as fp:
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_baseline_0_20000_False.json") as fp:
     results=json.load(fp)
     with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
         roles=json.load(rp)
@@ -18,7 +18,7 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
             total_resp+=slide["Responsitivity"]
             #print("Arch",arch)
             print("Mapping",mapping)
-            #print("role_mapping",role_mapping)
+            print("role_mapping",role_mapping)
             #print("Slide roles",slide_roles)
             if arch<9:
                 pass
@@ -33,10 +33,13 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//re
                         print(slide_roles[element] +"--> "+role_mapping[str(-mapping[str(element)])].upper())
                         if slide_roles[element] in alignments[str(arch)][role_mapping[str(-mapping[str(element)])].upper()]:
                             score+=1
-                    else:
-                        score+=1
-
-
+            new_slide=slide["New slide"]
+            arch_repr=slide["Archetype representation"]
+            if "background" in new_slide and "background" in arch_repr:
+                ind1=new_slide[new_slide.find("background")+11:new_slide.find("background")+12]
+                ind2=arch_repr[arch_repr.find("background")+11:arch_repr.find("background")+12]
+                if ind1 in mapping and mapping[ind1]==-int(ind2):
+                    score+=1
             if len(mapping)==0:
                 total_score+=1
                 print(1.0)
