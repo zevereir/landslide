@@ -70,16 +70,18 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//ro
     roles=json.load(rp)
 res_path=Path("D:/Thesis/landslide/data/Annotations/results/annotated_data/results/results")
 resulting=[]
+confidence=[]
 for file in os.listdir(res_path):
     with open(res_path/file) as fp:
         results=json.load(fp)
-
         total_score=0
         total_resp=0
+        total_comp=0
         for slide_id in range(1,len(results)+1):
             #print("----------------------------")
             slide=results[str(slide_id)]
             slide_roles=roles[str(slide_id)]
+            total_comp+=slide["Comparisons"]
             arch=slide["Archetype"]
             mapping=slide["Best mapping"]
             role_mapping=slide["Best role mapping"]
@@ -122,52 +124,103 @@ for file in os.listdir(res_path):
             else:
                 #print(score/max(1,len(mapping)))
                 total_score+=(score/max(1,len(mapping)))
-    resulting.append((file,total_resp/409,total_score/409))
-print("Results")
-baseline=[]
-learned=[]
-masters=[]
-for res in results:
+        resulting.append((file,total_resp/409,total_score/409,total_comp))
 
-    if res[0].startswith("greedy"):
-        amount=int(res[0].replace("_False.json","")[res[0].find("_0_")+3:])
-        if "learned" in res[0]:
-            learned.append((amount,res[1],res[2]))
-        elif "baseline" in res[0]:
-            baseline.append((amount,res[1],res[2]))
-        elif "masters" in res[0]:
-            masters.append((amount,res[1],res[2]))
-baseline=[]
-learned=[]
-masters=[]
+# baseline=[]
+# learned=[]
+# masters=[]
+# for res in resulting:
+
+#     if res[0].startswith("greedy"):
+#         amount=int(res[0].replace("_False.json","")[res[0].find("_0_")+3:])
+#         print(res[0][11:res[0].find("_0_")],amount,res[3])
+#         if "learned" in res[0]:
+#             learned.append((res[3],res[1],res[2]))
+#         elif "baseline" in res[0]:
+#             baseline.append((res[3],res[1],res[2]))
+#         elif "masters" in res[0]:
+#
+#             masters.append((res[3],res[1],res[2]))
+#
+# baseline.sort()
+# masters.sort()
+# learned.sort()
+# for ix in range(0,3):
+#     i=[baseline,learned,masters][ix]
+#     name=["baseline","learned","masters"][ix]
+#     x_val=[]
+#     y_val=[]
+#     z_val=[]
+#     for x in i:
+#         x_val.append(x[0])
+#         y_val.append(x[1])
+#         z_val.append(x[2])
+#     plt.plot(x_val,y_val,linestyle="solid",label="Resp "+name)
+#     plt.plot(x_val,z_val,linestyle="dotted",label="Sens "+name)
+baseline={}
+learned={}
+masters={}
+
 for res in resulting:
-
     if res[0].startswith("greedy"):
-        amount=int(res[0].replace("_False.json","")[res[0].find("_0_")+3:])
         if "learned" in res[0]:
-            learned.append((amount,res[1],res[2]))
+            if res[3] in learned:
+                learned[res[3]].append((res[1],res[2]))
+            else:
+                learned[res[3]]=[(res[1],res[2])]
         elif "baseline" in res[0]:
-            baseline.append((amount,res[1],res[2]))
+            if res[3] in baseline:
+                baseline[res[3]].append((res[1],res[2]))
+            else:
+                baseline[res[3]]=[(res[1],res[2])]
         elif "masters" in res[0]:
-            masters.append((amount,res[1],res[2]))
+            if res[3] in masters:
+                masters[res[3]].append((res[1],res[2]))
+            else:
+                masters[res[3]]=[(res[1],res[2])]
+new_baseline=[]
+new_learned=[]
+new_masters=[]
+#
+for v in masters:
+    z=masters[v]
+    resps=[x[0] for x in z]
+    sens=[x[1] for x in z]
+    new_masters.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+for v in baseline:
+    z=baseline[v]
+    resps=[x[0] for x in z]
+    sens=[x[1] for x in z]
+    new_baseline.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+for v in learned:
+    z=learned[v]
+    resps=[x[0] for x in z]
+    sens=[x[1] for x in z]
+    new_learned.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+#
+new_learned.sort()
+new_masters.sort()
+new_baseline.sort()
 
-baseline.sort()
-masters.sort()
-learned.sort()
-for i in [baseline,masters,learned]:
-    x_val=[]
-    y_val=[]
-    z_val=[]
-    for x in i:
-        x_val.append(x[0])
-        y_val.append(x[1])
-        z_val.append(x[2])
-    plt.plot(x_val,y_val,linestyle="solid")
-    plt.plot(x_val,z_val,linestyle="dotted")
+for ix in range(0,3):
+    i=[new_baseline,new_learned,new_masters][ix]
+    name=["baseline","learned","masters"][ix]
+    lcolor=["g","r","b"][ix]
 
+    x_val=[p[0] for p in i]
 
+    resp_min=[p[1] for p in i]
+    resp_mean=[p[2] for p in i]
+    resp_max=[p[3] for p in i]
+    sens_min=[p[4] for p in i]
+    sens_mean=[p[5] for p in i]
+    sens_max=[p[6] for p in i]
 
+    print([x/(10**7)  for x in x_val])
+    plt.plot(x_val,resp_min,lcolor,linestyle="solid",label="Resp "+name)
+    plt.plot(x_val,sens_min,lcolor,linestyle="dotted",label="Sens "+name)
 
+plt.legend()
 plt.show()
 
 
