@@ -66,7 +66,7 @@ def check_rules(alignment,elements,repr, element):
 rules_counter=0
 with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_masters_0_10000_False.json") as fp:
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//results//greedy_all_masters_0_5000_False.json") as fp:
     results=json.load(fp)
     with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
         roles=json.load(rp)

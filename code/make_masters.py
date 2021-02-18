@@ -49,7 +49,7 @@ for ind in range(0,35):
     # for page in feature_tree.getroot():
     #     mapping={}
     #     page_len=len(page)
-    #     ele_counter=0
+    #     ele_counter=set()
     #     arch=None
     #     if counter<6:
     #         arch=0
@@ -57,109 +57,116 @@ for ind in range(0,35):
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Subtitle"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
+    #         print(mapping,ele_counter)
+    #         print("page len",page_len)
+    #         print("arch len",length_of_archetype[arch])
+    #         print((page_len==length_of_archetype[arch] and page_len==len(ele_counter)))
+    #
     #     elif counter<12:
     #         arch=1
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #     elif counter<30:
     #         arch=2
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("C")
     #     elif counter<84:
     #         arch=3
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Middle Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("C")
     #                 if element.text.startswith("D"):
     #                     mapping[element.attrib.get("id")]="Right Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("D")
     #     elif counter<246:
     #         arch=4
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Subtitle"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Subtitle"
-    #                     ele_counter+=1
+    #                     ele_counter.add("C")
     #                 if element.text.startswith("D"):
     #                     mapping[element.attrib.get("id")]="Left Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("D")
     #                 if element.text.startswith("E"):
     #                     mapping[element.attrib.get("id")]="Right Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("E")
     #     elif counter<252:
     #         arch=5
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Subtitle"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #     elif counter<254:
     #         arch=6
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #     elif counter<272:
     #         arch=7
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Left Subtitle"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #                 if element.text.startswith("B"):
     #                     mapping[element.attrib.get("id")]="Left Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("B")
     #                 if element.text.startswith("C"):
     #                     mapping[element.attrib.get("id")]="Right Content"
-    #                     ele_counter+=1
+    #                     ele_counter.add("C")
     #     elif counter<274:
     #         arch=8
     #         for element in page:
     #             if element.text!=None:
     #                 if element.text.startswith("A"):
     #                     mapping[element.attrib.get("id")]="Title"
-    #                     ele_counter+=1
+    #                     ele_counter.add("A")
     #     else:
     #         pass
-    #     mappings.append((mapping,arch==None or (page_len==length_of_archetype[arch] and page_len==ele_counter)))
+    #
+    #     mappings.append((mapping,arch==None or (page_len==length_of_archetype[arch] and page_len==len(ele_counter))))
     #     counter+=1
+    #
     # f = open("D:\\Thesis\\landslide\\new_multiple_masters\\new_"+index+"_data\\mappings.txt", "w")
     # for mapping in mappings:
     #     f.write(str(mapping)+"\n")
@@ -190,7 +197,9 @@ for ind in range(0,35):
 #             already_in=False
 #             repr = set([x.strip().replace("'","") for x in line[1:-2].split(",")])
 #             good_repr=frozenset(Predicate.from_string_sieben(s) for s in repr)
-#             good = bool(line2[len(line2) - 1 - line2[::-1].index(',')+2:-1])
+#
+#             good = line2[len(line2) - 1 - line2[::-1].index(',')+2:-2]=="True"
+#
 #             if count_objects(good_repr)==length_of_archetype[i] and good:
 #                 for al in result:
 #                     good_al=frozenset(Predicate.from_string_sieben(s) for s in al[0])
@@ -198,9 +207,10 @@ for ind in range(0,35):
 #                     if sol==1:
 #                         already_in=True
 #                         removed_count+=1
+#                         print("already_in")
 #                         break
 #                 if not already_in:
-#                     print("OUTPUT",line2[1:line2.find(str(good))-2].replace(", Fals",""))
+#                     print("OUTPUT",repr,line2[1:line2.find(str(good))-2].replace(", Fals",""))
 #                     result.append((repr,line2[1:line2.find(str(good))-2].replace(", Fals","")))
 #             else:
 #                 print("REMOVED BY COUNT", count_objects(good_repr))
@@ -240,9 +250,11 @@ for ind in range(0,35):
                       dict[key]=value
                       print("KEYVALUE",key,value)
                     new_dict["Mapping"]=dict
+                else:
+                    new_dict["Mapping"]={}
                 masters[arch][ind].append(new_dict)
 
-with open("D://Thesis//landslide//new_multiple_masters//masters.json","w") as fp:
+with open("D://Thesis//landslide//code//archetypes//masters.json","w") as fp:
     json.dump(masters,fp)
-#
+# #
 #
