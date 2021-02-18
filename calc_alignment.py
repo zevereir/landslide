@@ -1,4 +1,5 @@
 import json
+from matplotlib.font_manager import FontProperties
 import matplotlib.pyplot as plt
 def check_rules(alignment,elements,repr, element):
     if len(elements)==0 or alignment=="TITLE":
@@ -219,8 +220,10 @@ for ix in range(0,3):
     print([x/(10**7)  for x in x_val])
     plt.plot(x_val,resp_min,lcolor,linestyle="solid",label="Resp "+name)
     plt.plot(x_val,sens_min,lcolor,linestyle="dotted",label="Sens "+name)
-
-plt.legend()
+    # plt.xlim([-100,6*10**7])
+fontP = FontProperties()
+fontP.set_size('xx-small')
+plt.legend( bbox_to_anchor=(0.8, 0.93), loc='upper left', prop=fontP)
 plt.show()
 
 
