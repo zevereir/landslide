@@ -38,7 +38,10 @@ def tree2features(tree, xml_file,output_directory, EM=False):
 
         #update the tree with the new features (remove lines and table-rects)
         to_remove=set()
+
+        unique_element_id=0
         for element in page:
+            element.set("unique_id",str(unique_element_id))
             if element.tag=="textbox":
                 element.tag=categorized_textboxes[element.attrib.get("id")]
             elif element.tag=="figure":
@@ -48,8 +51,10 @@ def tree2features(tree, xml_file,output_directory, EM=False):
             elif element.tag=="rect":
                 if [float(x) for x in element.attrib.get("bbox").split(",")] in flattened_tables:
                     to_remove.add(element)
+            unique_element_id+=1
         for element in to_remove:
             page.remove(element)
+
 
 
         #make tables
@@ -132,6 +137,7 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                 min_down=page_size[3]
                 max_up=0
                 new_text=""
+                unique_ids=[]
                 for enl in new_enlisting:
                     new_text+=enl.text
                     bbox = [float(x) for x in enl.attrib.get("bbox").split(",")]
@@ -140,8 +146,10 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                     max_right=max(max_right,bbox[2])
                     max_up=max(max_up,bbox[3])
                     enlisting_element.append(enl)
+                    unique_ids.append(enl.attrib.get("unique_id"))
                     page.remove(enl)
                 enlisting_element.set("bbox", str(min_left) + "," + str(min_down) + "," + str(max_right) + "," + str(max_up))
+                enlisting_element.set("unique_id",str(unique_ids))
                 enlisting_element.text=new_text
                 page.append(enlisting_element)
 
@@ -175,6 +183,7 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                 min_down = page_size[3]
                 max_up = 0
                 new_text = ""
+                unique_ids=[]
                 for enl in new_enlisting:
                     new_text += enl.text
                     bbox = [float(x) for x in enl.attrib.get("bbox").split(",")]
@@ -183,10 +192,16 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                     max_right = max(max_right, bbox[2])
                     max_up = max(max_up, bbox[3])
                     enl.tag="normal_text"
+                    unid=enl.attrib.get("unique_id")
+                    if "[" in unid:
+                        unique_ids+=list(unid[1:-1].replace("'","").split(","))
+                    else:
+                        unique_ids.append(unid)
                     enlisting_element.append(enl)
                     page.remove(enl)
                 enlisting_element.set("bbox",str(min_left) + "," + str(min_down) + "," + str(max_right) + "," + str(max_up))
                 enlisting_element.text=new_text
+                enlisting_element.set("unique_id",str(unique_ids))
                 page.append(enlisting_element)
         #combining normal_text and enlistings
         something_changed=True
@@ -198,6 +213,12 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                     normal_bbox=[float(x) for x in normal_text.attrib.get("bbox").split(",")]
                     overlap1,overlap2=amount_of_overlap(enlisting_bbox,normal_bbox)
                     if 0.5 < overlap2 or abs(enlisting_bbox[1]-normal_bbox[3])<0.03*page_size[3]:
+                        unid=enlisting.attrib.get("unique_id")
+                        if "[" in unid:
+                            unique_ids=list(unid[1:-1].replace("'","").split(","))
+                        else:
+                            unique_ids=[unid]
+                        unique_ids.append(normal_text.attrib.get("unique_id"))
                         enlisting.append(normal_text)
                         page.remove(normal_text)
                         min_left = min(normal_bbox[0], enlisting_bbox[0])
@@ -206,6 +227,7 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                         max_up = max(normal_bbox[3], enlisting_bbox[3])
                         enlisting.set("bbox",str(min_left) + "," + str(min_down) + "," + str(max_right) + "," + str(max_up))
                         enlisting_bbox=[min_left,min_down,max_right,max_up]
+                        enlisting.set("unique_id",str(unique_ids))
                         something_changed=True
         all_enlistings = page.findall("enlisting")
         new_enlistings = []
@@ -237,6 +259,7 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                 min_down = page_size[3]
                 max_up = 0
                 new_text = ""
+                unique_ids=[]
                 for enl in new_enlisting:
                     new_text += enl.text
                     bbox = [float(x) for x in enl.attrib.get("bbox").split(",")]
@@ -245,11 +268,17 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                     max_right = max(max_right, bbox[2])
                     max_up = max(max_up, bbox[3])
                     enl.tag = "normal_text"
+                    unid=enl.attrib.get("unique_id")
+                    if "[" in unid:
+                        unique_ids+=list(unid[1:-1].replace("'","").split(","))
+                    else:
+                        unique_ids.append(unid)
                     enlisting_element.append(enl)
                     page.remove(enl)
                 enlisting_element.set("bbox",
                                       str(min_left) + "," + str(min_down) + "," + str(max_right) + "," + str(max_up))
                 enlisting_element.text = new_text
+                enlisting_element.set("unique_id",unique_ids)
                 page.append(enlisting_element)
         #removing enlisting images
         for item in page.findall("enlisting_image"):
@@ -259,70 +288,74 @@ def tree2features(tree, xml_file,output_directory, EM=False):
         pictures=page.findall("picture")
         all_captions=page.findall("caption")
         pic_cap={}
+        caps_id={}
         for combo in captions:
             pic=combo[1]
             cap_id=combo[0]
-            cap_text=[x.text for x in all_captions if x.attrib.get("id")==cap_id][0]
+            cap_text=[(x.text,x.attrib.get("unique_id")) for x in all_captions if x.attrib.get("id")==cap_id][0]
             if pic in pic_cap.keys():
-                pic_cap[pic]=pic_cap[pic]+"\n"+cap_text
+                pic_cap[pic]=pic_cap[pic]+"\n"+cap_text[0]
+                caps_id[pic].append(cap_text[1])
             else:
-                pic_cap[pic]=cap_text
+                pic_cap[pic]=cap_text[0]
+                caps_id[pic]=[cap_text[1]]
         for pic in pictures:
             pic_name=pic.attrib.get("src")
             if pic_name in pic_cap.keys():
                 pic.set("caption",pic_cap[pic_name])
+                pic.set("caption_id's",str(caps_id[pic_name]))
         for cap in all_captions:
             page.remove(cap)
         #combining pictures
-        changes=True
-        while changes:
-            combined_pictures = []
-            changes=False
-            to_remove=set()
-            pictures=page.findall("picture")+page.findall("combined_pictures")
-            for picture in pictures:
-                bbox = [float(x) for x in picture.attrib.get("bbox").split(",")]
-                if combined_pictures==[]:
-                    combined_pictures.append([bbox,(picture,picture.attrib.get("src"))])
-                else:
-                    assigned=False
-                    for combine in combined_pictures:
-                        if (0 not in amount_of_overlap(combine[0],bbox) or touching(combine[0],bbox,page_size)) and not assigned:
-                            combine.append((picture,picture.attrib.get("src")))
-                            min_left=min(combine[0][0],bbox[0])
-                            min_down = min(combine[0][1], bbox[1])
-                            max_right = max(combine[0][2], bbox[2])
-                            max_up = max(combine[0][3], bbox[3])
-                            combine[0]=[min_left,min_down,max_right,max_up]
-                            changes=True
-                            assigned=True
-
-                    if not assigned:
-                        combined_pictures.append([bbox,(picture,picture.attrib.get("src"))])
-            for combined in combined_pictures:
-                if len(combined)>2:
-                    combined_element = ET.Element("combined_pictures")
-                    combined_element.set("bbox",",".join([str(x) for x in combined[0]]))
-                    names=[]
-                    cap=""
-                    for tup in combined[1:]:
-                        el=tup[0]
-                        caption=el.attrib.get("caption")
-                        if caption !=None:
-                            cap=cap+"\n"+caption
-                        if el.tag=="picture":
-                            combined_element.append(el)
-                            names.append(tup[1])
-                        else:
-                            for child_pictures in el:
-                                combined_element.append(child_pictures)
-                            names+=[v.strip()[1:-1] for v in el.attrib.get("combined_sources")[1:-1].split(",")]
-                        to_remove.add(el)
-                    combined_element.set("combined_sources",str(names))
-                    combined_element.set("caption",cap)
-                    page.append(combined_element)
-            for i in to_remove:
-                page.remove(i)
+        # changes=True
+        # while changes:
+        #     combined_pictures = []
+        #     changes=False
+        #     to_remove=set()
+        #     pictures=page.findall("picture")+page.findall("combined_pictures")
+        #     for picture in pictures:
+        #         bbox = [float(x) for x in picture.attrib.get("bbox").split(",")]
+        #         if combined_pictures==[]:
+        #             combined_pictures.append([bbox,(picture,picture.attrib.get("src"))])
+        #         else:
+        #             assigned=False
+        #             for combine in combined_pictures:
+        #                 if (0 not in amount_of_overlap(combine[0],bbox) or touching(combine[0],bbox,page_size)) and not assigned:
+        #                     combine.append((picture,picture.attrib.get("src")))
+        #                     min_left=min(combine[0][0],bbox[0])
+        #                     min_down = min(combine[0][1], bbox[1])
+        #                     max_right = max(combine[0][2], bbox[2])
+        #                     max_up = max(combine[0][3], bbox[3])
+        #                     combine[0]=[min_left,min_down,max_right,max_up]
+        #                     changes=True
+        #                     assigned=True
+        #
+        #             if not assigned:
+        #                 combined_pictures.append([bbox,(picture,picture.attrib.get("src"))])
+        #     for combined in combined_pictures:
+        #         if len(combined)>2:
+        #             combined_element = ET.Element("combined_pictures")
+        #             combined_element.set("bbox",",".join([str(x) for x in combined[0]]))
+        #             names=[]
+        #             cap=""
+        #             for tup in combined[1:]:
+        #                 el=tup[0]
+        #                 caption=el.attrib.get("caption")
+        #                 if caption !=None:
+        #                     cap=cap+"\n"+caption
+        #                 if el.tag=="picture":
+        #                     combined_element.append(el)
+        #                     names.append(tup[1])
+        #                 else:
+        #                     for child_pictures in el:
+        #                         combined_element.append(child_pictures)
+        #                     names+=[v.strip()[1:-1] for v in el.attrib.get("combined_sources")[1:-1].split(",")]
+        #                 to_remove.add(el)
+        #             combined_element.set("combined_sources",str(names))
+        #             combined_element.set("caption",cap)
+        #             page.append(combined_element)
+        #     for i in to_remove:
+        #         page.remove(i)
 
         mean_title_to_show=[]
         counter_title=0
