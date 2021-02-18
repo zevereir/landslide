@@ -5,7 +5,7 @@ new_dict={}
 path=Path("D://Thesis//landslide//data//Annotations//results//annotated_data//results")
 count=1
 exp="greedy_all_masters_0_5000_False_"
-partitions=[x for x in os.listdir(path) if exp in x]
+partitions=[x for x in os.listdir(path) if exp in x and "_32" in exp]
 print(len(partitions))
 for ind in range(1,len(partitions)+1):
     i=[z for z in partitions if "_"+str(ind)+"-" in z][0]
