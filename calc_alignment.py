@@ -1,6 +1,10 @@
 import json
 from matplotlib.font_manager import FontProperties
 import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+from scipy.interpolate import make_interp_spline, BSpline
+import pandas as pd
 def check_rules(alignment,elements,repr, element):
     if len(elements)==0 or alignment=="TITLE":
         return True
@@ -72,8 +76,11 @@ with open("D://Thesis//landslide//data//Annotations//results//annotated_data//ro
 res_path=Path("D:/Thesis/landslide/data/Annotations/results/annotated_data/results/results")
 resulting=[]
 confidence=[]
+best_practice=[]
 for file in os.listdir(res_path):
+
     with open(res_path/file) as fp:
+
         results=json.load(fp)
         total_score=0
         total_resp=0
@@ -125,8 +132,15 @@ for file in os.listdir(res_path):
             else:
                 #print(score/max(1,len(mapping)))
                 total_score+=(score/max(1,len(mapping)))
+            normal={str(x):-x for x in range(0,10)}
+            diff=False
+            for z in slide["Best mapping"]:
+                if normal[z]!=slide["Best mapping"][z]:
+                    diff=True
+            if score/max(1,len(mapping))==1 and slide["Responsitivity"]==1 and diff and slide_id not in [143,161]:
+                best_practice.append(slide_id)
         resulting.append((file,total_resp/409,total_score/409,total_comp))
-
+print("BEST_PRACTICE",best_practice)
 # baseline=[]
 # learned=[]
 # masters=[]
@@ -176,9 +190,12 @@ for res in resulting:
                 baseline[res[3]]=[(res[1],res[2])]
         elif "masters" in res[0]:
             if res[3] in masters:
+                print("HIT",res[3])
                 masters[res[3]].append((res[1],res[2]))
             else:
                 masters[res[3]]=[(res[1],res[2])]
+for i in masters:
+    print(masters[i])
 new_baseline=[]
 new_learned=[]
 new_masters=[]
@@ -217,10 +234,23 @@ for ix in range(0,3):
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
 
-    print([x/(10**7)  for x in x_val])
-    plt.plot(x_val,resp_min,lcolor,linestyle="solid",label="Resp "+name)
-    plt.plot(x_val,sens_min,lcolor,linestyle="dotted",label="Sens "+name)
+    print(len([x/(10**7)  for x in x_val]))
+    # xnew = np.linspace(min(x_val), max(x_val), 200)
+    # spl = make_interp_spline(x_val, resp_mean, k=1)
+    # y_smooth = spl(xnew)
+    # spl2 = make_interp_spline(x_val, sens_mean, k=1)
+    # y_smooth2 = spl2(xnew)
+    # plt.plot(x_val,resp_mean,lcolor,linestyle="solid",label="Resp "+name)
+    # plt.fill_between(x_val,resp_min,resp_max,color=lcolor,alpha=.1)
+    # plt.plot(x_val,sens_mean,lcolor,linestyle="dotted",label="Sens "+name)
+    # plt.fill_between(x_val,sens_min,sens_max,color=lcolor,alpha=.1)
     # plt.xlim([-100,6*10**7])
+
+    pl=sns.regplot(x="x", y="y", data=pd.DataFrame({"x":x_val,"y":sens_mean}),label=name,lowess=True, scatter=False)
+
+
+
+
 fontP = FontProperties()
 fontP.set_size('xx-small')
 plt.legend( bbox_to_anchor=(0.8, 0.93), loc='upper left', prop=fontP)

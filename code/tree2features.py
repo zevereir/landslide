@@ -2,8 +2,7 @@ from PIL import Image
 import operator
 import xml.etree.ElementTree as ET
 import numpy as np
-from django.core.exceptions import ValidationError
-from django.core.validators import URLValidator
+import re
 from EM import tenfold_EM
 from operator import itemgetter
 from math import ceil
@@ -58,51 +57,51 @@ def tree2features(tree, xml_file,output_directory, EM=False):
 
 
         #make tables
-        table_texts=page.findall("tabletext")
-        removed=set()
-        for table in tables:
-                child=ET.Element("table")
-                x1,y1,x2,y2=page_size[2],page_size[3],page_size[0],page_size[1]
-                for cell in table:
-                    x1=min(x1,cell[0])
-                    y1=min(y1,cell[1])
-                    x2=max(x2,cell[2])
-                    y2=max(y2,cell[3])
-                child.set("bbox",str(x1)+","+str(y1)+","+str(x2)+","+str(y2))
-                for cell in table:
-                    cell_element=ET.Element("cell")
-                    for tabletext in table_texts:
-                        if amount_of_overlap([float(x) for x in tabletext.attrib.get("bbox").split(",")],cell)[0]>0.8 and tabletext not in removed:
-                            cell_element.append(tabletext)
-                            page.remove(tabletext)
-                            removed.add(tabletext)
-                    cell_element.set("bbox",str(cell[0])+","+str(cell[1])+","+str(cell[2])+","+str(cell[3]))
-
-                    child.append(cell_element)
-                page.append(child)
-        to_remove=set()
-        for table in page.findall("table"):
-            empty=True
-            for cell in table:
-                if len(cell)>0:
-                    empty=False
-            if empty:
-                to_remove.add(table)
-            else:
-                amount_of_cells=len(table)
-                table_bbox=[float(x) for x in table.attrib.get("bbox").split(",")]
-                width=1
-                total_width=0
-                for cell in table:
-                    cell_bbox=[float(x) for x in cell.attrib.get("bbox").split(",")]
-                    if cell_bbox[2]==table_bbox[2] and total_width==0:
-                        total_width=width
-                    width+=1
-                height=ceil(amount_of_cells/total_width)
-                table.set("dimensions",str(total_width)+"/"+str(height))
-
-        for table in to_remove:
-            page.remove(table)
+        # table_texts=page.findall("tabletext")
+        # removed=set()
+        # for table in tables:
+        #         child=ET.Element("table")
+        #         x1,y1,x2,y2=page_size[2],page_size[3],page_size[0],page_size[1]
+        #         for cell in table:
+        #             x1=min(x1,cell[0])
+        #             y1=min(y1,cell[1])
+        #             x2=max(x2,cell[2])
+        #             y2=max(y2,cell[3])
+        #         child.set("bbox",str(x1)+","+str(y1)+","+str(x2)+","+str(y2))
+        #         for cell in table:
+        #             cell_element=ET.Element("cell")
+        #             for tabletext in table_texts:
+        #                 if amount_of_overlap([float(x) for x in tabletext.attrib.get("bbox").split(",")],cell)[0]>0.8 and tabletext not in removed:
+        #                     cell_element.append(tabletext)
+        #                     page.remove(tabletext)
+        #                     removed.add(tabletext)
+        #             cell_element.set("bbox",str(cell[0])+","+str(cell[1])+","+str(cell[2])+","+str(cell[3]))
+        #
+        #             child.append(cell_element)
+        #         page.append(child)
+        # to_remove=set()
+        # for table in page.findall("table"):
+        #     empty=True
+        #     for cell in table:
+        #         if len(cell)>0:
+        #             empty=False
+        #     if empty:
+        #         to_remove.add(table)
+        #     else:
+        #         amount_of_cells=len(table)
+        #         table_bbox=[float(x) for x in table.attrib.get("bbox").split(",")]
+        #         width=1
+        #         total_width=0
+        #         for cell in table:
+        #             cell_bbox=[float(x) for x in cell.attrib.get("bbox").split(",")]
+        #             if cell_bbox[2]==table_bbox[2] and total_width==0:
+        #                 total_width=width
+        #             width+=1
+        #         height=ceil(amount_of_cells/total_width)
+        #         table.set("dimensions",str(total_width)+"/"+str(height))
+        #
+        # for table in to_remove:
+        #     page.remove(table)
 
         #seperate textboxes to enlisting
         normal_texts=page.findall("normal_text")
@@ -280,9 +279,9 @@ def tree2features(tree, xml_file,output_directory, EM=False):
                 enlisting_element.text = new_text
                 enlisting_element.set("unique_id",unique_ids)
                 page.append(enlisting_element)
-        #removing enlisting images
-        for item in page.findall("enlisting_image"):
-            page.remove(item)
+        # #removing enlisting images
+        # for item in page.findall("enlisting_image"):
+        #     page.remove(item)
 
         #adding captions
         pictures=page.findall("picture")
@@ -303,7 +302,7 @@ def tree2features(tree, xml_file,output_directory, EM=False):
             pic_name=pic.attrib.get("src")
             if pic_name in pic_cap.keys():
                 pic.set("caption",pic_cap[pic_name])
-                pic.set("caption_id's",str(caps_id[pic_name]))
+                pic.set("caption_ids",str(caps_id[pic_name]))
         for cap in all_captions:
             page.remove(cap)
         #combining pictures
@@ -491,25 +490,26 @@ def calc_title_score(page_size,bbox,id, max_font_size, page_id,mean_title, first
         return 0,add_to_mean
     return score/7,add_to_mean
 
-def calc_reference(inner_rectangle, bbox, text):
+def findurl(string):
+
+    # findall() has been used
+    # with valid conditions for urls in string
+    regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'\".,<>?«»“”‘’]))"
+    url = re.findall(regex,string)
+    return len(url)>0
+
+def calc_footer(inner_rectangle, bbox,text):
     """
       calculates the probability that the given bbox-text combo is a reference
     """
-    lower_text=text.lower().replace(" ","")
     score=0
+    lower_text=text.lower().strip()
+    if findurl(lower_text) or "source" in lower_text or "src" in lower_text or "reference" in lower_text or "ref" in lower_text or (
+        "[" in lower_text and "]" in lower_text) or ("{" in lower_text and "}" in lower_text):
+        score+=1
     if amount_of_overlap(bbox, inner_rectangle)[0]==0:
-        score +=1
-    if lower_text.startswith("[") and lower_text.endswith("]"):
         score +=2
-    elif lower_text.startswith("source") or lower_text.startswith("src")or lower_text.startswith("ref"):
-        score +=2
-    else:
-        validate = URLValidator()
-        try:
-            validate(text)
-            score +=2
-        except ValidationError:
-            pass
+
     return score/3
 
 def calc_enlisting(page_size,bbox, images_bbox, enlistings, text):
@@ -753,7 +753,7 @@ def categorize_textboxes(page,page_size,categorized_images, images_bbox, enlisti
     """
     categorized_textboxes={}
     biggest_font_size_textbox_id,title_size = find_biggest_font_size(page)
-    inner_rectangle = [0.1*page_size[2],0.1*page_size[3],0.9*page_size[2],0.9*page_size[3]]
+    inner_rectangle = [0,0.1*page_size[3],page_size[2],page_size[3]]
     page_id=int(page.attrib.get("id"))
     add_to_mean_result=False
     max_title_prob=0
@@ -770,7 +770,7 @@ def categorize_textboxes(page,page_size,categorized_images, images_bbox, enlisti
             size=float(size)
         scores["slide_number"]=calc_slide_number_score(page_size, box_size, textbox[0].text)
         scores["title"],add_to_mean=calc_title_score(page_size,box_size, id,biggest_font_size_textbox_id, page_id,mean_title, first_title_size, size, textbox.text,GMMS)
-        scores["ref"]=calc_reference(inner_rectangle,box_size,textbox[0].text)
+        scores["footer"]=calc_footer(inner_rectangle,box_size,textbox[0].text)
         scores["enlisting"]=calc_enlisting(page_size,box_size,images_bbox,enlistings,[x.text for x in textbox[:]])
         scores["caption"], caption_pic = calc_caption(page_size,box_size, images_bbox, categorized_images, len(textbox[:]))
         scores["tabletext"]=calc_tabletext(box_size,tables)

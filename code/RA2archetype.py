@@ -103,7 +103,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         best_new_slide=None
         best_mapping=None
         best_role_mapping=None
-
+        best_moves=None
         for res in result:
             moves=res[2]
             new_slide=apply(slide, moves)
@@ -119,6 +119,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
                     best_role_mapping=list(master_archetypes[archetype])[0][2]
                     best_new_slide=new_slide
                     best_mapping=mapping
+                    best_moves=moves
         responsivity=amount_placeholders/max(1,count_objects(slide))
         if responsivity<=0:
             best_archetype=11
@@ -137,6 +138,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         current_result["Best mapping"]=best_mapping
         current_result["Best role mapping"]=best_role_mapping
         current_result["Comparisons"]=searcher.comparisons
+        current_result["Transformations"]=best_moves
         results[counter]=current_result
 
     return list(zip(responsivities,archetypes,times,)), results
