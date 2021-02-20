@@ -138,7 +138,7 @@ def RA2archetype(powerpoint, arch_to_use, cutoff, equal_size, beam, searcher_nam
         current_result["Best mapping"]=best_mapping
         current_result["Best role mapping"]=best_role_mapping
         current_result["Comparisons"]=searcher.comparisons
-        current_result["Transformations"]=best_moves
+        current_result["Transformations"]=str(best_moves)
         results[counter]=current_result
 
     return list(zip(responsivities,archetypes,times,)), results
