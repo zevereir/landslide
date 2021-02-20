@@ -72,16 +72,16 @@ def check_rules(alignment,elements,repr, element):
         return True
 import os
 from pathlib import Path
-with open("D://Thesis//landslide//data//Annotations//alignments.json") as ali:
+with open("../data/Annotations/alignments.json") as ali:
     alignments=json.load(ali)
-with open("D://Thesis//landslide//data//Annotations//results//annotated_data//roles.json") as rp:
+with open("../data/Annotations/results/annotated_data/roles.json") as rp:
     roles=json.load(rp)
-res_path=Path("D:/Thesis/landslide/data/Annotations/results/annotated_data/results/results")
+res_path=Path("../data/Annotations/results/annotated_data/results/results")
 resulting=[]
 resulting_equal=[]
 resulting_super=[]
 confidence=[]
-best_practice=[]
+best_practice=(0,None)
 for file in os.listdir(res_path):
 
     with open(res_path/file) as fp:
@@ -167,8 +167,13 @@ for file in os.listdir(res_path):
             for z in slide["Best mapping"]:
                 if normal[z]!=slide["Best mapping"][z]:
                     diff=True
-            if score/max(1,len(mapping))==1 and slide["Responsitivity"]==1 and diff and slide_id not in [143,161]:
-                best_practice.append(slide_id)
+            transfos=None
+            if "Transformations" in slide:
+                transfos=slide["Transformations"]
+                if transfos=="set()":
+                    transfos=None
+            if score/max(1,len(mapping))==1 and slide["Responsitivity"]==1 and slide_id not in [190,76,143]  and transfos!=None and len(transfos)>best_practice[0]:
+                best_practice=(len(transfos),slide_id, transfos, arch_repr, arch)
         resulting.append((file,total_resp/409,total_score/409,total_comp/409))
         resulting_super.append((file,total_resp_super/63,total_score_super/63,total_comp_super/63))
         resulting_equal.append((file,total_resp_equal/346,total_score_equal/346,total_comp_equal/346))
@@ -223,7 +228,7 @@ for res in resulting:
                 baseline[res[3]]=[(res[1],res[2])]
         elif "masters" in res[0]:
             if res[3] in masters:
-                print("HIT",res[3])
+
                 masters[res[3]].append((res[1],res[2]))
             else:
                 masters[res[3]]=[(res[1],res[2])]
@@ -245,7 +250,7 @@ for res in resulting_super:
                 baseline_super[res[3]]=[(res[1],res[2])]
         elif "masters" in res[0]:
             if res[3] in masters_super:
-                print("HIT",res[3])
+
                 masters_super[res[3]].append((res[1],res[2]))
             else:
                 masters_super[res[3]]=[(res[1],res[2])]
@@ -267,7 +272,7 @@ for res in resulting_equal:
                 baseline_equal[res[3]]=[(res[1],res[2])]
         elif "masters" in res[0]:
             if res[3] in masters_equal:
-                print("HIT",res[3])
+
                 masters_equal[res[3]].append((res[1],res[2]))
             else:
                 masters_equal[res[3]]=[(res[1],res[2])]
