@@ -522,10 +522,8 @@ def calc_enlisting(page_size,bbox, images_bbox, enlistings, text):
     for line in text:
         if ord(line[0])>128 or line[0] in POSSIBLE_ENLISTINGS: #not in Ascii
             counter_of_lines+=1
-    if nb_lines>5:
-        score += 2*(counter_of_lines/nb_lines > 0.2)
-    else:
-        score += 2 * (counter_of_lines / nb_lines > 0.66)
+
+    score += 2*(counter_of_lines/nb_lines > 0.2)
     if score==0:
         stop_iterating=False
         for list in enlistings:

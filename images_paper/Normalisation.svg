@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="900"
-   height="450"
-   viewBox="0 0 238.12499 119.06257"
+   width="1200"
+   height="300"
+   viewBox="0 0 317.49999 79.375047"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
@@ -1967,8 +1967,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="346.17437"
-     inkscape:cy="306.17449"
+     inkscape:cx="625.19796"
+     inkscape:cy="144.55008"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2215,21 +2215,16 @@
        d="m 39.998834,45.338633 0.111222,5.395746 h 81.375314 77.8977 6.12706 l -0.26727,-5.345391"
        id="path2885"
        sodipodi:nodetypes="cccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.436909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 119.66327,46.436153 -0.0138,20.745151 -0.0233,0.943076"
-       id="path2887"
-       sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="120.60684"
-       y="61.058495"
+       x="223.23834"
+       y="63.73119"
        id="text3339"><tspan
          sodipodi:role="line"
          id="tspan3337"
-         x="120.60684"
-         y="61.058495"
+         x="223.23834"
+         y="63.73119"
          style="font-size:7.05556px;stroke-width:0.264583">Normalisation</tspan></text>
     <rect
        style="opacity:0.999;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.524999;stroke-opacity:1"
@@ -2270,60 +2265,71 @@
     <g
        id="g1333"
        transform="translate(-0.53453904,-47.039437)">
-      <rect
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999"
-         id="rect2839-5"
-         width="67.733337"
-         height="38.100002"
-         x="86.137352"
-         y="118.05927" />
       <g
-         clip-path="url(#clip0-6)"
-         id="g2581-3"
-         transform="matrix(0.05291667,0,0,0.05291667,86.137349,118.05927)">
+         id="g1338"
+         transform="translate(161.96533,-67.619191)">
         <rect
-           x="0"
-           y="0"
-           width="1280"
-           height="720"
-           fill="#ffffff"
-           id="rect2573-6" />
-        <text
-           font-family="Calibri, Calibri_MSFontService, sans-serif"
-           font-weight="300"
-           font-size="80px"
-           transform="translate(537.837,342)"
-           id="text2579-1">Lorem<tspan
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999"
+           id="rect2839-5"
+           width="67.733337"
+           height="38.100002"
+           x="86.137352"
+           y="118.05927" />
+        <g
+           id="g1327">
+          <rect
+             x="86.137352"
+             y="118.05927"
+             width="67.733337"
+             height="38.100002"
+             fill="#ffffff"
+             id="rect2573-6"
+             style="stroke-width:0.0529167" />
+          <text
+             font-family="Calibri, Calibri_MSFontService, sans-serif"
+             font-weight="300"
+             font-size="4.23333px"
+             id="text2579-1"
+             x="114.59789"
+             y="136.15677"
+             style="stroke-width:0.0529167">Lorem<tspan
    font-weight="400"
-   font-size="32px"
-   x="63.9566"
-   y="67"
-   id="tspan2575-0">lorem</tspan><tspan
+   font-size="1.69333px"
+   x="117.98226"
+   y="139.70219"
+   id="tspan2575-0"
+   style="stroke-width:0.00280017">lorem</tspan><tspan
    fill="#898989"
    font-weight="400"
-   font-size="16px"
-   x="636.263"
-   y="350"
-   id="tspan2577-4">1</tspan></text>
-        <rect
-           style="opacity:0.999;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:9.92125;stroke-opacity:1"
-           id="rect1368-3"
-           width="91.964279"
-           height="41.071426"
-           x="596.24988"
-           y="383.2142" />
-        <text
-           xml:space="preserve"
-           style="font-weight:500;font-size:200px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;stroke-width:5"
-           x="581.07129"
-           y="416.24991"
-           id="text1372-6"><tspan
-             sodipodi:role="line"
-             id="tspan1370-7"
-             x="581.07129"
-             y="416.24991"
-             style="font-size:40px;stroke-width:5">ipsum</tspan></text>
+   font-size="0.846667px"
+   x="148.26682"
+   y="154.6776"
+   id="tspan2577-4"
+   style="stroke-width:0.00280017">1</tspan></text>
+          <rect
+             style="opacity:0.999;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.525;stroke-opacity:1"
+             id="rect1368-3"
+             width="4.8664436"
+             height="2.1733632"
+             x="117.6889"
+             y="138.33769" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="116.8857"
+             y="140.08583"
+             id="text1372-6"><tspan
+               sodipodi:role="line"
+               id="tspan1370-7"
+               x="116.8857"
+               y="140.08583"
+               style="font-size:2.11667px;stroke-width:0.264583">ipsum</tspan></text>
+        </g>
       </g>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 119.2016,43.828799 v 21.922832 h 154.41241 9.99604 V 46.502312"
+       id="path1346" />
   </g>
 </svg>
