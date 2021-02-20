@@ -344,10 +344,11 @@ new_learned_super.sort()
 new_masters_super.sort()
 new_baseline_super.sort()
 
-for ix in range(0,9):
+for ix in range(0,3):
+
     i=[new_baseline,new_learned,new_masters,new_baseline_equal,new_learned_equal,new_masters_equal,new_baseline_super,new_learned_super,new_masters_super][ix]
     name=["baseline","learned","masters"][ix%3]+["_all","_equal","_super"][ix//3]
-    lcolor=["g","r","b"][ix%3]
+    lcolor=["#1b9e77","#d95f02","#7570b3"][ix%3]
     linestyle=["solid","dashed","dotted"][ix//3]
 
     x_val=[p[0] for p in i]
@@ -358,15 +359,16 @@ for ix in range(0,9):
     sens_min=[p[4] for p in i]
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
-    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":1}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
     #pl.lines[ix]=linestyle
 
 
 
 fontP = FontProperties()
-fontP.set_size('small')
-plt.legend( bbox_to_anchor=(0.8, 0.4), loc='upper left', prop=fontP)
-plt.show()
+fontP.set_size('large')
+plt.legend( bbox_to_anchor=(0.19, 0.25), loc='upper left', prop=fontP, ncol=2)
+figure = pl.get_figure()
+figure.savefig("D:/Thesis/landslide/images_paper/sensibilities_eq_sup.svg")
 
 
 
