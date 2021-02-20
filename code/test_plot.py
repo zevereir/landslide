@@ -1,49 +1,53 @@
 from tree2features import tree2features
 import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
-import seaborn as sns# for i in range(1,631):
-#     print(i)
-#     tree=ET.parse("D://Thesis//landslide//data//Main//"+str(i)+"_data//"+str(i)+"_preparsed.xml")
-#     xml_file="D://Thesis//landslide//data//Main//"+str(i)+"_data//"+str(i)+".xml"
-#     output_directory="D://Thesis//landslide//data//Main//"+str(i)+"_data"
-#     tree2features(tree, xml_file,output_directory, True)
-#
-# with open("D://Thesis//landslide//data//Annotations//results//experiments.json") as fp:
-#     experiments=json.load(fp)
-# new_dict={}
-# for experiment in experiments:
-#     splitted=experiment.split("_")
-#     print(splitted[0])
-#     slideshow=splitted[1]
-#     slide=splitted[2][:splitted[2].find(".")]
-#     print("D://Thesis//landslide//data//Main//"+slideshow+"_data//"+slideshow+"_categorized.xml")
-#     tree = ET.parse("D://Thesis//landslide//data//Main//"+slideshow+"_data//"+slideshow+"_categorized.xml")
-#     element_js={}
-#     for page in tree.getroot():
-#         if int(page.attrib.get("id"))==int(slide)+1:
-#             for ele in page:
-#                 type=ele.tag
-#                 if type!=None:
-#                     un_id=ele.attrib.get("unique_id")
-#                     if "[" in un_id:
-#                         un_ids=[int(x) for x in un_id[1:-1].replace("'","").split(",")]
-#                     else:
-#                         un_ids=[int(un_id)]
-#                     for i in un_ids:
-#                         element_js[i]=type
-#                     cap=ele.attrib.get("caption_ids")
-#                     if cap!=None:
-#                         print("CAP",cap)
-#                         if "[" in cap:
-#                             cap_ids=[int(x) for x in cap[1:-1].replace("'","").split(",")]
-#                         else:
-#                             cap_ids=int(cap)
-#                         for i in cap_ids:
-#                             element_js[i]="caption"
-#             break
-#         new_dict[experiment]=element_js
-# with open("D://Thesis//landslide//data//Annotations//results//annotated_data//types_categorized.json","w") as tpy:
-#     json.dump(new_dict,tpy)
+import latex
+from matplotlib import rc
+import seaborn as sns
+import json
+for i in range(1,631):
+    print(i)
+    tree=ET.parse("D://Thesis//landslide//data//Main//"+str(i)+"_data//"+str(i)+"_preparsed.xml")
+    xml_file="D://Thesis//landslide//data//Main//"+str(i)+"_data//"+str(i)+".xml"
+    output_directory="D://Thesis//landslide//data//Main//"+str(i)+"_data"
+    tree2features(tree, xml_file,output_directory, True)
+
+with open("D://Thesis//landslide//data//Annotations//results//experiments.json") as fp:
+    experiments=json.load(fp)
+new_dict={}
+for experiment in experiments:
+    splitted=experiment.split("_")
+    print(splitted[0])
+    slideshow=splitted[1]
+    slide=splitted[2][:splitted[2].find(".")]
+    print("D://Thesis//landslide//data//Main//"+slideshow+"_data//"+slideshow+"_categorized.xml")
+    tree = ET.parse("D://Thesis//landslide//data//Main//"+slideshow+"_data//"+slideshow+"_categorized.xml")
+    element_js={}
+    for page in tree.getroot():
+        if int(page.attrib.get("id"))==int(slide)+1:
+            for ele in page:
+                type=ele.tag
+                if type!=None:
+                    un_id=ele.attrib.get("unique_id")
+                    if "[" in un_id:
+                        un_ids=[int(x) for x in un_id[1:-1].replace("'","").split(",")]
+                    else:
+                        un_ids=[int(un_id)]
+                    for i in un_ids:
+                        element_js[i]=type
+                    cap=ele.attrib.get("caption_ids")
+                    if cap!=None:
+                        print("CAP",cap)
+                        if "[" in cap:
+                            cap_ids=[int(x) for x in cap[1:-1].replace("'","").split(",")]
+                        else:
+                            cap_ids=int(cap)
+                        for i in cap_ids:
+                            element_js[i]="caption"
+            break
+        new_dict[experiment]=element_js
+with open("D://Thesis//landslide//data//Annotations//results//annotated_data//types_categorized.json","w") as tpy:
+    json.dump(new_dict,tpy)
 
 import numpy as np
 import json
@@ -103,10 +107,8 @@ new_matrix=[[v/sum(x) for v in x] for x in matrix]
 
 fig, ax = plt.subplots(figsize=[12,9])
 
-sns.heatmap(new_matrix,cmap="Blues",annot=True,ax=ax, fmt=".2%",xticklabels=cat_labels,yticklabels=cat_labels,linewidths=.5)
-tex_fonts = {
-    "text.usetex": True,
-    "font.family": "serif"
-}
-plt.rcParams.update(tex_fonts)
+g=sns.heatmap(new_matrix,cmap="Blues",ax=ax,xticklabels=cat_labels,yticklabels=cat_labels,linewidths=.5)
+
 plt.show()
+figure = g.get_figure()
+figure.savefig("D:/Thesis/landslide/images_paper/annotations.svg")

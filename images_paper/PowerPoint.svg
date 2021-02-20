@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1800"
-   height="800"
-   viewBox="0 0 476.24999 211.66672"
+   width="1750"
+   height="750"
+   viewBox="0 0 463.02087 198.43755"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
@@ -34,13 +34,13 @@
     <rect
        x="255.5119"
        y="21.544643"
-       width="83.850473"
+       width="83.850471"
        height="23.720789"
        id="rect5757" />
     <rect
        x="33.261906"
        y="17.008928"
-       width="74.461308"
+       width="74.461311"
        height="42.333332"
        id="rect5745" />
     <marker
@@ -2239,7 +2239,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2252,7 +2252,7 @@
        transform="translate(30.238095)">
       <g
          id="g4510"
-         transform="translate(-0.6410954)">
+         transform="translate(-0.6410954,-8.0180858)">
         <g
            id="g12773"
            transform="translate(34.559116,-81.82417)">
@@ -2462,7 +2462,7 @@
       </g>
       <g
          id="g4721"
-         transform="translate(11.794177)">
+         transform="translate(11.794177,-8.0180858)">
         <g
            style="overflow:hidden"
            id="g2919"
@@ -3445,7 +3445,7 @@
       </g>
       <g
          id="g4773"
-         transform="translate(6.8730624)">
+         transform="translate(6.8730624,-8.0180858)">
         <g
            id="g3517"
            transform="matrix(0.26458333,0,0,0.26458333,98.084843,23.274935)">
@@ -3750,7 +3750,8 @@
         </g>
       </g>
       <g
-         id="g4845">
+         id="g4845"
+         transform="translate(0,-8.0180858)">
         <g
            id="g4116"
            transform="matrix(0.26458333,0,0,0.26458333,115.09375,17.605294)">
@@ -4152,35 +4153,35 @@
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-         d="m 113.39286,69.925593 26.8363,-0.377976"
+         d="m 113.39286,61.907507 26.8363,-0.377976"
          id="path4889" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.663565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4)"
-         d="m 112.72449,125.31477 27.25784,-0.27999"
+         d="m 112.72449,117.29668 27.25784,-0.27999"
          id="path4889-0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-8)"
-         d="m 112.56728,184.35068 26.8363,-0.37798"
+         d="m 112.56728,176.33259 26.8363,-0.37798"
          id="path4889-8" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.835671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2)"
-         d="m 218.13059,128.01459 34.20817,-0.35385"
+         d="m 218.13059,119.9965 34.20817,-0.35385"
          id="path4889-9" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 217.33631,66.523808 h 6.04761 l -0.37797,125.866072 h -5.29167"
+         d="m 217.33631,58.505722 h 6.04761 l -0.37797,125.866068 h -5.29167"
          id="path5413" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 326.67873,126.43881 13.87779,-0.19477 -0.37796,-60.098203 17.38691,-0.377976"
+         d="m 326.67873,118.42072 13.87779,-0.19477 -0.37796,-60.098199 17.38691,-0.377976"
          id="path5433" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.795726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
-         d="m 326.26928,126.46848 14.35835,0.20369 -0.39104,62.84652 17.98899,0.39527"
+         d="m 326.26928,118.45039 14.35835,0.20369 -0.39104,62.84652 17.98899,0.39527"
          id="path5433-2" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.835671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2-4)"
-         d="m 326.536,126.52021 34.20817,-0.35385"
+         d="m 326.536,118.50212 34.20817,-0.35385"
          id="path4889-9-0" />
       <text
          xml:space="preserve"
@@ -4188,7 +4189,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5745);"
          x="35.008087"
          y="0"
-         transform="translate(1.1658402,-9.827381)"><tspan
+         transform="translate(1.1658402,-17.845467)"><tspan
            x="41.127148"
            y="26.797251"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';text-align:center;text-anchor:middle">Slide layouts </tspan></tspan><tspan
@@ -4202,7 +4203,7 @@
          xml:space="preserve"
          id="text5755"
          style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5757);"
-         transform="translate(-5.721638,10.140507)"><tspan
+         transform="translate(-5.721638,2.1224212)"><tspan
            x="255.51172"
            y="31.332407"><tspan>Design templates</tspan></tspan></text>
     </g>
@@ -4210,20 +4211,20 @@
        xml:space="preserve"
        style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete, Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="1.3363471"
-       y="69.490082"
+       y="61.471996"
        id="text6273"><tspan
          sodipodi:role="line"
          id="tspan6271"
          x="1.3363471"
-         y="69.490082"
+         y="61.471996"
          style="stroke-width:0.264583">Placeholders</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.512687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6279)"
-       d="m 60.670181,66.550111 c 13.970636,0 13.970636,0 13.970636,0"
+       d="m 60.670181,58.532025 c 13.970636,0 13.970636,0 13.970636,0"
        id="path6275" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6279-9)"
-       d="m 60.938026,68.955539 c 1.445762,-0.01217 1.725122,3.256744 2.238198,4.131529 1.827513,3.115875 7.302166,2.642437 11.732438,2.550209"
+       d="m 60.938026,60.937453 c 1.445762,-0.01217 1.725122,3.256744 2.238198,4.131529 1.827513,3.115875 7.302166,2.642437 11.732438,2.550209"
        id="path6275-5"
        sodipodi:nodetypes="csc" />
   </g>
