@@ -97,190 +97,170 @@ for file in os.listdir(res_path):
         total_resp_super=0
         total_comp_super=0
         counter=0
+        super_counter=0
+        equal_counter=0
         for slide_id in range(1,len(results)+1):
+
             in_equal = all[slide_id-1] in equal
 
-            #print("----------------------------")
+            # print("----------------------------")
+
             slide=results[str(slide_id)]
-            slide_roles=roles[str(slide_id)]
-            total_comp+=slide["Comparisons"]
-            if in_equal:
-                total_comp_equal+=slide["Comparisons"]
-            else:
-                total_comp_super+=slide["Comparisons"]
-            arch=slide["Archetype"]
-            mapping=slide["Best mapping"]
-            role_mapping=slide["Best role mapping"]
-            #print("Responsitivity",slide["Responsitivity"])
-            total_resp+=slide["Responsitivity"]
-            if not in_equal:
-                total_resp_super+=slide["Responsitivity"]
-            else:
-                total_resp_equal+=slide["Responsitivity"]
-            #print("Arch",arch)
-            #print("Mapping",mapping)
-            #print("role_mapping",role_mapping)
-            #print("Slide roles",slide_roles)
-            if arch<9:
-                pass
-                #print("Alignments",alignments[str(arch)])
-            score=0
-            #print("Slide = ",slide["New slide"])
-            #print("Archetype = ",slide["Archetype representation"])
-            #print("MAPPINGS")
-            current_mappings=set()
-            new_slide=slide["New slide"]
-            arch_repr=slide["Archetype representation"]
-            slide_repr={x for x in new_slide[11:-2].split(", ")}
-            #print(slide_repr)
-            for element in range(0,len(slide_roles)):
-                if str(element) in mapping:
-                    if str(-mapping[str(element)]) in role_mapping:
-                        #print(slide_roles[element] +"--> "+role_mapping[str(-mapping[str(element)])].upper())
-                        rule=check_rules(role_mapping[str(-mapping[str(element)])].upper(),current_mappings,slide_repr,element)
-
-                        if slide_roles[element] in alignments[str(arch)][role_mapping[str(-mapping[str(element)])].upper()] and rule:
-                            score+=1
-                        current_mappings.add((element,role_mapping[str(-mapping[str(element)])].upper()))
-
-            if "background" in new_slide and "background" in arch_repr:
-                ind1=new_slide[new_slide.find("background")+11:new_slide.find("background")+12]
-                ind2=arch_repr[arch_repr.find("background")+11:arch_repr.find("background")+12]
-                if ind1 in mapping and mapping[ind1]==-int(ind2):
-                    score+=1
-            if len(mapping)==0:
-                total_score+=1
+            if slide["Responsitivity"]!=0:
                 if in_equal:
-                    total_score_equal+=1
+                    equal_counter+=1
                 else:
-                    total_score_super+=1
-                #print(1.0)
-            else:
-                #print(score/max(1,len(mapping)))
-                total_score+=(score/max(1,len(mapping)))
+                    super_counter+=1
+                slide_roles=roles[str(slide_id)]
+                total_comp+=slide["Comparisons"]
+                #print("Comparisons",slide["Comparisons"])
                 if in_equal:
-                    total_score_equal+=(score/max(1,len(mapping)))
+                    total_comp_equal+=slide["Comparisons"]
                 else:
-                    total_score_super+=(score/max(1,len(mapping)))
-            normal={str(x):-x for x in range(0,10)}
-            diff=False
-            for z in slide["Best mapping"]:
-                if normal[z]!=slide["Best mapping"][z]:
-                    diff=True
-            transfos=None
-            if "Transformations" in slide:
-                transfos=slide["Transformations"]
-                if transfos=="set()":
-                    transfos=None
-            if score/max(1,len(mapping))==1 and slide["Responsitivity"]==1 and slide_id not in [190,76,143]  and transfos!=None and len(transfos)>best_practice[0]:
-                best_practice=(len(transfos),slide_id, transfos, arch_repr, arch)
-        resulting.append((file,total_resp/409,total_score/409,total_comp/409))
-        resulting_super.append((file,total_resp_super/63,total_score_super/63,total_comp_super/63))
-        resulting_equal.append((file,total_resp_equal/346,total_score_equal/346,total_comp_equal/346))
-print("BEST_PRACTICE",best_practice)
+                    total_comp_super+=slide["Comparisons"]
+                arch=slide["Archetype"]
+                mapping=slide["Best mapping"]
+                role_mapping=slide["Best role mapping"]
+                #print("Responsitivity",slide["Responsitivity"])
+                total_resp+=slide["Responsitivity"]
+                if not in_equal:
+                    total_resp_super+=slide["Responsitivity"]
+                else:
+                    total_resp_equal+=slide["Responsitivity"]
+                # print("Arch",arch)
+                # print("Mapping",mapping)
+                # print("role_mapping",role_mapping)
+                # print("Slide roles",slide_roles)
+                if arch<9:
+                    pass
+                    #print("Alignments",alignments[str(arch)])
+                score=0
+                # print("Slide = ",slide["New slide"])
+                # print("Archetype = ",slide["Archetype representation"])
+                # print("MAPPINGS")
+                current_mappings=set()
+                new_slide=slide["New slide"]
+                arch_repr=slide["Archetype representation"]
+                slide_repr={x for x in new_slide[11:-2].split(", ")}
+                # print(slide_repr)
+                for element in range(0,len(slide_roles)):
+                    if str(element) in mapping:
+                        if str(-mapping[str(element)]) in role_mapping:
+                            #print(slide_roles[element] +"--> "+role_mapping[str(-mapping[str(element)])].upper())
+                            rule=check_rules(role_mapping[str(-mapping[str(element)])].upper(),current_mappings,slide_repr,element)
+
+                            if slide_roles[element] in alignments[str(arch)][role_mapping[str(-mapping[str(element)])].upper()] and rule:
+                                score+=1
+                            current_mappings.add((element,role_mapping[str(-mapping[str(element)])].upper()))
+
+                if "background" in new_slide and "background" in arch_repr:
+                    ind1=new_slide[new_slide.find("background")+11:new_slide.find("background")+12]
+                    ind2=arch_repr[arch_repr.find("background")+11:arch_repr.find("background")+12]
+                    if ind1 in mapping and mapping[ind1]==-int(ind2):
+                        score+=1
+                if len(mapping)==0:
+                    total_score+=1
+                    if in_equal:
+                        total_score_equal+=1
+                    else:
+                        total_score_super+=1
+                    #print(1.0)
+                else:
+                    #print(score/max(1,len(mapping)))
+                    total_score+=(score/max(1,len(mapping)))
+                    if in_equal:
+                        total_score_equal+=(score/max(1,len(mapping)))
+                    else:
+                        total_score_super+=(score/max(1,len(mapping)))
+                normal={str(x):-x for x in range(0,10)}
+                diff=False
+                for z in slide["Best mapping"]:
+                    if normal[z]!=slide["Best mapping"][z]:
+                        diff=True
+                transfos=None
+                if "Transformations" in slide:
+                    transfos=slide["Transformations"]
+                    if transfos=="set()":
+                        transfos=None
+                if score/max(1,len(mapping))==1 and slide["Responsitivity"]==1 and slide_id not in [190,76,143]  and transfos!=None and len(transfos)>best_practice[0]:
+                    best_practice=(len(transfos),slide_id, transfos, arch_repr, arch)
+    tot=super_counter+equal_counter
+    resulting.append((file,total_resp/tot,total_score/tot,total_comp/tot))
+    resulting_super.append((file,total_resp_super/super_counter,total_score_super/super_counter,total_comp_super/super_counter))
+    resulting_equal.append((file,total_resp_equal/equal_counter,total_score_equal/equal_counter,total_comp_equal/equal_counter))
+
 print("COUNTER",counter)
-# baseline=[]
-# learned=[]
-# masters=[]
-# for res in resulting:
 
-#     if res[0].startswith("greedy"):
-#         amount=int(res[0].replace("_False.json","")[res[0].find("_0_")+3:])
-#         print(res[0][11:res[0].find("_0_")],amount,res[3])
-#         if "learned" in res[0]:
-#             learned.append((res[3],res[1],res[2]))
-#         elif "baseline" in res[0]:
-#             baseline.append((res[3],res[1],res[2]))
-#         elif "masters" in res[0]:
-#
-#             masters.append((res[3],res[1],res[2]))
-#
-# baseline.sort()
-# masters.sort()
-# learned.sort()
-# for ix in range(0,3):
-#     i=[baseline,learned,masters][ix]
-#     name=["baseline","learned","masters"][ix]
-#     x_val=[]
-#     y_val=[]
-#     z_val=[]
-#     for x in i:
-#         x_val.append(x[0])
-#         y_val.append(x[1])
-#         z_val.append(x[2])
-#     plt.plot(x_val,y_val,linestyle="solid",label="Resp "+name)
-#     plt.plot(x_val,z_val,linestyle="dotted",label="Sens "+name)
 baseline={}
 learned={}
 masters={}
-breadth={}
+
 for res in resulting:
     if res[0].startswith("greedy"):
+        amount=int(res[0][res[0].find("_0_")+3:res[0].find("_F")])
         if "learned" in res[0]:
-            if res[3] in learned:
-                learned[res[3]].append((res[1],res[2]))
+            if amount in learned:
+                learned[amount].append((res[1],res[2],res[3]))
             else:
-                learned[res[3]]=[(res[1],res[2])]
+                learned[amount]=[(res[1],res[2],res[3])]
         elif "baseline" in res[0]:
-            if res[3] in baseline:
-                baseline[res[3]].append((res[1],res[2]))
+            if amount in baseline:
+                baseline[amount].append((res[1],res[2],res[3]))
             else:
-                baseline[res[3]]=[(res[1],res[2])]
+                baseline[amount]=[(res[1],res[2],res[3])]
         elif "masters" in res[0]:
-            if res[3] in masters:
-
-                masters[res[3]].append((res[1],res[2]))
+            if amount in masters:
+                masters[amount].append((res[1],res[2],res[3]))
             else:
-                masters[res[3]]=[(res[1],res[2])]
-    else:
-        if res[3] in breadth:
-            breadth[res[3]].append((res[1],res[2]))
-        else:
-            breadth[res[3]]=[(res[1],res[2])]
+                masters[amount]=[(res[1],res[2],res[3])]
+
 baseline_super={}
 learned_super={}
 masters_super={}
 
 for res in resulting_super:
     if res[0].startswith("greedy"):
-        if "learned" in res[0]:
-            if res[3] in learned_super:
-                learned_super[res[3]].append((res[1],res[2]))
-            else:
-                learned_super[res[3]]=[(res[1],res[2])]
-        elif "baseline" in res[0]:
-            if res[3] in baseline_super:
-                baseline_super[res[3]].append((res[1],res[2]))
-            else:
-                baseline_super[res[3]]=[(res[1],res[2])]
-        elif "masters" in res[0]:
-            if res[3] in masters_super:
+        amount=int(res[0][res[0].find("_0_")+3:res[0].find("_F")])
 
-                masters_super[res[3]].append((res[1],res[2]))
+        if "learned" in res[0]:
+            if amount in learned_super:
+                learned_super[amount].append((res[1],res[2],res[3]))
             else:
-                masters_super[res[3]]=[(res[1],res[2])]
+                learned_super[amount]=[(res[1],res[2],res[3])]
+        elif "baseline" in res[0]:
+            if amount in baseline_super:
+                baseline_super[amount].append((res[1],res[2],res[3]))
+            else:
+                baseline_super[amount]=[(res[1],res[2],res[3])]
+        elif "masters" in res[0]:
+            if amount in masters_super:
+
+                masters_super[amount].append((res[1],res[2],res[3]))
+            else:
+                masters_super[amount]=[(res[1],res[2],res[3])]
 baseline_equal={}
 learned_equal={}
 masters_equal={}
 
 for res in resulting_equal:
     if res[0].startswith("greedy"):
+        amount=int(res[0][res[0].find("_0_")+3:res[0].find("_F")])
         if "learned" in res[0]:
-            if res[3] in learned_equal:
-                learned_equal[res[3]].append((res[1],res[2]))
+            if amount in learned_equal:
+                learned_equal[amount].append((res[1],res[2],res[3]))
             else:
-                learned_equal[res[3]]=[(res[1],res[2])]
+                learned_equal[amount]=[(res[1],res[2],res[3])]
         elif "baseline" in res[0]:
-            if res[3] in baseline_equal:
-                baseline_equal[res[3]].append((res[1],res[2]))
+            if amount in baseline_equal:
+                baseline_equal[amount].append((res[1],res[2],res[3]))
             else:
-                baseline_equal[res[3]]=[(res[1],res[2])]
+                baseline_equal[amount]=[(res[1],res[2],res[3])]
         elif "masters" in res[0]:
-            if res[3] in masters_equal:
+            if amount in masters_equal:
 
-                masters_equal[res[3]].append((res[1],res[2]))
+                masters_equal[amount].append((res[1],res[2],res[3]))
             else:
-                masters_equal[res[3]]=[(res[1],res[2])]
+                masters_equal[amount]=[(res[1],res[2],res[3])]
 new_baseline=[]
 new_learned=[]
 new_masters=[]
@@ -290,22 +270,20 @@ for v in masters:
     z=masters[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_masters.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_masters.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in baseline:
     z=baseline[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_baseline.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_baseline.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in learned:
     z=learned[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_learned.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
-for v in breadth:
-    z=breadth[v]
-    resps=[x[0] for x in z]
-    sens=[x[1] for x in z]
-    new_breadth.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_learned.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 
 new_baseline_equal=[]
 new_learned_equal=[]
@@ -315,17 +293,20 @@ for v in masters_equal:
     z=masters_equal[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_masters_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_masters_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in baseline_equal:
     z=baseline_equal[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_baseline_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_baseline_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in learned_equal:
     z=learned_equal[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_learned_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_learned_equal.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 new_baseline_super=[]
 new_learned_super=[]
 new_masters_super=[]
@@ -334,17 +315,20 @@ for v in masters_super:
     z=masters_super[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_masters_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_masters_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in baseline_super:
     z=baseline_super[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_baseline_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_baseline_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 for v in learned_super:
     z=learned_super[v]
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
-    new_learned_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+    comps=[x[2] for x in z]
+    new_learned_super.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens),comps[0]))
 #
 new_learned.sort()
 new_masters.sort()
@@ -355,23 +339,31 @@ new_baseline_equal.sort()
 new_learned_super.sort()
 new_masters_super.sort()
 new_baseline_super.sort()
-new_breadth.sort()
+print(new_baseline)
+print(new_learned)
+print(new_masters)
 for ix in range(0,3):
 
     i=[new_baseline,new_learned,new_masters,new_baseline_equal,new_learned_equal,new_masters_equal,new_baseline_super,new_learned_super,new_masters_super][ix]
+    i=i[0:1]+i[5:7]+i[15:]
     name=["baseline","learned","masters"][ix%3]+["_all","_equal","_super"][ix//3]
     lcolor=["#1b9e77","#d95f02","#7570b3"][ix%3]
     linestyle=["solid","dashed","dotted"][ix//3]
 
     x_val=[p[0] for p in i]
-
+    print(x_val)
     resp_min=[p[1] for p in i]
     resp_mean=[p[2] for p in i]
     resp_max=[p[3] for p in i]
     sens_min=[p[4] for p in i]
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
-    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+    comp=[p[7] for p in i]
+    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=True, color=lcolor)
+    for wel in range(0,len(comp)):
+        wel_vl=comp[wel]
+        y_wel=resp_mean[wel]
+        plt.scatter(x=wel_vl, y=y_wel, color=lcolor, marker="x")
     #pl.lines[ix]=linestyle
 # i=new_breadth
 # x_val=[p[0] for p in i]
@@ -389,7 +381,7 @@ fontP.set_size('large')
 plt.legend(  loc='lower right', prop=fontP)
 plt.show()
 figure = pl.get_figure()
-figure.savefig("D:/Thesis/landslide/images_paper/resp_all.svg")
+# figure.savefig("D:/Thesis/landslide/images_paper/resp_all.svg")
 
 
 

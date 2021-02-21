@@ -4,7 +4,7 @@ import os
 new_dict={}
 path=Path("D://Thesis//landslide//data//Annotations//results//annotated_data//results")
 count=1
-exp="breadth_all_learned_5_1_False_"
+exp="greedy_all_masters_0_10000_False_"
 partitions=[x for x in os.listdir(path) if exp in x and "-32" in x]
 print(len(partitions))
 for ind in range(1,len(partitions)+1):
