@@ -72,11 +72,11 @@ def check_rules(alignment,elements,repr, element):
         return True
 import os
 from pathlib import Path
-with open("../data/Annotations/alignments.json") as ali:
+with open("D:/Thesis/landslide/data/Annotations/alignments.json") as ali:
     alignments=json.load(ali)
-with open("../data/Annotations/results/annotated_data/roles.json") as rp:
+with open("D:/Thesis/landslide/data/Annotations/results/annotated_data/roles.json") as rp:
     roles=json.load(rp)
-res_path=Path("../data/Annotations/results/annotated_data/results/results")
+res_path=Path("D:/Thesis/landslide/data/Annotations/results/annotated_data/results/results")
 resulting=[]
 resulting_equal=[]
 resulting_super=[]
@@ -213,7 +213,7 @@ print("COUNTER",counter)
 baseline={}
 learned={}
 masters={}
-
+breadth={}
 for res in resulting:
     if res[0].startswith("greedy"):
         if "learned" in res[0]:
@@ -232,6 +232,11 @@ for res in resulting:
                 masters[res[3]].append((res[1],res[2]))
             else:
                 masters[res[3]]=[(res[1],res[2])]
+    else:
+        if res[3] in breadth:
+            breadth[res[3]].append((res[1],res[2]))
+        else:
+            breadth[res[3]]=[(res[1],res[2])]
 baseline_super={}
 learned_super={}
 masters_super={}
@@ -279,6 +284,7 @@ for res in resulting_equal:
 new_baseline=[]
 new_learned=[]
 new_masters=[]
+new_breadth=[]
 #
 for v in masters:
     z=masters[v]
@@ -295,6 +301,12 @@ for v in learned:
     resps=[x[0] for x in z]
     sens=[x[1] for x in z]
     new_learned.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+for v in breadth:
+    z=breadth[v]
+    resps=[x[0] for x in z]
+    sens=[x[1] for x in z]
+    new_breadth.append((v,min(resps),sum(resps)/len(resps),max(resps),min(sens),sum(sens)/len(sens),max(sens)))
+
 new_baseline_equal=[]
 new_learned_equal=[]
 new_masters_equal=[]
@@ -343,11 +355,12 @@ new_baseline_equal.sort()
 new_learned_super.sort()
 new_masters_super.sort()
 new_baseline_super.sort()
+new_breadth.sort()
+for ix in range(0,3):
 
-for ix in range(0,9):
     i=[new_baseline,new_learned,new_masters,new_baseline_equal,new_learned_equal,new_masters_equal,new_baseline_super,new_learned_super,new_masters_super][ix]
     name=["baseline","learned","masters"][ix%3]+["_all","_equal","_super"][ix//3]
-    lcolor=["g","r","b"][ix%3]
+    lcolor=["#1b9e77","#d95f02","#7570b3"][ix%3]
     linestyle=["solid","dashed","dotted"][ix//3]
 
     x_val=[p[0] for p in i]
@@ -358,15 +371,25 @@ for ix in range(0,9):
     sens_min=[p[4] for p in i]
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
-    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":1}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label=name,lowess=True, scatter=False, color=lcolor)
     #pl.lines[ix]=linestyle
-
+i=new_breadth
+x_val=[p[0] for p in i]
+resp_min=[p[1] for p in i]
+resp_mean=[p[2] for p in i]
+resp_max=[p[3] for p in i]
+sens_min=[p[4] for p in i]
+sens_mean=[p[5] for p in i]
+sens_max=[p[6] for p in i]
+pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label="breadth",lowess=True, scatter=False, color="m")
 
 
 fontP = FontProperties()
-fontP.set_size('small')
-plt.legend( bbox_to_anchor=(0.8, 0.4), loc='upper left', prop=fontP)
+fontP.set_size('large')
+plt.legend( bbox_to_anchor=(0.19, 0.25), loc='upper left', prop=fontP, ncol=2)
 plt.show()
+figure = pl.get_figure()
+#figure.savefig("D:/Thesis/landslide/images_paper/sensibilities_eq_sup.svg")
 
 
 
