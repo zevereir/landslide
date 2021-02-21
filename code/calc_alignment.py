@@ -371,25 +371,25 @@ for ix in range(0,3):
     sens_min=[p[4] for p in i]
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
-    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
     #pl.lines[ix]=linestyle
-i=new_breadth
-x_val=[p[0] for p in i]
-resp_min=[p[1] for p in i]
-resp_mean=[p[2] for p in i]
-resp_max=[p[3] for p in i]
-sens_min=[p[4] for p in i]
-sens_mean=[p[5] for p in i]
-sens_max=[p[6] for p in i]
-pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label="breadth",lowess=True, scatter=False, color="m")
+# i=new_breadth
+# x_val=[p[0] for p in i]
+# resp_min=[p[1] for p in i]
+# resp_mean=[p[2] for p in i]
+# resp_max=[p[3] for p in i]
+# sens_min=[p[4] for p in i]
+# sens_mean=[p[5] for p in i]
+# sens_max=[p[6] for p in i]
+# pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label="breadth",lowess=True, scatter=False, color="m")
 
 
 fontP = FontProperties()
 fontP.set_size('large')
-plt.legend( bbox_to_anchor=(0.19, 0.25), loc='upper left', prop=fontP, ncol=2)
+plt.legend(  loc='lower right', prop=fontP)
 plt.show()
 figure = pl.get_figure()
-#figure.savefig("D:/Thesis/landslide/images_paper/sensibilities_eq_sup.svg")
+figure.savefig("D:/Thesis/landslide/images_paper/resp_all.svg")
 
 
 
