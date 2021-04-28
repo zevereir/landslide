@@ -342,7 +342,7 @@ new_baseline_super.sort()
 print(new_baseline)
 print(new_learned)
 print(new_masters)
-for ix in range(0,3):
+for ix in range(3,9):
 
     i=[new_baseline,new_learned,new_masters,new_baseline_equal,new_learned_equal,new_masters_equal,new_baseline_super,new_learned_super,new_masters_super][ix]
     i=i[0:1]+i[5:7]+i[15:]
@@ -359,11 +359,9 @@ for ix in range(0,3):
     sens_mean=[p[5] for p in i]
     sens_max=[p[6] for p in i]
     comp=[p[7] for p in i]
-    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=True, color=lcolor)
-    for wel in range(0,len(comp)):
-        wel_vl=comp[wel]
-        y_wel=resp_mean[wel]
-        plt.scatter(x=wel_vl, y=y_wel, color=lcolor, marker="x")
+    #pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":resp_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+    pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label=name,lowess=True, scatter=False, color=lcolor)
+
     #pl.lines[ix]=linestyle
 # i=new_breadth
 # x_val=[p[0] for p in i]
@@ -375,13 +373,13 @@ for ix in range(0,3):
 # sens_max=[p[6] for p in i]
 # pl=sns.regplot(x="x", y="y",line_kws={'linestyle':linestyle,"lw":2}, data=pd.DataFrame({"x":x_val,"y":sens_mean}),label="breadth",lowess=True, scatter=False, color="m")
 
-
+plt.ylim([0.65,1])
 fontP = FontProperties()
 fontP.set_size('large')
-plt.legend(  loc='lower right', prop=fontP)
+#plt.legend( loc='lower right', prop=fontP, ncol=2)
 plt.show()
 figure = pl.get_figure()
-# figure.savefig("D:/Thesis/landslide/images_paper/resp_all.svg")
+figure.savefig("D:/Thesis/landslide/images_paper/sens_super_eq2.svg")
 
 
 
